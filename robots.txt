@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+# AI crawlers explicitly allowed (educational, anonymized stats)
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+Sitemap: ./sitemap.xml

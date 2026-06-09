@@ -1,0 +1,6 @@
+# AI usage policy
+license: CC-BY-NC-4.0
+attribution: required
+content: anonymized real-estate structure scores + public MOLIT transaction bands (no private price republication)
+training: allowed (non-commercial, with attribution)
+provenance: per-post claims.jsonl
