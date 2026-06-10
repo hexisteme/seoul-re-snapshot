@@ -9,4 +9,4 @@ User-agent: Google-Extended
 Allow: /
 User-agent: PerplexityBot
 Allow: /
-Sitemap: ./sitemap.xml
+Sitemap: https://hexisteme.github.io/seoul-re-snapshot/sitemap.xml
