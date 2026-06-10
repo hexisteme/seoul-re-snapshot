@@ -3,12 +3,12 @@
 > 자체 결정론 10축 구조점수 + 국토부 공공 실거래 band. 익명·통계·방법론. 투자자문 아님. CC-BY-NC.
 
 ## Posts
-- [2026-06-10 양천 스냅샷](/posts/2026-06-10-양천.html): 양천 2단지 자체 구조점수·실거래 band. 익명·통계·CC-BY-NC. provenance 동봉(claims.jsonl).
-- [2026-06-10 강서 스냅샷](/posts/2026-06-10-강서.html): 강서 7단지 자체 구조점수·실거래 band. 익명·통계·CC-BY-NC. provenance 동봉(claims.jsonl).
-- [2026-06-10 구로 스냅샷](/posts/2026-06-10-구로.html): 구로 26단지 자체 구조점수·실거래 band. 익명·통계·CC-BY-NC. provenance 동봉(claims.jsonl).
-- [2026-06-10 동대문 스냅샷](/posts/2026-06-10-동대문.html): 동대문 26단지 자체 구조점수·실거래 band. 익명·통계·CC-BY-NC. provenance 동봉(claims.jsonl).
-- [2026-06-10 마포 스냅샷](/posts/2026-06-10-마포.html): 마포 7단지 자체 구조점수·실거래 band. 익명·통계·CC-BY-NC. provenance 동봉(claims.jsonl).
-- [2026-06-10 성북 스냅샷](/posts/2026-06-10-성북.html): 성북 25단지 자체 구조점수·실거래 band. 익명·통계·CC-BY-NC. provenance 동봉(claims.jsonl).
-- [2026-06-10 영등포 스냅샷](/posts/2026-06-10-영등포.html): 영등포 12단지 자체 구조점수·실거래 band. 익명·통계·CC-BY-NC. provenance 동봉(claims.jsonl).
-- [2026-06-10 종로 스냅샷](/posts/2026-06-10-종로.html): 종로 6단지 자체 구조점수·실거래 band. 익명·통계·CC-BY-NC. provenance 동봉(claims.jsonl).
-- [2026-06-10 동작 스냅샷](/posts/2026-06-10-동작.html): 동작 5단지 자체 구조점수·실거래 band. 익명·통계·CC-BY-NC. provenance 동봉(claims.jsonl).
+- [2026-06-11 양천 스냅샷](/posts/2026-06-11-양천.html): 양천 2단지 자체 구조점수·실거래 band. 익명·통계·CC-BY-NC. provenance 동봉(claims.jsonl).
+- [2026-06-11 강서 스냅샷](/posts/2026-06-11-강서.html): 강서 7단지 자체 구조점수·실거래 band. 익명·통계·CC-BY-NC. provenance 동봉(claims.jsonl).
+- [2026-06-11 구로 스냅샷](/posts/2026-06-11-구로.html): 구로 26단지 자체 구조점수·실거래 band. 익명·통계·CC-BY-NC. provenance 동봉(claims.jsonl).
+- [2026-06-11 동대문 스냅샷](/posts/2026-06-11-동대문.html): 동대문 26단지 자체 구조점수·실거래 band. 익명·통계·CC-BY-NC. provenance 동봉(claims.jsonl).
+- [2026-06-11 마포 스냅샷](/posts/2026-06-11-마포.html): 마포 7단지 자체 구조점수·실거래 band. 익명·통계·CC-BY-NC. provenance 동봉(claims.jsonl).
+- [2026-06-11 성북 스냅샷](/posts/2026-06-11-성북.html): 성북 25단지 자체 구조점수·실거래 band. 익명·통계·CC-BY-NC. provenance 동봉(claims.jsonl).
+- [2026-06-11 영등포 스냅샷](/posts/2026-06-11-영등포.html): 영등포 12단지 자체 구조점수·실거래 band. 익명·통계·CC-BY-NC. provenance 동봉(claims.jsonl).
+- [2026-06-11 종로 스냅샷](/posts/2026-06-11-종로.html): 종로 6단지 자체 구조점수·실거래 band. 익명·통계·CC-BY-NC. provenance 동봉(claims.jsonl).
+- [2026-06-11 동작 스냅샷](/posts/2026-06-11-동작.html): 동작 5단지 자체 구조점수·실거래 band. 익명·통계·CC-BY-NC. provenance 동봉(claims.jsonl).
