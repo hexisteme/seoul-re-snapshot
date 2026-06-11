@@ -11,4 +11,4 @@
 - [2026-06-11 성북 스냅샷](/posts/2026-06-11-성북.html): 성북 25단지 자체 구조점수·실거래 band. 익명·통계·CC-BY-NC. provenance 동봉(claims.jsonl).
 - [2026-06-11 영등포 스냅샷](/posts/2026-06-11-영등포.html): 영등포 12단지 자체 구조점수·실거래 band. 익명·통계·CC-BY-NC. provenance 동봉(claims.jsonl).
 - [2026-06-11 종로 스냅샷](/posts/2026-06-11-종로.html): 종로 6단지 자체 구조점수·실거래 band. 익명·통계·CC-BY-NC. provenance 동봉(claims.jsonl).
-- [2026-06-11 동작 스냅샷](/posts/2026-06-11-동작.html): 동작 5단지 자체 구조점수·실거래 band. 익명·통계·CC-BY-NC. provenance 동봉(claims.jsonl).
+- [2026-06-11 동작 스냅샷](/posts/2026-06-11-동작.html): 동작 4단지 자체 구조점수·실거래 band. 익명·통계·CC-BY-NC. provenance 동봉(claims.jsonl).
