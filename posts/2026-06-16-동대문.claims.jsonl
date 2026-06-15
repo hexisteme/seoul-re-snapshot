@@ -1,0 +1,52 @@
+{"id": "동대문-CR01", "claim": "structure_score", "value": 3.42, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-16", "unit_m2": 58}
+{"id": "동대문-CR01", "claim": "recent_transaction_band", "value": "8억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-16", "n": 67, "note": "coarse band; original private prices not republished (DB-right)"}
+{"id": "동대문-CR02", "claim": "structure_score", "value": 3.37, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-16", "unit_m2": 81}
+{"id": "동대문-CR02", "claim": "recent_transaction_band", "value": "10억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-16", "n": 49, "note": "coarse band; original private prices not republished (DB-right)"}
+{"id": "동대문-CR03", "claim": "structure_score", "value": 3.33, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-16", "unit_m2": 114}
+{"id": "동대문-CR03", "claim": "recent_transaction_band", "value": "10억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-16", "n": 26, "note": "coarse band; original private prices not republished (DB-right)"}
+{"id": "동대문-CR04", "claim": "structure_score", "value": 3.28, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-16", "unit_m2": 59}
+{"id": "동대문-CR04", "claim": "recent_transaction_band", "value": "9억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-16", "n": 23, "note": "coarse band; original private prices not republished (DB-right)"}
+{"id": "동대문-CR05", "claim": "structure_score", "value": 3.27, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-16", "unit_m2": 84}
+{"id": "동대문-CR05", "claim": "recent_transaction_band", "value": "8억대 중반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-16", "n": 35, "note": "coarse band; original private prices not republished (DB-right)"}
+{"id": "동대문-CR06", "claim": "structure_score", "value": 3.23, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-16", "unit_m2": 114}
+{"id": "동대문-CR06", "claim": "recent_transaction_band", "value": "9억대 중반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-16", "n": 14, "note": "coarse band; original private prices not republished (DB-right)"}
+{"id": "동대문-CR07", "claim": "structure_score", "value": 3.21, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-16", "unit_m2": 59}
+{"id": "동대문-CR07", "claim": "recent_transaction_band", "value": "9억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-16", "n": 37, "note": "coarse band; original private prices not republished (DB-right)"}
+{"id": "동대문-CR08", "claim": "structure_score", "value": 3.19, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-16", "unit_m2": 126}
+{"id": "동대문-CR08", "claim": "recent_transaction_band", "value": "8억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-16", "n": 12, "note": "coarse band; original private prices not republished (DB-right)"}
+{"id": "동대문-CR09", "claim": "structure_score", "value": 3.16, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-16", "unit_m2": 59}
+{"id": "동대문-CR09", "claim": "recent_transaction_band", "value": "9억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-16", "n": 35, "note": "coarse band; original private prices not republished (DB-right)"}
+{"id": "동대문-CR10", "claim": "structure_score", "value": 3.06, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-16", "unit_m2": 59}
+{"id": "동대문-CR10", "claim": "recent_transaction_band", "value": "8억대 중반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-16", "n": 87, "note": "coarse band; original private prices not republished (DB-right)"}
+{"id": "동대문-CR11", "claim": "structure_score", "value": 3.02, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-16", "unit_m2": 84}
+{"id": "동대문-CR11", "claim": "recent_transaction_band", "value": "8억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-16", "n": 15, "note": "coarse band; original private prices not republished (DB-right)"}
+{"id": "동대문-CR12", "claim": "structure_score", "value": 2.99, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-16", "unit_m2": 59}
+{"id": "동대문-CR12", "claim": "recent_transaction_band", "value": "8억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-16", "n": 92, "note": "coarse band; original private prices not republished (DB-right)"}
+{"id": "동대문-CR13", "claim": "structure_score", "value": 2.98, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-16", "unit_m2": 59}
+{"id": "동대문-CR13", "claim": "recent_transaction_band", "value": "8억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-16", "n": 5, "note": "coarse band; original private prices not republished (DB-right)"}
+{"id": "동대문-CR14", "claim": "structure_score", "value": 2.91, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-16", "unit_m2": 59}
+{"id": "동대문-CR14", "claim": "recent_transaction_band", "value": "9억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-16", "n": 37, "note": "coarse band; original private prices not republished (DB-right)"}
+{"id": "동대문-CR15", "claim": "structure_score", "value": 2.89, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-16", "unit_m2": 59}
+{"id": "동대문-CR15", "claim": "recent_transaction_band", "value": "7억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-16", "n": 59, "note": "coarse band; original private prices not republished (DB-right)"}
+{"id": "동대문-CR16", "claim": "structure_score", "value": 2.85, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-16", "unit_m2": 112}
+{"id": "동대문-CR16", "claim": "recent_transaction_band", "value": "8억대 초반", "grade": "inference", "source": "sample", "asof": "2026-06-16", "n": 0, "note": "coarse band; original private prices not republished (DB-right)"}
+{"id": "동대문-CR17", "claim": "structure_score", "value": 2.83, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-16", "unit_m2": 54}
+{"id": "동대문-CR17", "claim": "recent_transaction_band", "value": "5억대 후반", "grade": "inference", "source": "sample", "asof": "2026-06-16", "n": 0, "note": "coarse band; original private prices not republished (DB-right)"}
+{"id": "동대문-CR18", "claim": "structure_score", "value": 2.83, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-16", "unit_m2": 59}
+{"id": "동대문-CR18", "claim": "recent_transaction_band", "value": "7억대 중반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-16", "n": 6, "note": "coarse band; original private prices not republished (DB-right)"}
+{"id": "동대문-CR19", "claim": "structure_score", "value": 2.81, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-16", "unit_m2": 84}
+{"id": "동대문-CR19", "claim": "recent_transaction_band", "value": "9억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-16", "n": 4, "note": "coarse band; original private prices not republished (DB-right)"}
+{"id": "동대문-CR20", "claim": "structure_score", "value": 2.78, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-16", "unit_m2": 59}
+{"id": "동대문-CR20", "claim": "recent_transaction_band", "value": "7억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-16", "n": 28, "note": "coarse band; original private prices not republished (DB-right)"}
+{"id": "동대문-CR21", "claim": "structure_score", "value": 2.76, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-16", "unit_m2": 84}
+{"id": "동대문-CR21", "claim": "recent_transaction_band", "value": "9억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-16", "n": 8, "note": "coarse band; original private prices not republished (DB-right)"}
+{"id": "동대문-CR22", "claim": "structure_score", "value": 2.73, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-16", "unit_m2": 80}
+{"id": "동대문-CR22", "claim": "recent_transaction_band", "value": "6억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-16", "n": 7, "note": "coarse band; original private prices not republished (DB-right)"}
+{"id": "동대문-CR23", "claim": "structure_score", "value": 2.71, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-16", "unit_m2": 99}
+{"id": "동대문-CR23", "claim": "recent_transaction_band", "value": "7억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-16", "n": 5, "note": "coarse band; original private prices not republished (DB-right)"}
+{"id": "동대문-CR24", "claim": "structure_score", "value": 2.69, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-16", "unit_m2": 37}
+{"id": "동대문-CR24", "claim": "recent_transaction_band", "value": "4억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-16", "n": 5, "note": "coarse band; original private prices not republished (DB-right)"}
+{"id": "동대문-CR25", "claim": "structure_score", "value": 2.52, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-16", "unit_m2": 42}
+{"id": "동대문-CR25", "claim": "recent_transaction_band", "value": "5억대 초반", "grade": "inference", "source": "sample", "asof": "2026-06-16", "n": 0, "note": "coarse band; original private prices not republished (DB-right)"}
+{"id": "동대문-CR26", "claim": "structure_score", "value": 2.51, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-16", "unit_m2": 26}
+{"id": "동대문-CR26", "claim": "recent_transaction_band", "value": "2억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-16", "n": 5, "note": "coarse band; original private prices not republished (DB-right)"}

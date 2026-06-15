@@ -1,0 +1,14 @@
+{"id": "마포-GD01", "claim": "structure_score", "value": 3.04, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-16", "unit_m2": 110}
+{"id": "마포-GD01", "claim": "recent_transaction_band", "value": "15억대 초반", "grade": "inference", "source": "sample", "asof": "2026-06-16", "n": 0, "note": "coarse band; original private prices not republished (DB-right)"}
+{"id": "마포-GD02", "claim": "structure_score", "value": 2.7, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-16", "unit_m2": 36}
+{"id": "마포-GD02", "claim": "recent_transaction_band", "value": "5억대 중반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-16", "n": 26, "note": "coarse band; original private prices not republished (DB-right)"}
+{"id": "마포-GD03", "claim": "structure_score", "value": 2.58, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-16", "unit_m2": 34}
+{"id": "마포-GD03", "claim": "recent_transaction_band", "value": "2억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-16", "n": 12, "note": "coarse band; original private prices not republished (DB-right)"}
+{"id": "마포-GD04", "claim": "structure_score", "value": 2.52, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-16", "unit_m2": 37}
+{"id": "마포-GD04", "claim": "recent_transaction_band", "value": "2억대 중반", "grade": "inference", "source": "sample", "asof": "2026-06-16", "n": 0, "note": "coarse band; original private prices not republished (DB-right)"}
+{"id": "마포-GD05", "claim": "structure_score", "value": 2.52, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-16", "unit_m2": 34}
+{"id": "마포-GD05", "claim": "recent_transaction_band", "value": "3억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-16", "n": 14, "note": "coarse band; original private prices not republished (DB-right)"}
+{"id": "마포-GD06", "claim": "structure_score", "value": 2.52, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-16", "unit_m2": 34}
+{"id": "마포-GD06", "claim": "recent_transaction_band", "value": "3억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-16", "n": 5, "note": "coarse band; original private prices not republished (DB-right)"}
+{"id": "마포-GD07", "claim": "structure_score", "value": 2.49, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-16", "unit_m2": 27}
+{"id": "마포-GD07", "claim": "recent_transaction_band", "value": "6억대 중반", "grade": "inference", "source": "sample", "asof": "2026-06-16", "n": 0, "note": "coarse band; original private prices not republished (DB-right)"}
