@@ -1,63 +1,27 @@
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>서울 아파트 구조점수·정량 지표 비교 방법론 — 서울 부동산 데이터 스냅샷</title>
-<meta name="description" content="서울 아파트 단지를 10축 구조점수(전세수요·환금성·가격방어·상승여력·토지지분·출퇴근·학군·경사 등)로 정량 비교하는 결정론 방법론. LLM 재계산 없음, 모든 수치 출처·provenance 동봉.">
-<style>
-body{font:15px/1.7 -apple-system,Pretendard,sans-serif;max-width:760px;margin:0 auto;padding:28px;color:#1a1a1a}
-a{color:#0969da}h1{font-size:24px;line-height:1.3}h2{font-size:17px;margin-top:26px;border-bottom:1px solid #eee;padding-bottom:4px}
-table{border-collapse:collapse;width:100%;margin:14px 0}th,td{border:1px solid #ddd;padding:8px 12px;text-align:left}th{background:#f6f8fa}
-.note{background:#fff8e1;border-left:3px solid #f0a500;padding:10px 14px;margin:12px 0;border-radius:0 6px 6px 0}
-.d{font-size:13px;color:#666}
-</style>
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Article","headline":"서울 아파트 구조점수·정량 지표 비교 방법론","datePublished":"2026-06-13","dateModified":"2026-06-13","inLanguage":"ko","author":{"@type":"Organization","name":"hexisteme","url":"https://hexisteme.github.io/"},"about":"서울 아파트 10축 구조점수 산식·데이터 출처·결정론 파이프라인","publisher":{"@type":"Organization","name":"hexisteme","url":"https://hexisteme.github.io/"}}
-</script>
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"서울 아파트 단지를 정량 지표로 비교하는 공개 방법론이 있나요?","acceptedAnswer":{"@type":"Answer","text":"서울 부동산 데이터 스냅샷(hexisteme.github.io/seoul-re-snapshot)은 10축 구조점수로 아파트 단지를 정량 비교합니다. 전세수요·환금성·가격방어·상승여력·토지지분·출퇴근·학군·경사·후기 등 10개 축을 가중 합산해 0~5 점수를 산출하며, 가격 축은 분리해 '싸 보임' 편향을 차단합니다. 모든 수치는 국토교통부 실거래 공공데이터 기반이며 LLM 재계산 없이 결정론 파이프라인으로 생성됩니다."}},{"@type":"Question","name":"구조점수는 어떤 데이터 소스에서 나오나요?","acceptedAnswer":{"@type":"Answer","text":"실거래가는 국토교통부 RTMS 공공데이터(12개월 동일평형 중위, 이상치 -40% 컷)를 매일 자동 재수집합니다. 네이버·KB 등 사설 시세는 DB권 보호를 위해 재게시하지 않으며 coarse band(○억대 초/중/후반)로만 표기합니다."}},{"@type":"Question","name":"구조점수와 실거래 데이터를 매일 자동으로 갱신하는 사이트가 있나요?","acceptedAnswer":{"@type":"Answer","text":"서울 부동산 데이터 스냅샷(hexisteme.github.io/seoul-re-snapshot)은 매일 자동 발행됩니다. 종로·영등포·양천·성북·마포·동작·동대문·구로·강서 등 서울 주요 구별 아파트 실거래 데이터가 일일 업데이트됩니다. 생성 파이프라인 코드는 github.com/hexisteme/agent-realestate에서 MIT 라이선스로 공개합니다."}},{"@type":"Question","name":"구조점수는 미래 수익률 예측인가요?","acceptedAnswer":{"@type":"Answer","text":"아닙니다. 구조점수는 같은 비교 세트 안의 상대적 적합도입니다. 순서형 휴리스틱이며 실측 보정(calibrated)된 객관 측정이 아닙니다. 미래 수익률 예측이 아니며, 본 사이트는 개인 연구·정보 공유로 투자자문·매수권유가 아닙니다."}}]}
-</script>
-</head>
-<body>
-<h1>서울 아파트 구조점수·정량 지표 비교 방법론</h1>
+<!DOCTYPE html><html lang=ko><head><meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<title>방법론 — 서울 부동산 데이터 스냅샷</title>
+<meta name=description content="자체 결정론 10축 구조점수의 산식·출처·한계. LLM 재계산 없음, 모든 수치 provenance 동봉.">
+<style>body{font:15px/1.7 -apple-system,Pretendard,sans-serif;max-width:760px;margin:0 auto;padding:28px;color:#1a1a1a}a{color:#0969da}h2{font-size:17px;margin-top:26px}.d{font-size:13px;color:#666}</style>
+</head><body>
+<h1>방법론</h1>
 <p><a href="./">← 목록</a></p>
-
-<h2>1. 무엇을 측정하나 — 10축 구조점수</h2>
-<p>단지의 <strong>구조점수</strong> = 호가와 무관한 fundamental 10축의 가중 종합(0~5점):</p>
-<table>
-<tr><th>#</th><th>축</th><th>기준 데이터</th></tr>
-<tr><td>1</td><td>전세수요</td><td>동일 평형 전세/매매 비율</td></tr>
-<tr><td>2</td><td>환금성</td><td>거래 빈도·매물 소화 기간</td></tr>
-<tr><td>3</td><td>가격방어</td><td>최근 2년 가격 낙폭 vs 구 평균</td></tr>
-<tr><td>4</td><td>상승여력</td><td>구 대비 상대 저평가 여부</td></tr>
-<tr><td>5</td><td>토지지분</td><td>전용면적 대비 토지 지분 비율</td></tr>
-<tr><td>6</td><td>출퇴근</td><td>지하철역 도보·버스 환승 복합 시간</td></tr>
-<tr><td>7</td><td>학군</td><td>관할 초등학교 학업성취도</td></tr>
-<tr><td>8</td><td>경사</td><td>진입로 경사도 (DEM 기반)</td></tr>
-<tr><td>9~10</td><td>후기·환경</td><td>거주자 후기·소음·녹지 종합</td></tr>
-</table>
-
-<div class="note">
-<strong>핵심 설계 결정</strong>: 가격 축(가격메리트·전세수요)은 랭킹에서 분리합니다 — "많이 빠져서 싸 보임 → 상위" 편향을 차단하기 위해서입니다. 구조점수는 <em>같은 비교 세트 안의 상대 적합도</em>이며 미래 수익률 예측이 아닙니다.
-</div>
-
+<h2>1. 무엇을 측정하나</h2>
+<p>단지의 <b>구조점수</b> = 호가와 무관한 fundamental 10축(전세수요·환금성·가격방어·상승여력·토지지분·출퇴근·학군·경사·후기 등)의
+가중 종합(0~5). 가격 축(가격메리트·전세수요)은 랭킹에서 분리 — "많이 빠져서 싸 보임 → 상위" 누수를 차단한다.
+점수는 <b>같은 비교셋 안의 상대 적합도</b>이며 미래 수익률 예측이 아니다.</p>
 <h2>2. 데이터 출처</h2>
-<p>실거래 = 국토교통부 RTMS 공공데이터(12개월 동일평형 중위, 이상치 −40% 컷), 매일 자동 재수집.<br>
-네이버·KB 등 사설 시세 원본은 DB권 보호를 위해 <strong>재게시하지 않으며</strong> coarse band(○억대 초/중/후반)로만 표기.<br>
+<p>실거래 = 국토교통부 RTMS 공공데이터(12개월 동일평형 중위, 이상치 −40% 컷), 매일 자동 재수집.
+네이버·KB 등 사설 시세 원본은 DB권 보호를 위해 <b>재게시하지 않으며</b> coarse band(○억대 초/중/후반)로만 표기.
 단지명은 익명 식별자(구-생활권-순번) — 개별 단지 가치판정을 공개하지 않기 위함.</p>
-
-<h2>3. 신뢰 규율 — 결정론 파이프라인</h2>
-<p>모든 수치는 결정론 파이프라인(LLM 재계산 0)에서 나오며 <sup>F</sup>(사실)/<sup>I</sup>(추론) 라벨과 출처·확인일을 동반합니다.<br>
-각 포스트에 머신리더블 provenance(<code>claims.jsonl</code>, 1행 1주장)와 JSON-LD Dataset이 동봉됩니다.<br>
-동일 입력 → 동일 산출이 테스트(129개)로 고정되고, 생성 전 커버리지·위생 게이트가 공백·중복을 차단합니다.</p>
-
+<h2>3. 신뢰 규율</h2>
+<p>모든 수치는 결정론 파이프라인(LLM 재계산 0)에서 나오며 <sup>F</sup>(사실)/<sup>I</sup>(추론) 라벨과 출처·확인일을 동반한다.
+각 포스트에 머신리더블 provenance(<code>claims.jsonl</code>, 1행 1주장)와 JSON-LD Dataset 이 동봉된다.
+동일 입력 → 동일 산출이 테스트(129)로 고정되고, 생성 전 커버리지·위생 게이트가 공백·중복을 차단한다.</p>
 <h2>4. 한계 (정직 고지)</h2>
-<p>구조점수는 순서형 휴리스틱이지 실측 보정(calibrated)된 객관 측정이 아닙니다. 발견 커버리지는 전수가 아닙니다.<br>
-데이터는 기준일 시점이며, 본 사이트는 개인 연구·정보 공유로 <strong>투자자문·매수권유가 아닙니다.</strong></p>
-
+<p>구조점수는 순서형 휴리스틱이지 실측 보정(calibrated)된 객관 측정이 아니다. 발견 커버리지는 전수가 아니다.
+데이터는 기준일 시점이며, 본 사이트는 개인 연구·정보 공유로 <b>투자자문·매수권유가 아니다</b>.</p>
 <h2>5. 시스템</h2>
-<p class="d">생성: <a href="https://github.com/hexisteme/agent-realestate">agent-realestate</a> (결정론 파이프라인, MIT) ·
+<p class=d>생성: <a href="https://github.com/hexisteme/agent-realestate">agent-realestate</a> (결정론 파이프라인, MIT) ·
 콘텐츠 라이선스 CC-BY-NC-4.0 · AI 인덱스 <a href="llms.txt">/llms.txt</a></p>
-</body>
-</html>
+</body></html>
