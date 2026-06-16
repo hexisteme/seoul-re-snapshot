@@ -1,0 +1,129 @@
+<!DOCTYPE html><html lang=ko><head><meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<title>서울 부동산 탐색기 — 내 기준으로 필터</title>
+<meta name=description content="서울 자치구 단지를 예산·평형·연식·유형으로 필터하고 내 우선순위로 세그먼트 적합도 정렬. 공공 실거래가 + 자체 구조점수(집계). 투자자문 아님.">
+<style>
+:root{--bd:#e3e6ea;--mut:#667;--ac:#0969da;--bg:#f6f8fa}
+*{box-sizing:border-box}body{font:15px/1.6 -apple-system,Pretendard,Segoe UI,sans-serif;margin:0;color:#1a1a1a}
+header{padding:14px 18px;border-bottom:1px solid var(--bd);position:sticky;top:0;background:#fff;z-index:5}
+h1{font-size:18px;margin:0 0 4px}.disc{font-size:12px;color:var(--mut)}
+.wrap{display:grid;grid-template-columns:300px 1fr;gap:0;min-height:calc(100vh - 64px)}
+.panel{padding:16px 18px;border-right:1px solid var(--bd);background:var(--bg)}
+.panel h3{font-size:13px;text-transform:uppercase;letter-spacing:.04em;color:var(--mut);margin:18px 0 8px}
+.panel h3:first-child{margin-top:0}
+.chip{display:inline-block;padding:4px 10px;margin:3px 4px 3px 0;border:1px solid var(--bd);border-radius:14px;background:#fff;cursor:pointer;font-size:13px}
+.chip.on{background:var(--ac);color:#fff;border-color:var(--ac)}
+.results{padding:16px 20px}
+.row{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px;margin-bottom:10px}
+.seg{border:1px solid var(--bd);border-radius:10px;margin:12px 0;overflow:hidden}
+.seg>summary{padding:12px 14px;cursor:pointer;list-style:none;display:flex;justify-content:space-between;align-items:center;gap:10px}
+.seg>summary::-webkit-details-marker{display:none}
+.seg-t{font-weight:600}.seg-m{font-size:13px;color:var(--mut)}
+.bar{height:8px;border-radius:4px;background:linear-gradient(90deg,#d7e9ff,#0969da);display:inline-block;vertical-align:middle}
+table{width:100%;border-collapse:collapse;font-size:13px}td,th{padding:7px 10px;border-top:1px solid var(--bd);text-align:left}
+th{background:#fafbfc;color:var(--mut);font-weight:600}
+.tag{display:inline-block;font-size:11px;padding:1px 7px;border-radius:10px;background:#eef2f6;color:#445;margin-right:3px}
+.sup{font-size:11px;color:var(--ac)}.muted{color:var(--mut)}
+.foot{font-size:12px;color:var(--mut);border-top:1px solid var(--bd);padding:14px 20px;margin-top:20px}
+.slider{display:flex;align-items:center;gap:8px;margin:6px 0;font-size:13px}.slider input{flex:1}
+.preset{font-size:12px;margin:2px 6px 6px 0}
+@media(max-width:760px){.wrap{grid-template-columns:1fr}.panel{border-right:0;border-bottom:1px solid var(--bd)}}
+</style></head><body>
+<header>
+  <h1>서울 부동산 탐색기 <span class="muted" style="font-size:13px">— 내 기준으로 필터</span></h1>
+  <div class=disc id=disc>불러오는 중…</div>
+</header>
+<div class=wrap>
+  <aside class=panel id=filters></aside>
+  <main class=results>
+    <div class=row>
+      <div><b id=count></b> <span class=muted id=countsub></span></div>
+      <div class=muted style="font-size:13px">정렬: 내 우선순위 적합도(세그먼트) · 단지내 정렬: 공공 실거래가</div>
+    </div>
+    <div id=out></div>
+    <div class=foot id=foot></div>
+  </main>
+</div>
+<script>
+const S={gu:new Set(),area:new Set(),decade:new Set(),ptype:new Set(),w:{},sort:"fit"};
+let DB=null;
+const AXLABEL={jeonse_demand:"전세수요",liquidity:"환금성",price_defense:"가격방어",upside:"상승여력",land_share:"토지지분",commute:"출퇴근",school:"학군",slope:"경사",review:"후기",price_merit:"가격메리트"};
+const PRESETS={
+  "균형":{},
+  "실거주중심":{commute:5,school:5,slope:4,price_defense:4,review:3},
+  "환금성중심":{liquidity:5,price_defense:4,commute:3},
+  "학군중심":{school:5,commute:3,price_defense:3},
+  "상승여력중심":{upside:5,land_share:4,liquidity:3},
+};
+const uniq=(a)=>[...new Set(a)];
+function esc(s){return (s==null?"":String(s)).replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));}
+
+fetch("./dataset.json").then(r=>r.json()).then(d=>{DB=d;init();render();});
+
+function init(){
+  document.getElementById("disc").innerHTML="⚖ "+esc(DB.disclaimer)+" · 데이터 "+DB.data_asof+" · 라이선스 "+DB.license;
+  // 재랭킹 가중 = fundamental 축만(가격축 제외 — 누수 차단)
+  DB.fundamental_axes_en.forEach(a=>S.w[a]=3);
+  const F=document.getElementById("filters");
+  const cx=DB.complexes;
+  const mk=(title,key,vals)=>`<h3>${title}</h3>`+vals.map(v=>`<span class=chip data-k="${key}" data-v="${esc(v)}">${esc(v)}</span>`).join("");
+  F.innerHTML=
+     mk("자치구","gu",uniq(cx.map(x=>x.gu)).sort())
+    +mk("평형","area",["~59㎡","60-84㎡","85-114㎡","115㎡+"].filter(b=>cx.some(x=>x.area_band===b)))
+    +mk("연식","decade",uniq(cx.map(x=>x.decade)).sort())
+    +mk("유형","ptype",uniq(cx.map(x=>x.product_type)).sort())
+    +`<h3>내 우선순위</h3><div>`+Object.keys(PRESETS).map(p=>`<button class=preset data-p="${p}">${p}</button>`).join("")+`</div>`
+    +`<div id=sliders></div>`;
+  renderSliders();
+  F.querySelectorAll(".chip").forEach(c=>c.onclick=()=>{const k=c.dataset.k,v=c.dataset.v;S[k].has(v)?S[k].delete(v):S[k].add(v);c.classList.toggle("on");render();});
+  F.querySelectorAll(".preset").forEach(b=>b.onclick=()=>{const p=PRESETS[b.dataset.p];DB.fundamental_axes_en.forEach(a=>S.w[a]=p[a]!=null?p[a]:1);renderSliders();render();});
+  document.getElementById("foot").innerHTML=
+    "<b>방법론·출처</b><br>"+DB.sources.map(s=>`• ${esc(s.name)}${s.url?` — <a href="${esc(s.url)}">${esc(s.url)}</a>`:""}${s.note?` <span class=muted>(${esc(s.note)})</span>`:""}`).join("<br>")
+    +`<br>• 점수는 세그먼트(구×평형×유형, n≥${DB.kmin}) 집계 분포로만 표시 — 개별 단지에 종합점수·순위를 부여하지 않습니다.`
+    +`<br>• 사설 시세(호가)는 게재하지 않으며, 가격은 국토부 공공 실거래가만 표시(매칭 없으면 미표시).`
+    +`<br>• ${esc(DB.takedown)}`;
+}
+function renderSliders(){
+  document.getElementById("sliders").innerHTML=DB.fundamental_axes_en.map(a=>
+    `<div class=slider><span style="width:64px">${AXLABEL[a]}</span><input type=range min=0 max=5 step=1 value="${S.w[a]}" data-a="${a}"><span class=wv data-a="${a}">${S.w[a]}</span></div>`).join("");
+  document.querySelectorAll("#sliders input").forEach(i=>i.oninput=()=>{S.w[i.dataset.a]=+i.value;document.querySelector(`.wv[data-a="${i.dataset.a}"]`).textContent=i.value;render();});
+}
+function passFilter(x){
+  return (!S.gu.size||S.gu.has(x.gu))&&(!S.area.size||S.area.has(x.area_band))
+       &&(!S.decade.size||S.decade.has(x.decade))&&(!S.ptype.size||S.ptype.has(x.product_type));
+}
+function segFit(seg){ // Σ w·axis_median / Σw  (fundamental 축만)
+  if(seg.suppressed) return null;
+  let num=0,den=0;DB.fundamental_axes_en.forEach(a=>{num+=S.w[a]*(seg.axis_medians[a]||0);den+=S.w[a];});
+  return den?num/den:0;
+}
+function render(){
+  const cx=DB.complexes.filter(passFilter);
+  document.getElementById("count").textContent=cx.length+"개 단지";
+  document.getElementById("countsub").textContent="("+DB.complexes.length+"개 중 필터됨) · 세그먼트로 묶어 표시";
+  // 필터된 단지를 세그먼트 키로 그룹 → 세그먼트 메타 join
+  const segByKey={};DB.segments.forEach(s=>segByKey[s.gu+"|"+s.area_band+"|"+s.product_type]=s);
+  const groups={};cx.forEach(x=>{const k=x.gu+"|"+x.area_band+"|"+x.product_type;(groups[k]=groups[k]||[]).push(x);});
+  let segs=Object.keys(groups).map(k=>({seg:segByKey[k]||{gu:k.split("|")[0],area_band:k.split("|")[1],product_type:k.split("|")[2],suppressed:true,n:groups[k].length},items:groups[k]}));
+  segs.forEach(g=>g.fit=segFit(g.seg));
+  segs.sort((a,b)=>(b.fit??-1)-(a.fit??-1)); // 적합도 desc, suppressed 후순위
+  const out=document.getElementById("out");
+  if(!segs.length){out.innerHTML=`<p class=muted>조건에 맞는 공개 데이터가 없습니다 — <b>배제·부적합 판정이 아니라</b> 해당 조합의 익명/집계 표본이 없거나 적은 것입니다. 필터를 넓혀 보세요.</p>`;return;}
+  out.innerHTML=segs.map((g,gi)=>{
+    const s=g.seg;
+    const items=g.items.slice().sort((a,b)=>(b.molit_recent_eok??-1)-(a.molit_recent_eok??-1)); // 단지내 = 공공실거래가 desc(중립)
+    const dist=s.suppressed?`<span class=muted>점수 분포: n&lt;${DB.kmin} — 미표시(점수 보호)</span>`
+      :`구조점수 분포 <span class=bar style="width:${Math.round((s.score_dist.median/5)*120)}px"></span> 중위 <b>${s.score_dist.median}</b> <span class=muted>(${s.score_dist.min}–${s.score_dist.max}, n=${s.n})</span>`;
+    const fitTxt=g.fit==null?"":`내 우선순위 적합도 <b>${g.fit.toFixed(2)}</b>/5 · `;
+    const rows=items.map(x=>`<tr><td><b>${esc(x.name)}</b> <span class=muted>${esc(x.saeng)}</span></td>
+      <td>전용${x.area_m2}㎡</td><td>${esc(x.units_band)}·${esc(x.decade)}</td>
+      <td>${x.molit_recent_eok!=null?`${x.molit_recent_eok}억<sup class=sup> F</sup> <span class=muted>n${x.molit_n}</span>`:`<span class=muted>공공 실거래 없음</span>`}</td>
+      <td>${x.strong_axes.map(a=>`<span class=tag>${esc(a)}</span>`).join("")}</td></tr>`).join("");
+    return `<details class=seg ${gi<3?"open":""}><summary>
+      <span class=seg-t>${esc(s.gu)} · ${esc(s.area_band)} · ${esc(s.product_type)}</span>
+      <span class=seg-m>${fitTxt}${dist}</span></summary>
+      <table><thead><tr><th>단지(실명)</th><th>전용</th><th>규모·연식</th><th>공공 실거래(중위)</th><th>강점축</th></tr></thead><tbody>${rows}</tbody></table></details>`;
+  }).join("");
+}
+</script>
+</body></html>
