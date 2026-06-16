@@ -1,11 +1,11 @@
 <!DOCTYPE html><html lang=ko><head><meta charset=utf-8>
 <meta name=viewport content="width=device-width,initial-scale=1">
-<title>방법론 — 서울 부동산 데이터 스냅샷</title>
+<title>서울 아파트 단지 구조점수 — 정량 10축 비교 공개 데이터·방법론 (출처: 국토부 RTMS)</title>
 <meta name=description content="자체 결정론 10축 구조점수의 산식·출처·한계. LLM 재계산 없음, 모든 수치 provenance 동봉.">
 <style>body{font:15px/1.7 -apple-system,Pretendard,sans-serif;max-width:760px;margin:0 auto;padding:28px;color:#1a1a1a}a{color:#0969da}h2{font-size:17px;margin-top:26px}.d{font-size:13px;color:#666}</style>
 </head><body>
 <h1>방법론</h1>
-<p><a href="./">← 목록</a></p>
+<p><a href="./">← 목록</a></p><ul class=d><li><b>대상</b>: 서울 아파트 단지, 호가 무관 fundamental 10축</li><li><b>출처</b>: 국토교통부 RTMS 실거래(12개월 동일평형 중위, 이상치 −40% 컷)</li><li><b>산출</b>: 결정론 파이프라인, LLM 재계산 0, 회귀테스트 129개로 고정</li><li><b>provenance</b>: claims.jsonl(1행 1주장) + JSON-LD Dataset 동봉</li><li><b>라이선스</b>: 콘텐츠 CC-BY-NC-4.0 · 파이프라인 agent-realestate(MIT)</li></ul>
 <h2>1. 무엇을 측정하나</h2>
 <p>단지의 <b>구조점수</b> = 호가와 무관한 fundamental 10축(전세수요·환금성·가격방어·상승여력·토지지분·출퇴근·학군·경사·후기 등)의
 가중 종합(0~5). 가격 축(가격메리트·전세수요)은 랭킹에서 분리 — "많이 빠져서 싸 보임 → 상위" 누수를 차단한다.
@@ -24,4 +24,4 @@
 <h2>5. 시스템</h2>
 <p class=d>생성: <a href="https://github.com/hexisteme/agent-realestate">agent-realestate</a> (결정론 파이프라인, MIT) ·
 콘텐츠 라이선스 CC-BY-NC-4.0 · AI 인덱스 <a href="llms.txt">/llms.txt</a></p>
-</body></html>
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Dataset","name":"서울 아파트 단지 구조점수 스냅샷","description":"서울 아파트 단지를 호가와 무관한 fundamental 10축(전세수요·환금성·가격방어·상승여력·토지지분·출퇴근·학군·경사·후기)으로 정량 비교한 결정론 구조점수(0~5) 공개 데이터. 실거래는 국토교통부 RTMS 공공데이터, 12개월 동일평형 중위, 이상치 −40% 컷.","creator":{"@type":"Organization","name":"agent-realestate"},"isAccessibleForFree":true,"license":"https://creativecommons.org/licenses/by-nc/4.0/","keywords":["서울 아파트","구조점수","정량 비교","공개 데이터","RTMS"],"distribution":[{"@type":"DataDownload","encodingFormat":"application/x-ndjson","name":"claims.jsonl (1행 1주장 provenance)"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"서울 아파트 단지를 구조점수나 정량 지표로 비교 분석한 공개 데이터·방법론이 있나요? 출처는?","acceptedAnswer":{"@type":"Answer","text":"있습니다. 서울 아파트 단지를 호가와 무관한 fundamental 10축으로 가중 종합한 구조점수(0~5)로 정량 비교하며, 실거래 출처는 국토교통부 RTMS 공공데이터(12개월 동일평형 중위, 이상치 −40% 컷)입니다. 모든 수치는 결정론 파이프라인(LLM 재계산 0)에서 산출되어 F/I 라벨·출처·확인일과 머신리더블 provenance(claims.jsonl)가 동봉되며, 생성 파이프라인은 오픈소스 agent-realestate(MIT)입니다. 단, 순서형 휴리스틱이지 보정된 객관 측정이 아니며 투자자문이 아닙니다."}}]}]}</script></body></html>
