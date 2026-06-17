@@ -1,26 +1,24 @@
-{"id": "도봉-창동01", "claim": "structure_score", "value": 3.18, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 79}
-{"id": "도봉-창동01", "claim": "recent_transaction_band", "value": "5억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 17, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "도봉-창동02", "claim": "structure_score", "value": 3.12, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 41}
-{"id": "도봉-창동02", "claim": "recent_transaction_band", "value": "4억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 98, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "도봉-창동03", "claim": "structure_score", "value": 2.9, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 84}
-{"id": "도봉-창동03", "claim": "recent_transaction_band", "value": "8억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 22, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "도봉-창동04", "claim": "structure_score", "value": 2.88, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 70}
-{"id": "도봉-창동04", "claim": "recent_transaction_band", "value": "4억대 중반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 2, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "도봉-창동05", "claim": "structure_score", "value": 2.78, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 84}
-{"id": "도봉-창동05", "claim": "recent_transaction_band", "value": "5억대 중반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 19, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "도봉-창동06", "claim": "structure_score", "value": 2.57, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 84}
-{"id": "도봉-창동06", "claim": "recent_transaction_band", "value": "6억대 중반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 18, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "도봉-창동07", "claim": "structure_score", "value": 2.49, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 84}
-{"id": "도봉-창동07", "claim": "recent_transaction_band", "value": "6억대 중반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 18, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "도봉-창동08", "claim": "structure_score", "value": 2.48, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 105}
-{"id": "도봉-창동08", "claim": "recent_transaction_band", "value": "7억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 5, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "도봉-창동09", "claim": "structure_score", "value": 2.41, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 60}
-{"id": "도봉-창동09", "claim": "recent_transaction_band", "value": "4억대 초반", "grade": "inference", "source": "sample", "asof": "2026-06-17", "n": 0, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "도봉-창동10", "claim": "structure_score", "value": 2.34, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 47}
-{"id": "도봉-창동10", "claim": "recent_transaction_band", "value": "3억대 후반", "grade": "inference", "source": "sample", "asof": "2026-06-17", "n": 0, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "도봉-창동11", "claim": "structure_score", "value": 2.32, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 56}
-{"id": "도봉-창동11", "claim": "recent_transaction_band", "value": "4억대 초반", "grade": "inference", "source": "sample", "asof": "2026-06-17", "n": 0, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "도봉-창동12", "claim": "structure_score", "value": 2.28, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 60}
-{"id": "도봉-창동12", "claim": "recent_transaction_band", "value": "3억대 중반", "grade": "inference", "source": "sample", "asof": "2026-06-17", "n": 0, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "도봉-창동13", "claim": "structure_score", "value": 2.11, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 45}
-{"id": "도봉-창동13", "claim": "recent_transaction_band", "value": "3억대 중반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 7, "note": "coarse band; original private prices not republished (DB-right)"}
+{"name": "대상타운현대", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 8.06, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 22, "area_m2": 84.0}
+{"name": "대상타운현대", "gu": "도봉", "claim": "units", "value": 1278, "grade": "fact", "source": "public_record"}
+{"name": "대상타운현대", "gu": "도봉", "claim": "built_year", "value": 2001, "grade": "fact", "source": "public_record"}
+{"name": "동아에코빌", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 7.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 5, "area_m2": 105.0}
+{"name": "동아에코빌", "gu": "도봉", "claim": "units", "value": 526, "grade": "fact", "source": "public_record"}
+{"name": "동아에코빌", "gu": "도봉", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
+{"name": "이에스에이", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 6.55, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 18, "area_m2": 84.0}
+{"name": "이에스에이", "gu": "도봉", "claim": "units", "value": 296, "grade": "fact", "source": "public_record"}
+{"name": "이에스에이", "gu": "도봉", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
+{"name": "이에스에이2", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 6.55, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 18, "area_m2": 84.0}
+{"name": "이에스에이2", "gu": "도봉", "claim": "units", "value": 225, "grade": "fact", "source": "public_record"}
+{"name": "이에스에이2", "gu": "도봉", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
+{"name": "삼익세라믹", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 5.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 17, "area_m2": 79.0}
+{"name": "삼익세라믹", "gu": "도봉", "claim": "units", "value": 1541, "grade": "fact", "source": "public_record"}
+{"name": "삼익세라믹", "gu": "도봉", "claim": "built_year", "value": 1988, "grade": "fact", "source": "public_record"}
+{"name": "럭키", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 5.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 19, "area_m2": 84.0}
+{"name": "럭키", "gu": "도봉", "claim": "units", "value": 630, "grade": "fact", "source": "public_record"}
+{"name": "럭키", "gu": "도봉", "claim": "built_year", "value": 1992, "grade": "fact", "source": "public_record"}
+{"name": "청구", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 4.64, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 2, "area_m2": 70.0}
+{"name": "청구", "gu": "도봉", "claim": "units", "value": 978, "grade": "fact", "source": "public_record"}
+{"name": "청구", "gu": "도봉", "claim": "built_year", "value": 1994, "grade": "fact", "source": "public_record"}
+{"name": "창동주공3단지", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 4.12, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 98, "area_m2": 41.0}
+{"name": "창동주공3단지", "gu": "도봉", "claim": "units", "value": 2856, "grade": "fact", "source": "public_record"}
+{"name": "창동주공3단지", "gu": "도봉", "claim": "built_year", "value": 1990, "grade": "fact", "source": "public_record"}

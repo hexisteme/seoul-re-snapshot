@@ -1,52 +1,41 @@
-{"id": "구로-신도01", "claim": "structure_score", "value": 3.6, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "구로-신도01", "claim": "recent_transaction_band", "value": "7억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 143, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "구로-신도02", "claim": "structure_score", "value": 3.22, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "구로-신도02", "claim": "recent_transaction_band", "value": "8억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 24, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "구로-신도03", "claim": "structure_score", "value": 3.05, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 56}
-{"id": "구로-신도03", "claim": "recent_transaction_band", "value": "5억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 29, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "구로-신도04", "claim": "structure_score", "value": 3.05, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "구로-신도04", "claim": "recent_transaction_band", "value": "10억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 24, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "구로-신도05", "claim": "structure_score", "value": 3.04, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "구로-신도05", "claim": "recent_transaction_band", "value": "2억대 중반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 13, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "구로-신도06", "claim": "structure_score", "value": 3.02, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 84}
-{"id": "구로-신도06", "claim": "recent_transaction_band", "value": "7억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 22, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "구로-신도07", "claim": "structure_score", "value": 3.0, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 102}
-{"id": "구로-신도07", "claim": "recent_transaction_band", "value": "8억대 중반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 4, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "구로-신도08", "claim": "structure_score", "value": 2.95, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 84}
-{"id": "구로-신도08", "claim": "recent_transaction_band", "value": "8억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 32, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "구로-신도09", "claim": "structure_score", "value": 2.87, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 101}
-{"id": "구로-신도09", "claim": "recent_transaction_band", "value": "11억대 초반", "grade": "inference", "source": "sample", "asof": "2026-06-17", "n": 0, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "구로-신도10", "claim": "structure_score", "value": 2.87, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 44}
-{"id": "구로-신도10", "claim": "recent_transaction_band", "value": "5억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 80, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "구로-신도11", "claim": "structure_score", "value": 2.87, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "구로-신도11", "claim": "recent_transaction_band", "value": "4억대 중반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 24, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "구로-신도12", "claim": "structure_score", "value": 2.85, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "구로-신도12", "claim": "recent_transaction_band", "value": "5억대 중반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 46, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "구로-신도13", "claim": "structure_score", "value": 2.82, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "구로-신도13", "claim": "recent_transaction_band", "value": "5억대 중반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 48, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "구로-신도14", "claim": "structure_score", "value": 2.81, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 84}
-{"id": "구로-신도14", "claim": "recent_transaction_band", "value": "8억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 12, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "구로-신도15", "claim": "structure_score", "value": 2.75, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "구로-신도15", "claim": "recent_transaction_band", "value": "5억대 중반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 38, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "구로-신도16", "claim": "structure_score", "value": 2.73, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "구로-신도16", "claim": "recent_transaction_band", "value": "2억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 14, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "구로-신도17", "claim": "structure_score", "value": 2.7, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 65}
-{"id": "구로-신도17", "claim": "recent_transaction_band", "value": "4억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 9, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "구로-신도18", "claim": "structure_score", "value": 2.67, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 84}
-{"id": "구로-신도18", "claim": "recent_transaction_band", "value": "6억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 5, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "구로-신도19", "claim": "structure_score", "value": 2.66, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 124}
-{"id": "구로-신도19", "claim": "recent_transaction_band", "value": "8억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 5, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "구로-신도20", "claim": "structure_score", "value": 2.62, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "구로-신도20", "claim": "recent_transaction_band", "value": "4억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 14, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "구로-신도21", "claim": "structure_score", "value": 2.59, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 78}
-{"id": "구로-신도21", "claim": "recent_transaction_band", "value": "5억대 중반", "grade": "inference", "source": "sample", "asof": "2026-06-17", "n": 0, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "구로-신도22", "claim": "structure_score", "value": 2.59, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "구로-신도22", "claim": "recent_transaction_band", "value": "5억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 26, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "구로-신도23", "claim": "structure_score", "value": 2.57, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 65}
-{"id": "구로-신도23", "claim": "recent_transaction_band", "value": "4억대 중반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 2, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "구로-신도24", "claim": "structure_score", "value": 2.56, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "구로-신도24", "claim": "recent_transaction_band", "value": "4억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 13, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "구로-신도25", "claim": "structure_score", "value": 2.55, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 153}
-{"id": "구로-신도25", "claim": "recent_transaction_band", "value": "9억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 6, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "구로-신도26", "claim": "structure_score", "value": 2.45, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 43}
-{"id": "구로-신도26", "claim": "recent_transaction_band", "value": "2억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 17, "note": "coarse band; original private prices not republished (DB-right)"}
+{"name": "신도림태영타운", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 10.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 24, "area_m2": 59.0}
+{"name": "신도림태영타운", "gu": "구로", "claim": "units", "value": 1252, "grade": "fact", "source": "public_record"}
+{"name": "신도림태영타운", "gu": "구로", "claim": "built_year", "value": 2000, "grade": "fact", "source": "public_record"}
+{"name": "삼환로즈빌", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 8.95, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 32, "area_m2": 84.0}
+{"name": "삼환로즈빌", "gu": "구로", "claim": "units", "value": 600, "grade": "fact", "source": "public_record"}
+{"name": "삼환로즈빌", "gu": "구로", "claim": "built_year", "value": 2004, "grade": "fact", "source": "public_record"}
+{"name": "온수힐스테이트", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 8.35, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 4, "area_m2": 102.0}
+{"name": "온수힐스테이트", "gu": "구로", "claim": "units", "value": 999, "grade": "fact", "source": "public_record"}
+{"name": "온수힐스테이트", "gu": "구로", "claim": "built_year", "value": 2010, "grade": "fact", "source": "public_record"}
+{"name": "신구로자이", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 8.22, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 12, "area_m2": 84.0}
+{"name": "신구로자이", "gu": "구로", "claim": "units", "value": 299, "grade": "fact", "source": "public_record"}
+{"name": "신구로자이", "gu": "구로", "claim": "built_year", "value": 2007, "grade": "fact", "source": "public_record"}
+{"name": "신도림롯데", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 8.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 24, "area_m2": 59.0}
+{"name": "신도림롯데", "gu": "구로", "claim": "units", "value": 718, "grade": "fact", "source": "public_record"}
+{"name": "신도림롯데", "gu": "구로", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "천왕연지타운1단지", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 7.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 22, "area_m2": 84.0}
+{"name": "천왕연지타운1단지", "gu": "구로", "claim": "units", "value": 571, "grade": "fact", "source": "public_record"}
+{"name": "천왕연지타운1단지", "gu": "구로", "claim": "built_year", "value": 2013, "grade": "fact", "source": "public_record"}
+{"name": "현대", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 7.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 143, "area_m2": 59.0}
+{"name": "현대", "gu": "구로", "claim": "units", "value": 2412, "grade": "fact", "source": "public_record"}
+{"name": "현대", "gu": "구로", "claim": "built_year", "value": 2001, "grade": "fact", "source": "public_record"}
+{"name": "삼환", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 5.64, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 46, "area_m2": 59.0}
+{"name": "삼환", "gu": "구로", "claim": "units", "value": 783, "grade": "fact", "source": "public_record"}
+{"name": "삼환", "gu": "구로", "claim": "built_year", "value": 1995, "grade": "fact", "source": "public_record"}
+{"name": "구일우성아파트", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 5.42, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 48, "area_m2": 59.0}
+{"name": "구일우성아파트", "gu": "구로", "claim": "units", "value": 829, "grade": "fact", "source": "public_record"}
+{"name": "구일우성아파트", "gu": "구로", "claim": "built_year", "value": 1998, "grade": "fact", "source": "public_record"}
+{"name": "새솔금호", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 4.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 14, "area_m2": 59.0}
+{"name": "새솔금호", "gu": "구로", "claim": "units", "value": 272, "grade": "fact", "source": "public_record"}
+{"name": "새솔금호", "gu": "구로", "claim": "built_year", "value": 1996, "grade": "fact", "source": "public_record"}
+{"name": "동부골든", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 4.59, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 24, "area_m2": 59.0}
+{"name": "동부골든", "gu": "구로", "claim": "units", "value": 1236, "grade": "fact", "source": "public_record"}
+{"name": "동부골든", "gu": "구로", "claim": "built_year", "value": 1998, "grade": "fact", "source": "public_record"}
+{"name": "영풍마드레빌", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 2.72, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 14, "area_m2": 59.0}
+{"name": "영풍마드레빌", "gu": "구로", "claim": "units", "value": 627, "grade": "fact", "source": "public_record"}
+{"name": "영풍마드레빌", "gu": "구로", "claim": "built_year", "value": 2002, "grade": "fact", "source": "public_record"}
+{"name": "디큐브시티", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 2.65, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 13, "area_m2": 59.0}
+{"name": "디큐브시티", "gu": "구로", "claim": "units", "value": 524, "grade": "fact", "source": "public_record"}
+{"name": "디큐브시티", "gu": "구로", "claim": "built_year", "value": 2011, "grade": "fact", "source": "public_record"}
+{"name": "천왕연지타운2단지", "gu": "구로", "claim": "units", "value": 1018, "grade": "fact", "source": "public_record"}
+{"name": "천왕연지타운2단지", "gu": "구로", "claim": "built_year", "value": 2014, "grade": "fact", "source": "public_record"}

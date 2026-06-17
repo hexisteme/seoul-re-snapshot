@@ -1,4 +1,0 @@
-{"id": "양천-목동01", "claim": "structure_score", "value": 2.72, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-12", "unit_m2": 84}
-{"id": "양천-목동01", "claim": "recent_transaction_band", "value": "11억대 중반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-12", "n": 3, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "양천-목동02", "claim": "structure_score", "value": 2.62, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-12", "unit_m2": 84}
-{"id": "양천-목동02", "claim": "recent_transaction_band", "value": "7억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-12", "n": 16, "note": "coarse band; original private prices not republished (DB-right)"}

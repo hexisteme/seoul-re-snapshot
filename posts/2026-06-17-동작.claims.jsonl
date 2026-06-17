@@ -1,8 +1,6 @@
-{"id": "동작-노량01", "claim": "structure_score", "value": 3.38, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "동작-노량01", "claim": "recent_transaction_band", "value": "12억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 37, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "동작-노량02", "claim": "structure_score", "value": 2.93, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "동작-노량02", "claim": "recent_transaction_band", "value": "6억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 11, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "동작-노량03", "claim": "structure_score", "value": 2.9, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 58}
-{"id": "동작-노량03", "claim": "recent_transaction_band", "value": "13억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 17, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "동작-노량04", "claim": "structure_score", "value": 2.88, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 84}
-{"id": "동작-노량04", "claim": "recent_transaction_band", "value": "10억대 중반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 18, "note": "coarse band; original private prices not republished (DB-right)"}
+{"name": "신동아리버파크", "gu": "동작", "claim": "recent_transaction_median_eok", "value": 12.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 37, "area_m2": 59.0}
+{"name": "신동아리버파크", "gu": "동작", "claim": "units", "value": 1696, "grade": "fact", "source": "public_record"}
+{"name": "신동아리버파크", "gu": "동작", "claim": "built_year", "value": 2001, "grade": "fact", "source": "public_record"}
+{"name": "사당자이", "gu": "동작", "claim": "recent_transaction_median_eok", "value": 10.46, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 18, "area_m2": 84.0}
+{"name": "사당자이", "gu": "동작", "claim": "units", "value": 719, "grade": "fact", "source": "public_record"}
+{"name": "사당자이", "gu": "동작", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}

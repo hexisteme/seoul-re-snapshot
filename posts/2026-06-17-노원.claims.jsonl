@@ -1,60 +1,83 @@
-{"id": "노원-SG01", "claim": "structure_score", "value": 3.7, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "노원-SG01", "claim": "recent_transaction_band", "value": "6억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 574, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "노원-SG02", "claim": "structure_score", "value": 3.7, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "노원-SG02", "claim": "recent_transaction_band", "value": "6억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 574, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "노원-SG03", "claim": "structure_score", "value": 3.65, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "노원-SG03", "claim": "recent_transaction_band", "value": "6억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 599, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "노원-SG04", "claim": "structure_score", "value": 3.62, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "노원-SG04", "claim": "recent_transaction_band", "value": "6억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 585, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "노원-SG05", "claim": "structure_score", "value": 3.62, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "노원-SG05", "claim": "recent_transaction_band", "value": "6억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 599, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "노원-SG06", "claim": "structure_score", "value": 3.6, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "노원-SG06", "claim": "recent_transaction_band", "value": "6억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 574, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "노원-SG07", "claim": "structure_score", "value": 3.57, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "노원-SG07", "claim": "recent_transaction_band", "value": "6억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 574, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "노원-SG08", "claim": "structure_score", "value": 3.56, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "노원-SG08", "claim": "recent_transaction_band", "value": "6억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 574, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "노원-SG09", "claim": "structure_score", "value": 3.56, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 61}
-{"id": "노원-SG09", "claim": "recent_transaction_band", "value": "6억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 574, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "노원-SG10", "claim": "structure_score", "value": 3.54, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "노원-SG10", "claim": "recent_transaction_band", "value": "6억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 28, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "노원-SG11", "claim": "structure_score", "value": 3.41, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "노원-SG11", "claim": "recent_transaction_band", "value": "6억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 574, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "노원-SG12", "claim": "structure_score", "value": 3.38, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 84}
-{"id": "노원-SG12", "claim": "recent_transaction_band", "value": "8억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 22, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "노원-SG13", "claim": "structure_score", "value": 3.34, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 61}
-{"id": "노원-SG13", "claim": "recent_transaction_band", "value": "6억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 574, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "노원-SG14", "claim": "structure_score", "value": 3.29, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 74}
-{"id": "노원-SG14", "claim": "recent_transaction_band", "value": "10억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 8, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "노원-SG15", "claim": "structure_score", "value": 3.29, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "노원-SG15", "claim": "recent_transaction_band", "value": "5억대 중반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 49, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "노원-SG16", "claim": "structure_score", "value": 3.12, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 84}
-{"id": "노원-SG16", "claim": "recent_transaction_band", "value": "8억대 중반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 21, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "노원-SG17", "claim": "structure_score", "value": 3.02, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 84}
-{"id": "노원-SG17", "claim": "recent_transaction_band", "value": "9억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 44, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "노원-SG18", "claim": "structure_score", "value": 2.97, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 49}
-{"id": "노원-SG18", "claim": "recent_transaction_band", "value": "8억대 중반", "grade": "inference", "source": "sample", "asof": "2026-06-17", "n": 0, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "노원-SG19", "claim": "structure_score", "value": 2.95, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "노원-SG19", "claim": "recent_transaction_band", "value": "5억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 32, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "노원-SG20", "claim": "structure_score", "value": 2.95, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 84}
-{"id": "노원-SG20", "claim": "recent_transaction_band", "value": "8억대 중반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 30, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "노원-SG21", "claim": "structure_score", "value": 2.93, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "노원-SG21", "claim": "recent_transaction_band", "value": "9억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 24, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "노원-SG22", "claim": "structure_score", "value": 2.93, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "노원-SG22", "claim": "recent_transaction_band", "value": "4억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 31, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "노원-SG23", "claim": "structure_score", "value": 2.85, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 84}
-{"id": "노원-SG23", "claim": "recent_transaction_band", "value": "7억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 32, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "노원-SG24", "claim": "structure_score", "value": 2.72, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "노원-SG24", "claim": "recent_transaction_band", "value": "5억대 중반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 11, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "노원-SG25", "claim": "structure_score", "value": 2.7, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "노원-SG25", "claim": "recent_transaction_band", "value": "4억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 11, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "노원-SG26", "claim": "structure_score", "value": 2.68, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "노원-SG26", "claim": "recent_transaction_band", "value": "6억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 61, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "노원-SG27", "claim": "structure_score", "value": 2.64, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "노원-SG27", "claim": "recent_transaction_band", "value": "4억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 11, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "노원-SG28", "claim": "structure_score", "value": 2.63, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 84}
-{"id": "노원-SG28", "claim": "recent_transaction_band", "value": "8억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 14, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "노원-SG29", "claim": "structure_score", "value": 2.59, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 110}
-{"id": "노원-SG29", "claim": "recent_transaction_band", "value": "7억대 중반", "grade": "inference", "source": "sample", "asof": "2026-06-17", "n": 0, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "노원-SG30", "claim": "structure_score", "value": 2.53, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 84}
-{"id": "노원-SG30", "claim": "recent_transaction_band", "value": "6억대 중반", "grade": "inference", "source": "sample", "asof": "2026-06-17", "n": 0, "note": "coarse band; original private prices not republished (DB-right)"}
+{"name": "포레나노원", "gu": "노원", "claim": "recent_transaction_median_eok", "value": 10.82, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 8, "area_m2": 74.0}
+{"name": "포레나노원", "gu": "노원", "claim": "units", "value": 1062, "grade": "fact", "source": "public_record"}
+{"name": "포레나노원", "gu": "노원", "claim": "built_year", "value": 2020, "grade": "fact", "source": "public_record"}
+{"name": "하계2차현대아파트", "gu": "노원", "claim": "recent_transaction_median_eok", "value": 9.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 44, "area_m2": 84.0}
+{"name": "하계2차현대아파트", "gu": "노원", "claim": "units", "value": 730, "grade": "fact", "source": "public_record"}
+{"name": "하계2차현대아파트", "gu": "노원", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
+{"name": "월계센트럴아이파크아파트", "gu": "노원", "claim": "recent_transaction_median_eok", "value": 9.26, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 24, "area_m2": 59.0}
+{"name": "월계센트럴아이파크아파트", "gu": "노원", "claim": "units", "value": 859, "grade": "fact", "source": "public_record"}
+{"name": "월계센트럴아이파크아파트", "gu": "노원", "claim": "built_year", "value": 2020, "grade": "fact", "source": "public_record"}
+{"name": "노원프레미어스엠코", "gu": "노원", "claim": "recent_transaction_median_eok", "value": 8.72, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 14, "area_m2": 84.0}
+{"name": "노원프레미어스엠코", "gu": "노원", "claim": "units", "value": 234, "grade": "fact", "source": "public_record"}
+{"name": "노원프레미어스엠코", "gu": "노원", "claim": "built_year", "value": 2016, "grade": "fact", "source": "public_record"}
+{"name": "상계주공14단지", "gu": "노원", "claim": "recent_transaction_median_eok", "value": 8.69, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 22, "area_m2": 84.0}
+{"name": "상계주공14단지", "gu": "노원", "claim": "units", "value": 2265, "grade": "fact", "source": "public_record"}
+{"name": "상계주공14단지", "gu": "노원", "claim": "built_year", "value": 1989, "grade": "fact", "source": "public_record"}
+{"name": "롯데캐슬루나", "gu": "노원", "claim": "recent_transaction_median_eok", "value": 8.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 30, "area_m2": 84.0}
+{"name": "롯데캐슬루나", "gu": "노원", "claim": "units", "value": 850, "grade": "fact", "source": "public_record"}
+{"name": "롯데캐슬루나", "gu": "노원", "claim": "built_year", "value": 2006, "grade": "fact", "source": "public_record"}
+{"name": "하계1차청구아파트", "gu": "노원", "claim": "recent_transaction_median_eok", "value": 8.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 21, "area_m2": 84.0}
+{"name": "하계1차청구아파트", "gu": "노원", "claim": "units", "value": 700, "grade": "fact", "source": "public_record"}
+{"name": "하계1차청구아파트", "gu": "노원", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
+{"name": "두산", "gu": "노원", "claim": "recent_transaction_median_eok", "value": 7.77, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 32, "area_m2": 84.0}
+{"name": "두산", "gu": "노원", "claim": "units", "value": 763, "grade": "fact", "source": "public_record"}
+{"name": "두산", "gu": "노원", "claim": "built_year", "value": 1994, "grade": "fact", "source": "public_record"}
+{"name": "불암현대", "gu": "노원", "claim": "recent_transaction_median_eok", "value": 6.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 61, "area_m2": 59.0}
+{"name": "불암현대", "gu": "노원", "claim": "units", "value": 826, "grade": "fact", "source": "public_record"}
+{"name": "불암현대", "gu": "노원", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "중계무지개", "gu": "노원", "claim": "recent_transaction_median_eok", "value": 6.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 28, "area_m2": 59.0}
+{"name": "중계무지개", "gu": "노원", "claim": "units", "value": 2433, "grade": "fact", "source": "public_record"}
+{"name": "중계무지개", "gu": "노원", "claim": "built_year", "value": 1991, "grade": "fact", "source": "public_record"}
+{"name": "상계주공10단지", "gu": "노원", "claim": "recent_transaction_median_eok", "value": 6.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 599, "area_m2": 59.0}
+{"name": "상계주공10단지", "gu": "노원", "claim": "units", "value": 2654, "grade": "fact", "source": "public_record"}
+{"name": "상계주공10단지", "gu": "노원", "claim": "built_year", "value": 1988, "grade": "fact", "source": "public_record"}
+{"name": "상계주공11단지", "gu": "노원", "claim": "recent_transaction_median_eok", "value": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 574, "area_m2": 59.0}
+{"name": "상계주공11단지", "gu": "노원", "claim": "units", "value": 1944, "grade": "fact", "source": "public_record"}
+{"name": "상계주공11단지", "gu": "노원", "claim": "built_year", "value": 1988, "grade": "fact", "source": "public_record"}
+{"name": "상계주공12단지", "gu": "노원", "claim": "recent_transaction_median_eok", "value": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 574, "area_m2": 61.0}
+{"name": "상계주공12단지", "gu": "노원", "claim": "units", "value": 1739, "grade": "fact", "source": "public_record"}
+{"name": "상계주공12단지", "gu": "노원", "claim": "built_year", "value": 1988, "grade": "fact", "source": "public_record"}
+{"name": "상계주공16단지", "gu": "노원", "claim": "recent_transaction_median_eok", "value": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 574, "area_m2": 59.0}
+{"name": "상계주공16단지", "gu": "노원", "claim": "units", "value": 2392, "grade": "fact", "source": "public_record"}
+{"name": "상계주공16단지", "gu": "노원", "claim": "built_year", "value": 1988, "grade": "fact", "source": "public_record"}
+{"name": "상계주공1단지", "gu": "노원", "claim": "recent_transaction_median_eok", "value": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 574, "area_m2": 59.0}
+{"name": "상계주공1단지", "gu": "노원", "claim": "units", "value": 2064, "grade": "fact", "source": "public_record"}
+{"name": "상계주공1단지", "gu": "노원", "claim": "built_year", "value": 1988, "grade": "fact", "source": "public_record"}
+{"name": "상계주공2단지", "gu": "노원", "claim": "recent_transaction_median_eok", "value": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 599, "area_m2": 59.0}
+{"name": "상계주공2단지", "gu": "노원", "claim": "units", "value": 2029, "grade": "fact", "source": "public_record"}
+{"name": "상계주공2단지", "gu": "노원", "claim": "built_year", "value": 1987, "grade": "fact", "source": "public_record"}
+{"name": "상계주공3단지", "gu": "노원", "claim": "recent_transaction_median_eok", "value": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 574, "area_m2": 59.0}
+{"name": "상계주공3단지", "gu": "노원", "claim": "units", "value": 2213, "grade": "fact", "source": "public_record"}
+{"name": "상계주공3단지", "gu": "노원", "claim": "built_year", "value": 1987, "grade": "fact", "source": "public_record"}
+{"name": "상계주공4단지", "gu": "노원", "claim": "recent_transaction_median_eok", "value": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 585, "area_m2": 59.0}
+{"name": "상계주공4단지", "gu": "노원", "claim": "units", "value": 2136, "grade": "fact", "source": "public_record"}
+{"name": "상계주공4단지", "gu": "노원", "claim": "built_year", "value": 1988, "grade": "fact", "source": "public_record"}
+{"name": "상계주공6단지", "gu": "노원", "claim": "recent_transaction_median_eok", "value": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 574, "area_m2": 59.0}
+{"name": "상계주공6단지", "gu": "노원", "claim": "units", "value": 2646, "grade": "fact", "source": "public_record"}
+{"name": "상계주공6단지", "gu": "노원", "claim": "built_year", "value": 1988, "grade": "fact", "source": "public_record"}
+{"name": "상계주공7단지", "gu": "노원", "claim": "recent_transaction_median_eok", "value": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 574, "area_m2": 59.0}
+{"name": "상계주공7단지", "gu": "노원", "claim": "units", "value": 2634, "grade": "fact", "source": "public_record"}
+{"name": "상계주공7단지", "gu": "노원", "claim": "built_year", "value": 1988, "grade": "fact", "source": "public_record"}
+{"name": "상계주공9단지", "gu": "노원", "claim": "recent_transaction_median_eok", "value": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 574, "area_m2": 61.0}
+{"name": "상계주공9단지", "gu": "노원", "claim": "units", "value": 2830, "grade": "fact", "source": "public_record"}
+{"name": "상계주공9단지", "gu": "노원", "claim": "built_year", "value": 1988, "grade": "fact", "source": "public_record"}
+{"name": "염광", "gu": "노원", "claim": "recent_transaction_median_eok", "value": 5.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 32, "area_m2": 59.0}
+{"name": "염광", "gu": "노원", "claim": "units", "value": 791, "grade": "fact", "source": "public_record"}
+{"name": "염광", "gu": "노원", "claim": "built_year", "value": 1996, "grade": "fact", "source": "public_record"}
+{"name": "벽산", "gu": "노원", "claim": "recent_transaction_median_eok", "value": 5.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 49, "area_m2": 59.0}
+{"name": "벽산", "gu": "노원", "claim": "units", "value": 1590, "grade": "fact", "source": "public_record"}
+{"name": "벽산", "gu": "노원", "claim": "built_year", "value": 1989, "grade": "fact", "source": "public_record"}
+{"name": "상계불암대림", "gu": "노원", "claim": "recent_transaction_median_eok", "value": 5.38, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 11, "area_m2": 59.0}
+{"name": "상계불암대림", "gu": "노원", "claim": "units", "value": 634, "grade": "fact", "source": "public_record"}
+{"name": "상계불암대림", "gu": "노원", "claim": "built_year", "value": 2000, "grade": "fact", "source": "public_record"}
+{"name": "동아불암", "gu": "노원", "claim": "recent_transaction_median_eok", "value": 4.78, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 11, "area_m2": 59.0}
+{"name": "동아불암", "gu": "노원", "claim": "units", "value": 673, "grade": "fact", "source": "public_record"}
+{"name": "동아불암", "gu": "노원", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "상계대림(172)", "gu": "노원", "claim": "recent_transaction_median_eok", "value": 4.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 31, "area_m2": 59.0}
+{"name": "상계대림(172)", "gu": "노원", "claim": "units", "value": 675, "grade": "fact", "source": "public_record"}
+{"name": "상계대림(172)", "gu": "노원", "claim": "built_year", "value": 1989, "grade": "fact", "source": "public_record"}
+{"name": "삼창타워프라자", "gu": "노원", "claim": "recent_transaction_median_eok", "value": 4.32, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 11, "area_m2": 59.0}
+{"name": "삼창타워프라자", "gu": "노원", "claim": "units", "value": 203, "grade": "fact", "source": "public_record"}
+{"name": "삼창타워프라자", "gu": "노원", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
+{"name": "태릉해링턴플레이스", "gu": "노원", "claim": "units", "value": 1308, "grade": "fact", "source": "public_record"}
+{"name": "태릉해링턴플레이스", "gu": "노원", "claim": "built_year", "value": 2022, "grade": "fact", "source": "public_record"}

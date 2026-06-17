@@ -1,24 +1,24 @@
-{"id": "영등포-여의01", "claim": "structure_score", "value": 3.62, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "영등포-여의01", "claim": "recent_transaction_band", "value": "9억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 65, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "영등포-여의02", "claim": "structure_score", "value": 3.4, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "영등포-여의02", "claim": "recent_transaction_band", "value": "9억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 47, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "영등포-여의03", "claim": "structure_score", "value": 3.4, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "영등포-여의03", "claim": "recent_transaction_band", "value": "12억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 63, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "영등포-여의04", "claim": "structure_score", "value": 3.38, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 114}
-{"id": "영등포-여의04", "claim": "recent_transaction_band", "value": "12억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 39, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "영등포-여의05", "claim": "structure_score", "value": 3.36, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "영등포-여의05", "claim": "recent_transaction_band", "value": "9억대 중반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 60, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "영등포-여의06", "claim": "structure_score", "value": 3.26, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "영등포-여의06", "claim": "recent_transaction_band", "value": "10억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 34, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "영등포-여의07", "claim": "structure_score", "value": 3.08, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 68}
-{"id": "영등포-여의07", "claim": "recent_transaction_band", "value": "5억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 2, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "영등포-여의08", "claim": "structure_score", "value": 3.02, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 84}
-{"id": "영등포-여의08", "claim": "recent_transaction_band", "value": "8억대 중반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 15, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "영등포-여의09", "claim": "structure_score", "value": 2.99, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 84}
-{"id": "영등포-여의09", "claim": "recent_transaction_band", "value": "8억대 중반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 15, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "영등포-여의10", "claim": "structure_score", "value": 2.86, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 49}
-{"id": "영등포-여의10", "claim": "recent_transaction_band", "value": "7억대 후반", "grade": "inference", "source": "sample", "asof": "2026-06-17", "n": 0, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "영등포-여의11", "claim": "structure_score", "value": 2.82, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 33}
-{"id": "영등포-여의11", "claim": "recent_transaction_band", "value": "3억대 후반", "grade": "inference", "source": "sample", "asof": "2026-06-17", "n": 0, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "영등포-여의12", "claim": "structure_score", "value": 2.79, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 33}
-{"id": "영등포-여의12", "claim": "recent_transaction_band", "value": "6억대 후반", "grade": "inference", "source": "sample", "asof": "2026-06-17", "n": 0, "note": "coarse band; original private prices not republished (DB-right)"}
+{"name": "당산현대3차", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 12.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 63, "area_m2": 59.0}
+{"name": "당산현대3차", "gu": "영등포", "claim": "units", "value": 509, "grade": "fact", "source": "public_record"}
+{"name": "당산현대3차", "gu": "영등포", "claim": "built_year", "value": 1988, "grade": "fact", "source": "public_record"}
+{"name": "삼성래미안", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 12.88, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 39, "area_m2": 114.0}
+{"name": "삼성래미안", "gu": "영등포", "claim": "units", "value": 1213, "grade": "fact", "source": "public_record"}
+{"name": "삼성래미안", "gu": "영등포", "claim": "built_year", "value": 2001, "grade": "fact", "source": "public_record"}
+{"name": "현대3차", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 10.87, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 34, "area_m2": 59.0}
+{"name": "현대3차", "gu": "영등포", "claim": "units", "value": 1162, "grade": "fact", "source": "public_record"}
+{"name": "현대3차", "gu": "영등포", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
+{"name": "양평한신", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 9.98, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 47, "area_m2": 59.0}
+{"name": "양평한신", "gu": "영등포", "claim": "units", "value": 1215, "grade": "fact", "source": "public_record"}
+{"name": "양평한신", "gu": "영등포", "claim": "built_year", "value": 1996, "grade": "fact", "source": "public_record"}
+{"name": "삼환", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 9.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 65, "area_m2": 59.0}
+{"name": "삼환", "gu": "영등포", "claim": "units", "value": 1174, "grade": "fact", "source": "public_record"}
+{"name": "삼환", "gu": "영등포", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
+{"name": "보라매경남아너스빌", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 9.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 60, "area_m2": 59.0}
+{"name": "보라매경남아너스빌", "gu": "영등포", "claim": "units", "value": 669, "grade": "fact", "source": "public_record"}
+{"name": "보라매경남아너스빌", "gu": "영등포", "claim": "built_year", "value": 2005, "grade": "fact", "source": "public_record"}
+{"name": "당산디오빌", "gu": "영등포", "claim": "units", "value": 212, "grade": "fact", "source": "public_record"}
+{"name": "당산디오빌", "gu": "영등포", "claim": "built_year", "value": 2005, "grade": "fact", "source": "public_record"}
+{"name": "대우트럼프월드Ⅰ", "gu": "영등포", "claim": "units", "value": 282, "grade": "fact", "source": "public_record"}
+{"name": "대우트럼프월드Ⅰ", "gu": "영등포", "claim": "built_year", "value": 2002, "grade": "fact", "source": "public_record"}
+{"name": "신길AK푸르지오", "gu": "영등포", "claim": "units", "value": 296, "grade": "fact", "source": "public_record"}
+{"name": "신길AK푸르지오", "gu": "영등포", "claim": "built_year", "value": 2024, "grade": "fact", "source": "public_record"}

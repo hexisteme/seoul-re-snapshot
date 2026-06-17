@@ -1,50 +1,65 @@
-{"id": "성북-GM01", "claim": "structure_score", "value": 3.48, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "성북-GM01", "claim": "recent_transaction_band", "value": "7억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 89, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "성북-GM02", "claim": "structure_score", "value": 3.48, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "성북-GM02", "claim": "recent_transaction_band", "value": "8억대 중반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 29, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "성북-GM03", "claim": "structure_score", "value": 3.45, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "성북-GM03", "claim": "recent_transaction_band", "value": "9억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 36, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "성북-GM04", "claim": "structure_score", "value": 3.44, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "성북-GM04", "claim": "recent_transaction_band", "value": "9억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 276, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "성북-GM05", "claim": "structure_score", "value": 3.42, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "성북-GM05", "claim": "recent_transaction_band", "value": "9억대 중반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 20, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "성북-GM06", "claim": "structure_score", "value": 3.38, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "성북-GM06", "claim": "recent_transaction_band", "value": "9억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 26, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "성북-GM07", "claim": "structure_score", "value": 3.37, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "성북-GM07", "claim": "recent_transaction_band", "value": "7억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 89, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "성북-GM08", "claim": "structure_score", "value": 3.33, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 84}
-{"id": "성북-GM08", "claim": "recent_transaction_band", "value": "6억대 중반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 34, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "성북-GM09", "claim": "structure_score", "value": 3.32, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 84}
-{"id": "성북-GM09", "claim": "recent_transaction_band", "value": "7억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 4, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "성북-GM10", "claim": "structure_score", "value": 3.25, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "성북-GM10", "claim": "recent_transaction_band", "value": "5억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 17, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "성북-GM11", "claim": "structure_score", "value": 3.25, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "성북-GM11", "claim": "recent_transaction_band", "value": "8억대 중반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 19, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "성북-GM12", "claim": "structure_score", "value": 3.22, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 84}
-{"id": "성북-GM12", "claim": "recent_transaction_band", "value": "11억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 38, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "성북-GM13", "claim": "structure_score", "value": 3.22, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "성북-GM13", "claim": "recent_transaction_band", "value": "9억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 276, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "성북-GM14", "claim": "structure_score", "value": 3.21, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "성북-GM14", "claim": "recent_transaction_band", "value": "8억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 48, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "성북-GM15", "claim": "structure_score", "value": 3.2, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 84}
-{"id": "성북-GM15", "claim": "recent_transaction_band", "value": "10억대 중반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 26, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "성북-GM16", "claim": "structure_score", "value": 3.16, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "성북-GM16", "claim": "recent_transaction_band", "value": "9억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 36, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "성북-GM17", "claim": "structure_score", "value": 3.16, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 103}
-{"id": "성북-GM17", "claim": "recent_transaction_band", "value": "10억대 중반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 4, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "성북-GM18", "claim": "structure_score", "value": 3.13, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 84}
-{"id": "성북-GM18", "claim": "recent_transaction_band", "value": "9억대 중반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 9, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "성북-GM19", "claim": "structure_score", "value": 3.02, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 50}
-{"id": "성북-GM19", "claim": "recent_transaction_band", "value": "5억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 11, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "성북-GM20", "claim": "structure_score", "value": 3.01, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 66}
-{"id": "성북-GM20", "claim": "recent_transaction_band", "value": "7억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 7, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "성북-GM21", "claim": "structure_score", "value": 2.99, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 66}
-{"id": "성북-GM21", "claim": "recent_transaction_band", "value": "6억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 4, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "성북-GM22", "claim": "structure_score", "value": 2.97, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 84}
-{"id": "성북-GM22", "claim": "recent_transaction_band", "value": "8억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 18, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "성북-GM23", "claim": "structure_score", "value": 2.9, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 84}
-{"id": "성북-GM23", "claim": "recent_transaction_band", "value": "7억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 9, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "성북-GM24", "claim": "structure_score", "value": 2.82, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 59}
-{"id": "성북-GM24", "claim": "recent_transaction_band", "value": "7억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 22, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "성북-GM25", "claim": "structure_score", "value": 2.65, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-17", "unit_m2": 84}
-{"id": "성북-GM25", "claim": "recent_transaction_band", "value": "11억대 초반", "grade": "inference", "source": "sample", "asof": "2026-06-17", "n": 0, "note": "coarse band; original private prices not republished (DB-right)"}
+{"name": "돈암코오롱하늘채아파트", "gu": "성북", "claim": "recent_transaction_median_eok", "value": 11.24, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 38, "area_m2": 84.0}
+{"name": "돈암코오롱하늘채아파트", "gu": "성북", "claim": "units", "value": 629, "grade": "fact", "source": "public_record"}
+{"name": "돈암코오롱하늘채아파트", "gu": "성북", "claim": "built_year", "value": 2016, "grade": "fact", "source": "public_record"}
+{"name": "꿈의숲코오롱하늘채아파트", "gu": "성북", "claim": "recent_transaction_median_eok", "value": 10.57, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 26, "area_m2": 84.0}
+{"name": "꿈의숲코오롱하늘채아파트", "gu": "성북", "claim": "units", "value": 513, "grade": "fact", "source": "public_record"}
+{"name": "꿈의숲코오롱하늘채아파트", "gu": "성북", "claim": "built_year", "value": 2017, "grade": "fact", "source": "public_record"}
+{"name": "꿈의숲대명루첸", "gu": "성북", "claim": "recent_transaction_median_eok", "value": 10.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 4, "area_m2": 103.0}
+{"name": "꿈의숲대명루첸", "gu": "성북", "claim": "units", "value": 611, "grade": "fact", "source": "public_record"}
+{"name": "꿈의숲대명루첸", "gu": "성북", "claim": "built_year", "value": 2008, "grade": "fact", "source": "public_record"}
+{"name": "래미안장위퍼스트하이", "gu": "성북", "claim": "recent_transaction_median_eok", "value": 9.89, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 36, "area_m2": 59.0}
+{"name": "래미안장위퍼스트하이", "gu": "성북", "claim": "units", "value": 1562, "grade": "fact", "source": "public_record"}
+{"name": "래미안장위퍼스트하이", "gu": "성북", "claim": "built_year", "value": 2020, "grade": "fact", "source": "public_record"}
+{"name": "래미안라센트", "gu": "성북", "claim": "recent_transaction_median_eok", "value": 9.62, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 20, "area_m2": 59.0}
+{"name": "래미안라센트", "gu": "성북", "claim": "units", "value": 837, "grade": "fact", "source": "public_record"}
+{"name": "래미안라센트", "gu": "성북", "claim": "built_year", "value": 2011, "grade": "fact", "source": "public_record"}
+{"name": "돈암동일하이빌", "gu": "성북", "claim": "recent_transaction_median_eok", "value": 9.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 9, "area_m2": 84.0}
+{"name": "돈암동일하이빌", "gu": "성북", "claim": "units", "value": 236, "grade": "fact", "source": "public_record"}
+{"name": "돈암동일하이빌", "gu": "성북", "claim": "built_year", "value": 2006, "grade": "fact", "source": "public_record"}
+{"name": "길음뉴타운 데시앙", "gu": "성북", "claim": "recent_transaction_median_eok", "value": 9.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 276, "area_m2": 59.0}
+{"name": "길음뉴타운 데시앙", "gu": "성북", "claim": "units", "value": 514, "grade": "fact", "source": "public_record"}
+{"name": "길음뉴타운 데시앙", "gu": "성북", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "길음뉴타운8단지", "gu": "성북", "claim": "recent_transaction_median_eok", "value": 9.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 276, "area_m2": 59.0}
+{"name": "길음뉴타운8단지", "gu": "성북", "claim": "units", "value": 1497, "grade": "fact", "source": "public_record"}
+{"name": "길음뉴타운8단지", "gu": "성북", "claim": "built_year", "value": 2010, "grade": "fact", "source": "public_record"}
+{"name": "래미안세레니티", "gu": "성북", "claim": "recent_transaction_median_eok", "value": 9.23, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 36, "area_m2": 59.0}
+{"name": "래미안세레니티", "gu": "성북", "claim": "units", "value": 955, "grade": "fact", "source": "public_record"}
+{"name": "래미안세레니티", "gu": "성북", "claim": "built_year", "value": 2009, "grade": "fact", "source": "public_record"}
+{"name": "월곡래미안루나밸리", "gu": "성북", "claim": "recent_transaction_median_eok", "value": 9.03, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 26, "area_m2": 59.0}
+{"name": "월곡래미안루나밸리", "gu": "성북", "claim": "units", "value": 787, "grade": "fact", "source": "public_record"}
+{"name": "월곡래미안루나밸리", "gu": "성북", "claim": "built_year", "value": 2007, "grade": "fact", "source": "public_record"}
+{"name": "성북힐스테이트", "gu": "성북", "claim": "recent_transaction_median_eok", "value": 8.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 18, "area_m2": 84.0}
+{"name": "성북힐스테이트", "gu": "성북", "claim": "units", "value": 285, "grade": "fact", "source": "public_record"}
+{"name": "성북힐스테이트", "gu": "성북", "claim": "built_year", "value": 2007, "grade": "fact", "source": "public_record"}
+{"name": "래미안월곡", "gu": "성북", "claim": "recent_transaction_median_eok", "value": 8.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 29, "area_m2": 59.0}
+{"name": "래미안월곡", "gu": "성북", "claim": "units", "value": 1372, "grade": "fact", "source": "public_record"}
+{"name": "래미안월곡", "gu": "성북", "claim": "built_year", "value": 2006, "grade": "fact", "source": "public_record"}
+{"name": "삼선푸르지오아파트", "gu": "성북", "claim": "recent_transaction_median_eok", "value": 8.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 19, "area_m2": 59.0}
+{"name": "삼선푸르지오아파트", "gu": "성북", "claim": "units", "value": 864, "grade": "fact", "source": "public_record"}
+{"name": "삼선푸르지오아파트", "gu": "성북", "claim": "built_year", "value": 2008, "grade": "fact", "source": "public_record"}
+{"name": "꿈의숲푸르지오", "gu": "성북", "claim": "recent_transaction_median_eok", "value": 8.12, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 48, "area_m2": 59.0}
+{"name": "꿈의숲푸르지오", "gu": "성북", "claim": "units", "value": 714, "grade": "fact", "source": "public_record"}
+{"name": "꿈의숲푸르지오", "gu": "성북", "claim": "built_year", "value": 2010, "grade": "fact", "source": "public_record"}
+{"name": "두산", "gu": "성북", "claim": "recent_transaction_median_eok", "value": 7.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 89, "area_m2": 59.0}
+{"name": "두산", "gu": "성북", "claim": "units", "value": 1998, "grade": "fact", "source": "public_record"}
+{"name": "두산", "gu": "성북", "claim": "built_year", "value": 1998, "grade": "fact", "source": "public_record"}
+{"name": "월곡두산위브아파트", "gu": "성북", "claim": "recent_transaction_median_eok", "value": 7.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 89, "area_m2": 59.0}
+{"name": "월곡두산위브아파트", "gu": "성북", "claim": "units", "value": 2197, "grade": "fact", "source": "public_record"}
+{"name": "월곡두산위브아파트", "gu": "성북", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
+{"name": "정릉힐스테이트3차", "gu": "성북", "claim": "recent_transaction_median_eok", "value": 7.17, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 22, "area_m2": 59.0}
+{"name": "정릉힐스테이트3차", "gu": "성북", "claim": "units", "value": 522, "grade": "fact", "source": "public_record"}
+{"name": "정릉힐스테이트3차", "gu": "성북", "claim": "built_year", "value": 2008, "grade": "fact", "source": "public_record"}
+{"name": "돈암현대", "gu": "성북", "claim": "recent_transaction_median_eok", "value": 7.03, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 4, "area_m2": 84.0}
+{"name": "돈암현대", "gu": "성북", "claim": "units", "value": 619, "grade": "fact", "source": "public_record"}
+{"name": "돈암현대", "gu": "성북", "claim": "built_year", "value": 1991, "grade": "fact", "source": "public_record"}
+{"name": "정릉풍림아이원", "gu": "성북", "claim": "recent_transaction_median_eok", "value": 6.67, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 34, "area_m2": 84.0}
+{"name": "정릉풍림아이원", "gu": "성북", "claim": "units", "value": 1971, "grade": "fact", "source": "public_record"}
+{"name": "정릉풍림아이원", "gu": "성북", "claim": "built_year", "value": 2005, "grade": "fact", "source": "public_record"}
+{"name": "길음뉴타운 경남아너스빌", "gu": "성북", "claim": "recent_transaction_median_eok", "value": 5.97, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 11, "area_m2": 50.0}
+{"name": "길음뉴타운 경남아너스빌", "gu": "성북", "claim": "units", "value": 860, "grade": "fact", "source": "public_record"}
+{"name": "길음뉴타운 경남아너스빌", "gu": "성북", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "정릉푸른마을동아", "gu": "성북", "claim": "recent_transaction_median_eok", "value": 5.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-17", "n": 17, "area_m2": 59.0}
+{"name": "정릉푸른마을동아", "gu": "성북", "claim": "units", "value": 529, "grade": "fact", "source": "public_record"}
+{"name": "정릉푸른마을동아", "gu": "성북", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
+{"name": "래미안안암", "gu": "성북", "claim": "units", "value": 528, "grade": "fact", "source": "public_record"}
+{"name": "래미안안암", "gu": "성북", "claim": "built_year", "value": 2005, "grade": "fact", "source": "public_record"}

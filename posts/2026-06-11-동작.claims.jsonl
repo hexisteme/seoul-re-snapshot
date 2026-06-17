@@ -1,8 +1,0 @@
-{"id": "동작-노량01", "claim": "structure_score", "value": 3.38, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-11", "unit_m2": 59}
-{"id": "동작-노량01", "claim": "recent_transaction_band", "value": "11억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-11", "n": 36, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "동작-노량02", "claim": "structure_score", "value": 2.93, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-11", "unit_m2": 59}
-{"id": "동작-노량02", "claim": "recent_transaction_band", "value": "6억대 후반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-11", "n": 11, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "동작-노량03", "claim": "structure_score", "value": 2.9, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-11", "unit_m2": 58}
-{"id": "동작-노량03", "claim": "recent_transaction_band", "value": "13억대 초반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-11", "n": 17, "note": "coarse band; original private prices not republished (DB-right)"}
-{"id": "동작-노량04", "claim": "structure_score", "value": 2.88, "grade": "computed", "method": "deterministic_10axis_hoga_free", "asof": "2026-06-11", "unit_m2": 84}
-{"id": "동작-노량04", "claim": "recent_transaction_band", "value": "10억대 중반", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-11", "n": 18, "note": "coarse band; original private prices not republished (DB-right)"}
