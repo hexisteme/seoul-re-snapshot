@@ -1,0 +1,56 @@
+{"name": "래미안장안2차", "gu": "동대문", "claim": "recent_transaction_median_eok", "value": 10.74, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-21", "n": 50, "area_m2": 81.0}
+{"name": "래미안장안2차", "gu": "동대문", "claim": "units", "value": 1786, "grade": "fact", "source": "public_record"}
+{"name": "래미안장안2차", "gu": "동대문", "claim": "built_year", "value": 2007, "grade": "fact", "source": "public_record"}
+{"name": "전농SK", "gu": "동대문", "claim": "recent_transaction_median_eok", "value": 10.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-21", "n": 26, "area_m2": 114.0}
+{"name": "전농SK", "gu": "동대문", "claim": "units", "value": 1830, "grade": "fact", "source": "public_record"}
+{"name": "전농SK", "gu": "동대문", "claim": "built_year", "value": 2000, "grade": "fact", "source": "public_record"}
+{"name": "두산", "gu": "동대문", "claim": "recent_transaction_median_eok", "value": 9.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-21", "n": 37, "area_m2": 59.0}
+{"name": "두산", "gu": "동대문", "claim": "units", "value": 739, "grade": "fact", "source": "public_record"}
+{"name": "두산", "gu": "동대문", "claim": "built_year", "value": 2000, "grade": "fact", "source": "public_record"}
+{"name": "두산위브", "gu": "동대문", "claim": "recent_transaction_median_eok", "value": 9.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-21", "n": 37, "area_m2": 59.0}
+{"name": "두산위브", "gu": "동대문", "claim": "units", "value": 516, "grade": "fact", "source": "public_record"}
+{"name": "두산위브", "gu": "동대문", "claim": "built_year", "value": 2007, "grade": "fact", "source": "public_record"}
+{"name": "답십리청솔우성", "gu": "동대문", "claim": "recent_transaction_median_eok", "value": 9.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-21", "n": 14, "area_m2": 114.0}
+{"name": "답십리청솔우성", "gu": "동대문", "claim": "units", "value": 1542, "grade": "fact", "source": "public_record"}
+{"name": "답십리청솔우성", "gu": "동대문", "claim": "built_year", "value": 2000, "grade": "fact", "source": "public_record"}
+{"name": "장안힐스테이트", "gu": "동대문", "claim": "recent_transaction_median_eok", "value": 9.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-21", "n": 35, "area_m2": 59.0}
+{"name": "장안힐스테이트", "gu": "동대문", "claim": "units", "value": 859, "grade": "fact", "source": "public_record"}
+{"name": "장안힐스테이트", "gu": "동대문", "claim": "built_year", "value": 2007, "grade": "fact", "source": "public_record"}
+{"name": "래미안이문2차", "gu": "동대문", "claim": "recent_transaction_median_eok", "value": 9.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-21", "n": 23, "area_m2": 59.0}
+{"name": "래미안이문2차", "gu": "동대문", "claim": "units", "value": 648, "grade": "fact", "source": "public_record"}
+{"name": "래미안이문2차", "gu": "동대문", "claim": "built_year", "value": 2004, "grade": "fact", "source": "public_record"}
+{"name": "이수브라운스톤", "gu": "동대문", "claim": "recent_transaction_median_eok", "value": 8.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-21", "n": 15, "area_m2": 84.0}
+{"name": "이수브라운스톤", "gu": "동대문", "claim": "units", "value": 299, "grade": "fact", "source": "public_record"}
+{"name": "이수브라운스톤", "gu": "동대문", "claim": "built_year", "value": 2005, "grade": "fact", "source": "public_record"}
+{"name": "전농우성", "gu": "동대문", "claim": "recent_transaction_median_eok", "value": 8.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-21", "n": 12, "area_m2": 126.0}
+{"name": "전농우성", "gu": "동대문", "claim": "units", "value": 1234, "grade": "fact", "source": "public_record"}
+{"name": "전농우성", "gu": "동대문", "claim": "built_year", "value": 1992, "grade": "fact", "source": "public_record"}
+{"name": "래미안장안", "gu": "동대문", "claim": "recent_transaction_median_eok", "value": 8.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-21", "n": 5, "area_m2": 59.0}
+{"name": "래미안장안", "gu": "동대문", "claim": "units", "value": 558, "grade": "fact", "source": "public_record"}
+{"name": "래미안장안", "gu": "동대문", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
+{"name": "한신", "gu": "동대문", "claim": "recent_transaction_median_eok", "value": 8.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-21", "n": 87, "area_m2": 59.0}
+{"name": "한신", "gu": "동대문", "claim": "units", "value": 960, "grade": "fact", "source": "public_record"}
+{"name": "한신", "gu": "동대문", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
+{"name": "쌍용", "gu": "동대문", "claim": "recent_transaction_median_eok", "value": 8.35, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-21", "n": 35, "area_m2": 84.0}
+{"name": "쌍용", "gu": "동대문", "claim": "units", "value": 1318, "grade": "fact", "source": "public_record"}
+{"name": "쌍용", "gu": "동대문", "claim": "built_year", "value": 2000, "grade": "fact", "source": "public_record"}
+{"name": "장안현대홈타운", "gu": "동대문", "claim": "recent_transaction_median_eok", "value": 8.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-21", "n": 67, "area_m2": 58.0}
+{"name": "장안현대홈타운", "gu": "동대문", "claim": "units", "value": 2182, "grade": "fact", "source": "public_record"}
+{"name": "장안현대홈타운", "gu": "동대문", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
+{"name": "현대", "gu": "동대문", "claim": "recent_transaction_median_eok", "value": 8.09, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-21", "n": 92, "area_m2": 59.0}
+{"name": "현대", "gu": "동대문", "claim": "units", "value": 601, "grade": "fact", "source": "public_record"}
+{"name": "현대", "gu": "동대문", "claim": "built_year", "value": 2000, "grade": "fact", "source": "public_record"}
+{"name": "동아", "gu": "동대문", "claim": "recent_transaction_median_eok", "value": 7.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-21", "n": 59, "area_m2": 59.0}
+{"name": "동아", "gu": "동대문", "claim": "units", "value": 741, "grade": "fact", "source": "public_record"}
+{"name": "동아", "gu": "동대문", "claim": "built_year", "value": 2001, "grade": "fact", "source": "public_record"}
+{"name": "동답한신", "gu": "동대문", "claim": "recent_transaction_median_eok", "value": 7.17, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-21", "n": 28, "area_m2": 59.0}
+{"name": "동답한신", "gu": "동대문", "claim": "units", "value": 600, "grade": "fact", "source": "public_record"}
+{"name": "동답한신", "gu": "동대문", "claim": "built_year", "value": 1992, "grade": "fact", "source": "public_record"}
+{"name": "장안삼성쉐르빌", "gu": "동대문", "claim": "recent_transaction_median_eok", "value": 7.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-21", "n": 5, "area_m2": 99.0}
+{"name": "장안삼성쉐르빌", "gu": "동대문", "claim": "units", "value": 254, "grade": "fact", "source": "public_record"}
+{"name": "장안삼성쉐르빌", "gu": "동대문", "claim": "built_year", "value": 2002, "grade": "fact", "source": "public_record"}
+{"name": "롯데캐슬피렌체", "gu": "동대문", "claim": "recent_transaction_median_eok", "value": 4.98, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-21", "n": 5, "area_m2": 37.0}
+{"name": "롯데캐슬피렌체", "gu": "동대문", "claim": "units", "value": 435, "grade": "fact", "source": "public_record"}
+{"name": "롯데캐슬피렌체", "gu": "동대문", "claim": "built_year", "value": 2009, "grade": "fact", "source": "public_record"}
+{"name": "회기역한일베라체캠퍼스", "gu": "동대문", "claim": "units", "value": 264, "grade": "fact", "source": "public_record"}
+{"name": "회기역한일베라체캠퍼스", "gu": "동대문", "claim": "built_year", "value": 2013, "grade": "fact", "source": "public_record"}
