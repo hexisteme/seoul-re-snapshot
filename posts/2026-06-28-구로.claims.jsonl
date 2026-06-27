@@ -1,0 +1,41 @@
+{"name": "신도림태영타운", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 10.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-28", "n": 24, "area_m2": 59.0}
+{"name": "신도림태영타운", "gu": "구로", "claim": "units", "value": 1252, "grade": "fact", "source": "public_record"}
+{"name": "신도림태영타운", "gu": "구로", "claim": "built_year", "value": 2000, "grade": "fact", "source": "public_record"}
+{"name": "삼환로즈빌", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 8.95, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-28", "n": 32, "area_m2": 84.0}
+{"name": "삼환로즈빌", "gu": "구로", "claim": "units", "value": 600, "grade": "fact", "source": "public_record"}
+{"name": "삼환로즈빌", "gu": "구로", "claim": "built_year", "value": 2004, "grade": "fact", "source": "public_record"}
+{"name": "온수힐스테이트", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 8.35, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-28", "n": 4, "area_m2": 102.0}
+{"name": "온수힐스테이트", "gu": "구로", "claim": "units", "value": 999, "grade": "fact", "source": "public_record"}
+{"name": "온수힐스테이트", "gu": "구로", "claim": "built_year", "value": 2010, "grade": "fact", "source": "public_record"}
+{"name": "신구로자이", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 8.22, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-28", "n": 12, "area_m2": 84.0}
+{"name": "신구로자이", "gu": "구로", "claim": "units", "value": 299, "grade": "fact", "source": "public_record"}
+{"name": "신구로자이", "gu": "구로", "claim": "built_year", "value": 2007, "grade": "fact", "source": "public_record"}
+{"name": "신도림롯데", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 8.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-28", "n": 24, "area_m2": 59.0}
+{"name": "신도림롯데", "gu": "구로", "claim": "units", "value": 718, "grade": "fact", "source": "public_record"}
+{"name": "신도림롯데", "gu": "구로", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "천왕연지타운1단지", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 7.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-28", "n": 22, "area_m2": 84.0}
+{"name": "천왕연지타운1단지", "gu": "구로", "claim": "units", "value": 571, "grade": "fact", "source": "public_record"}
+{"name": "천왕연지타운1단지", "gu": "구로", "claim": "built_year", "value": 2013, "grade": "fact", "source": "public_record"}
+{"name": "현대", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 7.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-28", "n": 147, "area_m2": 59.0}
+{"name": "현대", "gu": "구로", "claim": "units", "value": 2412, "grade": "fact", "source": "public_record"}
+{"name": "현대", "gu": "구로", "claim": "built_year", "value": 2001, "grade": "fact", "source": "public_record"}
+{"name": "삼환", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 5.65, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-28", "n": 47, "area_m2": 59.0}
+{"name": "삼환", "gu": "구로", "claim": "units", "value": 783, "grade": "fact", "source": "public_record"}
+{"name": "삼환", "gu": "구로", "claim": "built_year", "value": 1995, "grade": "fact", "source": "public_record"}
+{"name": "구일우성아파트", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 5.43, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-28", "n": 50, "area_m2": 59.0}
+{"name": "구일우성아파트", "gu": "구로", "claim": "units", "value": 829, "grade": "fact", "source": "public_record"}
+{"name": "구일우성아파트", "gu": "구로", "claim": "built_year", "value": 1998, "grade": "fact", "source": "public_record"}
+{"name": "새솔금호", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 4.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-28", "n": 14, "area_m2": 59.0}
+{"name": "새솔금호", "gu": "구로", "claim": "units", "value": 272, "grade": "fact", "source": "public_record"}
+{"name": "새솔금호", "gu": "구로", "claim": "built_year", "value": 1996, "grade": "fact", "source": "public_record"}
+{"name": "동부골든", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 4.59, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-28", "n": 24, "area_m2": 59.0}
+{"name": "동부골든", "gu": "구로", "claim": "units", "value": 1236, "grade": "fact", "source": "public_record"}
+{"name": "동부골든", "gu": "구로", "claim": "built_year", "value": 1998, "grade": "fact", "source": "public_record"}
+{"name": "영풍마드레빌", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 2.72, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-28", "n": 14, "area_m2": 59.0}
+{"name": "영풍마드레빌", "gu": "구로", "claim": "units", "value": 627, "grade": "fact", "source": "public_record"}
+{"name": "영풍마드레빌", "gu": "구로", "claim": "built_year", "value": 2002, "grade": "fact", "source": "public_record"}
+{"name": "디큐브시티", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 2.65, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-28", "n": 13, "area_m2": 59.0}
+{"name": "디큐브시티", "gu": "구로", "claim": "units", "value": 524, "grade": "fact", "source": "public_record"}
+{"name": "디큐브시티", "gu": "구로", "claim": "built_year", "value": 2011, "grade": "fact", "source": "public_record"}
+{"name": "천왕연지타운2단지", "gu": "구로", "claim": "units", "value": 1018, "grade": "fact", "source": "public_record"}
+{"name": "천왕연지타운2단지", "gu": "구로", "claim": "built_year", "value": 2014, "grade": "fact", "source": "public_record"}
