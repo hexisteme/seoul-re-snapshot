@@ -54,7 +54,13 @@ const COLS=[
   {k:"built_year",t:"준공",num:true,fmt:r=>r.built_year},
   {k:"product_type",t:"유형",num:false,fmt:r=>`<span class=tag>${r.product_type}</span>`},
   {k:"molit_recent_eok",t:"공공 실거래(중위)",num:true,
-     fmt:r=>r.molit_recent_eok!=null?`<b>${r.molit_recent_eok}억</b><sup class=sup> F</sup> <span class=muted>n${r.molit_n}</span>`:`<span class=muted>—</span>`},
+     fmt:r=>r.molit_recent_eok!=null?`<b>${r.molit_recent_eok}억</b><sup class=sup> F</sup> <span class=muted>n${r.molit_n}</span>`
+       +(r.molit_p25_eok!=null?`<br><span class=muted>${r.molit_p25_eok}–${r.molit_recent_eok}–${r.molit_p75_eok} <span class=sup>P25·중위·P75</span></span>`:``)
+       :`<span class=muted>—</span>`},
+  {k:"molit_trend_pct",t:"추세<span class=muted style=font-weight:400> 3/9개월</span>",num:true,
+     fmt:r=>r.molit_trend_pct!=null?`${r.molit_trend_dir}${Math.abs(r.molit_trend_pct)}%<sup class=sup> F</sup>`:`<span class=muted>—</span>`},
+  {k:"molit_pos_52w",t:"52주위치<span class=muted style=font-weight:400> 최근3개월</span>",num:true,
+     fmt:r=>r.molit_pos_52w!=null?`${r.molit_pos_52w}%<sup class=sup> F</sup>`:`<span class=muted>—</span>`},
   {k:"pyeong_price_man",t:"평단가",num:true,fmt:r=>r.pyeong_price_man!=null?`${r.pyeong_price_man.toLocaleString()}만`:`<span class=muted>—</span>`},
 ];
 const uniq=a=>[...new Set(a)];
@@ -86,6 +92,7 @@ function init(){
   document.getElementById("foot").innerHTML=
     "<b>출처·고지</b><br>"+DB.sources.map(s=>`• ${esc(s.name)}${s.url?` — <a href="${esc(s.url)}">${esc(s.url)}</a>`:""}${s.note?` <span class=muted>(${esc(s.note)})</span>`:""}`).join("<br>")
     +`<br>• 가격은 국토부 공공 실거래가(12개월 동일평형 중위)만 표시 — 사설 시세(호가)는 게재하지 않습니다. <sup class=sup>F</sup>=공공 실거래 사실, n=표본수.`
+    +`<br>• P25·중위·P75 = 동일평형 실거래 분위수(협상 레인지). 추세 = 최근3개월 중위 vs 직전9개월 중위(과거 비교 사실 — 전망 아님). 52주위치 = <b>최근 3개월 체결 중위</b>가 12개월(52주) 실거래 최저~최고 레인지에서 차지하는 위치(%) — 헤드라인 중위(12개월)와 기준점 다름(최근 거래 없으면 —). 표본 부족 구간은 —.`
     +`<br>• 자체 평가·점수·순위를 매기지 않습니다. 공개된 사실 수치만 제공합니다.`
     +`<br>• ${esc(DB.takedown)}`;
 }

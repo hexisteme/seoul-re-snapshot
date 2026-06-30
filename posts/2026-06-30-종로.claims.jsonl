@@ -1,9 +1,18 @@
 {"name": "창신쌍용1단지", "gu": "종로", "claim": "recent_transaction_median_eok", "value": 9.18, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-30", "n": 8, "area_m2": 106.0}
+{"name": "창신쌍용1단지", "gu": "종로", "claim": "transaction_iqr_eok", "p25": 8.85, "p75": 9.66, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-30", "n": 8, "area_m2": 106.0}
+{"name": "창신쌍용1단지", "gu": "종로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 0.5, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-30", "n": 8, "area_m2": 106.0}
+{"name": "창신쌍용1단지", "gu": "종로", "claim": "position_in_52w_range_pct", "value": 43, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-30", "n": 8, "area_m2": 106.0}
 {"name": "창신쌍용1단지", "gu": "종로", "claim": "units", "value": 585, "grade": "fact", "source": "public_record"}
 {"name": "창신쌍용1단지", "gu": "종로", "claim": "built_year", "value": 1992, "grade": "fact", "source": "public_record"}
 {"name": "창신쌍용2단지", "gu": "종로", "claim": "recent_transaction_median_eok", "value": 6.55, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-30", "n": 26, "area_m2": 64.0}
+{"name": "창신쌍용2단지", "gu": "종로", "claim": "transaction_iqr_eok", "p25": 6.35, "p75": 7.29, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-30", "n": 26, "area_m2": 64.0}
+{"name": "창신쌍용2단지", "gu": "종로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 14.2, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-30", "n": 26, "area_m2": 64.0}
+{"name": "창신쌍용2단지", "gu": "종로", "claim": "position_in_52w_range_pct", "value": 63, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-30", "n": 26, "area_m2": 64.0}
 {"name": "창신쌍용2단지", "gu": "종로", "claim": "units", "value": 919, "grade": "fact", "source": "public_record"}
 {"name": "창신쌍용2단지", "gu": "종로", "claim": "built_year", "value": 1993, "grade": "fact", "source": "public_record"}
 {"name": "현대뜨레비앙", "gu": "종로", "claim": "recent_transaction_median_eok", "value": 4.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-30", "n": 6, "area_m2": 45.0}
+{"name": "현대뜨레비앙", "gu": "종로", "claim": "transaction_iqr_eok", "p25": 4.15, "p75": 4.61, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-30", "n": 6, "area_m2": 45.0}
+{"name": "현대뜨레비앙", "gu": "종로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": -7.5, "direction": "▼", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-30", "n": 6, "area_m2": 45.0}
+{"name": "현대뜨레비앙", "gu": "종로", "claim": "position_in_52w_range_pct", "value": 43, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-06-30", "n": 6, "area_m2": 45.0}
 {"name": "현대뜨레비앙", "gu": "종로", "claim": "units", "value": 291, "grade": "fact", "source": "public_record"}
 {"name": "현대뜨레비앙", "gu": "종로", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
