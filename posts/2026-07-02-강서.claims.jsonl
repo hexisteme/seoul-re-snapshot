@@ -1,0 +1,24 @@
+{"name": "부영", "gu": "강서", "claim": "recent_transaction_median_eok", "value": 10.05, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-02", "n": 79, "area_m2": 80.0}
+{"name": "부영", "gu": "강서", "claim": "transaction_iqr_eok", "p25": 9.3, "p75": 10.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-02", "n": 79, "area_m2": 80.0}
+{"name": "부영", "gu": "강서", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 13.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-02", "n": 79, "area_m2": 80.0}
+{"name": "부영", "gu": "강서", "claim": "position_in_52w_range_pct", "value": 85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-02", "n": 79, "area_m2": 80.0}
+{"name": "부영", "gu": "강서", "claim": "units", "value": 712, "grade": "fact", "source": "public_record"}
+{"name": "부영", "gu": "강서", "claim": "built_year", "value": 1994, "grade": "fact", "source": "public_record"}
+{"name": "가양강나루현대", "gu": "강서", "claim": "recent_transaction_median_eok", "value": 9.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-02", "n": 27, "area_m2": 59.0}
+{"name": "가양강나루현대", "gu": "강서", "claim": "transaction_iqr_eok", "p25": 7.0, "p75": 9.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-02", "n": 27, "area_m2": 59.0}
+{"name": "가양강나루현대", "gu": "강서", "claim": "recent3m_vs_prior9m_median_change_pct", "value": -5.0, "direction": "▼", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-02", "n": 27, "area_m2": 59.0}
+{"name": "가양강나루현대", "gu": "강서", "claim": "position_in_52w_range_pct", "value": 48, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-02", "n": 27, "area_m2": 59.0}
+{"name": "가양강나루현대", "gu": "강서", "claim": "units", "value": 642, "grade": "fact", "source": "public_record"}
+{"name": "가양강나루현대", "gu": "강서", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "등촌우성", "gu": "강서", "claim": "recent_transaction_median_eok", "value": 8.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-02", "n": 7, "area_m2": 84.0}
+{"name": "등촌우성", "gu": "강서", "claim": "transaction_iqr_eok", "p25": 8.07, "p75": 8.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-02", "n": 7, "area_m2": 84.0}
+{"name": "등촌우성", "gu": "강서", "claim": "recent3m_vs_prior9m_median_change_pct", "value": -2.2, "direction": "▼", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-02", "n": 7, "area_m2": 84.0}
+{"name": "등촌우성", "gu": "강서", "claim": "position_in_52w_range_pct", "value": 36, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-02", "n": 7, "area_m2": 84.0}
+{"name": "등촌우성", "gu": "강서", "claim": "units", "value": 244, "grade": "fact", "source": "public_record"}
+{"name": "등촌우성", "gu": "강서", "claim": "built_year", "value": 1992, "grade": "fact", "source": "public_record"}
+{"name": "동성", "gu": "강서", "claim": "recent_transaction_median_eok", "value": 8.07, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-02", "n": 14, "area_m2": 84.0}
+{"name": "동성", "gu": "강서", "claim": "transaction_iqr_eok", "p25": 7.92, "p75": 8.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-02", "n": 14, "area_m2": 84.0}
+{"name": "동성", "gu": "강서", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 2.5, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-02", "n": 14, "area_m2": 84.0}
+{"name": "동성", "gu": "강서", "claim": "position_in_52w_range_pct", "value": 43, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-02", "n": 14, "area_m2": 84.0}
+{"name": "동성", "gu": "강서", "claim": "units", "value": 686, "grade": "fact", "source": "public_record"}
+{"name": "동성", "gu": "강서", "claim": "built_year", "value": 1993, "grade": "fact", "source": "public_record"}

@@ -1,0 +1,9 @@
+{"name": "극동늘푸른목동", "gu": "양천", "claim": "recent_transaction_median_eok", "value": 11.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-02", "n": 3, "area_m2": 84.0}
+{"name": "극동늘푸른목동", "gu": "양천", "claim": "units", "value": 206, "grade": "fact", "source": "public_record"}
+{"name": "극동늘푸른목동", "gu": "양천", "claim": "built_year", "value": 1998, "grade": "fact", "source": "public_record"}
+{"name": "목동건영", "gu": "양천", "claim": "recent_transaction_median_eok", "value": 7.37, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-02", "n": 19, "area_m2": 84.0}
+{"name": "목동건영", "gu": "양천", "claim": "transaction_iqr_eok", "p25": 7.0, "p75": 7.55, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-02", "n": 19, "area_m2": 84.0}
+{"name": "목동건영", "gu": "양천", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 6.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-02", "n": 19, "area_m2": 84.0}
+{"name": "목동건영", "gu": "양천", "claim": "position_in_52w_range_pct", "value": 66, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-02", "n": 19, "area_m2": 84.0}
+{"name": "목동건영", "gu": "양천", "claim": "units", "value": 299, "grade": "fact", "source": "public_record"}
+{"name": "목동건영", "gu": "양천", "claim": "built_year", "value": 1994, "grade": "fact", "source": "public_record"}
