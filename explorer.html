@@ -25,6 +25,10 @@ tbody tr:hover{background:#f6faff}
 .tag{display:inline-block;font-size:11px;padding:1px 7px;border-radius:10px;background:#eef2f6;color:#445}
 .muted{color:var(--mut)}.sup{font-size:11px;color:var(--ac)}
 .foot{font-size:12px;color:var(--mut);border-top:1px solid var(--bd);padding:14px 18px;margin-top:16px}
+.extra-col{display:none}
+#tbl.show-extra .extra-col{display:table-cell}
+.toggle-btn{display:inline-block;padding:4px 12px;border:1px solid var(--bd);border-radius:14px;background:#fff;cursor:pointer;font-size:12px;margin:2px 0;color:#334}
+.toggle-btn.on{background:var(--ac);color:#fff;border-color:var(--ac)}
 @media(max-width:760px){.wrap{grid-template-columns:1fr}.panel{border-right:0;border-bottom:1px solid var(--bd)}
   table{font-size:12px}th,td{padding:6px 7px}}
 </style></head><body>
@@ -37,14 +41,17 @@ tbody tr:hover{background:#f6faff}
   <main class=results>
     <div class=row>
       <div><b id=count></b> <span class=muted id=countsub></span></div>
-      <div class=muted style="font-size:12px">열 머리글 클릭 = 정렬</div>
+      <div style="display:flex;gap:8px;align-items:center">
+        <span class=muted style="font-size:12px">열 머리글 클릭 = 정렬</span>
+        <button class=toggle-btn id=infraToggle onclick="const t=document.getElementById('tbl');t.classList.toggle('show-extra');this.classList.toggle('on');this.textContent=this.classList.contains('on')?'인프라 숨기기':'📍 인프라 보기'">📍 인프라 보기</button>
+      </div>
     </div>
     <div style="overflow:auto"><table id=tbl><thead id=thead></thead><tbody id=tbody></tbody></table></div>
     <div class=foot id=foot></div>
   </main>
 </div>
 <script>
-const S={q:"",gu:new Set(),area:new Set(),decade:new Set(),ptype:new Set(),emin:null,emax:null,sort:"molit_recent_eok",dir:-1};
+const S={q:"",gu:new Set(),area:new Set(),decade:new Set(),ptype:new Set(),emin:null,emax:null,units_min:null,ppmin:null,ppmax:null,sort:"molit_recent_eok",dir:-1};
 let DB=null;
 const COLS=[
   {k:"name",t:"단지명",num:false},
@@ -62,6 +69,58 @@ const COLS=[
   {k:"molit_pos_52w",t:"52주위치<span class=muted style=font-weight:400> 최근3개월</span>",num:true,
      fmt:r=>r.molit_pos_52w!=null?`${r.molit_pos_52w}%<sup class=sup> F</sup>`:`<span class=muted>—</span>`},
   {k:"pyeong_price_man",t:"평단가",num:true,fmt:r=>r.pyeong_price_man!=null?`${r.pyeong_price_man.toLocaleString()}만`:`<span class=muted>—</span>`},
+  // ── 입지·인프라 추가 열(기본 숨김, '인프라 보기' 토글로 표시) ──
+  {k:"subway_m",t:"지하철(m)",num:true,extra:true,
+   fmt:r=>r.subway_m!=null?`${r.subway_m.toLocaleString()}m`:`<span class=muted>—</span>`},
+  {k:"cbd_km",t:"CBD(km)",num:true,extra:true,
+   fmt:r=>r.cbd_km!=null?`${r.cbd_km}km<br><span class=muted>${esc(r.cbd_name||"")}</span>`:`<span class=muted>—</span>`},
+  {k:"slope_pct",t:"경사도(%)",num:true,extra:true,
+   fmt:r=>r.slope_pct!=null?`${r.slope_pct}%`:`<span class=muted>—</span>`},
+  {k:"far_pct",t:"용적/건폐율",num:true,extra:true,
+   fmt:r=>r.far_pct!=null?`${r.far_pct}%`+(r.bcr_pct!=null?`<br><span class=muted>${r.bcr_pct}%건폐</span>`:""):`<span class=muted>—</span>`},
+  {k:"academy_exam",t:"학원가(곳)",num:true,extra:true,
+   fmt:r=>r.academy_exam!=null?`${r.academy_exam}곳`:`<span class=muted>—</span>`},
+  {k:"review_score",t:"주민평점",num:true,extra:true,
+   fmt:r=>r.review_score!=null?`${r.review_score}/5`:`<span class=muted>—</span>`},
+  {k:"complex_no",t:"네이버 매물",num:false,extra:true,
+   fmt:r=>r.complex_no?`<a href="https://m.land.naver.com/complex/info/${esc(r.complex_no)}" target=_blank rel=noopener>매물보기</a>`:`<span class=muted>—</span>`},
+  // ── 단지·학군·시세 사실 열(2026-07-03 2차) ──
+  {k:"land_share_pyeong",t:"대지지분(평)",num:true,extra:true,
+   fmt:r=>r.land_share_pyeong!=null?`${r.land_share_pyeong}평`:`<span class=muted>—</span>`},
+  {k:"floor",t:"층",num:false,extra:true,
+   fmt:r=>r.floor?esc(r.floor):`<span class=muted>—</span>`},
+  {k:"tukmokgo_pct",t:"특목고 진학률",num:true,extra:true,
+   fmt:r=>r.tukmokgo_pct!=null?`${r.tukmokgo_pct}%`:`<span class=muted>—</span>`},
+  {k:"school_achievement",t:"학업성취도",num:true,extra:true,
+   fmt:r=>r.school_achievement!=null?`${r.school_achievement}%`:`<span class=muted>—</span>`},
+  {k:"gu_jeonse_ratio_pct",t:"전세가율",num:true,extra:true,
+   fmt:r=>r.gu_jeonse_ratio_pct!=null?`${r.gu_jeonse_ratio_pct}%<span class=muted> 구중위</span>`:`<span class=muted>—</span>`},
+  {k:"trade_annual",t:"연거래수",num:true,extra:true,
+   fmt:r=>r.trade_annual!=null?`${r.trade_annual}건/년`:`<span class=muted>—</span>`},
+  {k:"transit",t:"입지",num:false,extra:true,
+   fmt:r=>r.transit?`<span class=muted>${esc(r.transit)}</span>`:`<span class=muted>—</span>`},
+  {k:"mart_800",t:"마트(800m)",num:true,extra:true,
+   fmt:r=>r.mart_800!=null?`${r.mart_800}개`:`<span class=muted>—</span>`},
+  {k:"hosp_800",t:"의료(800m)",num:true,extra:true,
+   fmt:r=>r.hosp_800!=null?`${r.hosp_800}개`:`<span class=muted>—</span>`},
+  {k:"park_1k",t:"공원(1km)",num:true,extra:true,
+   fmt:r=>r.park_1k!=null?`${r.park_1k}개`:`<span class=muted>—</span>`},
+  {k:"dept_1500",t:"백화점(1.5km)",num:true,extra:true,
+   fmt:r=>r.dept_1500!=null?`${r.dept_1500}개`:`<span class=muted>—</span>`},
+  {k:"maint_fee_won",t:"월관리비",num:true,extra:true,
+   fmt:r=>r.maint_fee_won!=null?`${Math.round(r.maint_fee_won/10000)}만원`:`<span class=muted>—</span>`},
+  {k:"heating",t:"난방방식",num:false,extra:true,
+   fmt:r=>r.heating?esc(r.heating):`<span class=muted>—</span>`},
+  {k:"corridor_type",t:"복도유형",num:false,extra:true,
+   fmt:r=>r.corridor_type?esc(r.corridor_type):`<span class=muted>—</span>`},
+  {k:"parking_per_unit",t:"세대당주차",num:true,extra:true,
+   fmt:r=>r.parking_per_unit!=null?`${r.parking_per_unit}대`:`<span class=muted>—</span>`},
+  {k:"builder",t:"시공사",num:false,extra:true,
+   fmt:r=>r.builder?esc(r.builder):`<span class=muted>—</span>`},
+  {k:"nearest_elem_school",t:"인근초등학교",num:false,extra:true,
+   fmt:r=>r.nearest_elem_school?esc(r.nearest_elem_school):`<span class=muted>—</span>`},
+  {k:"gongsi_man",t:"공시가(만원)",num:true,extra:true,
+   fmt:r=>r.gongsi_man!=null?`${r.gongsi_man.toLocaleString()}만`:`<span class=muted>—</span>`},
 ];
 const uniq=a=>[...new Set(a)];
 const esc=s=>(s==null?"":String(s)).replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));
@@ -78,15 +137,27 @@ function init(){
     +mk("평형","area",["~59㎡","60-84㎡","85-114㎡","115㎡+"].filter(b=>cx.some(x=>x.area_band===b)))
     +mk("연식","decade",uniq(cx.map(x=>x.decade)).sort())
     +mk("유형","ptype",uniq(cx.map(x=>x.product_type)).sort())
+    +`<h3>세대수 최소</h3><div>`
+    +["200+","500+","1000+","2000+"].map(v=>`<span class=chip data-k="units_min" data-v="${v}">${v}</span>`).join("")
+    +`</div>`
     +`<h3>공공 실거래(억)</h3><div>최소 <input type=number id=emin min=0 step=1> ~ 최대 <input type=number id=emax min=0 step=1></div>`
-    +`<p class=muted style="margin-top:8px;font-size:12px">실거래가 입력 시 거래 없는 단지(—)는 제외됩니다.</p>`;
-  F.querySelectorAll(".chip").forEach(c=>c.onclick=()=>{const k=c.dataset.k,v=c.dataset.v;S[k].has(v)?S[k].delete(v):S[k].add(v);c.classList.toggle("on");render();});
+    +`<p class=muted style="margin-top:4px;font-size:12px">입력 시 거래 없는 단지(—)는 제외됩니다.</p>`
+    +`<h3>평단가(만원/평)</h3><div>최소 <input type=number id=ppmin min=0 step=100> ~ 최대 <input type=number id=ppmax min=0 step=100></div>`
+    +`<p class=muted style="margin-top:4px;font-size:12px">입력 시 실거래 없는 단지는 제외됩니다.</p>`;
+  F.querySelectorAll(".chip[data-k='units_min']").forEach(c=>c.onclick=()=>{
+    const v=+c.dataset.v; const prev=S.units_min;
+    S.units_min=(prev===v?null:v);
+    F.querySelectorAll(".chip[data-k='units_min']").forEach(x=>x.classList.toggle("on",+x.dataset.v===S.units_min));
+    render();});
+  F.querySelectorAll(".chip:not([data-k='units_min'])").forEach(c=>c.onclick=()=>{const k=c.dataset.k,v=c.dataset.v;S[k].has(v)?S[k].delete(v):S[k].add(v);c.classList.toggle("on");render();});
   document.getElementById("q").oninput=e=>{S.q=e.target.value.trim();render();};
   document.getElementById("emin").oninput=e=>{S.emin=e.target.value===""?null:+e.target.value;render();};
   document.getElementById("emax").oninput=e=>{S.emax=e.target.value===""?null:+e.target.value;render();};
+  document.getElementById("ppmin").oninput=e=>{S.ppmin=e.target.value===""?null:+e.target.value;render();};
+  document.getElementById("ppmax").oninput=e=>{S.ppmax=e.target.value===""?null:+e.target.value;render();};
   // 헤더
   document.getElementById("thead").innerHTML="<tr>"+COLS.map(c=>
-    `<th class="${c.num?'num':''}" data-k="${c.k}">${c.t}<span class=ar data-ar="${c.k}"></span></th>`).join("")+"</tr>";
+    `<th class="${[c.num?'num':'',c.extra?'extra-col':''].filter(Boolean).join(' ')}" data-k="${c.k}">${c.t}<span class=ar data-ar="${c.k}"></span></th>`).join("")+"</tr>";
   document.querySelectorAll("#thead th").forEach(th=>th.onclick=()=>{
     const k=th.dataset.k; if(S.sort===k)S.dir*=-1; else{S.sort=k;S.dir=(COLS.find(c=>c.k===k).num?-1:1);} render();});
   document.getElementById("foot").innerHTML=
@@ -102,10 +173,16 @@ function passFilter(x){
   if(S.area.size&&!S.area.has(x.area_band)) return false;
   if(S.decade.size&&!S.decade.has(x.decade)) return false;
   if(S.ptype.size&&!S.ptype.has(x.product_type)) return false;
+  if(S.units_min!=null&&x.units<S.units_min) return false;
   if(S.emin!=null||S.emax!=null){
     if(x.molit_recent_eok==null) return false;
     if(S.emin!=null&&x.molit_recent_eok<S.emin) return false;
     if(S.emax!=null&&x.molit_recent_eok>S.emax) return false;
+  }
+  if(S.ppmin!=null||S.ppmax!=null){
+    if(x.pyeong_price_man==null) return false;
+    if(S.ppmin!=null&&x.pyeong_price_man<S.ppmin) return false;
+    if(S.ppmax!=null&&x.pyeong_price_man>S.ppmax) return false;
   }
   return true;
 }
@@ -123,7 +200,7 @@ function render(){
   document.querySelectorAll("[data-ar]").forEach(s=>s.textContent="");
   const ar=document.querySelector(`[data-ar="${S.sort}"]`); if(ar)ar.textContent=S.dir<0?"▼":"▲";
   document.getElementById("tbody").innerHTML=cx.slice(0,600).map(r=>"<tr>"+COLS.map(c=>
-    `<td class="${c.num?'num':''}">${c.fmt?c.fmt(r):esc(c.get?c.get(r):r[c.k])}</td>`).join("")+"</tr>").join("")
+    `<td class="${[c.num?'num':'',c.extra?'extra-col':''].filter(Boolean).join(' ')}">${c.fmt?c.fmt(r):esc(c.get?c.get(r):r[c.k])}</td>`).join("")+"</tr>").join("")
     +(cx.length>600?`<tr><td colspan=${COLS.length} class=muted>…상위 600개 표시(필터를 좁히면 전체)</td></tr>`:"");
 }
 </script>
