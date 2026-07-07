@@ -1,0 +1,10 @@
+{"name": "신동아리버파크", "gu": "동작", "claim": "recent_transaction_median_eok", "value": 12.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-08", "n": 36, "area_m2": 59.0}
+{"name": "신동아리버파크", "gu": "동작", "claim": "transaction_iqr_eok", "p25": 11.26, "p75": 14.53, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-08", "n": 36, "area_m2": 59.0}
+{"name": "신동아리버파크", "gu": "동작", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 30.0, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-08", "n": 36, "area_m2": 59.0}
+{"name": "신동아리버파크", "gu": "동작", "claim": "position_in_52w_range_pct", "value": 89, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-08", "n": 36, "area_m2": 59.0}
+{"name": "신동아리버파크", "gu": "동작", "claim": "units", "value": 1696, "grade": "fact", "source": "public_record"}
+{"name": "신동아리버파크", "gu": "동작", "claim": "built_year", "value": 2001, "grade": "fact", "source": "public_record"}
+{"name": "사당자이", "gu": "동작", "claim": "recent_transaction_median_eok", "value": 10.59, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-08", "n": 16, "area_m2": 84.0}
+{"name": "사당자이", "gu": "동작", "claim": "transaction_iqr_eok", "p25": 10.39, "p75": 10.89, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-08", "n": 16, "area_m2": 84.0}
+{"name": "사당자이", "gu": "동작", "claim": "units", "value": 719, "grade": "fact", "source": "public_record"}
+{"name": "사당자이", "gu": "동작", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}

@@ -1,0 +1,24 @@
+{"name": "마포한화오벨리스크", "gu": "마포", "claim": "recent_transaction_median_eok", "value": 5.57, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-08", "n": 25, "area_m2": 36.0}
+{"name": "마포한화오벨리스크", "gu": "마포", "claim": "transaction_iqr_eok", "p25": 5.37, "p75": 5.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-08", "n": 25, "area_m2": 36.0}
+{"name": "마포한화오벨리스크", "gu": "마포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 1.6, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-08", "n": 25, "area_m2": 36.0}
+{"name": "마포한화오벨리스크", "gu": "마포", "claim": "position_in_52w_range_pct", "value": 63, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-08", "n": 25, "area_m2": 36.0}
+{"name": "마포한화오벨리스크", "gu": "마포", "claim": "units", "value": 662, "grade": "fact", "source": "public_record"}
+{"name": "마포한화오벨리스크", "gu": "마포", "claim": "built_year", "value": 2004, "grade": "fact", "source": "public_record"}
+{"name": "메트로디오빌", "gu": "마포", "claim": "recent_transaction_median_eok", "value": 3.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-08", "n": 5, "area_m2": 34.0}
+{"name": "메트로디오빌", "gu": "마포", "claim": "transaction_iqr_eok", "p25": 3.0, "p75": 3.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-08", "n": 5, "area_m2": 34.0}
+{"name": "메트로디오빌", "gu": "마포", "claim": "units", "value": 242, "grade": "fact", "source": "public_record"}
+{"name": "메트로디오빌", "gu": "마포", "claim": "built_year", "value": 2005, "grade": "fact", "source": "public_record"}
+{"name": "서교대우미래사랑", "gu": "마포", "claim": "recent_transaction_median_eok", "value": 3.04, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-08", "n": 12, "area_m2": 34.0}
+{"name": "서교대우미래사랑", "gu": "마포", "claim": "transaction_iqr_eok", "p25": 3.0, "p75": 3.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-08", "n": 12, "area_m2": 34.0}
+{"name": "서교대우미래사랑", "gu": "마포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": -2.4, "direction": "▼", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-08", "n": 12, "area_m2": 34.0}
+{"name": "서교대우미래사랑", "gu": "마포", "claim": "position_in_52w_range_pct", "value": 33, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-08", "n": 12, "area_m2": 34.0}
+{"name": "서교대우미래사랑", "gu": "마포", "claim": "units", "value": 366, "grade": "fact", "source": "public_record"}
+{"name": "서교대우미래사랑", "gu": "마포", "claim": "built_year", "value": 2005, "grade": "fact", "source": "public_record"}
+{"name": "현대벤처빌", "gu": "마포", "claim": "recent_transaction_median_eok", "value": 2.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-08", "n": 8, "area_m2": 34.0}
+{"name": "현대벤처빌", "gu": "마포", "claim": "transaction_iqr_eok", "p25": 2.74, "p75": 2.81, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-08", "n": 8, "area_m2": 34.0}
+{"name": "현대벤처빌", "gu": "마포", "claim": "units", "value": 203, "grade": "fact", "source": "public_record"}
+{"name": "현대벤처빌", "gu": "마포", "claim": "built_year", "value": 2002, "grade": "fact", "source": "public_record"}
+{"name": "성산월드타운대림", "gu": "마포", "claim": "units", "value": 795, "grade": "fact", "source": "public_record"}
+{"name": "성산월드타운대림", "gu": "마포", "claim": "built_year", "value": 2004, "grade": "fact", "source": "public_record"}
+{"name": "신촌포스빌", "gu": "마포", "claim": "units", "value": 350, "grade": "fact", "source": "public_record"}
+{"name": "신촌포스빌", "gu": "마포", "claim": "built_year", "value": 2004, "grade": "fact", "source": "public_record"}
