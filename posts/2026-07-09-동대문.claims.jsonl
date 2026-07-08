@@ -1,7 +1,7 @@
-{"name": "래미안장안2차", "gu": "동대문", "claim": "recent_transaction_median_eok", "value": 11.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-09", "n": 46, "area_m2": 81.0}
-{"name": "래미안장안2차", "gu": "동대문", "claim": "transaction_iqr_eok", "p25": 10.53, "p75": 12.11, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-09", "n": 46, "area_m2": 81.0}
-{"name": "래미안장안2차", "gu": "동대문", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 13.9, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-09", "n": 46, "area_m2": 81.0}
-{"name": "래미안장안2차", "gu": "동대문", "claim": "position_in_52w_range_pct", "value": 85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-09", "n": 46, "area_m2": 81.0}
+{"name": "래미안장안2차", "gu": "동대문", "claim": "recent_transaction_median_eok", "value": 11.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-09", "n": 47, "area_m2": 81.0}
+{"name": "래미안장안2차", "gu": "동대문", "claim": "transaction_iqr_eok", "p25": 10.56, "p75": 12.16, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-09", "n": 47, "area_m2": 81.0}
+{"name": "래미안장안2차", "gu": "동대문", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 14.5, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-09", "n": 47, "area_m2": 81.0}
+{"name": "래미안장안2차", "gu": "동대문", "claim": "position_in_52w_range_pct", "value": 85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-09", "n": 47, "area_m2": 81.0}
 {"name": "래미안장안2차", "gu": "동대문", "claim": "units", "value": 1786, "grade": "fact", "source": "public_record"}
 {"name": "래미안장안2차", "gu": "동대문", "claim": "built_year", "value": 2007, "grade": "fact", "source": "public_record"}
 {"name": "두산", "gu": "동대문", "claim": "recent_transaction_median_eok", "value": 10.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-09", "n": 30, "area_m2": 59.0}

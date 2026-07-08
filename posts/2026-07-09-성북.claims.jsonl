@@ -100,10 +100,10 @@
 {"name": "돈암현대", "gu": "성북", "claim": "recent_transaction_median_eok", "value": 7.03, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-09", "n": 4, "area_m2": 84.0}
 {"name": "돈암현대", "gu": "성북", "claim": "units", "value": 619, "grade": "fact", "source": "public_record"}
 {"name": "돈암현대", "gu": "성북", "claim": "built_year", "value": 1991, "grade": "fact", "source": "public_record"}
-{"name": "정릉풍림아이원", "gu": "성북", "claim": "recent_transaction_median_eok", "value": 6.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-09", "n": 35, "area_m2": 84.0}
-{"name": "정릉풍림아이원", "gu": "성북", "claim": "transaction_iqr_eok", "p25": 6.47, "p75": 6.83, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-09", "n": 35, "area_m2": 84.0}
-{"name": "정릉풍림아이원", "gu": "성북", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 5.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-09", "n": 35, "area_m2": 84.0}
-{"name": "정릉풍림아이원", "gu": "성북", "claim": "position_in_52w_range_pct", "value": 70, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-09", "n": 35, "area_m2": 84.0}
+{"name": "정릉풍림아이원", "gu": "성북", "claim": "recent_transaction_median_eok", "value": 6.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-09", "n": 36, "area_m2": 84.0}
+{"name": "정릉풍림아이원", "gu": "성북", "claim": "transaction_iqr_eok", "p25": 6.48, "p75": 6.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-09", "n": 36, "area_m2": 84.0}
+{"name": "정릉풍림아이원", "gu": "성북", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 5.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-09", "n": 36, "area_m2": 84.0}
+{"name": "정릉풍림아이원", "gu": "성북", "claim": "position_in_52w_range_pct", "value": 70, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-09", "n": 36, "area_m2": 84.0}
 {"name": "정릉풍림아이원", "gu": "성북", "claim": "units", "value": 1971, "grade": "fact", "source": "public_record"}
 {"name": "정릉풍림아이원", "gu": "성북", "claim": "built_year", "value": 2005, "grade": "fact", "source": "public_record"}
 {"name": "길음뉴타운 경남아너스빌", "gu": "성북", "claim": "recent_transaction_median_eok", "value": 5.99, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-09", "n": 10, "area_m2": 50.0}
