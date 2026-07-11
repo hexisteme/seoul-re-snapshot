@@ -51,7 +51,8 @@ tbody tr:hover{background:#f6faff}
   </main>
 </div>
 <script>
-const S={q:"",gu:new Set(),area:new Set(),decade:new Set(),ptype:new Set(),emin:null,emax:null,units_min:null,ppmin:null,ppmax:null,sort:"molit_recent_eok",dir:-1};
+const S={q:"",gu:new Set(),area:new Set(),decade:new Set(),ptype:new Set(),seg:new Set(),emin:null,emax:null,units_min:null,ppmin:null,ppmax:null,sort:"molit_recent_eok",dir:-1};
+const SEG_ORDER=["6억 이하","6~10억","10~15억","15억 초과"];
 let DB=null;
 const COLS=[
   {k:"name",t:"단지명",num:false},
@@ -64,6 +65,8 @@ const COLS=[
      fmt:r=>r.molit_recent_eok!=null?`<b>${r.molit_recent_eok}억</b><sup class=sup> F</sup> <span class=muted>n${r.molit_n}</span>`
        +(r.molit_p25_eok!=null?`<br><span class=muted>${r.molit_p25_eok}–${r.molit_recent_eok}–${r.molit_p75_eok} <span class=sup>P25·중위·P75</span></span>`:``)
        :`<span class=muted>—</span>`},
+  {k:"price_segment",t:"가격대",num:false,
+   fmt:r=>r.price_segment?`<span class=tag>${esc(r.price_segment)}</span>`:`<span class=muted>—</span>`},
   {k:"molit_trend_pct",t:"추세<span class=muted style=font-weight:400> 3/9개월</span>",num:true,
      fmt:r=>r.molit_trend_pct!=null?`${r.molit_trend_dir}${Math.abs(r.molit_trend_pct)}%<sup class=sup> F</sup>`:`<span class=muted>—</span>`},
   {k:"molit_pos_52w",t:"52주위치<span class=muted style=font-weight:400> 최근3개월</span>",num:true,
@@ -93,10 +96,16 @@ const COLS=[
    fmt:r=>r.tukmokgo_pct!=null?`${r.tukmokgo_pct}%`:`<span class=muted>—</span>`},
   {k:"school_achievement",t:"학업성취도",num:true,extra:true,
    fmt:r=>r.school_achievement!=null?`${r.school_achievement}%`:`<span class=muted>—</span>`},
-  {k:"gu_jeonse_ratio_pct",t:"전세가율",num:true,extra:true,
-   fmt:r=>r.gu_jeonse_ratio_pct!=null?`${r.gu_jeonse_ratio_pct}%<span class=muted> 구중위</span>`:`<span class=muted>—</span>`},
+  {k:"gu_jeonse_ratio_pct",t:"전세가율(서울전체)",num:true,extra:true,
+   fmt:r=>r.gu_jeonse_ratio_pct!=null?`${r.gu_jeonse_ratio_pct}%<span class=muted> 서울전체 R-ONE</span>`:`<span class=muted>—</span>`},
+  {k:"jeonse_ratio_complex_pct",t:"전세가율(단지)",num:true,extra:true,
+   fmt:r=>r.jeonse_ratio_complex_pct!=null?`${r.jeonse_ratio_complex_pct}%<sup class=sup> F</sup>`:`<span class=muted>—</span>`},
+  {k:"gap_eok",t:"매매-전세 갭",num:true,extra:true,
+   fmt:r=>r.gap_eok!=null?`${r.gap_eok}억<sup class=sup> F</sup><br><span class=muted>전세${r.jeonse_recent_eok}억 n${r.jeonse_n}</span>`:`<span class=muted>—</span>`},
   {k:"trade_annual",t:"연거래수",num:true,extra:true,
    fmt:r=>r.trade_annual!=null?`${r.trade_annual}건/년`:`<span class=muted>—</span>`},
+  {k:"turnover_pct",t:"거래회전율",num:true,extra:true,
+   fmt:r=>r.turnover_pct!=null?`${r.turnover_pct}%<sup class=sup> F</sup>`:`<span class=muted>—</span>`},
   {k:"transit",t:"입지",num:false,extra:true,
    fmt:r=>r.transit?`<span class=muted>${esc(r.transit)}</span>`:`<span class=muted>—</span>`},
   {k:"mart_800",t:"마트(800m)",num:true,extra:true,
@@ -137,6 +146,8 @@ function init(){
     +mk("평형","area",["~59㎡","60-84㎡","85-114㎡","115㎡+"].filter(b=>cx.some(x=>x.area_band===b)))
     +mk("연식","decade",uniq(cx.map(x=>x.decade)).sort())
     +mk("유형","ptype",uniq(cx.map(x=>x.product_type)).sort())
+    +mk("가격대<span class=muted style=font-weight:400> (실거래 중위 구간·사실)</span>","seg",
+        SEG_ORDER.filter(v=>cx.some(x=>x.price_segment===v)))
     +`<h3>세대수 최소</h3><div>`
     +["200+","500+","1000+","2000+"].map(v=>`<span class=chip data-k="units_min" data-v="${v}">${v}</span>`).join("")
     +`</div>`
@@ -165,6 +176,9 @@ function init(){
     +`<br>• 가격은 국토부 공공 실거래가(12개월 동일평형 중위)만 표시 — 사설 시세(호가)는 게재하지 않습니다. <sup class=sup>F</sup>=공공 실거래 사실, n=표본수.`
     +`<br>• P25·중위·P75 = 동일평형 실거래 분위수(협상 레인지). 추세 = 최근3개월 중위 vs 직전9개월 중위(과거 비교 사실 — 전망 아님). 52주위치 = <b>최근 3개월 체결 중위</b>가 12개월(52주) 실거래 최저~최고 레인지에서 차지하는 위치(%) — 헤드라인 중위(12개월)와 기준점 다름(최근 거래 없으면 —). 표본 부족 구간은 —.`
     +`<br>• 자체 평가·점수·순위를 매기지 않습니다. 공개된 사실 수치만 제공합니다.`
+    +`<br>• <b>가격대</b> = 매매 중위 기준 단순 구간화(사실)이며 대출 적격·추천을 의미하지 않습니다 — 대출 가능 여부·금리·한도는 소득 등 개별조건에 따라 다르므로 은행 등 금융기관에 직접 확인하십시오.`
+    +`<br>• <b>전세가율(단지)</b>·<b>매매-전세 갭</b> = 동일평형 전세 실거래(공공 RTMS) 매칭 사실. <b>전세가율(서울전체)</b>은 개별 단지가 아닌 한국부동산원 R-ONE 서울 전체 월간 평균(참고용 거시지표)입니다.`
+    +`<br>• <b>거래회전율</b> = 그 단지 12개월 전체 실거래 건수÷세대수×100(%) — 거주만족·매물희소 등 다양한 이유로 낮을 수 있어 '환금성 나쁨'의 단정적 지표가 아닙니다.`
     +`<br>• ${esc(DB.takedown)}`;
 }
 function passFilter(x){
@@ -173,6 +187,7 @@ function passFilter(x){
   if(S.area.size&&!S.area.has(x.area_band)) return false;
   if(S.decade.size&&!S.decade.has(x.decade)) return false;
   if(S.ptype.size&&!S.ptype.has(x.product_type)) return false;
+  if(S.seg.size&&!S.seg.has(x.price_segment)) return false;
   if(S.units_min!=null&&x.units<S.units_min) return false;
   if(S.emin!=null||S.emax!=null){
     if(x.molit_recent_eok==null) return false;
