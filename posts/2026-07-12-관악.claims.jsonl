@@ -1,0 +1,130 @@
+{"name": "e편한세상서울대입구2차", "gu": "관악", "claim": "recent_transaction_median_eok", "value": 13.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 93, "area_m2": 85.0}
+{"name": "e편한세상서울대입구2차", "gu": "관악", "claim": "transaction_iqr_eok", "p25": 13.0, "p75": 14.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 93, "area_m2": 85.0}
+{"name": "e편한세상서울대입구2차", "gu": "관악", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 9.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 93, "area_m2": 85.0}
+{"name": "e편한세상서울대입구2차", "gu": "관악", "claim": "position_in_52w_range_pct", "value": 58, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 93, "area_m2": 85.0}
+{"name": "e편한세상서울대입구2차", "gu": "관악", "claim": "sale_jeonse_gap_eok", "value": 6.4, "jeonse_median_eok": 7.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 173, "area_m2": 85.0}
+{"name": "e편한세상서울대입구2차", "gu": "관악", "claim": "annual_trade_count", "value": 37.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12"}
+{"name": "e편한세상서울대입구2차", "gu": "관악", "claim": "units", "value": 519, "grade": "fact", "source": "public_record"}
+{"name": "e편한세상서울대입구2차", "gu": "관악", "claim": "built_year", "value": 2020, "grade": "fact", "source": "public_record"}
+{"name": "두산", "gu": "관악", "claim": "recent_transaction_median_eok", "value": 10.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 57, "area_m2": 60.0}
+{"name": "두산", "gu": "관악", "claim": "transaction_iqr_eok", "p25": 9.5, "p75": 11.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 57, "area_m2": 60.0}
+{"name": "두산", "gu": "관악", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 23.2, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 57, "area_m2": 60.0}
+{"name": "두산", "gu": "관악", "claim": "position_in_52w_range_pct", "value": 86, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 57, "area_m2": 60.0}
+{"name": "두산", "gu": "관악", "claim": "sale_jeonse_gap_eok", "value": 4.9, "jeonse_median_eok": 5.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 66, "area_m2": 60.0}
+{"name": "두산", "gu": "관악", "claim": "annual_trade_count", "value": 130.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12"}
+{"name": "두산", "gu": "관악", "claim": "units", "value": 2001, "grade": "fact", "source": "public_record"}
+{"name": "두산", "gu": "관악", "claim": "built_year", "value": 2000, "grade": "fact", "source": "public_record"}
+{"name": "관악파크푸르지오", "gu": "관악", "claim": "recent_transaction_median_eok", "value": 9.95, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 20, "area_m2": 85.0}
+{"name": "관악파크푸르지오", "gu": "관악", "claim": "transaction_iqr_eok", "p25": 9.34, "p75": 10.71, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 20, "area_m2": 85.0}
+{"name": "관악파크푸르지오", "gu": "관악", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 20.9, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 20, "area_m2": 85.0}
+{"name": "관악파크푸르지오", "gu": "관악", "claim": "position_in_52w_range_pct", "value": 98, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 20, "area_m2": 85.0}
+{"name": "관악파크푸르지오", "gu": "관악", "claim": "sale_jeonse_gap_eok", "value": 3.95, "jeonse_median_eok": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 23, "area_m2": 85.0}
+{"name": "관악파크푸르지오", "gu": "관악", "claim": "annual_trade_count", "value": 44.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12"}
+{"name": "관악파크푸르지오", "gu": "관악", "claim": "units", "value": 363, "grade": "fact", "source": "public_record"}
+{"name": "관악파크푸르지오", "gu": "관악", "claim": "built_year", "value": 2014, "grade": "fact", "source": "public_record"}
+{"name": "관악푸르지오", "gu": "관악", "claim": "recent_transaction_median_eok", "value": 9.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 103, "area_m2": 59.5}
+{"name": "관악푸르지오", "gu": "관악", "claim": "transaction_iqr_eok", "p25": 8.75, "p75": 11.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 103, "area_m2": 59.5}
+{"name": "관악푸르지오", "gu": "관악", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 25.6, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 103, "area_m2": 59.5}
+{"name": "관악푸르지오", "gu": "관악", "claim": "position_in_52w_range_pct", "value": 88, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 103, "area_m2": 59.5}
+{"name": "관악푸르지오", "gu": "관악", "claim": "sale_jeonse_gap_eok", "value": 4.5, "jeonse_median_eok": 4.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 143, "area_m2": 59.5}
+{"name": "관악푸르지오", "gu": "관악", "claim": "annual_trade_count", "value": 151.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12"}
+{"name": "관악푸르지오", "gu": "관악", "claim": "units", "value": 2104, "grade": "fact", "source": "public_record"}
+{"name": "관악푸르지오", "gu": "관악", "claim": "built_year", "value": 2004, "grade": "fact", "source": "public_record"}
+{"name": "관악동부센트레빌", "gu": "관악", "claim": "recent_transaction_median_eok", "value": 8.82, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 24, "area_m2": 60.0}
+{"name": "관악동부센트레빌", "gu": "관악", "claim": "transaction_iqr_eok", "p25": 7.96, "p75": 9.34, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 24, "area_m2": 60.0}
+{"name": "관악동부센트레빌", "gu": "관악", "claim": "recent3m_vs_prior9m_median_change_pct", "value": -7.2, "direction": "▼", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 24, "area_m2": 60.0}
+{"name": "관악동부센트레빌", "gu": "관악", "claim": "position_in_52w_range_pct", "value": 47, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 24, "area_m2": 60.0}
+{"name": "관악동부센트레빌", "gu": "관악", "claim": "sale_jeonse_gap_eok", "value": 3.72, "jeonse_median_eok": 5.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 35, "area_m2": 60.0}
+{"name": "관악동부센트레빌", "gu": "관악", "claim": "annual_trade_count", "value": 21.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12"}
+{"name": "관악동부센트레빌", "gu": "관악", "claim": "units", "value": 487, "grade": "fact", "source": "public_record"}
+{"name": "관악동부센트레빌", "gu": "관악", "claim": "built_year", "value": 2004, "grade": "fact", "source": "public_record"}
+{"name": "서울대입구삼성", "gu": "관악", "claim": "recent_transaction_median_eok", "value": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 23, "area_m2": 60.0}
+{"name": "서울대입구삼성", "gu": "관악", "claim": "transaction_iqr_eok", "p25": 7.47, "p75": 9.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 23, "area_m2": 60.0}
+{"name": "서울대입구삼성", "gu": "관악", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 28.7, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 23, "area_m2": 60.0}
+{"name": "서울대입구삼성", "gu": "관악", "claim": "position_in_52w_range_pct", "value": 82, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 23, "area_m2": 60.0}
+{"name": "서울대입구삼성", "gu": "관악", "claim": "sale_jeonse_gap_eok", "value": 3.0, "jeonse_median_eok": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 39, "area_m2": 60.0}
+{"name": "서울대입구삼성", "gu": "관악", "claim": "annual_trade_count", "value": 12.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12"}
+{"name": "서울대입구삼성", "gu": "관악", "claim": "units", "value": 254, "grade": "fact", "source": "public_record"}
+{"name": "서울대입구삼성", "gu": "관악", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "서울대입구아이원", "gu": "관악", "claim": "recent_transaction_median_eok", "value": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 23, "area_m2": 60.0}
+{"name": "서울대입구아이원", "gu": "관악", "claim": "transaction_iqr_eok", "p25": 7.47, "p75": 9.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 23, "area_m2": 60.0}
+{"name": "서울대입구아이원", "gu": "관악", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 28.7, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 23, "area_m2": 60.0}
+{"name": "서울대입구아이원", "gu": "관악", "claim": "position_in_52w_range_pct", "value": 82, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 23, "area_m2": 60.0}
+{"name": "서울대입구아이원", "gu": "관악", "claim": "sale_jeonse_gap_eok", "value": 3.0, "jeonse_median_eok": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 39, "area_m2": 60.0}
+{"name": "서울대입구아이원", "gu": "관악", "claim": "annual_trade_count", "value": 28.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12"}
+{"name": "서울대입구아이원", "gu": "관악", "claim": "units", "value": 374, "grade": "fact", "source": "public_record"}
+{"name": "서울대입구아이원", "gu": "관악", "claim": "built_year", "value": 2006, "grade": "fact", "source": "public_record"}
+{"name": "낙성대현대홈타운", "gu": "관악", "claim": "recent_transaction_median_eok", "value": 7.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 63, "area_m2": 58.5}
+{"name": "낙성대현대홈타운", "gu": "관악", "claim": "transaction_iqr_eok", "p25": 7.21, "p75": 8.66, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 63, "area_m2": 58.5}
+{"name": "낙성대현대홈타운", "gu": "관악", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 28.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 63, "area_m2": 58.5}
+{"name": "낙성대현대홈타운", "gu": "관악", "claim": "position_in_52w_range_pct", "value": 87, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 63, "area_m2": 58.5}
+{"name": "낙성대현대홈타운", "gu": "관악", "claim": "sale_jeonse_gap_eok", "value": 3.5, "jeonse_median_eok": 4.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 70, "area_m2": 58.5}
+{"name": "낙성대현대홈타운", "gu": "관악", "claim": "annual_trade_count", "value": 14.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12"}
+{"name": "낙성대현대홈타운", "gu": "관악", "claim": "units", "value": 297, "grade": "fact", "source": "public_record"}
+{"name": "낙성대현대홈타운", "gu": "관악", "claim": "built_year", "value": 2002, "grade": "fact", "source": "public_record"}
+{"name": "관악산휴먼시아1단지", "gu": "관악", "claim": "recent_transaction_median_eok", "value": 7.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 69, "area_m2": 85.0}
+{"name": "관악산휴먼시아1단지", "gu": "관악", "claim": "transaction_iqr_eok", "p25": 6.8, "p75": 7.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 69, "area_m2": 85.0}
+{"name": "관악산휴먼시아1단지", "gu": "관악", "claim": "recent3m_vs_prior9m_median_change_pct", "value": -0.4, "direction": "▼", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 69, "area_m2": 85.0}
+{"name": "관악산휴먼시아1단지", "gu": "관악", "claim": "position_in_52w_range_pct", "value": 80, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 69, "area_m2": 85.0}
+{"name": "관악산휴먼시아1단지", "gu": "관악", "claim": "sale_jeonse_gap_eok", "value": 2.8, "jeonse_median_eok": 4.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 73, "area_m2": 85.0}
+{"name": "관악산휴먼시아1단지", "gu": "관악", "claim": "annual_trade_count", "value": 22.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12"}
+{"name": "관악산휴먼시아1단지", "gu": "관악", "claim": "units", "value": 545, "grade": "fact", "source": "public_record"}
+{"name": "관악산휴먼시아1단지", "gu": "관악", "claim": "built_year", "value": 2008, "grade": "fact", "source": "public_record"}
+{"name": "관악산휴먼시아2단지", "gu": "관악", "claim": "recent_transaction_median_eok", "value": 7.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 69, "area_m2": 85.0}
+{"name": "관악산휴먼시아2단지", "gu": "관악", "claim": "transaction_iqr_eok", "p25": 6.8, "p75": 7.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 69, "area_m2": 85.0}
+{"name": "관악산휴먼시아2단지", "gu": "관악", "claim": "recent3m_vs_prior9m_median_change_pct", "value": -0.4, "direction": "▼", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 69, "area_m2": 85.0}
+{"name": "관악산휴먼시아2단지", "gu": "관악", "claim": "position_in_52w_range_pct", "value": 80, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 69, "area_m2": 85.0}
+{"name": "관악산휴먼시아2단지", "gu": "관악", "claim": "sale_jeonse_gap_eok", "value": 2.8, "jeonse_median_eok": 4.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 73, "area_m2": 85.0}
+{"name": "관악산휴먼시아2단지", "gu": "관악", "claim": "annual_trade_count", "value": 136.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12"}
+{"name": "관악산휴먼시아2단지", "gu": "관악", "claim": "units", "value": 2265, "grade": "fact", "source": "public_record"}
+{"name": "관악산휴먼시아2단지", "gu": "관악", "claim": "built_year", "value": 2008, "grade": "fact", "source": "public_record"}
+{"name": "신림동부센트레빌", "gu": "관악", "claim": "recent_transaction_median_eok", "value": 6.35, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 14, "area_m2": 50.5}
+{"name": "신림동부센트레빌", "gu": "관악", "claim": "transaction_iqr_eok", "p25": 6.13, "p75": 6.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 14, "area_m2": 50.5}
+{"name": "신림동부센트레빌", "gu": "관악", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 4.9, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 14, "area_m2": 50.5}
+{"name": "신림동부센트레빌", "gu": "관악", "claim": "position_in_52w_range_pct", "value": 74, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 14, "area_m2": 50.5}
+{"name": "신림동부센트레빌", "gu": "관악", "claim": "sale_jeonse_gap_eok", "value": 2.35, "jeonse_median_eok": 4.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 9, "area_m2": 50.5}
+{"name": "신림동부센트레빌", "gu": "관악", "claim": "annual_trade_count", "value": 7.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12"}
+{"name": "신림동부센트레빌", "gu": "관악", "claim": "units", "value": 213, "grade": "fact", "source": "public_record"}
+{"name": "신림동부센트레빌", "gu": "관악", "claim": "built_year", "value": 2006, "grade": "fact", "source": "public_record"}
+{"name": "일두", "gu": "관악", "claim": "recent_transaction_median_eok", "value": 5.32, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 11, "area_m2": 57.5}
+{"name": "일두", "gu": "관악", "claim": "transaction_iqr_eok", "p25": 5.14, "p75": 5.72, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 11, "area_m2": 57.5}
+{"name": "일두", "gu": "관악", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 14.5, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 11, "area_m2": 57.5}
+{"name": "일두", "gu": "관악", "claim": "position_in_52w_range_pct", "value": 93, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 11, "area_m2": 57.5}
+{"name": "일두", "gu": "관악", "claim": "sale_jeonse_gap_eok", "value": 2.52, "jeonse_median_eok": 2.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 7, "area_m2": 57.5}
+{"name": "일두", "gu": "관악", "claim": "annual_trade_count", "value": 16.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12"}
+{"name": "일두", "gu": "관악", "claim": "units", "value": 204, "grade": "fact", "source": "public_record"}
+{"name": "일두", "gu": "관악", "claim": "built_year", "value": 1985, "grade": "fact", "source": "public_record"}
+{"name": "신봉", "gu": "관악", "claim": "recent_transaction_median_eok", "value": 4.97, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 4, "area_m2": 60.0}
+{"name": "신봉", "gu": "관악", "claim": "sale_jeonse_gap_eok", "value": 0.88, "jeonse_median_eok": 4.09, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 12, "area_m2": 60.0}
+{"name": "신봉", "gu": "관악", "claim": "annual_trade_count", "value": 2.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12"}
+{"name": "신봉", "gu": "관악", "claim": "units", "value": 277, "grade": "fact", "source": "public_record"}
+{"name": "신봉", "gu": "관악", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "국제산장", "gu": "관악", "claim": "recent_transaction_median_eok", "value": 4.93, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 17, "area_m2": 84.0}
+{"name": "국제산장", "gu": "관악", "claim": "transaction_iqr_eok", "p25": 4.79, "p75": 5.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 17, "area_m2": 84.0}
+{"name": "국제산장", "gu": "관악", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 1.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 17, "area_m2": 84.0}
+{"name": "국제산장", "gu": "관악", "claim": "position_in_52w_range_pct", "value": 63, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 17, "area_m2": 84.0}
+{"name": "국제산장", "gu": "관악", "claim": "sale_jeonse_gap_eok", "value": 1.33, "jeonse_median_eok": 3.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 16, "area_m2": 84.0}
+{"name": "국제산장", "gu": "관악", "claim": "annual_trade_count", "value": 19.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12"}
+{"name": "국제산장", "gu": "관악", "claim": "units", "value": 630, "grade": "fact", "source": "public_record"}
+{"name": "국제산장", "gu": "관악", "claim": "built_year", "value": 1993, "grade": "fact", "source": "public_record"}
+{"name": "신림현대", "gu": "관악", "claim": "recent_transaction_median_eok", "value": 4.41, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 42, "area_m2": 35.0}
+{"name": "신림현대", "gu": "관악", "claim": "transaction_iqr_eok", "p25": 4.29, "p75": 4.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 42, "area_m2": 35.0}
+{"name": "신림현대", "gu": "관악", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 4.2, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 42, "area_m2": 35.0}
+{"name": "신림현대", "gu": "관악", "claim": "position_in_52w_range_pct", "value": 71, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 42, "area_m2": 35.0}
+{"name": "신림현대", "gu": "관악", "claim": "sale_jeonse_gap_eok", "value": 1.79, "jeonse_median_eok": 2.62, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 52, "area_m2": 35.0}
+{"name": "신림현대", "gu": "관악", "claim": "annual_trade_count", "value": 115.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12"}
+{"name": "신림현대", "gu": "관악", "claim": "units", "value": 1634, "grade": "fact", "source": "public_record"}
+{"name": "신림현대", "gu": "관악", "claim": "built_year", "value": 1993, "grade": "fact", "source": "public_record"}
+{"name": "현대", "gu": "관악", "claim": "recent_transaction_median_eok", "value": 4.41, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 42, "area_m2": 35.0}
+{"name": "현대", "gu": "관악", "claim": "transaction_iqr_eok", "p25": 4.29, "p75": 4.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 42, "area_m2": 35.0}
+{"name": "현대", "gu": "관악", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 4.2, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 42, "area_m2": 35.0}
+{"name": "현대", "gu": "관악", "claim": "position_in_52w_range_pct", "value": 71, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 42, "area_m2": 35.0}
+{"name": "현대", "gu": "관악", "claim": "sale_jeonse_gap_eok", "value": 1.79, "jeonse_median_eok": 2.62, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 52, "area_m2": 35.0}
+{"name": "현대", "gu": "관악", "claim": "annual_trade_count", "value": 120.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12"}
+{"name": "현대", "gu": "관악", "claim": "units", "value": 336, "grade": "fact", "source": "public_record"}
+{"name": "현대", "gu": "관악", "claim": "built_year", "value": 1991, "grade": "fact", "source": "public_record"}
+{"name": "인헌", "gu": "관악", "claim": "recent_transaction_median_eok", "value": 3.65, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 3, "area_m2": 60.0}
+{"name": "인헌", "gu": "관악", "claim": "sale_jeonse_gap_eok", "value": -0.05, "jeonse_median_eok": 3.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12", "n": 6, "area_m2": 60.0}
+{"name": "인헌", "gu": "관악", "claim": "annual_trade_count", "value": 1.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-12"}
+{"name": "인헌", "gu": "관악", "claim": "units", "value": 216, "grade": "fact", "source": "public_record"}
+{"name": "인헌", "gu": "관악", "claim": "built_year", "value": 1998, "grade": "fact", "source": "public_record"}
