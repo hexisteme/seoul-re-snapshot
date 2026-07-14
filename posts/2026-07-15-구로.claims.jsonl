@@ -1,0 +1,528 @@
+{"name": "대림", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 11.18, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 84, "area_m2": 60.0}
+{"name": "대림", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 10.1, "p75": 12.32, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 84, "area_m2": 60.0}
+{"name": "대림", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 22.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 84, "area_m2": 60.0}
+{"name": "대림", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 84, "area_m2": 60.0}
+{"name": "대림", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 6.04, "jeonse_median_eok": 5.14, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 97, "area_m2": 60.0}
+{"name": "대림", "gu": "구로", "claim": "units", "value": 210, "grade": "fact", "source": "public_record"}
+{"name": "대림", "gu": "구로", "claim": "built_year", "value": 1992, "grade": "fact", "source": "public_record"}
+{"name": "신도림태영타운", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 10.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 24, "area_m2": 59.0}
+{"name": "신도림태영타운", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 10.07, "p75": 11.62, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 24, "area_m2": 59.0}
+{"name": "신도림태영타운", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 23.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 24, "area_m2": 59.0}
+{"name": "신도림태영타운", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 87, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 24, "area_m2": 59.0}
+{"name": "신도림태영타운", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 5.0, "jeonse_median_eok": 5.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 27, "area_m2": 59.0}
+{"name": "신도림태영타운", "gu": "구로", "claim": "annual_trade_count", "value": 69.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "신도림태영타운", "gu": "구로", "claim": "units", "value": 1252, "grade": "fact", "source": "public_record"}
+{"name": "신도림태영타운", "gu": "구로", "claim": "built_year", "value": 2000, "grade": "fact", "source": "public_record"}
+{"name": "주공1단지", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 9.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 21, "area_m2": 73.0}
+{"name": "주공1단지", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 8.2, "p75": 9.99, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 21, "area_m2": 73.0}
+{"name": "주공1단지", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 21.2, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 21, "area_m2": 73.0}
+{"name": "주공1단지", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 70, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 21, "area_m2": 73.0}
+{"name": "주공1단지", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 6.37, "jeonse_median_eok": 3.38, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 68, "area_m2": 73.0}
+{"name": "주공1단지", "gu": "구로", "claim": "annual_trade_count", "value": 46.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "주공1단지", "gu": "구로", "claim": "units", "value": 1980, "grade": "fact", "source": "public_record"}
+{"name": "주공1단지", "gu": "구로", "claim": "built_year", "value": 1989, "grade": "fact", "source": "public_record"}
+{"name": "벽산블루밍2단지", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 9.55, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 44, "area_m2": 85.0}
+{"name": "벽산블루밍2단지", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 9.15, "p75": 10.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 44, "area_m2": 85.0}
+{"name": "벽산블루밍2단지", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 13.2, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 44, "area_m2": 85.0}
+{"name": "벽산블루밍2단지", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 72, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 44, "area_m2": 85.0}
+{"name": "벽산블루밍2단지", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 4.35, "jeonse_median_eok": 5.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 31, "area_m2": 85.0}
+{"name": "벽산블루밍2단지", "gu": "구로", "claim": "units", "value": 237, "grade": "fact", "source": "public_record"}
+{"name": "벽산블루밍2단지", "gu": "구로", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
+{"name": "양천벽산블루밍1단지", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 9.55, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 44, "area_m2": 85.0}
+{"name": "양천벽산블루밍1단지", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 9.15, "p75": 10.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 44, "area_m2": 85.0}
+{"name": "양천벽산블루밍1단지", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 13.2, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 44, "area_m2": 85.0}
+{"name": "양천벽산블루밍1단지", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 72, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 44, "area_m2": 85.0}
+{"name": "양천벽산블루밍1단지", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 4.35, "jeonse_median_eok": 5.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 31, "area_m2": 85.0}
+{"name": "양천벽산블루밍1단지", "gu": "구로", "claim": "units", "value": 202, "grade": "fact", "source": "public_record"}
+{"name": "양천벽산블루밍1단지", "gu": "구로", "claim": "built_year", "value": 2006, "grade": "fact", "source": "public_record"}
+{"name": "양평벽산블루밍", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 9.55, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 44, "area_m2": 85.0}
+{"name": "양평벽산블루밍", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 9.15, "p75": 10.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 44, "area_m2": 85.0}
+{"name": "양평벽산블루밍", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 13.2, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 44, "area_m2": 85.0}
+{"name": "양평벽산블루밍", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 72, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 44, "area_m2": 85.0}
+{"name": "양평벽산블루밍", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 4.35, "jeonse_median_eok": 5.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 31, "area_m2": 85.0}
+{"name": "양평벽산블루밍", "gu": "구로", "claim": "units", "value": 417, "grade": "fact", "source": "public_record"}
+{"name": "양평벽산블루밍", "gu": "구로", "claim": "built_year", "value": 1990, "grade": "fact", "source": "public_record"}
+{"name": "벽산베스트블루밍", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 9.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 57, "area_m2": 85.0}
+{"name": "벽산베스트블루밍", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 8.95, "p75": 9.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 57, "area_m2": 85.0}
+{"name": "벽산베스트블루밍", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 6.5, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 57, "area_m2": 85.0}
+{"name": "벽산베스트블루밍", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 56, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 57, "area_m2": 85.0}
+{"name": "벽산베스트블루밍", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 4.1, "jeonse_median_eok": 5.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 44, "area_m2": 85.0}
+{"name": "벽산베스트블루밍", "gu": "구로", "claim": "annual_trade_count", "value": 15.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "벽산베스트블루밍", "gu": "구로", "claim": "units", "value": 339, "grade": "fact", "source": "public_record"}
+{"name": "벽산베스트블루밍", "gu": "구로", "claim": "built_year", "value": 2010, "grade": "fact", "source": "public_record"}
+{"name": "고척파크푸르지오", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 9.19, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 16, "area_m2": 60.0}
+{"name": "고척파크푸르지오", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 9.05, "p75": 9.72, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 16, "area_m2": 60.0}
+{"name": "고척파크푸르지오", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 8.2, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 16, "area_m2": 60.0}
+{"name": "고척파크푸르지오", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 76, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 16, "area_m2": 60.0}
+{"name": "고척파크푸르지오", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 4.22, "jeonse_median_eok": 4.97, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 14, "area_m2": 60.0}
+{"name": "고척파크푸르지오", "gu": "구로", "claim": "annual_trade_count", "value": 33.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "고척파크푸르지오", "gu": "구로", "claim": "units", "value": 662, "grade": "fact", "source": "public_record"}
+{"name": "고척파크푸르지오", "gu": "구로", "claim": "built_year", "value": 2009, "grade": "fact", "source": "public_record"}
+{"name": "개봉푸르지오", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 9.05, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 21, "area_m2": 85.0}
+{"name": "개봉푸르지오", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 8.95, "p75": 9.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 21, "area_m2": 85.0}
+{"name": "개봉푸르지오", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 3.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 21, "area_m2": 85.0}
+{"name": "개봉푸르지오", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 62, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 21, "area_m2": 85.0}
+{"name": "개봉푸르지오", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 3.75, "jeonse_median_eok": 5.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 27, "area_m2": 85.0}
+{"name": "개봉푸르지오", "gu": "구로", "claim": "annual_trade_count", "value": 43.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "개봉푸르지오", "gu": "구로", "claim": "units", "value": 978, "grade": "fact", "source": "public_record"}
+{"name": "개봉푸르지오", "gu": "구로", "claim": "built_year", "value": 2014, "grade": "fact", "source": "public_record"}
+{"name": "삼환로즈빌", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 8.95, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 32, "area_m2": 84.0}
+{"name": "삼환로즈빌", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 6.99, "p75": 9.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 32, "area_m2": 84.0}
+{"name": "삼환로즈빌", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 4.2, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 32, "area_m2": 84.0}
+{"name": "삼환로즈빌", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 32, "area_m2": 84.0}
+{"name": "삼환로즈빌", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 4.12, "jeonse_median_eok": 4.83, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 16, "area_m2": 84.0}
+{"name": "삼환로즈빌", "gu": "구로", "claim": "annual_trade_count", "value": 29.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "삼환로즈빌", "gu": "구로", "claim": "units", "value": 600, "grade": "fact", "source": "public_record"}
+{"name": "삼환로즈빌", "gu": "구로", "claim": "built_year", "value": 2004, "grade": "fact", "source": "public_record"}
+{"name": "온수힐스테이트", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 8.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 5, "area_m2": 102.0}
+{"name": "온수힐스테이트", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 8.1, "p75": 9.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 5, "area_m2": 102.0}
+{"name": "온수힐스테이트", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 69, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 5, "area_m2": 102.0}
+{"name": "온수힐스테이트", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 3.1, "jeonse_median_eok": 5.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 4, "area_m2": 102.0}
+{"name": "온수힐스테이트", "gu": "구로", "claim": "annual_trade_count", "value": 65.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "온수힐스테이트", "gu": "구로", "claim": "units", "value": 999, "grade": "fact", "source": "public_record"}
+{"name": "온수힐스테이트", "gu": "구로", "claim": "built_year", "value": 2010, "grade": "fact", "source": "public_record"}
+{"name": "신도림롯데", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 8.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 16, "area_m2": 59.0}
+{"name": "신도림롯데", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 8.2, "p75": 9.55, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 16, "area_m2": 59.0}
+{"name": "신도림롯데", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 3.47, "jeonse_median_eok": 4.93, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 27, "area_m2": 59.0}
+{"name": "신도림롯데", "gu": "구로", "claim": "units", "value": 718, "grade": "fact", "source": "public_record"}
+{"name": "신도림롯데", "gu": "구로", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "한양수자인에듀힐즈", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 8.38, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 24, "area_m2": 85.0}
+{"name": "한양수자인에듀힐즈", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 8.27, "p75": 8.55, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 24, "area_m2": 85.0}
+{"name": "한양수자인에듀힐즈", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 2.7, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 24, "area_m2": 85.0}
+{"name": "한양수자인에듀힐즈", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 63, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 24, "area_m2": 85.0}
+{"name": "한양수자인에듀힐즈", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 3.38, "jeonse_median_eok": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 21, "area_m2": 85.0}
+{"name": "한양수자인에듀힐즈", "gu": "구로", "claim": "annual_trade_count", "value": 39.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "한양수자인에듀힐즈", "gu": "구로", "claim": "units", "value": 634, "grade": "fact", "source": "public_record"}
+{"name": "한양수자인에듀힐즈", "gu": "구로", "claim": "built_year", "value": 2019, "grade": "fact", "source": "public_record"}
+{"name": "신구로자이", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 8.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 14, "area_m2": 84.0}
+{"name": "신구로자이", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 8.01, "p75": 8.72, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 14, "area_m2": 84.0}
+{"name": "신구로자이", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 7.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 14, "area_m2": 84.0}
+{"name": "신구로자이", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 67, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 14, "area_m2": 84.0}
+{"name": "신구로자이", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 3.0, "jeonse_median_eok": 5.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 5, "area_m2": 84.0}
+{"name": "신구로자이", "gu": "구로", "claim": "annual_trade_count", "value": 18.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "신구로자이", "gu": "구로", "claim": "units", "value": 299, "grade": "fact", "source": "public_record"}
+{"name": "신구로자이", "gu": "구로", "claim": "built_year", "value": 2007, "grade": "fact", "source": "public_record"}
+{"name": "한마을", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 74, "area_m2": 59.5}
+{"name": "한마을", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 7.5, "p75": 8.79, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 74, "area_m2": 59.5}
+{"name": "한마을", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 18.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 74, "area_m2": 59.5}
+{"name": "한마을", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 81, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 74, "area_m2": 59.5}
+{"name": "한마을", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 3.6, "jeonse_median_eok": 4.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 49, "area_m2": 59.5}
+{"name": "한마을", "gu": "구로", "claim": "annual_trade_count", "value": 149.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "한마을", "gu": "구로", "claim": "units", "value": 1983, "grade": "fact", "source": "public_record"}
+{"name": "한마을", "gu": "구로", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "천왕연지타운1단지", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 7.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 21, "area_m2": 84.0}
+{"name": "천왕연지타운1단지", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 7.55, "p75": 8.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 21, "area_m2": 84.0}
+{"name": "천왕연지타운1단지", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 2.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 21, "area_m2": 84.0}
+{"name": "천왕연지타운1단지", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 40, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 21, "area_m2": 84.0}
+{"name": "천왕연지타운1단지", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 2.9, "jeonse_median_eok": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 16, "area_m2": 84.0}
+{"name": "천왕연지타운1단지", "gu": "구로", "claim": "annual_trade_count", "value": 13.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "천왕연지타운1단지", "gu": "구로", "claim": "units", "value": 571, "grade": "fact", "source": "public_record"}
+{"name": "천왕연지타운1단지", "gu": "구로", "claim": "built_year", "value": 2013, "grade": "fact", "source": "public_record"}
+{"name": "우성꿈동산", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 7.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 13, "area_m2": 84.5}
+{"name": "우성꿈동산", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 6.0, "p75": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 13, "area_m2": 84.5}
+{"name": "우성꿈동산", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 5.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 13, "area_m2": 84.5}
+{"name": "우성꿈동산", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 37, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 13, "area_m2": 84.5}
+{"name": "우성꿈동산", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 3.8, "jeonse_median_eok": 3.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 16, "area_m2": 84.5}
+{"name": "우성꿈동산", "gu": "구로", "claim": "annual_trade_count", "value": 11.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "우성꿈동산", "gu": "구로", "claim": "units", "value": 204, "grade": "fact", "source": "public_record"}
+{"name": "우성꿈동산", "gu": "구로", "claim": "built_year", "value": 1996, "grade": "fact", "source": "public_record"}
+{"name": "현대", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 7.57, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 134, "area_m2": 59.0}
+{"name": "현대", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 6.5, "p75": 8.39, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 134, "area_m2": 59.0}
+{"name": "현대", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 19.7, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 134, "area_m2": 59.0}
+{"name": "현대", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 60, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 134, "area_m2": 59.0}
+{"name": "현대", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 3.47, "jeonse_median_eok": 4.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 103, "area_m2": 59.0}
+{"name": "현대", "gu": "구로", "claim": "annual_trade_count", "value": 112.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "현대", "gu": "구로", "claim": "units", "value": 2412, "grade": "fact", "source": "public_record"}
+{"name": "현대", "gu": "구로", "claim": "built_year", "value": 2001, "grade": "fact", "source": "public_record"}
+{"name": "천왕이펜하우스1단지", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 7.53, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 28, "area_m2": 85.0}
+{"name": "천왕이펜하우스1단지", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 7.14, "p75": 7.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 28, "area_m2": 85.0}
+{"name": "천왕이펜하우스1단지", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 2.0, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 28, "area_m2": 85.0}
+{"name": "천왕이펜하우스1단지", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 42, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 28, "area_m2": 85.0}
+{"name": "천왕이펜하우스1단지", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 5.53, "jeonse_median_eok": 2.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 154, "area_m2": 85.0}
+{"name": "천왕이펜하우스1단지", "gu": "구로", "claim": "annual_trade_count", "value": 12.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "천왕이펜하우스1단지", "gu": "구로", "claim": "units", "value": 314, "grade": "fact", "source": "public_record"}
+{"name": "천왕이펜하우스1단지", "gu": "구로", "claim": "built_year", "value": 2011, "grade": "fact", "source": "public_record"}
+{"name": "천왕이펜하우스2단지", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 7.53, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 28, "area_m2": 85.0}
+{"name": "천왕이펜하우스2단지", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 7.14, "p75": 7.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 28, "area_m2": 85.0}
+{"name": "천왕이펜하우스2단지", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 2.0, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 28, "area_m2": 85.0}
+{"name": "천왕이펜하우스2단지", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 42, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 28, "area_m2": 85.0}
+{"name": "천왕이펜하우스2단지", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 5.53, "jeonse_median_eok": 2.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 154, "area_m2": 85.0}
+{"name": "천왕이펜하우스2단지", "gu": "구로", "claim": "annual_trade_count", "value": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "천왕이펜하우스2단지", "gu": "구로", "claim": "units", "value": 526, "grade": "fact", "source": "public_record"}
+{"name": "천왕이펜하우스2단지", "gu": "구로", "claim": "built_year", "value": 2011, "grade": "fact", "source": "public_record"}
+{"name": "천왕이펜하우스3단지", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 7.53, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 28, "area_m2": 85.0}
+{"name": "천왕이펜하우스3단지", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 7.14, "p75": 7.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 28, "area_m2": 85.0}
+{"name": "천왕이펜하우스3단지", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 2.0, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 28, "area_m2": 85.0}
+{"name": "천왕이펜하우스3단지", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 42, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 28, "area_m2": 85.0}
+{"name": "천왕이펜하우스3단지", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 5.53, "jeonse_median_eok": 2.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 154, "area_m2": 85.0}
+{"name": "천왕이펜하우스3단지", "gu": "구로", "claim": "annual_trade_count", "value": 1.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "천왕이펜하우스3단지", "gu": "구로", "claim": "units", "value": 1044, "grade": "fact", "source": "public_record"}
+{"name": "천왕이펜하우스3단지", "gu": "구로", "claim": "built_year", "value": 2011, "grade": "fact", "source": "public_record"}
+{"name": "천왕이펜하우스4단지", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 7.53, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 28, "area_m2": 85.0}
+{"name": "천왕이펜하우스4단지", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 7.14, "p75": 7.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 28, "area_m2": 85.0}
+{"name": "천왕이펜하우스4단지", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 2.0, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 28, "area_m2": 85.0}
+{"name": "천왕이펜하우스4단지", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 42, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 28, "area_m2": 85.0}
+{"name": "천왕이펜하우스4단지", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 5.53, "jeonse_median_eok": 2.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 154, "area_m2": 85.0}
+{"name": "천왕이펜하우스4단지", "gu": "구로", "claim": "annual_trade_count", "value": 7.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "천왕이펜하우스4단지", "gu": "구로", "claim": "units", "value": 478, "grade": "fact", "source": "public_record"}
+{"name": "천왕이펜하우스4단지", "gu": "구로", "claim": "built_year", "value": 2011, "grade": "fact", "source": "public_record"}
+{"name": "천왕이펜하우스5단지", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 7.53, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 28, "area_m2": 85.0}
+{"name": "천왕이펜하우스5단지", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 7.14, "p75": 7.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 28, "area_m2": 85.0}
+{"name": "천왕이펜하우스5단지", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 2.0, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 28, "area_m2": 85.0}
+{"name": "천왕이펜하우스5단지", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 42, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 28, "area_m2": 85.0}
+{"name": "천왕이펜하우스5단지", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 5.53, "jeonse_median_eok": 2.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 154, "area_m2": 85.0}
+{"name": "천왕이펜하우스5단지", "gu": "구로", "claim": "annual_trade_count", "value": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "천왕이펜하우스5단지", "gu": "구로", "claim": "units", "value": 522, "grade": "fact", "source": "public_record"}
+{"name": "천왕이펜하우스5단지", "gu": "구로", "claim": "built_year", "value": 2011, "grade": "fact", "source": "public_record"}
+{"name": "천왕이펜하우스6단지", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 7.53, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 28, "area_m2": 85.0}
+{"name": "천왕이펜하우스6단지", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 7.14, "p75": 7.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 28, "area_m2": 85.0}
+{"name": "천왕이펜하우스6단지", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 2.0, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 28, "area_m2": 85.0}
+{"name": "천왕이펜하우스6단지", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 42, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 28, "area_m2": 85.0}
+{"name": "천왕이펜하우스6단지", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 5.53, "jeonse_median_eok": 2.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 154, "area_m2": 85.0}
+{"name": "천왕이펜하우스6단지", "gu": "구로", "claim": "annual_trade_count", "value": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "천왕이펜하우스6단지", "gu": "구로", "claim": "units", "value": 678, "grade": "fact", "source": "public_record"}
+{"name": "천왕이펜하우스6단지", "gu": "구로", "claim": "built_year", "value": 2011, "grade": "fact", "source": "public_record"}
+{"name": "우남퍼스트빌더센트럴", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 7.52, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 12, "area_m2": 85.0}
+{"name": "우남퍼스트빌더센트럴", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 7.5, "p75": 7.67, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 12, "area_m2": 85.0}
+{"name": "우남퍼스트빌더센트럴", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 2.6, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 12, "area_m2": 85.0}
+{"name": "우남퍼스트빌더센트럴", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 59, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 12, "area_m2": 85.0}
+{"name": "우남퍼스트빌더센트럴", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 2.82, "jeonse_median_eok": 4.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 17, "area_m2": 85.0}
+{"name": "우남퍼스트빌더센트럴", "gu": "구로", "claim": "annual_trade_count", "value": 18.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "우남퍼스트빌더센트럴", "gu": "구로", "claim": "units", "value": 337, "grade": "fact", "source": "public_record"}
+{"name": "우남퍼스트빌더센트럴", "gu": "구로", "claim": "built_year", "value": 2020, "grade": "fact", "source": "public_record"}
+{"name": "영화아이닉스", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 7.39, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 21, "area_m2": 85.0}
+{"name": "영화아이닉스", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 6.23, "p75": 7.65, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 21, "area_m2": 85.0}
+{"name": "영화아이닉스", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": -5.4, "direction": "▼", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 21, "area_m2": 85.0}
+{"name": "영화아이닉스", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 40, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 21, "area_m2": 85.0}
+{"name": "영화아이닉스", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 3.55, "jeonse_median_eok": 3.84, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 6, "area_m2": 85.0}
+{"name": "영화아이닉스", "gu": "구로", "claim": "annual_trade_count", "value": 13.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "영화아이닉스", "gu": "구로", "claim": "units", "value": 212, "grade": "fact", "source": "public_record"}
+{"name": "영화아이닉스", "gu": "구로", "claim": "built_year", "value": 2005, "grade": "fact", "source": "public_record"}
+{"name": "영화", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 7.35, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 25, "area_m2": 85.0}
+{"name": "영화", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 6.34, "p75": 7.65, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 25, "area_m2": 85.0}
+{"name": "영화", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 3.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 25, "area_m2": 85.0}
+{"name": "영화", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 57, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 25, "area_m2": 85.0}
+{"name": "영화", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 3.15, "jeonse_median_eok": 4.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 11, "area_m2": 85.0}
+{"name": "영화", "gu": "구로", "claim": "annual_trade_count", "value": 23.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "영화", "gu": "구로", "claim": "units", "value": 372, "grade": "fact", "source": "public_record"}
+{"name": "영화", "gu": "구로", "claim": "built_year", "value": 1998, "grade": "fact", "source": "public_record"}
+{"name": "경남아너스빌", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 7.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 17, "area_m2": 85.0}
+{"name": "경남아너스빌", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 7.05, "p75": 7.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 17, "area_m2": 85.0}
+{"name": "경남아너스빌", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 2.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 17, "area_m2": 85.0}
+{"name": "경남아너스빌", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 44, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 17, "area_m2": 85.0}
+{"name": "경남아너스빌", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 2.85, "jeonse_median_eok": 4.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 18, "area_m2": 85.0}
+{"name": "경남아너스빌", "gu": "구로", "claim": "annual_trade_count", "value": 14.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "경남아너스빌", "gu": "구로", "claim": "units", "value": 296, "grade": "fact", "source": "public_record"}
+{"name": "경남아너스빌", "gu": "구로", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
+{"name": "항동제일풍경채포레스트", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 6.96, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 20, "area_m2": 84.5}
+{"name": "항동제일풍경채포레스트", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 6.8, "p75": 7.06, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 20, "area_m2": 84.5}
+{"name": "항동제일풍경채포레스트", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": -1.1, "direction": "▼", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 20, "area_m2": 84.5}
+{"name": "항동제일풍경채포레스트", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 37, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 20, "area_m2": 84.5}
+{"name": "항동제일풍경채포레스트", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 2.46, "jeonse_median_eok": 4.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 25, "area_m2": 84.5}
+{"name": "항동제일풍경채포레스트", "gu": "구로", "claim": "annual_trade_count", "value": 21.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "항동제일풍경채포레스트", "gu": "구로", "claim": "units", "value": 345, "grade": "fact", "source": "public_record"}
+{"name": "항동제일풍경채포레스트", "gu": "구로", "claim": "built_year", "value": 2020, "grade": "fact", "source": "public_record"}
+{"name": "한일유앤아이", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 6.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 17, "area_m2": 85.0}
+{"name": "한일유앤아이", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 6.7, "p75": 7.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 17, "area_m2": 85.0}
+{"name": "한일유앤아이", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": -1.4, "direction": "▼", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 17, "area_m2": 85.0}
+{"name": "한일유앤아이", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 50, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 17, "area_m2": 85.0}
+{"name": "한일유앤아이", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 2.55, "jeonse_median_eok": 4.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 31, "area_m2": 85.0}
+{"name": "한일유앤아이", "gu": "구로", "claim": "annual_trade_count", "value": 29.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "한일유앤아이", "gu": "구로", "claim": "units", "value": 390, "grade": "fact", "source": "public_record"}
+{"name": "한일유앤아이", "gu": "구로", "claim": "built_year", "value": 2005, "grade": "fact", "source": "public_record"}
+{"name": "라인", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 6.76, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 56, "area_m2": 60.0}
+{"name": "라인", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 6.45, "p75": 6.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 56, "area_m2": 60.0}
+{"name": "라인", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 2.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 56, "area_m2": 60.0}
+{"name": "라인", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 90, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 56, "area_m2": 60.0}
+{"name": "라인", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 2.56, "jeonse_median_eok": 4.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 36, "area_m2": 60.0}
+{"name": "라인", "gu": "구로", "claim": "annual_trade_count", "value": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "라인", "gu": "구로", "claim": "units", "value": 218, "grade": "fact", "source": "public_record"}
+{"name": "라인", "gu": "구로", "claim": "built_year", "value": 1995, "grade": "fact", "source": "public_record"}
+{"name": "하버라인2단지", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 6.76, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 56, "area_m2": 60.0}
+{"name": "하버라인2단지", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 6.45, "p75": 6.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 56, "area_m2": 60.0}
+{"name": "하버라인2단지", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 2.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 56, "area_m2": 60.0}
+{"name": "하버라인2단지", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 90, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 56, "area_m2": 60.0}
+{"name": "하버라인2단지", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 2.56, "jeonse_median_eok": 4.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 36, "area_m2": 60.0}
+{"name": "하버라인2단지", "gu": "구로", "claim": "annual_trade_count", "value": 25.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "하버라인2단지", "gu": "구로", "claim": "units", "value": 646, "grade": "fact", "source": "public_record"}
+{"name": "하버라인2단지", "gu": "구로", "claim": "built_year", "value": 2019, "grade": "fact", "source": "public_record"}
+{"name": "하버라인3단지", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 6.76, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 56, "area_m2": 60.0}
+{"name": "하버라인3단지", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 6.45, "p75": 6.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 56, "area_m2": 60.0}
+{"name": "하버라인3단지", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 2.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 56, "area_m2": 60.0}
+{"name": "하버라인3단지", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 90, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 56, "area_m2": 60.0}
+{"name": "하버라인3단지", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 2.56, "jeonse_median_eok": 4.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 36, "area_m2": 60.0}
+{"name": "하버라인3단지", "gu": "구로", "claim": "annual_trade_count", "value": 33.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "하버라인3단지", "gu": "구로", "claim": "units", "value": 1170, "grade": "fact", "source": "public_record"}
+{"name": "하버라인3단지", "gu": "구로", "claim": "built_year", "value": 2019, "grade": "fact", "source": "public_record"}
+{"name": "하버라인4단지", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 6.76, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 56, "area_m2": 60.0}
+{"name": "하버라인4단지", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 6.45, "p75": 6.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 56, "area_m2": 60.0}
+{"name": "하버라인4단지", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 2.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 56, "area_m2": 60.0}
+{"name": "하버라인4단지", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 90, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 56, "area_m2": 60.0}
+{"name": "하버라인4단지", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 2.56, "jeonse_median_eok": 4.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 36, "area_m2": 60.0}
+{"name": "하버라인4단지", "gu": "구로", "claim": "annual_trade_count", "value": 9.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "하버라인4단지", "gu": "구로", "claim": "units", "value": 297, "grade": "fact", "source": "public_record"}
+{"name": "하버라인4단지", "gu": "구로", "claim": "built_year", "value": 2019, "grade": "fact", "source": "public_record"}
+{"name": "금강", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 6.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 19, "area_m2": 60.0}
+{"name": "금강", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 6.5, "p75": 7.07, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 19, "area_m2": 60.0}
+{"name": "금강", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 7.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 19, "area_m2": 60.0}
+{"name": "금강", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 57, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 19, "area_m2": 60.0}
+{"name": "금강", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 3.34, "jeonse_median_eok": 3.41, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 18, "area_m2": 60.0}
+{"name": "금강", "gu": "구로", "claim": "annual_trade_count", "value": 43.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "금강", "gu": "구로", "claim": "units", "value": 247, "grade": "fact", "source": "public_record"}
+{"name": "금강", "gu": "구로", "claim": "built_year", "value": 1996, "grade": "fact", "source": "public_record"}
+{"name": "우리유앤미", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 6.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 12, "area_m2": 84.5}
+{"name": "우리유앤미", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 6.04, "p75": 6.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 12, "area_m2": 84.5}
+{"name": "우리유앤미", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 0.0, "direction": "—", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 12, "area_m2": 84.5}
+{"name": "우리유앤미", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 42, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 12, "area_m2": 84.5}
+{"name": "우리유앤미", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 2.3, "jeonse_median_eok": 4.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 4, "area_m2": 84.5}
+{"name": "우리유앤미", "gu": "구로", "claim": "annual_trade_count", "value": 18.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "우리유앤미", "gu": "구로", "claim": "units", "value": 216, "grade": "fact", "source": "public_record"}
+{"name": "우리유앤미", "gu": "구로", "claim": "built_year", "value": 2004, "grade": "fact", "source": "public_record"}
+{"name": "센츄리", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 6.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 19, "area_m2": 84.5}
+{"name": "센츄리", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 6.2, "p75": 6.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 19, "area_m2": 84.5}
+{"name": "센츄리", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 3.2, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 19, "area_m2": 84.5}
+{"name": "센츄리", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 84, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 19, "area_m2": 84.5}
+{"name": "센츄리", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 2.5, "jeonse_median_eok": 3.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 12, "area_m2": 84.5}
+{"name": "센츄리", "gu": "구로", "claim": "annual_trade_count", "value": 19.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "센츄리", "gu": "구로", "claim": "units", "value": 391, "grade": "fact", "source": "public_record"}
+{"name": "센츄리", "gu": "구로", "claim": "built_year", "value": 1994, "grade": "fact", "source": "public_record"}
+{"name": "주공2단지", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 6.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 29, "area_m2": 41.5}
+{"name": "주공2단지", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 5.3, "p75": 7.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 29, "area_m2": 41.5}
+{"name": "주공2단지", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 35.2, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 29, "area_m2": 41.5}
+{"name": "주공2단지", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 91, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 29, "area_m2": 41.5}
+{"name": "주공2단지", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 4.2, "jeonse_median_eok": 2.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 47, "area_m2": 41.5}
+{"name": "주공2단지", "gu": "구로", "claim": "annual_trade_count", "value": 60.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "주공2단지", "gu": "구로", "claim": "units", "value": 866, "grade": "fact", "source": "public_record"}
+{"name": "주공2단지", "gu": "구로", "claim": "built_year", "value": 1989, "grade": "fact", "source": "public_record"}
+{"name": "대우", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 6.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 39, "area_m2": 60.0}
+{"name": "대우", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 5.79, "p75": 6.68, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 39, "area_m2": 60.0}
+{"name": "대우", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 14.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 39, "area_m2": 60.0}
+{"name": "대우", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 80, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 39, "area_m2": 60.0}
+{"name": "대우", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 2.9, "jeonse_median_eok": 3.35, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 21, "area_m2": 60.0}
+{"name": "대우", "gu": "구로", "claim": "annual_trade_count", "value": 86.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "대우", "gu": "구로", "claim": "units", "value": 536, "grade": "fact", "source": "public_record"}
+{"name": "대우", "gu": "구로", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "삼호", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 6.22, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 10, "area_m2": 60.0}
+{"name": "삼호", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 5.72, "p75": 6.34, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 10, "area_m2": 60.0}
+{"name": "삼호", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 2.52, "jeonse_median_eok": 3.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 11, "area_m2": 60.0}
+{"name": "삼호", "gu": "구로", "claim": "annual_trade_count", "value": 23.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "삼호", "gu": "구로", "claim": "units", "value": 369, "grade": "fact", "source": "public_record"}
+{"name": "삼호", "gu": "구로", "claim": "built_year", "value": 1996, "grade": "fact", "source": "public_record"}
+{"name": "서울가든", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 5.95, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 16, "area_m2": 64.5}
+{"name": "서울가든", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 5.65, "p75": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 16, "area_m2": 64.5}
+{"name": "서울가든", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 7.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 16, "area_m2": 64.5}
+{"name": "서울가든", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 83, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 16, "area_m2": 64.5}
+{"name": "서울가든", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 2.65, "jeonse_median_eok": 3.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 25, "area_m2": 64.5}
+{"name": "서울가든", "gu": "구로", "claim": "annual_trade_count", "value": 37.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "서울가든", "gu": "구로", "claim": "units", "value": 715, "grade": "fact", "source": "public_record"}
+{"name": "서울가든", "gu": "구로", "claim": "built_year", "value": 1989, "grade": "fact", "source": "public_record"}
+{"name": "도림청구", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 5.79, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 23, "area_m2": 60.0}
+{"name": "도림청구", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 5.43, "p75": 5.99, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 23, "area_m2": 60.0}
+{"name": "도림청구", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 9.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 23, "area_m2": 60.0}
+{"name": "도림청구", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 86, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 23, "area_m2": 60.0}
+{"name": "도림청구", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 2.49, "jeonse_median_eok": 3.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 23, "area_m2": 60.0}
+{"name": "도림청구", "gu": "구로", "claim": "units", "value": 200, "grade": "fact", "source": "public_record"}
+{"name": "도림청구", "gu": "구로", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
+{"name": "청구", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 5.79, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 23, "area_m2": 60.0}
+{"name": "청구", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 5.43, "p75": 5.99, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 23, "area_m2": 60.0}
+{"name": "청구", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 9.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 23, "area_m2": 60.0}
+{"name": "청구", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 86, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 23, "area_m2": 60.0}
+{"name": "청구", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 2.52, "jeonse_median_eok": 3.27, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 24, "area_m2": 60.0}
+{"name": "청구", "gu": "구로", "claim": "annual_trade_count", "value": 35.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "청구", "gu": "구로", "claim": "units", "value": 448, "grade": "fact", "source": "public_record"}
+{"name": "청구", "gu": "구로", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "삼환", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 5.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 43, "area_m2": 59.0}
+{"name": "삼환", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 5.55, "p75": 6.32, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 43, "area_m2": 59.0}
+{"name": "삼환", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 11.7, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 43, "area_m2": 59.0}
+{"name": "삼환", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 31, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 43, "area_m2": 59.0}
+{"name": "삼환", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 2.4, "jeonse_median_eok": 3.35, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 27, "area_m2": 59.0}
+{"name": "삼환", "gu": "구로", "claim": "annual_trade_count", "value": 50.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "삼환", "gu": "구로", "claim": "units", "value": 783, "grade": "fact", "source": "public_record"}
+{"name": "삼환", "gu": "구로", "claim": "built_year", "value": 1995, "grade": "fact", "source": "public_record"}
+{"name": "삼천리", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 5.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 15, "area_m2": 59.5}
+{"name": "삼천리", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 5.55, "p75": 5.97, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 15, "area_m2": 59.5}
+{"name": "삼천리", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 13.2, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 15, "area_m2": 59.5}
+{"name": "삼천리", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 97, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 15, "area_m2": 59.5}
+{"name": "삼천리", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 2.1, "jeonse_median_eok": 3.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 13, "area_m2": 59.5}
+{"name": "삼천리", "gu": "구로", "claim": "annual_trade_count", "value": 22.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "삼천리", "gu": "구로", "claim": "units", "value": 423, "grade": "fact", "source": "public_record"}
+{"name": "삼천리", "gu": "구로", "claim": "built_year", "value": 1998, "grade": "fact", "source": "public_record"}
+{"name": "구일우성아파트", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 5.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 43, "area_m2": 59.0}
+{"name": "구일우성아파트", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 5.34, "p75": 5.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 43, "area_m2": 59.0}
+{"name": "구일우성아파트", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 6.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 43, "area_m2": 59.0}
+{"name": "구일우성아파트", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 59, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 43, "area_m2": 59.0}
+{"name": "구일우성아파트", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 2.25, "jeonse_median_eok": 3.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 37, "area_m2": 59.0}
+{"name": "구일우성아파트", "gu": "구로", "claim": "units", "value": 829, "grade": "fact", "source": "public_record"}
+{"name": "구일우성아파트", "gu": "구로", "claim": "built_year", "value": 1998, "grade": "fact", "source": "public_record"}
+{"name": "문래두산위브", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 5.42, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 34, "area_m2": 59.5}
+{"name": "문래두산위브", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 5.08, "p75": 5.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 34, "area_m2": 59.5}
+{"name": "문래두산위브", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 9.7, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 34, "area_m2": 59.5}
+{"name": "문래두산위브", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 74, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 34, "area_m2": 59.5}
+{"name": "문래두산위브", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 2.33, "jeonse_median_eok": 3.09, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 22, "area_m2": 59.5}
+{"name": "문래두산위브", "gu": "구로", "claim": "units", "value": 383, "grade": "fact", "source": "public_record"}
+{"name": "문래두산위브", "gu": "구로", "claim": "built_year", "value": 1988, "grade": "fact", "source": "public_record"}
+{"name": "두산위브", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 5.15, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 48, "area_m2": 37.0}
+{"name": "두산위브", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 4.94, "p75": 5.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 48, "area_m2": 37.0}
+{"name": "두산위브", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 3.6, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 48, "area_m2": 37.0}
+{"name": "두산위브", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 42, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 48, "area_m2": 37.0}
+{"name": "두산위브", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 2.25, "jeonse_median_eok": 2.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 49, "area_m2": 37.0}
+{"name": "두산위브", "gu": "구로", "claim": "units", "value": 1495, "grade": "fact", "source": "public_record"}
+{"name": "두산위브", "gu": "구로", "claim": "built_year", "value": 1998, "grade": "fact", "source": "public_record"}
+{"name": "새솔금호", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 4.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 14, "area_m2": 59.0}
+{"name": "새솔금호", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 4.86, "p75": 4.93, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 14, "area_m2": 59.0}
+{"name": "새솔금호", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 0.5, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 14, "area_m2": 59.0}
+{"name": "새솔금호", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 92, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 14, "area_m2": 59.0}
+{"name": "새솔금호", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 2.9, "jeonse_median_eok": 2.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 15, "area_m2": 59.0}
+{"name": "새솔금호", "gu": "구로", "claim": "annual_trade_count", "value": 11.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "새솔금호", "gu": "구로", "claim": "units", "value": 272, "grade": "fact", "source": "public_record"}
+{"name": "새솔금호", "gu": "구로", "claim": "built_year", "value": 1996, "grade": "fact", "source": "public_record"}
+{"name": "동아한신", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 4.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 39, "area_m2": 45.0}
+{"name": "동아한신", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 4.57, "p75": 4.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 39, "area_m2": 45.0}
+{"name": "동아한신", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 5.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 39, "area_m2": 45.0}
+{"name": "동아한신", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 70, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 39, "area_m2": 45.0}
+{"name": "동아한신", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 2.05, "jeonse_median_eok": 2.65, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 40, "area_m2": 45.0}
+{"name": "동아한신", "gu": "구로", "claim": "annual_trade_count", "value": 14.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "동아한신", "gu": "구로", "claim": "units", "value": 355, "grade": "fact", "source": "public_record"}
+{"name": "동아한신", "gu": "구로", "claim": "built_year", "value": 2000, "grade": "fact", "source": "public_record"}
+{"name": "문래공원한신", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 4.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 39, "area_m2": 45.0}
+{"name": "문래공원한신", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 4.57, "p75": 4.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 39, "area_m2": 45.0}
+{"name": "문래공원한신", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 5.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 39, "area_m2": 45.0}
+{"name": "문래공원한신", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 70, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 39, "area_m2": 45.0}
+{"name": "문래공원한신", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 2.05, "jeonse_median_eok": 2.65, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 40, "area_m2": 45.0}
+{"name": "문래공원한신", "gu": "구로", "claim": "units", "value": 367, "grade": "fact", "source": "public_record"}
+{"name": "문래공원한신", "gu": "구로", "claim": "built_year", "value": 1988, "grade": "fact", "source": "public_record"}
+{"name": "한신플러스타운", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 4.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 39, "area_m2": 45.0}
+{"name": "한신플러스타운", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 4.57, "p75": 4.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 39, "area_m2": 45.0}
+{"name": "한신플러스타운", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 5.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 39, "area_m2": 45.0}
+{"name": "한신플러스타운", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 70, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 39, "area_m2": 45.0}
+{"name": "한신플러스타운", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 2.05, "jeonse_median_eok": 2.65, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 40, "area_m2": 45.0}
+{"name": "한신플러스타운", "gu": "구로", "claim": "annual_trade_count", "value": 15.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "한신플러스타운", "gu": "구로", "claim": "units", "value": 299, "grade": "fact", "source": "public_record"}
+{"name": "한신플러스타운", "gu": "구로", "claim": "built_year", "value": 2002, "grade": "fact", "source": "public_record"}
+{"name": "동부골든", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 4.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 24, "area_m2": 59.0}
+{"name": "동부골든", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 4.53, "p75": 4.71, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 24, "area_m2": 59.0}
+{"name": "동부골든", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 2.6, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 24, "area_m2": 59.0}
+{"name": "동부골든", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 84, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 24, "area_m2": 59.0}
+{"name": "동부골든", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 1.63, "jeonse_median_eok": 2.97, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 20, "area_m2": 59.0}
+{"name": "동부골든", "gu": "구로", "claim": "annual_trade_count", "value": 51.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "동부골든", "gu": "구로", "claim": "units", "value": 1236, "grade": "fact", "source": "public_record"}
+{"name": "동부골든", "gu": "구로", "claim": "built_year", "value": 1998, "grade": "fact", "source": "public_record"}
+{"name": "동부센트레빌", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 4.59, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 14, "area_m2": 60.0}
+{"name": "동부센트레빌", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 3.05, "p75": 4.83, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 14, "area_m2": 60.0}
+{"name": "동부센트레빌", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 5.0, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 14, "area_m2": 60.0}
+{"name": "동부센트레빌", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 90, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 14, "area_m2": 60.0}
+{"name": "동부센트레빌", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 1.31, "jeonse_median_eok": 3.28, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 14, "area_m2": 60.0}
+{"name": "동부센트레빌", "gu": "구로", "claim": "units", "value": 468, "grade": "fact", "source": "public_record"}
+{"name": "동부센트레빌", "gu": "구로", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
+{"name": "건영", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 3.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 17, "area_m2": 60.0}
+{"name": "건영", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 2.65, "p75": 6.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 17, "area_m2": 60.0}
+{"name": "건영", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 103.2, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 17, "area_m2": 60.0}
+{"name": "건영", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 89, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 17, "area_m2": 60.0}
+{"name": "건영", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 1.95, "jeonse_median_eok": 1.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 12, "area_m2": 60.0}
+{"name": "건영", "gu": "구로", "claim": "annual_trade_count", "value": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "건영", "gu": "구로", "claim": "units", "value": 209, "grade": "fact", "source": "public_record"}
+{"name": "건영", "gu": "구로", "claim": "built_year", "value": 1994, "grade": "fact", "source": "public_record"}
+{"name": "거성푸르뫼", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 3.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 23, "area_m2": 60.0}
+{"name": "거성푸르뫼", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 2.9, "p75": 4.07, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 23, "area_m2": 60.0}
+{"name": "거성푸르뫼", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 23.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 23, "area_m2": 60.0}
+{"name": "거성푸르뫼", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 77, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 23, "area_m2": 60.0}
+{"name": "거성푸르뫼", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 2.0, "jeonse_median_eok": 1.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 14, "area_m2": 60.0}
+{"name": "거성푸르뫼", "gu": "구로", "claim": "annual_trade_count", "value": 13.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "거성푸르뫼", "gu": "구로", "claim": "units", "value": 249, "grade": "fact", "source": "public_record"}
+{"name": "거성푸르뫼", "gu": "구로", "claim": "built_year", "value": 1993, "grade": "fact", "source": "public_record"}
+{"name": "양우", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 3.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 16, "area_m2": 60.0}
+{"name": "양우", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 2.49, "p75": 4.46, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 16, "area_m2": 60.0}
+{"name": "양우", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 62.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 16, "area_m2": 60.0}
+{"name": "양우", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 89, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 16, "area_m2": 60.0}
+{"name": "양우", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 1.65, "jeonse_median_eok": 1.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 9, "area_m2": 60.0}
+{"name": "양우", "gu": "구로", "claim": "annual_trade_count", "value": 10.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "양우", "gu": "구로", "claim": "units", "value": 244, "grade": "fact", "source": "public_record"}
+{"name": "양우", "gu": "구로", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
+{"name": "디큐브시티", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 2.79, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 15, "area_m2": 59.0}
+{"name": "디큐브시티", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 2.35, "p75": 10.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 15, "area_m2": 59.0}
+{"name": "디큐브시티", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 326.9, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 15, "area_m2": 59.0}
+{"name": "디큐브시티", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 97, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 15, "area_m2": 59.0}
+{"name": "디큐브시티", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": -3.51, "jeonse_median_eok": 6.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 13, "area_m2": 59.0}
+{"name": "디큐브시티", "gu": "구로", "claim": "annual_trade_count", "value": 22.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "디큐브시티", "gu": "구로", "claim": "units", "value": 524, "grade": "fact", "source": "public_record"}
+{"name": "디큐브시티", "gu": "구로", "claim": "built_year", "value": 2011, "grade": "fact", "source": "public_record"}
+{"name": "영풍마드레빌", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 2.72, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 14, "area_m2": 59.0}
+{"name": "영풍마드레빌", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 2.32, "p75": 5.53, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 14, "area_m2": 59.0}
+{"name": "영풍마드레빌", "gu": "구로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 76.7, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 14, "area_m2": 59.0}
+{"name": "영풍마드레빌", "gu": "구로", "claim": "position_in_52w_range_pct", "value": 58, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 14, "area_m2": 59.0}
+{"name": "영풍마드레빌", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 0.82, "jeonse_median_eok": 1.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 12, "area_m2": 59.0}
+{"name": "영풍마드레빌", "gu": "구로", "claim": "annual_trade_count", "value": 25.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "영풍마드레빌", "gu": "구로", "claim": "units", "value": 627, "grade": "fact", "source": "public_record"}
+{"name": "영풍마드레빌", "gu": "구로", "claim": "built_year", "value": 2002, "grade": "fact", "source": "public_record"}
+{"name": "거성파스텔", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 1.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 13, "area_m2": 35.5}
+{"name": "거성파스텔", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 1.5, "p75": 1.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 13, "area_m2": 35.5}
+{"name": "거성파스텔", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 0.6, "jeonse_median_eok": 1.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 17, "area_m2": 35.5}
+{"name": "거성파스텔", "gu": "구로", "claim": "units", "value": 532, "grade": "fact", "source": "public_record"}
+{"name": "거성파스텔", "gu": "구로", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "길훈", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 1.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 13, "area_m2": 35.5}
+{"name": "길훈", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 1.5, "p75": 1.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 13, "area_m2": 35.5}
+{"name": "길훈", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 0.6, "jeonse_median_eok": 1.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 17, "area_m2": 35.5}
+{"name": "길훈", "gu": "구로", "claim": "annual_trade_count", "value": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "길훈", "gu": "구로", "claim": "units", "value": 290, "grade": "fact", "source": "public_record"}
+{"name": "길훈", "gu": "구로", "claim": "built_year", "value": 1987, "grade": "fact", "source": "public_record"}
+{"name": "당산반도유보라팰리스", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 1.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 13, "area_m2": 35.5}
+{"name": "당산반도유보라팰리스", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 1.5, "p75": 1.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 13, "area_m2": 35.5}
+{"name": "당산반도유보라팰리스", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 0.6, "jeonse_median_eok": 1.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 17, "area_m2": 35.5}
+{"name": "당산반도유보라팰리스", "gu": "구로", "claim": "units", "value": 299, "grade": "fact", "source": "public_record"}
+{"name": "당산반도유보라팰리스", "gu": "구로", "claim": "built_year", "value": 2010, "grade": "fact", "source": "public_record"}
+{"name": "동아에코빌", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 1.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 13, "area_m2": 35.5}
+{"name": "동아에코빌", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 1.5, "p75": 1.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 13, "area_m2": 35.5}
+{"name": "동아에코빌", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 0.6, "jeonse_median_eok": 1.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 17, "area_m2": 35.5}
+{"name": "동아에코빌", "gu": "구로", "claim": "units", "value": 346, "grade": "fact", "source": "public_record"}
+{"name": "동아에코빌", "gu": "구로", "claim": "built_year", "value": 2000, "grade": "fact", "source": "public_record"}
+{"name": "동작상떼빌", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 1.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 13, "area_m2": 35.5}
+{"name": "동작상떼빌", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 1.5, "p75": 1.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 13, "area_m2": 35.5}
+{"name": "동작상떼빌", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 0.6, "jeonse_median_eok": 1.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 17, "area_m2": 35.5}
+{"name": "동작상떼빌", "gu": "구로", "claim": "units", "value": 545, "grade": "fact", "source": "public_record"}
+{"name": "동작상떼빌", "gu": "구로", "claim": "built_year", "value": 2006, "grade": "fact", "source": "public_record"}
+{"name": "문래대림", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 1.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 13, "area_m2": 35.5}
+{"name": "문래대림", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 1.5, "p75": 1.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 13, "area_m2": 35.5}
+{"name": "문래대림", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 0.6, "jeonse_median_eok": 1.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 17, "area_m2": 35.5}
+{"name": "문래대림", "gu": "구로", "claim": "units", "value": 200, "grade": "fact", "source": "public_record"}
+{"name": "문래대림", "gu": "구로", "claim": "built_year", "value": 2000, "grade": "fact", "source": "public_record"}
+{"name": "삼정그린뷰", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 1.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 13, "area_m2": 35.5}
+{"name": "삼정그린뷰", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 1.5, "p75": 1.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 13, "area_m2": 35.5}
+{"name": "삼정그린뷰", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 0.6, "jeonse_median_eok": 1.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 17, "area_m2": 35.5}
+{"name": "삼정그린뷰", "gu": "구로", "claim": "units", "value": 236, "grade": "fact", "source": "public_record"}
+{"name": "삼정그린뷰", "gu": "구로", "claim": "built_year", "value": 2005, "grade": "fact", "source": "public_record"}
+{"name": "신도브래뉴", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 1.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 13, "area_m2": 35.5}
+{"name": "신도브래뉴", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 1.5, "p75": 1.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 13, "area_m2": 35.5}
+{"name": "신도브래뉴", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 0.6, "jeonse_median_eok": 1.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 17, "area_m2": 35.5}
+{"name": "신도브래뉴", "gu": "구로", "claim": "units", "value": 341, "grade": "fact", "source": "public_record"}
+{"name": "신도브래뉴", "gu": "구로", "claim": "built_year", "value": 2002, "grade": "fact", "source": "public_record"}
+{"name": "진로", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 1.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 13, "area_m2": 35.5}
+{"name": "진로", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 1.5, "p75": 1.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 13, "area_m2": 35.5}
+{"name": "진로", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 0.6, "jeonse_median_eok": 1.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 17, "area_m2": 35.5}
+{"name": "진로", "gu": "구로", "claim": "annual_trade_count", "value": 1.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "진로", "gu": "구로", "claim": "units", "value": 461, "grade": "fact", "source": "public_record"}
+{"name": "진로", "gu": "구로", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
+{"name": "천왕역모아엘가트레뷰", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 1.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 13, "area_m2": 35.5}
+{"name": "천왕역모아엘가트레뷰", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 1.5, "p75": 1.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 13, "area_m2": 35.5}
+{"name": "천왕역모아엘가트레뷰", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 0.6, "jeonse_median_eok": 1.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 17, "area_m2": 35.5}
+{"name": "천왕역모아엘가트레뷰", "gu": "구로", "claim": "annual_trade_count", "value": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "천왕역모아엘가트레뷰", "gu": "구로", "claim": "units", "value": 440, "grade": "fact", "source": "public_record"}
+{"name": "천왕역모아엘가트레뷰", "gu": "구로", "claim": "built_year", "value": 2025, "grade": "fact", "source": "public_record"}
+{"name": "포레나신길", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 1.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 13, "area_m2": 35.5}
+{"name": "포레나신길", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 1.5, "p75": 1.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 13, "area_m2": 35.5}
+{"name": "포레나신길", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 0.6, "jeonse_median_eok": 1.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 17, "area_m2": 35.5}
+{"name": "포레나신길", "gu": "구로", "claim": "units", "value": 284, "grade": "fact", "source": "public_record"}
+{"name": "포레나신길", "gu": "구로", "claim": "built_year", "value": 2008, "grade": "fact", "source": "public_record"}
+{"name": "호반써밋개봉", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 1.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 13, "area_m2": 35.5}
+{"name": "호반써밋개봉", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 1.5, "p75": 1.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 13, "area_m2": 35.5}
+{"name": "호반써밋개봉", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 0.6, "jeonse_median_eok": 1.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 17, "area_m2": 35.5}
+{"name": "호반써밋개봉", "gu": "구로", "claim": "annual_trade_count", "value": 4.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "호반써밋개봉", "gu": "구로", "claim": "units", "value": 317, "grade": "fact", "source": "public_record"}
+{"name": "호반써밋개봉", "gu": "구로", "claim": "built_year", "value": 2024, "grade": "fact", "source": "public_record"}
+{"name": "호반써밋목동", "gu": "구로", "claim": "recent_transaction_median_eok", "value": 1.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 13, "area_m2": 35.5}
+{"name": "호반써밋목동", "gu": "구로", "claim": "transaction_iqr_eok", "p25": 1.5, "p75": 1.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 13, "area_m2": 35.5}
+{"name": "호반써밋목동", "gu": "구로", "claim": "sale_jeonse_gap_eok", "value": 0.6, "jeonse_median_eok": 1.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15", "n": 17, "area_m2": 35.5}
+{"name": "호반써밋목동", "gu": "구로", "claim": "units", "value": 407, "grade": "fact", "source": "public_record"}
+{"name": "호반써밋목동", "gu": "구로", "claim": "built_year", "value": 2022, "grade": "fact", "source": "public_record"}
+{"name": "천왕연지타운2단지", "gu": "구로", "claim": "annual_trade_count", "value": 16.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-15"}
+{"name": "천왕연지타운2단지", "gu": "구로", "claim": "units", "value": 1018, "grade": "fact", "source": "public_record"}
+{"name": "천왕연지타운2단지", "gu": "구로", "claim": "built_year", "value": 2014, "grade": "fact", "source": "public_record"}
