@@ -1,0 +1,183 @@
+{"name": "삼성", "gu": "송파", "claim": "recent_transaction_median_eok", "value": 20.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 11, "area_m2": 79.5}
+{"name": "삼성", "gu": "송파", "claim": "transaction_iqr_eok", "p25": 19.55, "p75": 20.65, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 11, "area_m2": 79.5}
+{"name": "삼성", "gu": "송파", "claim": "sale_jeonse_gap_eok", "value": 12.01, "jeonse_median_eok": 7.99, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 28, "area_m2": 79.5}
+{"name": "삼성", "gu": "송파", "claim": "annual_trade_count", "value": 16.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20"}
+{"name": "삼성", "gu": "송파", "claim": "units", "value": 215, "grade": "fact", "source": "public_record"}
+{"name": "삼성", "gu": "송파", "claim": "built_year", "value": 1989, "grade": "fact", "source": "public_record"}
+{"name": "쌍용", "gu": "송파", "claim": "recent_transaction_median_eok", "value": 16.96, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 74, "area_m2": 60.0}
+{"name": "쌍용", "gu": "송파", "claim": "transaction_iqr_eok", "p25": 15.54, "p75": 18.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 74, "area_m2": 60.0}
+{"name": "쌍용", "gu": "송파", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 12.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 74, "area_m2": 60.0}
+{"name": "쌍용", "gu": "송파", "claim": "position_in_52w_range_pct", "value": 82, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 74, "area_m2": 60.0}
+{"name": "쌍용", "gu": "송파", "claim": "sale_jeonse_gap_eok", "value": 11.26, "jeonse_median_eok": 5.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 103, "area_m2": 60.0}
+{"name": "쌍용", "gu": "송파", "claim": "annual_trade_count", "value": 20.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20"}
+{"name": "쌍용", "gu": "송파", "claim": "units", "value": 417, "grade": "fact", "source": "public_record"}
+{"name": "쌍용", "gu": "송파", "claim": "built_year", "value": 1994, "grade": "fact", "source": "public_record"}
+{"name": "송파파인타운1단지", "gu": "송파", "claim": "recent_transaction_median_eok", "value": 16.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 92, "area_m2": 85.0}
+{"name": "송파파인타운1단지", "gu": "송파", "claim": "transaction_iqr_eok", "p25": 14.95, "p75": 17.65, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 92, "area_m2": 85.0}
+{"name": "송파파인타운1단지", "gu": "송파", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 10.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 92, "area_m2": 85.0}
+{"name": "송파파인타운1단지", "gu": "송파", "claim": "position_in_52w_range_pct", "value": 80, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 92, "area_m2": 85.0}
+{"name": "송파파인타운1단지", "gu": "송파", "claim": "sale_jeonse_gap_eok", "value": 8.94, "jeonse_median_eok": 7.56, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 262, "area_m2": 85.0}
+{"name": "송파파인타운1단지", "gu": "송파", "claim": "annual_trade_count", "value": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20"}
+{"name": "송파파인타운1단지", "gu": "송파", "claim": "units", "value": 221, "grade": "fact", "source": "public_record"}
+{"name": "송파파인타운1단지", "gu": "송파", "claim": "built_year", "value": 2010, "grade": "fact", "source": "public_record"}
+{"name": "송파파인타운3단지", "gu": "송파", "claim": "recent_transaction_median_eok", "value": 16.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 92, "area_m2": 85.0}
+{"name": "송파파인타운3단지", "gu": "송파", "claim": "transaction_iqr_eok", "p25": 14.95, "p75": 17.65, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 92, "area_m2": 85.0}
+{"name": "송파파인타운3단지", "gu": "송파", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 10.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 92, "area_m2": 85.0}
+{"name": "송파파인타운3단지", "gu": "송파", "claim": "position_in_52w_range_pct", "value": 80, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 92, "area_m2": 85.0}
+{"name": "송파파인타운3단지", "gu": "송파", "claim": "sale_jeonse_gap_eok", "value": 8.94, "jeonse_median_eok": 7.56, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 262, "area_m2": 85.0}
+{"name": "송파파인타운3단지", "gu": "송파", "claim": "annual_trade_count", "value": 25.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20"}
+{"name": "송파파인타운3단지", "gu": "송파", "claim": "units", "value": 625, "grade": "fact", "source": "public_record"}
+{"name": "송파파인타운3단지", "gu": "송파", "claim": "built_year", "value": 2008, "grade": "fact", "source": "public_record"}
+{"name": "포레나송파", "gu": "송파", "claim": "recent_transaction_median_eok", "value": 15.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 2, "area_m2": 134.0}
+{"name": "포레나송파", "gu": "송파", "claim": "annual_trade_count", "value": 2.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20"}
+{"name": "포레나송파", "gu": "송파", "claim": "units", "value": 1282, "grade": "fact", "source": "public_record"}
+{"name": "포레나송파", "gu": "송파", "claim": "built_year", "value": 2021, "grade": "fact", "source": "public_record"}
+{"name": "현대1차", "gu": "송파", "claim": "recent_transaction_median_eok", "value": 14.93, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 110, "area_m2": 85.0}
+{"name": "현대1차", "gu": "송파", "claim": "transaction_iqr_eok", "p25": 13.46, "p75": 18.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 110, "area_m2": 85.0}
+{"name": "현대1차", "gu": "송파", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 0.5, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 110, "area_m2": 85.0}
+{"name": "현대1차", "gu": "송파", "claim": "position_in_52w_range_pct", "value": 34, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 110, "area_m2": 85.0}
+{"name": "현대1차", "gu": "송파", "claim": "sale_jeonse_gap_eok", "value": 8.63, "jeonse_median_eok": 6.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 149, "area_m2": 85.0}
+{"name": "현대1차", "gu": "송파", "claim": "annual_trade_count", "value": 21.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20"}
+{"name": "현대1차", "gu": "송파", "claim": "units", "value": 497, "grade": "fact", "source": "public_record"}
+{"name": "현대1차", "gu": "송파", "claim": "built_year", "value": 1992, "grade": "fact", "source": "public_record"}
+{"name": "현대백조", "gu": "송파", "claim": "recent_transaction_median_eok", "value": 14.82, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 67, "area_m2": 85.0}
+{"name": "현대백조", "gu": "송파", "claim": "transaction_iqr_eok", "p25": 13.4, "p75": 17.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 67, "area_m2": 85.0}
+{"name": "현대백조", "gu": "송파", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 0.6, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 67, "area_m2": 85.0}
+{"name": "현대백조", "gu": "송파", "claim": "position_in_52w_range_pct", "value": 33, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 67, "area_m2": 85.0}
+{"name": "현대백조", "gu": "송파", "claim": "sale_jeonse_gap_eok", "value": 8.02, "jeonse_median_eok": 6.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 74, "area_m2": 85.0}
+{"name": "현대백조", "gu": "송파", "claim": "annual_trade_count", "value": 28.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20"}
+{"name": "현대백조", "gu": "송파", "claim": "units", "value": 438, "grade": "fact", "source": "public_record"}
+{"name": "현대백조", "gu": "송파", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
+{"name": "한강현대", "gu": "송파", "claim": "recent_transaction_median_eok", "value": 14.81, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 64, "area_m2": 85.0}
+{"name": "한강현대", "gu": "송파", "claim": "transaction_iqr_eok", "p25": 13.2, "p75": 17.52, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 64, "area_m2": 85.0}
+{"name": "한강현대", "gu": "송파", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 0.6, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 64, "area_m2": 85.0}
+{"name": "한강현대", "gu": "송파", "claim": "position_in_52w_range_pct", "value": 33, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 64, "area_m2": 85.0}
+{"name": "한강현대", "gu": "송파", "claim": "sale_jeonse_gap_eok", "value": 8.06, "jeonse_median_eok": 6.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 72, "area_m2": 85.0}
+{"name": "한강현대", "gu": "송파", "claim": "units", "value": 204, "grade": "fact", "source": "public_record"}
+{"name": "한강현대", "gu": "송파", "claim": "built_year", "value": 1993, "grade": "fact", "source": "public_record"}
+{"name": "현대강변", "gu": "송파", "claim": "recent_transaction_median_eok", "value": 14.81, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 64, "area_m2": 85.0}
+{"name": "현대강변", "gu": "송파", "claim": "transaction_iqr_eok", "p25": 13.2, "p75": 17.52, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 64, "area_m2": 85.0}
+{"name": "현대강변", "gu": "송파", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 0.6, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 64, "area_m2": 85.0}
+{"name": "현대강변", "gu": "송파", "claim": "position_in_52w_range_pct", "value": 33, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 64, "area_m2": 85.0}
+{"name": "현대강변", "gu": "송파", "claim": "sale_jeonse_gap_eok", "value": 8.06, "jeonse_median_eok": 6.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 72, "area_m2": 85.0}
+{"name": "현대강변", "gu": "송파", "claim": "units", "value": 208, "grade": "fact", "source": "public_record"}
+{"name": "현대강변", "gu": "송파", "claim": "built_year", "value": 1991, "grade": "fact", "source": "public_record"}
+{"name": "현대리버빌1지구", "gu": "송파", "claim": "recent_transaction_median_eok", "value": 14.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 77, "area_m2": 85.0}
+{"name": "현대리버빌1지구", "gu": "송파", "claim": "transaction_iqr_eok", "p25": 12.3, "p75": 17.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 77, "area_m2": 85.0}
+{"name": "현대리버빌1지구", "gu": "송파", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 3.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 77, "area_m2": 85.0}
+{"name": "현대리버빌1지구", "gu": "송파", "claim": "position_in_52w_range_pct", "value": 34, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 77, "area_m2": 85.0}
+{"name": "현대리버빌1지구", "gu": "송파", "claim": "sale_jeonse_gap_eok", "value": 8.08, "jeonse_median_eok": 6.72, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 81, "area_m2": 85.0}
+{"name": "현대리버빌1지구", "gu": "송파", "claim": "annual_trade_count", "value": 50.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20"}
+{"name": "현대리버빌1지구", "gu": "송파", "claim": "units", "value": 557, "grade": "fact", "source": "public_record"}
+{"name": "현대리버빌1지구", "gu": "송파", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "현대2차", "gu": "송파", "claim": "recent_transaction_median_eok", "value": 14.18, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 82, "area_m2": 85.0}
+{"name": "현대2차", "gu": "송파", "claim": "transaction_iqr_eok", "p25": 11.03, "p75": 16.39, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 82, "area_m2": 85.0}
+{"name": "현대2차", "gu": "송파", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 3.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 82, "area_m2": 85.0}
+{"name": "현대2차", "gu": "송파", "claim": "position_in_52w_range_pct", "value": 33, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 82, "area_m2": 85.0}
+{"name": "현대2차", "gu": "송파", "claim": "sale_jeonse_gap_eok", "value": 7.68, "jeonse_median_eok": 6.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 91, "area_m2": 85.0}
+{"name": "현대2차", "gu": "송파", "claim": "annual_trade_count", "value": 14.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20"}
+{"name": "현대2차", "gu": "송파", "claim": "units", "value": 280, "grade": "fact", "source": "public_record"}
+{"name": "현대2차", "gu": "송파", "claim": "built_year", "value": 1992, "grade": "fact", "source": "public_record"}
+{"name": "한강극동", "gu": "송파", "claim": "recent_transaction_median_eok", "value": 14.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 21, "area_m2": 80.0}
+{"name": "한강극동", "gu": "송파", "claim": "transaction_iqr_eok", "p25": 13.0, "p75": 14.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 21, "area_m2": 80.0}
+{"name": "한강극동", "gu": "송파", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 21.5, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 21, "area_m2": 80.0}
+{"name": "한강극동", "gu": "송파", "claim": "position_in_52w_range_pct", "value": 90, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 21, "area_m2": 80.0}
+{"name": "한강극동", "gu": "송파", "claim": "sale_jeonse_gap_eok", "value": 9.1, "jeonse_median_eok": 4.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 17, "area_m2": 80.0}
+{"name": "한강극동", "gu": "송파", "claim": "annual_trade_count", "value": 41.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20"}
+{"name": "한강극동", "gu": "송파", "claim": "units", "value": 895, "grade": "fact", "source": "public_record"}
+{"name": "한강극동", "gu": "송파", "claim": "built_year", "value": 1995, "grade": "fact", "source": "public_record"}
+{"name": "현대3차", "gu": "송파", "claim": "recent_transaction_median_eok", "value": 13.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 91, "area_m2": 85.0}
+{"name": "현대3차", "gu": "송파", "claim": "transaction_iqr_eok", "p25": 11.3, "p75": 15.93, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 91, "area_m2": 85.0}
+{"name": "현대3차", "gu": "송파", "claim": "recent3m_vs_prior9m_median_change_pct", "value": -5.0, "direction": "▼", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 91, "area_m2": 85.0}
+{"name": "현대3차", "gu": "송파", "claim": "position_in_52w_range_pct", "value": 23, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 91, "area_m2": 85.0}
+{"name": "현대3차", "gu": "송파", "claim": "sale_jeonse_gap_eok", "value": 7.4, "jeonse_median_eok": 6.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 88, "area_m2": 85.0}
+{"name": "현대3차", "gu": "송파", "claim": "annual_trade_count", "value": 27.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20"}
+{"name": "현대3차", "gu": "송파", "claim": "units", "value": 303, "grade": "fact", "source": "public_record"}
+{"name": "현대3차", "gu": "송파", "claim": "built_year", "value": 1993, "grade": "fact", "source": "public_record"}
+{"name": "한신잠실코아", "gu": "송파", "claim": "recent_transaction_median_eok", "value": 13.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 19, "area_m2": 42.0}
+{"name": "한신잠실코아", "gu": "송파", "claim": "transaction_iqr_eok", "p25": 12.57, "p75": 13.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 19, "area_m2": 42.0}
+{"name": "한신잠실코아", "gu": "송파", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 8.2, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 19, "area_m2": 42.0}
+{"name": "한신잠실코아", "gu": "송파", "claim": "position_in_52w_range_pct", "value": 81, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 19, "area_m2": 42.0}
+{"name": "한신잠실코아", "gu": "송파", "claim": "sale_jeonse_gap_eok", "value": 9.5, "jeonse_median_eok": 4.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 33, "area_m2": 42.0}
+{"name": "한신잠실코아", "gu": "송파", "claim": "annual_trade_count", "value": 37.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20"}
+{"name": "한신잠실코아", "gu": "송파", "claim": "units", "value": 493, "grade": "fact", "source": "public_record"}
+{"name": "한신잠실코아", "gu": "송파", "claim": "built_year", "value": 1988, "grade": "fact", "source": "public_record"}
+{"name": "현대", "gu": "송파", "claim": "recent_transaction_median_eok", "value": 13.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 182, "area_m2": 85.0}
+{"name": "현대", "gu": "송파", "claim": "transaction_iqr_eok", "p25": 11.5, "p75": 16.23, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 182, "area_m2": 85.0}
+{"name": "현대", "gu": "송파", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 8.5, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 182, "area_m2": 85.0}
+{"name": "현대", "gu": "송파", "claim": "position_in_52w_range_pct", "value": 31, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 182, "area_m2": 85.0}
+{"name": "현대", "gu": "송파", "claim": "sale_jeonse_gap_eok", "value": 7.3, "jeonse_median_eok": 6.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 208, "area_m2": 85.0}
+{"name": "현대", "gu": "송파", "claim": "annual_trade_count", "value": 112.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20"}
+{"name": "현대", "gu": "송파", "claim": "units", "value": 243, "grade": "fact", "source": "public_record"}
+{"name": "현대", "gu": "송파", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
+{"name": "우성2차", "gu": "송파", "claim": "recent_transaction_median_eok", "value": 13.32, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 20, "area_m2": 44.0}
+{"name": "우성2차", "gu": "송파", "claim": "transaction_iqr_eok", "p25": 11.39, "p75": 14.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 20, "area_m2": 44.0}
+{"name": "우성2차", "gu": "송파", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 26.5, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 20, "area_m2": 44.0}
+{"name": "우성2차", "gu": "송파", "claim": "position_in_52w_range_pct", "value": 100, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 20, "area_m2": 44.0}
+{"name": "우성2차", "gu": "송파", "claim": "sale_jeonse_gap_eok", "value": 9.32, "jeonse_median_eok": 4.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 60, "area_m2": 44.0}
+{"name": "우성2차", "gu": "송파", "claim": "units", "value": 405, "grade": "fact", "source": "public_record"}
+{"name": "우성2차", "gu": "송파", "claim": "built_year", "value": 1989, "grade": "fact", "source": "public_record"}
+{"name": "송파두산위브", "gu": "송파", "claim": "recent_transaction_median_eok", "value": 12.78, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 23, "area_m2": 60.0}
+{"name": "송파두산위브", "gu": "송파", "claim": "transaction_iqr_eok", "p25": 11.09, "p75": 13.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 23, "area_m2": 60.0}
+{"name": "송파두산위브", "gu": "송파", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 14.5, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 23, "area_m2": 60.0}
+{"name": "송파두산위브", "gu": "송파", "claim": "position_in_52w_range_pct", "value": 88, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 23, "area_m2": 60.0}
+{"name": "송파두산위브", "gu": "송파", "claim": "sale_jeonse_gap_eok", "value": 6.48, "jeonse_median_eok": 6.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 16, "area_m2": 60.0}
+{"name": "송파두산위브", "gu": "송파", "claim": "annual_trade_count", "value": 27.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20"}
+{"name": "송파두산위브", "gu": "송파", "claim": "units", "value": 269, "grade": "fact", "source": "public_record"}
+{"name": "송파두산위브", "gu": "송파", "claim": "built_year", "value": 2019, "grade": "fact", "source": "public_record"}
+{"name": "송파파크데일1단지", "gu": "송파", "claim": "recent_transaction_median_eok", "value": 12.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 18, "area_m2": 85.0}
+{"name": "송파파크데일1단지", "gu": "송파", "claim": "transaction_iqr_eok", "p25": 10.89, "p75": 12.57, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 18, "area_m2": 85.0}
+{"name": "송파파크데일1단지", "gu": "송파", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 11.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 18, "area_m2": 85.0}
+{"name": "송파파크데일1단지", "gu": "송파", "claim": "position_in_52w_range_pct", "value": 76, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 18, "area_m2": 85.0}
+{"name": "송파파크데일1단지", "gu": "송파", "claim": "sale_jeonse_gap_eok", "value": 6.6, "jeonse_median_eok": 5.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 43, "area_m2": 85.0}
+{"name": "송파파크데일1단지", "gu": "송파", "claim": "annual_trade_count", "value": 15.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20"}
+{"name": "송파파크데일1단지", "gu": "송파", "claim": "units", "value": 812, "grade": "fact", "source": "public_record"}
+{"name": "송파파크데일1단지", "gu": "송파", "claim": "built_year", "value": 2011, "grade": "fact", "source": "public_record"}
+{"name": "송파파크데일2단지", "gu": "송파", "claim": "recent_transaction_median_eok", "value": 12.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 18, "area_m2": 85.0}
+{"name": "송파파크데일2단지", "gu": "송파", "claim": "transaction_iqr_eok", "p25": 10.89, "p75": 12.57, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 18, "area_m2": 85.0}
+{"name": "송파파크데일2단지", "gu": "송파", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 11.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 18, "area_m2": 85.0}
+{"name": "송파파크데일2단지", "gu": "송파", "claim": "position_in_52w_range_pct", "value": 76, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 18, "area_m2": 85.0}
+{"name": "송파파크데일2단지", "gu": "송파", "claim": "sale_jeonse_gap_eok", "value": 6.6, "jeonse_median_eok": 5.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 43, "area_m2": 85.0}
+{"name": "송파파크데일2단지", "gu": "송파", "claim": "annual_trade_count", "value": 16.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20"}
+{"name": "송파파크데일2단지", "gu": "송파", "claim": "units", "value": 889, "grade": "fact", "source": "public_record"}
+{"name": "송파파크데일2단지", "gu": "송파", "claim": "built_year", "value": 2011, "grade": "fact", "source": "public_record"}
+{"name": "거여5단지", "gu": "송파", "claim": "recent_transaction_median_eok", "value": 10.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 37, "area_m2": 59.5}
+{"name": "거여5단지", "gu": "송파", "claim": "transaction_iqr_eok", "p25": 9.5, "p75": 12.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 37, "area_m2": 59.5}
+{"name": "거여5단지", "gu": "송파", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 30.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 37, "area_m2": 59.5}
+{"name": "거여5단지", "gu": "송파", "claim": "position_in_52w_range_pct", "value": 88, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 37, "area_m2": 59.5}
+{"name": "거여5단지", "gu": "송파", "claim": "sale_jeonse_gap_eok", "value": 6.0, "jeonse_median_eok": 4.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 74, "area_m2": 59.5}
+{"name": "거여5단지", "gu": "송파", "claim": "annual_trade_count", "value": 46.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20"}
+{"name": "거여5단지", "gu": "송파", "claim": "units", "value": 605, "grade": "fact", "source": "public_record"}
+{"name": "거여5단지", "gu": "송파", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
+{"name": "호수임광", "gu": "송파", "claim": "recent_transaction_median_eok", "value": 9.97, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 12, "area_m2": 56.5}
+{"name": "호수임광", "gu": "송파", "claim": "transaction_iqr_eok", "p25": 9.66, "p75": 10.78, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 12, "area_m2": 56.5}
+{"name": "호수임광", "gu": "송파", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 9.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 12, "area_m2": 56.5}
+{"name": "호수임광", "gu": "송파", "claim": "position_in_52w_range_pct", "value": 65, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 12, "area_m2": 56.5}
+{"name": "호수임광", "gu": "송파", "claim": "sale_jeonse_gap_eok", "value": 5.17, "jeonse_median_eok": 4.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 19, "area_m2": 56.5}
+{"name": "호수임광", "gu": "송파", "claim": "annual_trade_count", "value": 18.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20"}
+{"name": "호수임광", "gu": "송파", "claim": "units", "value": 227, "grade": "fact", "source": "public_record"}
+{"name": "호수임광", "gu": "송파", "claim": "built_year", "value": 1995, "grade": "fact", "source": "public_record"}
+{"name": "거여4단지", "gu": "송파", "claim": "recent_transaction_median_eok", "value": 9.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 16, "area_m2": 50.0}
+{"name": "거여4단지", "gu": "송파", "claim": "transaction_iqr_eok", "p25": 8.81, "p75": 11.04, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 16, "area_m2": 50.0}
+{"name": "거여4단지", "gu": "송파", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 31.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 16, "area_m2": 50.0}
+{"name": "거여4단지", "gu": "송파", "claim": "position_in_52w_range_pct", "value": 94, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 16, "area_m2": 50.0}
+{"name": "거여4단지", "gu": "송파", "claim": "sale_jeonse_gap_eok", "value": 5.25, "jeonse_median_eok": 4.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 20, "area_m2": 50.0}
+{"name": "거여4단지", "gu": "송파", "claim": "annual_trade_count", "value": 40.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20"}
+{"name": "거여4단지", "gu": "송파", "claim": "units", "value": 546, "grade": "fact", "source": "public_record"}
+{"name": "거여4단지", "gu": "송파", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
+{"name": "거여1단지", "gu": "송파", "claim": "recent_transaction_median_eok", "value": 8.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 40, "area_m2": 39.5}
+{"name": "거여1단지", "gu": "송파", "claim": "transaction_iqr_eok", "p25": 7.42, "p75": 9.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 40, "area_m2": 39.5}
+{"name": "거여1단지", "gu": "송파", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 16.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 40, "area_m2": 39.5}
+{"name": "거여1단지", "gu": "송파", "claim": "position_in_52w_range_pct", "value": 84, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 40, "area_m2": 39.5}
+{"name": "거여1단지", "gu": "송파", "claim": "sale_jeonse_gap_eok", "value": 5.45, "jeonse_median_eok": 3.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 38, "area_m2": 39.5}
+{"name": "거여1단지", "gu": "송파", "claim": "annual_trade_count", "value": 84.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20"}
+{"name": "거여1단지", "gu": "송파", "claim": "units", "value": 1004, "grade": "fact", "source": "public_record"}
+{"name": "거여1단지", "gu": "송파", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
+{"name": "우방", "gu": "송파", "claim": "recent_transaction_median_eok", "value": 8.22, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 12, "area_m2": 60.0}
+{"name": "우방", "gu": "송파", "claim": "transaction_iqr_eok", "p25": 8.05, "p75": 8.49, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 12, "area_m2": 60.0}
+{"name": "우방", "gu": "송파", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 19.5, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 12, "area_m2": 60.0}
+{"name": "우방", "gu": "송파", "claim": "position_in_52w_range_pct", "value": 96, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 12, "area_m2": 60.0}
+{"name": "우방", "gu": "송파", "claim": "sale_jeonse_gap_eok", "value": 3.82, "jeonse_median_eok": 4.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20", "n": 11, "area_m2": 60.0}
+{"name": "우방", "gu": "송파", "claim": "annual_trade_count", "value": 13.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-20"}
+{"name": "우방", "gu": "송파", "claim": "units", "value": 247, "grade": "fact", "source": "public_record"}
+{"name": "우방", "gu": "송파", "claim": "built_year", "value": 2002, "grade": "fact", "source": "public_record"}
