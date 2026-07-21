@@ -1,0 +1,16 @@
+{"name": "한강타운", "gu": "용산", "claim": "recent_transaction_median_eok", "value": 27.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-22", "n": 15, "area_m2": 85.0}
+{"name": "한강타운", "gu": "용산", "claim": "transaction_iqr_eok", "p25": 27.05, "p75": 27.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-22", "n": 15, "area_m2": 85.0}
+{"name": "한강타운", "gu": "용산", "claim": "recent3m_vs_prior9m_median_change_pct", "value": -5.1, "direction": "▼", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-22", "n": 15, "area_m2": 85.0}
+{"name": "한강타운", "gu": "용산", "claim": "position_in_52w_range_pct", "value": 7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-22", "n": 15, "area_m2": 85.0}
+{"name": "한강타운", "gu": "용산", "claim": "sale_jeonse_gap_eok", "value": 16.8, "jeonse_median_eok": 10.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-22", "n": 21, "area_m2": 85.0}
+{"name": "한강타운", "gu": "용산", "claim": "annual_trade_count", "value": 14.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-22"}
+{"name": "한강타운", "gu": "용산", "claim": "units", "value": 289, "grade": "fact", "source": "public_record"}
+{"name": "한강타운", "gu": "용산", "claim": "built_year", "value": 2001, "grade": "fact", "source": "public_record"}
+{"name": "후암미주", "gu": "용산", "claim": "recent_transaction_median_eok", "value": 9.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-22", "n": 15, "area_m2": 62.5}
+{"name": "후암미주", "gu": "용산", "claim": "transaction_iqr_eok", "p25": 9.3, "p75": 10.05, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-22", "n": 15, "area_m2": 62.5}
+{"name": "후암미주", "gu": "용산", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 6.9, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-22", "n": 15, "area_m2": 62.5}
+{"name": "후암미주", "gu": "용산", "claim": "position_in_52w_range_pct", "value": 59, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-22", "n": 15, "area_m2": 62.5}
+{"name": "후암미주", "gu": "용산", "claim": "sale_jeonse_gap_eok", "value": 6.9, "jeonse_median_eok": 3.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-22", "n": 15, "area_m2": 62.5}
+{"name": "후암미주", "gu": "용산", "claim": "annual_trade_count", "value": 15.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-22"}
+{"name": "후암미주", "gu": "용산", "claim": "units", "value": 226, "grade": "fact", "source": "public_record"}
+{"name": "후암미주", "gu": "용산", "claim": "built_year", "value": 1980, "grade": "fact", "source": "public_record"}
