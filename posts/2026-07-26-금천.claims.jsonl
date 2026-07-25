@@ -1,0 +1,83 @@
+{"name": "금천롯데캐슬골드파크3차(주상복합)", "gu": "금천", "claim": "recent_transaction_median_eok", "value": 9.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 95, "area_m2": 60.0}
+{"name": "금천롯데캐슬골드파크3차(주상복합)", "gu": "금천", "claim": "transaction_iqr_eok", "p25": 9.23, "p75": 9.96, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 95, "area_m2": 60.0}
+{"name": "금천롯데캐슬골드파크3차(주상복합)", "gu": "금천", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 11.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 95, "area_m2": 60.0}
+{"name": "금천롯데캐슬골드파크3차(주상복합)", "gu": "금천", "claim": "position_in_52w_range_pct", "value": 90, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 95, "area_m2": 60.0}
+{"name": "금천롯데캐슬골드파크3차(주상복합)", "gu": "금천", "claim": "sale_jeonse_gap_eok", "value": 3.94, "jeonse_median_eok": 5.56, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 128, "area_m2": 60.0}
+{"name": "금천롯데캐슬골드파크3차(주상복합)", "gu": "금천", "claim": "annual_trade_count", "value": 88.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26"}
+{"name": "금천롯데캐슬골드파크3차(주상복합)", "gu": "금천", "claim": "units", "value": 1236, "grade": "fact", "source": "public_record"}
+{"name": "금천롯데캐슬골드파크3차(주상복합)", "gu": "금천", "claim": "built_year", "value": 2018, "grade": "fact", "source": "public_record"}
+{"name": "남서울힐스테이트", "gu": "금천", "claim": "recent_transaction_median_eok", "value": 8.05, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 25, "area_m2": 60.0}
+{"name": "남서울힐스테이트", "gu": "금천", "claim": "transaction_iqr_eok", "p25": 7.8, "p75": 8.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 25, "area_m2": 60.0}
+{"name": "남서울힐스테이트", "gu": "금천", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 5.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 25, "area_m2": 60.0}
+{"name": "남서울힐스테이트", "gu": "금천", "claim": "position_in_52w_range_pct", "value": 95, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 25, "area_m2": 60.0}
+{"name": "남서울힐스테이트", "gu": "금천", "claim": "sale_jeonse_gap_eok", "value": 3.35, "jeonse_median_eok": 4.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 27, "area_m2": 60.0}
+{"name": "남서울힐스테이트", "gu": "금천", "claim": "annual_trade_count", "value": 92.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26"}
+{"name": "남서울힐스테이트", "gu": "금천", "claim": "units", "value": 1764, "grade": "fact", "source": "public_record"}
+{"name": "남서울힐스테이트", "gu": "금천", "claim": "built_year", "value": 2014, "grade": "fact", "source": "public_record"}
+{"name": "e편한세상독산더타워(주상복합)", "gu": "금천", "claim": "recent_transaction_median_eok", "value": 7.79, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 29, "area_m2": 60.0}
+{"name": "e편한세상독산더타워(주상복합)", "gu": "금천", "claim": "transaction_iqr_eok", "p25": 7.68, "p75": 7.99, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 29, "area_m2": 60.0}
+{"name": "e편한세상독산더타워(주상복합)", "gu": "금천", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 0.6, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 29, "area_m2": 60.0}
+{"name": "e편한세상독산더타워(주상복합)", "gu": "금천", "claim": "position_in_52w_range_pct", "value": 57, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 29, "area_m2": 60.0}
+{"name": "e편한세상독산더타워(주상복합)", "gu": "금천", "claim": "sale_jeonse_gap_eok", "value": 2.95, "jeonse_median_eok": 4.84, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 50, "area_m2": 60.0}
+{"name": "e편한세상독산더타워(주상복합)", "gu": "금천", "claim": "annual_trade_count", "value": 42.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26"}
+{"name": "e편한세상독산더타워(주상복합)", "gu": "금천", "claim": "units", "value": 432, "grade": "fact", "source": "public_record"}
+{"name": "e편한세상독산더타워(주상복합)", "gu": "금천", "claim": "built_year", "value": 2019, "grade": "fact", "source": "public_record"}
+{"name": "시흥베르빌", "gu": "금천", "claim": "recent_transaction_median_eok", "value": 7.35, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 10, "area_m2": 81.0}
+{"name": "시흥베르빌", "gu": "금천", "claim": "transaction_iqr_eok", "p25": 7.3, "p75": 7.49, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 10, "area_m2": 81.0}
+{"name": "시흥베르빌", "gu": "금천", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 0.0, "direction": "—", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 10, "area_m2": 81.0}
+{"name": "시흥베르빌", "gu": "금천", "claim": "position_in_52w_range_pct", "value": 58, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 10, "area_m2": 81.0}
+{"name": "시흥베르빌", "gu": "금천", "claim": "sale_jeonse_gap_eok", "value": 2.51, "jeonse_median_eok": 4.84, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 6, "area_m2": 81.0}
+{"name": "시흥베르빌", "gu": "금천", "claim": "annual_trade_count", "value": 10.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26"}
+{"name": "시흥베르빌", "gu": "금천", "claim": "units", "value": 229, "grade": "fact", "source": "public_record"}
+{"name": "시흥베르빌", "gu": "금천", "claim": "built_year", "value": 2004, "grade": "fact", "source": "public_record"}
+{"name": "금천현대", "gu": "금천", "claim": "recent_transaction_median_eok", "value": 5.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 40, "area_m2": 60.0}
+{"name": "금천현대", "gu": "금천", "claim": "transaction_iqr_eok", "p25": 5.67, "p75": 6.11, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 40, "area_m2": 60.0}
+{"name": "금천현대", "gu": "금천", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 10.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 40, "area_m2": 60.0}
+{"name": "금천현대", "gu": "금천", "claim": "position_in_52w_range_pct", "value": 89, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 40, "area_m2": 60.0}
+{"name": "금천현대", "gu": "금천", "claim": "sale_jeonse_gap_eok", "value": 2.34, "jeonse_median_eok": 3.46, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 42, "area_m2": 60.0}
+{"name": "금천현대", "gu": "금천", "claim": "annual_trade_count", "value": 62.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26"}
+{"name": "금천현대", "gu": "금천", "claim": "units", "value": 996, "grade": "fact", "source": "public_record"}
+{"name": "금천현대", "gu": "금천", "claim": "built_year", "value": 2002, "grade": "fact", "source": "public_record"}
+{"name": "현대(982)", "gu": "금천", "claim": "recent_transaction_median_eok", "value": 5.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 46, "area_m2": 60.0}
+{"name": "현대(982)", "gu": "금천", "claim": "transaction_iqr_eok", "p25": 5.46, "p75": 6.08, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 46, "area_m2": 60.0}
+{"name": "현대(982)", "gu": "금천", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 11.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 46, "area_m2": 60.0}
+{"name": "현대(982)", "gu": "금천", "claim": "position_in_52w_range_pct", "value": 92, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 46, "area_m2": 60.0}
+{"name": "현대(982)", "gu": "금천", "claim": "sale_jeonse_gap_eok", "value": 2.29, "jeonse_median_eok": 3.46, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 51, "area_m2": 60.0}
+{"name": "현대(982)", "gu": "금천", "claim": "annual_trade_count", "value": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26"}
+{"name": "현대(982)", "gu": "금천", "claim": "units", "value": 330, "grade": "fact", "source": "public_record"}
+{"name": "현대(982)", "gu": "금천", "claim": "built_year", "value": 1989, "grade": "fact", "source": "public_record"}
+{"name": "관악산신도브래뉴", "gu": "금천", "claim": "recent_transaction_median_eok", "value": 5.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 10, "area_m2": 55.5}
+{"name": "관악산신도브래뉴", "gu": "금천", "claim": "transaction_iqr_eok", "p25": 5.52, "p75": 5.79, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 10, "area_m2": 55.5}
+{"name": "관악산신도브래뉴", "gu": "금천", "claim": "recent3m_vs_prior9m_median_change_pct", "value": -3.7, "direction": "▼", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 10, "area_m2": 55.5}
+{"name": "관악산신도브래뉴", "gu": "금천", "claim": "position_in_52w_range_pct", "value": 43, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 10, "area_m2": 55.5}
+{"name": "관악산신도브래뉴", "gu": "금천", "claim": "sale_jeonse_gap_eok", "value": 2.0, "jeonse_median_eok": 3.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 7, "area_m2": 55.5}
+{"name": "관악산신도브래뉴", "gu": "금천", "claim": "annual_trade_count", "value": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26"}
+{"name": "관악산신도브래뉴", "gu": "금천", "claim": "units", "value": 206, "grade": "fact", "source": "public_record"}
+{"name": "관악산신도브래뉴", "gu": "금천", "claim": "built_year", "value": 2006, "grade": "fact", "source": "public_record"}
+{"name": "성지", "gu": "금천", "claim": "recent_transaction_median_eok", "value": 5.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 5, "area_m2": 67.5}
+{"name": "성지", "gu": "금천", "claim": "transaction_iqr_eok", "p25": 5.3, "p75": 5.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 5, "area_m2": 67.5}
+{"name": "성지", "gu": "금천", "claim": "sale_jeonse_gap_eok", "value": 2.7, "jeonse_median_eok": 2.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 5, "area_m2": 67.5}
+{"name": "성지", "gu": "금천", "claim": "annual_trade_count", "value": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26"}
+{"name": "성지", "gu": "금천", "claim": "units", "value": 233, "grade": "fact", "source": "public_record"}
+{"name": "성지", "gu": "금천", "claim": "built_year", "value": 1986, "grade": "fact", "source": "public_record"}
+{"name": "삼익", "gu": "금천", "claim": "recent_transaction_median_eok", "value": 4.54, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 22, "area_m2": 60.0}
+{"name": "삼익", "gu": "금천", "claim": "transaction_iqr_eok", "p25": 4.3, "p75": 4.76, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 22, "area_m2": 60.0}
+{"name": "삼익", "gu": "금천", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 4.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 22, "area_m2": 60.0}
+{"name": "삼익", "gu": "금천", "claim": "position_in_52w_range_pct", "value": 70, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 22, "area_m2": 60.0}
+{"name": "삼익", "gu": "금천", "claim": "sale_jeonse_gap_eok", "value": 1.64, "jeonse_median_eok": 2.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 11, "area_m2": 60.0}
+{"name": "삼익", "gu": "금천", "claim": "annual_trade_count", "value": 40.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26"}
+{"name": "삼익", "gu": "금천", "claim": "units", "value": 210, "grade": "fact", "source": "public_record"}
+{"name": "삼익", "gu": "금천", "claim": "built_year", "value": 1998, "grade": "fact", "source": "public_record"}
+{"name": "우방", "gu": "금천", "claim": "recent_transaction_median_eok", "value": 4.53, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 27, "area_m2": 60.0}
+{"name": "우방", "gu": "금천", "claim": "transaction_iqr_eok", "p25": 4.2, "p75": 4.68, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 27, "area_m2": 60.0}
+{"name": "우방", "gu": "금천", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 2.6, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 27, "area_m2": 60.0}
+{"name": "우방", "gu": "금천", "claim": "position_in_52w_range_pct", "value": 81, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 27, "area_m2": 60.0}
+{"name": "우방", "gu": "금천", "claim": "sale_jeonse_gap_eok", "value": 1.38, "jeonse_median_eok": 3.15, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 25, "area_m2": 60.0}
+{"name": "우방", "gu": "금천", "claim": "annual_trade_count", "value": 43.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26"}
+{"name": "우방", "gu": "금천", "claim": "units", "value": 201, "grade": "fact", "source": "public_record"}
+{"name": "우방", "gu": "금천", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "현대연예인", "gu": "금천", "claim": "recent_transaction_median_eok", "value": 4.42, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 6, "area_m2": 82.5}
+{"name": "현대연예인", "gu": "금천", "claim": "transaction_iqr_eok", "p25": 4.33, "p75": 4.54, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 6, "area_m2": 82.5}
+{"name": "현대연예인", "gu": "금천", "claim": "sale_jeonse_gap_eok", "value": 0.99, "jeonse_median_eok": 3.43, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-07-26", "n": 4, "area_m2": 82.5}
+{"name": "현대연예인", "gu": "금천", "claim": "units", "value": 735, "grade": "fact", "source": "public_record"}
+{"name": "현대연예인", "gu": "금천", "claim": "built_year", "value": 1989, "grade": "fact", "source": "public_record"}
