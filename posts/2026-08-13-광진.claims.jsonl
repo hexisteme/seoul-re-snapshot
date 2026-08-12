@@ -1,0 +1,30 @@
+{"name": "현대(30-2)", "gu": "광진", "claim": "recent_transaction_median_eok", "value": 19.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-13", "n": 229, "area_m2": 85.0}
+{"name": "현대(30-2)", "gu": "광진", "claim": "transaction_iqr_eok", "p25": 15.95, "p75": 21.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-13", "n": 229, "area_m2": 85.0}
+{"name": "현대(30-2)", "gu": "광진", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 5.5, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-13", "n": 229, "area_m2": 85.0}
+{"name": "현대(30-2)", "gu": "광진", "claim": "position_in_52w_range_pct", "value": 67, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-13", "n": 229, "area_m2": 85.0}
+{"name": "현대(30-2)", "gu": "광진", "claim": "sale_jeonse_gap_eok", "value": 11.5, "jeonse_median_eok": 7.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-13", "n": 489, "area_m2": 85.0}
+{"name": "현대(30-2)", "gu": "광진", "claim": "units", "value": 277, "grade": "fact", "source": "public_record"}
+{"name": "현대(30-2)", "gu": "광진", "claim": "built_year", "value": 1987, "grade": "fact", "source": "public_record"}
+{"name": "성안마을청구", "gu": "광진", "claim": "recent_transaction_median_eok", "value": 15.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-13", "n": 23, "area_m2": 60.0}
+{"name": "성안마을청구", "gu": "광진", "claim": "transaction_iqr_eok", "p25": 13.85, "p75": 15.88, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-13", "n": 23, "area_m2": 60.0}
+{"name": "성안마을청구", "gu": "광진", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 7.2, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-13", "n": 23, "area_m2": 60.0}
+{"name": "성안마을청구", "gu": "광진", "claim": "position_in_52w_range_pct", "value": 51, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-13", "n": 23, "area_m2": 60.0}
+{"name": "성안마을청구", "gu": "광진", "claim": "sale_jeonse_gap_eok", "value": 8.7, "jeonse_median_eok": 6.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-13", "n": 33, "area_m2": 60.0}
+{"name": "성안마을청구", "gu": "광진", "claim": "units", "value": 349, "grade": "fact", "source": "public_record"}
+{"name": "성안마을청구", "gu": "광진", "claim": "built_year", "value": 2002, "grade": "fact", "source": "public_record"}
+{"name": "대동", "gu": "광진", "claim": "recent_transaction_median_eok", "value": 13.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-13", "n": 9, "area_m2": 59.5}
+{"name": "대동", "gu": "광진", "claim": "transaction_iqr_eok", "p25": 13.15, "p75": 13.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-13", "n": 9, "area_m2": 59.5}
+{"name": "대동", "gu": "광진", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 4.0, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-13", "n": 9, "area_m2": 59.5}
+{"name": "대동", "gu": "광진", "claim": "position_in_52w_range_pct", "value": 68, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-13", "n": 9, "area_m2": 59.5}
+{"name": "대동", "gu": "광진", "claim": "sale_jeonse_gap_eok", "value": 8.6, "jeonse_median_eok": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-13", "n": 13, "area_m2": 59.5}
+{"name": "대동", "gu": "광진", "claim": "annual_trade_count", "value": 15.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-13"}
+{"name": "대동", "gu": "광진", "claim": "units", "value": 314, "grade": "fact", "source": "public_record"}
+{"name": "대동", "gu": "광진", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "일성파크", "gu": "광진", "claim": "recent_transaction_median_eok", "value": 8.15, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-13", "n": 11, "area_m2": 60.0}
+{"name": "일성파크", "gu": "광진", "claim": "transaction_iqr_eok", "p25": 7.65, "p75": 8.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-13", "n": 11, "area_m2": 60.0}
+{"name": "일성파크", "gu": "광진", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 16.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-13", "n": 11, "area_m2": 60.0}
+{"name": "일성파크", "gu": "광진", "claim": "position_in_52w_range_pct", "value": 71, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-13", "n": 11, "area_m2": 60.0}
+{"name": "일성파크", "gu": "광진", "claim": "sale_jeonse_gap_eok", "value": 3.65, "jeonse_median_eok": 4.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-13", "n": 6, "area_m2": 60.0}
+{"name": "일성파크", "gu": "광진", "claim": "annual_trade_count", "value": 17.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-13"}
+{"name": "일성파크", "gu": "광진", "claim": "units", "value": 357, "grade": "fact", "source": "public_record"}
+{"name": "일성파크", "gu": "광진", "claim": "built_year", "value": 1996, "grade": "fact", "source": "public_record"}
