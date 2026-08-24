@@ -1,0 +1,63 @@
+{"name": "아남", "gu": "종로", "claim": "recent_transaction_median_eok", "value": 11.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 25, "area_m2": 85.0}
+{"name": "아남", "gu": "종로", "claim": "transaction_iqr_eok", "p25": 11.0, "p75": 12.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 25, "area_m2": 85.0}
+{"name": "아남", "gu": "종로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 7.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 25, "area_m2": 85.0}
+{"name": "아남", "gu": "종로", "claim": "position_in_52w_range_pct", "value": 80, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 25, "area_m2": 85.0}
+{"name": "아남", "gu": "종로", "claim": "sale_jeonse_gap_eok", "value": 4.0, "jeonse_median_eok": 7.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 28, "area_m2": 85.0}
+{"name": "아남", "gu": "종로", "claim": "units", "value": 218, "grade": "fact", "source": "public_record"}
+{"name": "아남", "gu": "종로", "claim": "built_year", "value": 1994, "grade": "fact", "source": "public_record"}
+{"name": "종로센트레빌", "gu": "종로", "claim": "recent_transaction_median_eok", "value": 9.93, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 14, "area_m2": 60.0}
+{"name": "종로센트레빌", "gu": "종로", "claim": "transaction_iqr_eok", "p25": 9.09, "p75": 10.48, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 14, "area_m2": 60.0}
+{"name": "종로센트레빌", "gu": "종로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 15.2, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 14, "area_m2": 60.0}
+{"name": "종로센트레빌", "gu": "종로", "claim": "position_in_52w_range_pct", "value": 64, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 14, "area_m2": 60.0}
+{"name": "종로센트레빌", "gu": "종로", "claim": "sale_jeonse_gap_eok", "value": 4.93, "jeonse_median_eok": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 15, "area_m2": 60.0}
+{"name": "종로센트레빌", "gu": "종로", "claim": "annual_trade_count", "value": 24.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25"}
+{"name": "종로센트레빌", "gu": "종로", "claim": "units", "value": 416, "grade": "fact", "source": "public_record"}
+{"name": "종로센트레빌", "gu": "종로", "claim": "built_year", "value": 2008, "grade": "fact", "source": "public_record"}
+{"name": "창신쌍용1단지", "gu": "종로", "claim": "recent_transaction_median_eok", "value": 9.18, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 8, "area_m2": 106.0}
+{"name": "창신쌍용1단지", "gu": "종로", "claim": "transaction_iqr_eok", "p25": 8.85, "p75": 9.66, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 8, "area_m2": 106.0}
+{"name": "창신쌍용1단지", "gu": "종로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 1.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 8, "area_m2": 106.0}
+{"name": "창신쌍용1단지", "gu": "종로", "claim": "position_in_52w_range_pct", "value": 48, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 8, "area_m2": 106.0}
+{"name": "창신쌍용1단지", "gu": "종로", "claim": "sale_jeonse_gap_eok", "value": 3.68, "jeonse_median_eok": 5.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 15, "area_m2": 106.0}
+{"name": "창신쌍용1단지", "gu": "종로", "claim": "annual_trade_count", "value": 35.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25"}
+{"name": "창신쌍용1단지", "gu": "종로", "claim": "units", "value": 585, "grade": "fact", "source": "public_record"}
+{"name": "창신쌍용1단지", "gu": "종로", "claim": "built_year", "value": 1992, "grade": "fact", "source": "public_record"}
+{"name": "용두두산위브", "gu": "종로", "claim": "recent_transaction_median_eok", "value": 8.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 24, "area_m2": 60.0}
+{"name": "용두두산위브", "gu": "종로", "claim": "transaction_iqr_eok", "p25": 8.18, "p75": 9.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 24, "area_m2": 60.0}
+{"name": "용두두산위브", "gu": "종로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 4.7, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 24, "area_m2": 60.0}
+{"name": "용두두산위브", "gu": "종로", "claim": "position_in_52w_range_pct", "value": 94, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 24, "area_m2": 60.0}
+{"name": "용두두산위브", "gu": "종로", "claim": "sale_jeonse_gap_eok", "value": 4.1, "jeonse_median_eok": 4.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 15, "area_m2": 60.0}
+{"name": "용두두산위브", "gu": "종로", "claim": "units", "value": 338, "grade": "fact", "source": "public_record"}
+{"name": "용두두산위브", "gu": "종로", "claim": "built_year", "value": 2009, "grade": "fact", "source": "public_record"}
+{"name": "청계천두산위브더제니스(주상복합)", "gu": "종로", "claim": "recent_transaction_median_eok", "value": 8.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 24, "area_m2": 60.0}
+{"name": "청계천두산위브더제니스(주상복합)", "gu": "종로", "claim": "transaction_iqr_eok", "p25": 8.18, "p75": 9.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 24, "area_m2": 60.0}
+{"name": "청계천두산위브더제니스(주상복합)", "gu": "종로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 4.7, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 24, "area_m2": 60.0}
+{"name": "청계천두산위브더제니스(주상복합)", "gu": "종로", "claim": "position_in_52w_range_pct", "value": 94, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 24, "area_m2": 60.0}
+{"name": "청계천두산위브더제니스(주상복합)", "gu": "종로", "claim": "sale_jeonse_gap_eok", "value": 4.1, "jeonse_median_eok": 4.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 15, "area_m2": 60.0}
+{"name": "청계천두산위브더제니스(주상복합)", "gu": "종로", "claim": "units", "value": 295, "grade": "fact", "source": "public_record"}
+{"name": "청계천두산위브더제니스(주상복합)", "gu": "종로", "claim": "built_year", "value": 2014, "grade": "fact", "source": "public_record"}
+{"name": "종로청계힐스테이트", "gu": "종로", "claim": "recent_transaction_median_eok", "value": 8.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 11, "area_m2": 60.0}
+{"name": "종로청계힐스테이트", "gu": "종로", "claim": "transaction_iqr_eok", "p25": 8.45, "p75": 9.59, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 11, "area_m2": 60.0}
+{"name": "종로청계힐스테이트", "gu": "종로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 10.9, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 11, "area_m2": 60.0}
+{"name": "종로청계힐스테이트", "gu": "종로", "claim": "position_in_52w_range_pct", "value": 66, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 11, "area_m2": 60.0}
+{"name": "종로청계힐스테이트", "gu": "종로", "claim": "sale_jeonse_gap_eok", "value": 3.52, "jeonse_median_eok": 4.98, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 7, "area_m2": 60.0}
+{"name": "종로청계힐스테이트", "gu": "종로", "claim": "annual_trade_count", "value": 16.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25"}
+{"name": "종로청계힐스테이트", "gu": "종로", "claim": "units", "value": 288, "grade": "fact", "source": "public_record"}
+{"name": "종로청계힐스테이트", "gu": "종로", "claim": "built_year", "value": 2009, "grade": "fact", "source": "public_record"}
+{"name": "창신쌍용2단지", "gu": "종로", "claim": "recent_transaction_median_eok", "value": 7.17, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 19, "area_m2": 64.0}
+{"name": "창신쌍용2단지", "gu": "종로", "claim": "transaction_iqr_eok", "p25": 6.55, "p75": 7.38, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 19, "area_m2": 64.0}
+{"name": "창신쌍용2단지", "gu": "종로", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 13.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 19, "area_m2": 64.0}
+{"name": "창신쌍용2단지", "gu": "종로", "claim": "position_in_52w_range_pct", "value": 97, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 19, "area_m2": 64.0}
+{"name": "창신쌍용2단지", "gu": "종로", "claim": "sale_jeonse_gap_eok", "value": 3.57, "jeonse_median_eok": 3.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 21, "area_m2": 64.0}
+{"name": "창신쌍용2단지", "gu": "종로", "claim": "annual_trade_count", "value": 60.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25"}
+{"name": "창신쌍용2단지", "gu": "종로", "claim": "units", "value": 919, "grade": "fact", "source": "public_record"}
+{"name": "창신쌍용2단지", "gu": "종로", "claim": "built_year", "value": 1993, "grade": "fact", "source": "public_record"}
+{"name": "현대뜨레비앙", "gu": "종로", "claim": "recent_transaction_median_eok", "value": 4.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 5, "area_m2": 45.0}
+{"name": "현대뜨레비앙", "gu": "종로", "claim": "transaction_iqr_eok", "p25": 4.3, "p75": 4.65, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 5, "area_m2": 45.0}
+{"name": "현대뜨레비앙", "gu": "종로", "claim": "sale_jeonse_gap_eok", "value": 1.5, "jeonse_median_eok": 3.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25", "n": 3, "area_m2": 45.0}
+{"name": "현대뜨레비앙", "gu": "종로", "claim": "annual_trade_count", "value": 10.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-08-25"}
+{"name": "현대뜨레비앙", "gu": "종로", "claim": "units", "value": 291, "grade": "fact", "source": "public_record"}
+{"name": "현대뜨레비앙", "gu": "종로", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
+{"name": "길음뉴타운2단지푸르지오", "gu": "종로", "claim": "units", "value": 1634, "grade": "fact", "source": "public_record"}
+{"name": "길음뉴타운2단지푸르지오", "gu": "종로", "claim": "built_year", "value": 2005, "grade": "fact", "source": "public_record"}
+{"name": "길음역롯데캐슬트윈골드(주상복합)", "gu": "종로", "claim": "units", "value": 395, "grade": "fact", "source": "public_record"}
+{"name": "길음역롯데캐슬트윈골드(주상복합)", "gu": "종로", "claim": "built_year", "value": 2024, "grade": "fact", "source": "public_record"}
