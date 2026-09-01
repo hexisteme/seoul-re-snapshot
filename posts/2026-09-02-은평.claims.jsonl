@@ -1,0 +1,224 @@
+{"name": "힐스테이트녹번", "gu": "은평", "claim": "recent_transaction_median_eok", "value": 12.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 54, "area_m2": 85.0}
+{"name": "힐스테이트녹번", "gu": "은평", "claim": "transaction_iqr_eok", "p25": 12.5, "p75": 13.47, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 54, "area_m2": 85.0}
+{"name": "힐스테이트녹번", "gu": "은평", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 18.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 54, "area_m2": 85.0}
+{"name": "힐스테이트녹번", "gu": "은평", "claim": "position_in_52w_range_pct", "value": 96, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 54, "area_m2": 85.0}
+{"name": "힐스테이트녹번", "gu": "은평", "claim": "sale_jeonse_gap_eok", "value": 5.7, "jeonse_median_eok": 7.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 67, "area_m2": 85.0}
+{"name": "힐스테이트녹번", "gu": "은평", "claim": "annual_trade_count", "value": 61.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02"}
+{"name": "힐스테이트녹번", "gu": "은평", "claim": "units", "value": 952, "grade": "fact", "source": "public_record"}
+{"name": "힐스테이트녹번", "gu": "은평", "claim": "built_year", "value": 2019, "grade": "fact", "source": "public_record"}
+{"name": "힐스테이트녹번역", "gu": "은평", "claim": "recent_transaction_median_eok", "value": 12.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 54, "area_m2": 85.0}
+{"name": "힐스테이트녹번역", "gu": "은평", "claim": "transaction_iqr_eok", "p25": 12.5, "p75": 13.47, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 54, "area_m2": 85.0}
+{"name": "힐스테이트녹번역", "gu": "은평", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 18.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 54, "area_m2": 85.0}
+{"name": "힐스테이트녹번역", "gu": "은평", "claim": "position_in_52w_range_pct", "value": 96, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 54, "area_m2": 85.0}
+{"name": "힐스테이트녹번역", "gu": "은평", "claim": "sale_jeonse_gap_eok", "value": 5.7, "jeonse_median_eok": 7.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 67, "area_m2": 85.0}
+{"name": "힐스테이트녹번역", "gu": "은평", "claim": "annual_trade_count", "value": 53.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02"}
+{"name": "힐스테이트녹번역", "gu": "은평", "claim": "units", "value": 879, "grade": "fact", "source": "public_record"}
+{"name": "힐스테이트녹번역", "gu": "은평", "claim": "built_year", "value": 2022, "grade": "fact", "source": "public_record"}
+{"name": "힐스테이트홍은포레스트", "gu": "은평", "claim": "recent_transaction_median_eok", "value": 12.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 54, "area_m2": 85.0}
+{"name": "힐스테이트홍은포레스트", "gu": "은평", "claim": "transaction_iqr_eok", "p25": 12.5, "p75": 13.47, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 54, "area_m2": 85.0}
+{"name": "힐스테이트홍은포레스트", "gu": "은평", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 18.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 54, "area_m2": 85.0}
+{"name": "힐스테이트홍은포레스트", "gu": "은평", "claim": "position_in_52w_range_pct", "value": 96, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 54, "area_m2": 85.0}
+{"name": "힐스테이트홍은포레스트", "gu": "은평", "claim": "sale_jeonse_gap_eok", "value": 5.7, "jeonse_median_eok": 7.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 67, "area_m2": 85.0}
+{"name": "힐스테이트홍은포레스트", "gu": "은평", "claim": "units", "value": 623, "grade": "fact", "source": "public_record"}
+{"name": "힐스테이트홍은포레스트", "gu": "은평", "claim": "built_year", "value": 2023, "grade": "fact", "source": "public_record"}
+{"name": "녹번역e편한세상캐슬", "gu": "은평", "claim": "recent_transaction_median_eok", "value": 12.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 85, "area_m2": 60.0}
+{"name": "녹번역e편한세상캐슬", "gu": "은평", "claim": "transaction_iqr_eok", "p25": 11.45, "p75": 12.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 85, "area_m2": 60.0}
+{"name": "녹번역e편한세상캐슬", "gu": "은평", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 13.0, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 85, "area_m2": 60.0}
+{"name": "녹번역e편한세상캐슬", "gu": "은평", "claim": "position_in_52w_range_pct", "value": 83, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 85, "area_m2": 60.0}
+{"name": "녹번역e편한세상캐슬", "gu": "은평", "claim": "sale_jeonse_gap_eok", "value": 6.2, "jeonse_median_eok": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 200, "area_m2": 60.0}
+{"name": "녹번역e편한세상캐슬", "gu": "은평", "claim": "annual_trade_count", "value": 141.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02"}
+{"name": "녹번역e편한세상캐슬", "gu": "은평", "claim": "units", "value": 2569, "grade": "fact", "source": "public_record"}
+{"name": "녹번역e편한세상캐슬", "gu": "은평", "claim": "built_year", "value": 2021, "grade": "fact", "source": "public_record"}
+{"name": "북한산푸르지오", "gu": "은평", "claim": "recent_transaction_median_eok", "value": 11.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 53, "area_m2": 85.0}
+{"name": "북한산푸르지오", "gu": "은평", "claim": "transaction_iqr_eok", "p25": 10.8, "p75": 11.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 53, "area_m2": 85.0}
+{"name": "북한산푸르지오", "gu": "은평", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 7.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 53, "area_m2": 85.0}
+{"name": "북한산푸르지오", "gu": "은평", "claim": "position_in_52w_range_pct", "value": 65, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 53, "area_m2": 85.0}
+{"name": "북한산푸르지오", "gu": "은평", "claim": "sale_jeonse_gap_eok", "value": 5.0, "jeonse_median_eok": 6.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 53, "area_m2": 85.0}
+{"name": "북한산푸르지오", "gu": "은평", "claim": "annual_trade_count", "value": 74.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02"}
+{"name": "북한산푸르지오", "gu": "은평", "claim": "units", "value": 1230, "grade": "fact", "source": "public_record"}
+{"name": "북한산푸르지오", "gu": "은평", "claim": "built_year", "value": 2015, "grade": "fact", "source": "public_record"}
+{"name": "은평스카이뷰자이(주상복합)", "gu": "은평", "claim": "recent_transaction_median_eok", "value": 11.27, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 26, "area_m2": 84.5}
+{"name": "은평스카이뷰자이(주상복합)", "gu": "은평", "claim": "transaction_iqr_eok", "p25": 10.72, "p75": 11.79, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 26, "area_m2": 84.5}
+{"name": "은평스카이뷰자이(주상복합)", "gu": "은평", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 7.2, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 26, "area_m2": 84.5}
+{"name": "은평스카이뷰자이(주상복합)", "gu": "은평", "claim": "position_in_52w_range_pct", "value": 76, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 26, "area_m2": 84.5}
+{"name": "은평스카이뷰자이(주상복합)", "gu": "은평", "claim": "sale_jeonse_gap_eok", "value": 3.97, "jeonse_median_eok": 7.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 34, "area_m2": 84.5}
+{"name": "은평스카이뷰자이(주상복합)", "gu": "은평", "claim": "annual_trade_count", "value": 26.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02"}
+{"name": "은평스카이뷰자이(주상복합)", "gu": "은평", "claim": "units", "value": 361, "grade": "fact", "source": "public_record"}
+{"name": "은평스카이뷰자이(주상복합)", "gu": "은평", "claim": "built_year", "value": 2019, "grade": "fact", "source": "public_record"}
+{"name": "DMCSK뷰아이파크포레", "gu": "은평", "claim": "recent_transaction_median_eok", "value": 11.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 47, "area_m2": 60.0}
+{"name": "DMCSK뷰아이파크포레", "gu": "은평", "claim": "transaction_iqr_eok", "p25": 10.62, "p75": 12.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 47, "area_m2": 60.0}
+{"name": "DMCSK뷰아이파크포레", "gu": "은평", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 11.5, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 47, "area_m2": 60.0}
+{"name": "DMCSK뷰아이파크포레", "gu": "은평", "claim": "position_in_52w_range_pct", "value": 64, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 47, "area_m2": 60.0}
+{"name": "DMCSK뷰아이파크포레", "gu": "은평", "claim": "sale_jeonse_gap_eok", "value": 4.5, "jeonse_median_eok": 6.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 44, "area_m2": 60.0}
+{"name": "DMCSK뷰아이파크포레", "gu": "은평", "claim": "annual_trade_count", "value": 94.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02"}
+{"name": "DMCSK뷰아이파크포레", "gu": "은평", "claim": "units", "value": 1486, "grade": "fact", "source": "public_record"}
+{"name": "DMCSK뷰아이파크포레", "gu": "은평", "claim": "built_year", "value": 2025, "grade": "fact", "source": "public_record"}
+{"name": "DMC롯데캐슬더퍼스트", "gu": "은평", "claim": "recent_transaction_median_eok", "value": 11.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 56, "area_m2": 60.0}
+{"name": "DMC롯데캐슬더퍼스트", "gu": "은평", "claim": "transaction_iqr_eok", "p25": 10.54, "p75": 11.55, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 56, "area_m2": 60.0}
+{"name": "DMC롯데캐슬더퍼스트", "gu": "은평", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 7.2, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 56, "area_m2": 60.0}
+{"name": "DMC롯데캐슬더퍼스트", "gu": "은평", "claim": "position_in_52w_range_pct", "value": 78, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 56, "area_m2": 60.0}
+{"name": "DMC롯데캐슬더퍼스트", "gu": "은평", "claim": "sale_jeonse_gap_eok", "value": 5.0, "jeonse_median_eok": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 47, "area_m2": 60.0}
+{"name": "DMC롯데캐슬더퍼스트", "gu": "은평", "claim": "annual_trade_count", "value": 104.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02"}
+{"name": "DMC롯데캐슬더퍼스트", "gu": "은평", "claim": "units", "value": 1192, "grade": "fact", "source": "public_record"}
+{"name": "DMC롯데캐슬더퍼스트", "gu": "은평", "claim": "built_year", "value": 2021, "grade": "fact", "source": "public_record"}
+{"name": "불광롯데캐슬", "gu": "은평", "claim": "recent_transaction_median_eok", "value": 9.68, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 18, "area_m2": 60.0}
+{"name": "불광롯데캐슬", "gu": "은평", "claim": "transaction_iqr_eok", "p25": 9.15, "p75": 9.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 18, "area_m2": 60.0}
+{"name": "불광롯데캐슬", "gu": "은평", "claim": "sale_jeonse_gap_eok", "value": 4.38, "jeonse_median_eok": 5.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 26, "area_m2": 60.0}
+{"name": "불광롯데캐슬", "gu": "은평", "claim": "annual_trade_count", "value": 30.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02"}
+{"name": "불광롯데캐슬", "gu": "은평", "claim": "units", "value": 588, "grade": "fact", "source": "public_record"}
+{"name": "불광롯데캐슬", "gu": "은평", "claim": "built_year", "value": 2018, "grade": "fact", "source": "public_record"}
+{"name": "녹번역센트레빌", "gu": "은평", "claim": "recent_transaction_median_eok", "value": 8.98, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 14, "area_m2": 85.0}
+{"name": "녹번역센트레빌", "gu": "은평", "claim": "transaction_iqr_eok", "p25": 8.71, "p75": 9.28, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 14, "area_m2": 85.0}
+{"name": "녹번역센트레빌", "gu": "은평", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 4.9, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 14, "area_m2": 85.0}
+{"name": "녹번역센트레빌", "gu": "은평", "claim": "position_in_52w_range_pct", "value": 80, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 14, "area_m2": 85.0}
+{"name": "녹번역센트레빌", "gu": "은평", "claim": "sale_jeonse_gap_eok", "value": 3.83, "jeonse_median_eok": 5.15, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 14, "area_m2": 85.0}
+{"name": "녹번역센트레빌", "gu": "은평", "claim": "annual_trade_count", "value": 16.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02"}
+{"name": "녹번역센트레빌", "gu": "은평", "claim": "units", "value": 350, "grade": "fact", "source": "public_record"}
+{"name": "녹번역센트레빌", "gu": "은평", "claim": "built_year", "value": 2013, "grade": "fact", "source": "public_record"}
+{"name": "백련산힐스테이트2차", "gu": "은평", "claim": "recent_transaction_median_eok", "value": 8.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 117, "area_m2": 84.5}
+{"name": "백련산힐스테이트2차", "gu": "은평", "claim": "transaction_iqr_eok", "p25": 8.45, "p75": 9.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 117, "area_m2": 84.5}
+{"name": "백련산힐스테이트2차", "gu": "은평", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 7.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 117, "area_m2": 84.5}
+{"name": "백련산힐스테이트2차", "gu": "은평", "claim": "position_in_52w_range_pct", "value": 53, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 117, "area_m2": 84.5}
+{"name": "백련산힐스테이트2차", "gu": "은평", "claim": "sale_jeonse_gap_eok", "value": 3.4, "jeonse_median_eok": 5.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 126, "area_m2": 84.5}
+{"name": "백련산힐스테이트2차", "gu": "은평", "claim": "annual_trade_count", "value": 63.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02"}
+{"name": "백련산힐스테이트2차", "gu": "은평", "claim": "units", "value": 1148, "grade": "fact", "source": "public_record"}
+{"name": "백련산힐스테이트2차", "gu": "은평", "claim": "built_year", "value": 2011, "grade": "fact", "source": "public_record"}
+{"name": "백련산힐스테이트3차", "gu": "은평", "claim": "recent_transaction_median_eok", "value": 8.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 117, "area_m2": 84.5}
+{"name": "백련산힐스테이트3차", "gu": "은평", "claim": "transaction_iqr_eok", "p25": 8.45, "p75": 9.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 117, "area_m2": 84.5}
+{"name": "백련산힐스테이트3차", "gu": "은평", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 7.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 117, "area_m2": 84.5}
+{"name": "백련산힐스테이트3차", "gu": "은평", "claim": "position_in_52w_range_pct", "value": 53, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 117, "area_m2": 84.5}
+{"name": "백련산힐스테이트3차", "gu": "은평", "claim": "sale_jeonse_gap_eok", "value": 3.4, "jeonse_median_eok": 5.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 126, "area_m2": 84.5}
+{"name": "백련산힐스테이트3차", "gu": "은평", "claim": "annual_trade_count", "value": 47.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02"}
+{"name": "백련산힐스테이트3차", "gu": "은평", "claim": "units", "value": 967, "grade": "fact", "source": "public_record"}
+{"name": "백련산힐스테이트3차", "gu": "은평", "claim": "built_year", "value": 2011, "grade": "fact", "source": "public_record"}
+{"name": "북한산힐스테이트7차", "gu": "은평", "claim": "recent_transaction_median_eok", "value": 8.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 34, "area_m2": 60.0}
+{"name": "북한산힐스테이트7차", "gu": "은평", "claim": "transaction_iqr_eok", "p25": 8.41, "p75": 9.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 34, "area_m2": 60.0}
+{"name": "북한산힐스테이트7차", "gu": "은평", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 7.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 34, "area_m2": 60.0}
+{"name": "북한산힐스테이트7차", "gu": "은평", "claim": "position_in_52w_range_pct", "value": 62, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 34, "area_m2": 60.0}
+{"name": "북한산힐스테이트7차", "gu": "은평", "claim": "sale_jeonse_gap_eok", "value": 3.97, "jeonse_median_eok": 4.83, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 32, "area_m2": 60.0}
+{"name": "북한산힐스테이트7차", "gu": "은평", "claim": "annual_trade_count", "value": 49.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02"}
+{"name": "북한산힐스테이트7차", "gu": "은평", "claim": "units", "value": 882, "grade": "fact", "source": "public_record"}
+{"name": "북한산힐스테이트7차", "gu": "은평", "claim": "built_year", "value": 2011, "grade": "fact", "source": "public_record"}
+{"name": "센트레빌아스테리움시그니처", "gu": "은평", "claim": "recent_transaction_median_eok", "value": 8.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 5, "area_m2": 60.0}
+{"name": "센트레빌아스테리움시그니처", "gu": "은평", "claim": "transaction_iqr_eok", "p25": 7.29, "p75": 9.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 5, "area_m2": 60.0}
+{"name": "센트레빌아스테리움시그니처", "gu": "은평", "claim": "sale_jeonse_gap_eok", "value": 4.72, "jeonse_median_eok": 3.98, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 8, "area_m2": 60.0}
+{"name": "센트레빌아스테리움시그니처", "gu": "은평", "claim": "annual_trade_count", "value": 10.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02"}
+{"name": "센트레빌아스테리움시그니처", "gu": "은평", "claim": "units", "value": 752, "grade": "fact", "source": "public_record"}
+{"name": "센트레빌아스테리움시그니처", "gu": "은평", "claim": "built_year", "value": 2024, "grade": "fact", "source": "public_record"}
+{"name": "은평뉴타운기자촌11단지", "gu": "은평", "claim": "recent_transaction_median_eok", "value": 8.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 37, "area_m2": 85.0}
+{"name": "은평뉴타운기자촌11단지", "gu": "은평", "claim": "transaction_iqr_eok", "p25": 8.3, "p75": 8.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 37, "area_m2": 85.0}
+{"name": "은평뉴타운기자촌11단지", "gu": "은평", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 6.6, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 37, "area_m2": 85.0}
+{"name": "은평뉴타운기자촌11단지", "gu": "은평", "claim": "position_in_52w_range_pct", "value": 79, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 37, "area_m2": 85.0}
+{"name": "은평뉴타운기자촌11단지", "gu": "은평", "claim": "sale_jeonse_gap_eok", "value": 3.2, "jeonse_median_eok": 5.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 73, "area_m2": 85.0}
+{"name": "은평뉴타운기자촌11단지", "gu": "은평", "claim": "annual_trade_count", "value": 20.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02"}
+{"name": "은평뉴타운기자촌11단지", "gu": "은평", "claim": "units", "value": 426, "grade": "fact", "source": "public_record"}
+{"name": "은평뉴타운기자촌11단지", "gu": "은평", "claim": "built_year", "value": 2015, "grade": "fact", "source": "public_record"}
+{"name": "북한산현대홈타운", "gu": "은평", "claim": "recent_transaction_median_eok", "value": 8.49, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 58, "area_m2": 60.0}
+{"name": "북한산현대홈타운", "gu": "은평", "claim": "transaction_iqr_eok", "p25": 8.2, "p75": 8.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 58, "area_m2": 60.0}
+{"name": "북한산현대홈타운", "gu": "은평", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 9.5, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 58, "area_m2": 60.0}
+{"name": "북한산현대홈타운", "gu": "은평", "claim": "position_in_52w_range_pct", "value": 79, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 58, "area_m2": 60.0}
+{"name": "북한산현대홈타운", "gu": "은평", "claim": "sale_jeonse_gap_eok", "value": 3.82, "jeonse_median_eok": 4.67, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 52, "area_m2": 60.0}
+{"name": "북한산현대홈타운", "gu": "은평", "claim": "annual_trade_count", "value": 30.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02"}
+{"name": "북한산현대홈타운", "gu": "은평", "claim": "units", "value": 662, "grade": "fact", "source": "public_record"}
+{"name": "북한산현대홈타운", "gu": "은평", "claim": "built_year", "value": 2004, "grade": "fact", "source": "public_record"}
+{"name": "백련산해모로", "gu": "은평", "claim": "recent_transaction_median_eok", "value": 8.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 25, "area_m2": 60.0}
+{"name": "백련산해모로", "gu": "은평", "claim": "transaction_iqr_eok", "p25": 8.2, "p75": 8.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 25, "area_m2": 60.0}
+{"name": "백련산해모로", "gu": "은평", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 12.5, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 25, "area_m2": 60.0}
+{"name": "백련산해모로", "gu": "은평", "claim": "position_in_52w_range_pct", "value": 78, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 25, "area_m2": 60.0}
+{"name": "백련산해모로", "gu": "은평", "claim": "sale_jeonse_gap_eok", "value": 3.53, "jeonse_median_eok": 4.87, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 40, "area_m2": 60.0}
+{"name": "백련산해모로", "gu": "은평", "claim": "annual_trade_count", "value": 64.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02"}
+{"name": "백련산해모로", "gu": "은평", "claim": "units", "value": 760, "grade": "fact", "source": "public_record"}
+{"name": "백련산해모로", "gu": "은평", "claim": "built_year", "value": 2020, "grade": "fact", "source": "public_record"}
+{"name": "응암역효성해링턴플레이스", "gu": "은평", "claim": "recent_transaction_median_eok", "value": 8.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 14, "area_m2": 72.0}
+{"name": "응암역효성해링턴플레이스", "gu": "은평", "claim": "transaction_iqr_eok", "p25": 8.03, "p75": 8.76, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 14, "area_m2": 72.0}
+{"name": "응암역효성해링턴플레이스", "gu": "은평", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 9.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 14, "area_m2": 72.0}
+{"name": "응암역효성해링턴플레이스", "gu": "은평", "claim": "position_in_52w_range_pct", "value": 93, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 14, "area_m2": 72.0}
+{"name": "응암역효성해링턴플레이스", "gu": "은평", "claim": "sale_jeonse_gap_eok", "value": 3.3, "jeonse_median_eok": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 12, "area_m2": 72.0}
+{"name": "응암역효성해링턴플레이스", "gu": "은평", "claim": "annual_trade_count", "value": 26.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02"}
+{"name": "응암역효성해링턴플레이스", "gu": "은평", "claim": "units", "value": 380, "grade": "fact", "source": "public_record"}
+{"name": "응암역효성해링턴플레이스", "gu": "은평", "claim": "built_year", "value": 2019, "grade": "fact", "source": "public_record"}
+{"name": "대림", "gu": "은평", "claim": "recent_transaction_median_eok", "value": 7.53, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 41, "area_m2": 85.0}
+{"name": "대림", "gu": "은평", "claim": "transaction_iqr_eok", "p25": 6.95, "p75": 7.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 41, "area_m2": 85.0}
+{"name": "대림", "gu": "은평", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 7.7, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 41, "area_m2": 85.0}
+{"name": "대림", "gu": "은평", "claim": "position_in_52w_range_pct", "value": 88, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 41, "area_m2": 85.0}
+{"name": "대림", "gu": "은평", "claim": "sale_jeonse_gap_eok", "value": 3.03, "jeonse_median_eok": 4.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 22, "area_m2": 85.0}
+{"name": "대림", "gu": "은평", "claim": "units", "value": 370, "grade": "fact", "source": "public_record"}
+{"name": "대림", "gu": "은평", "claim": "built_year", "value": 1993, "grade": "fact", "source": "public_record"}
+{"name": "응암푸르지오", "gu": "은평", "claim": "recent_transaction_median_eok", "value": 7.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 19, "area_m2": 84.0}
+{"name": "응암푸르지오", "gu": "은평", "claim": "transaction_iqr_eok", "p25": 7.21, "p75": 7.71, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 19, "area_m2": 84.0}
+{"name": "응암푸르지오", "gu": "은평", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 8.5, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 19, "area_m2": 84.0}
+{"name": "응암푸르지오", "gu": "은평", "claim": "position_in_52w_range_pct", "value": 73, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 19, "area_m2": 84.0}
+{"name": "응암푸르지오", "gu": "은평", "claim": "sale_jeonse_gap_eok", "value": 2.52, "jeonse_median_eok": 4.93, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 9, "area_m2": 84.0}
+{"name": "응암푸르지오", "gu": "은평", "claim": "annual_trade_count", "value": 25.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02"}
+{"name": "응암푸르지오", "gu": "은평", "claim": "units", "value": 361, "grade": "fact", "source": "public_record"}
+{"name": "응암푸르지오", "gu": "은평", "claim": "built_year", "value": 2008, "grade": "fact", "source": "public_record"}
+{"name": "역촌센트레빌", "gu": "은평", "claim": "recent_transaction_median_eok", "value": 7.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 11, "area_m2": 85.0}
+{"name": "역촌센트레빌", "gu": "은평", "claim": "transaction_iqr_eok", "p25": 7.08, "p75": 7.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 11, "area_m2": 85.0}
+{"name": "역촌센트레빌", "gu": "은평", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 5.9, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 11, "area_m2": 85.0}
+{"name": "역촌센트레빌", "gu": "은평", "claim": "position_in_52w_range_pct", "value": 82, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 11, "area_m2": 85.0}
+{"name": "역촌센트레빌", "gu": "은평", "claim": "sale_jeonse_gap_eok", "value": 2.5, "jeonse_median_eok": 4.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 12, "area_m2": 85.0}
+{"name": "역촌센트레빌", "gu": "은평", "claim": "annual_trade_count", "value": 21.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02"}
+{"name": "역촌센트레빌", "gu": "은평", "claim": "units", "value": 400, "grade": "fact", "source": "public_record"}
+{"name": "역촌센트레빌", "gu": "은평", "claim": "built_year", "value": 2011, "grade": "fact", "source": "public_record"}
+{"name": "북한산대창센시티", "gu": "은평", "claim": "recent_transaction_median_eok", "value": 7.12, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 8, "area_m2": 84.5}
+{"name": "북한산대창센시티", "gu": "은평", "claim": "transaction_iqr_eok", "p25": 6.97, "p75": 7.24, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 8, "area_m2": 84.5}
+{"name": "북한산대창센시티", "gu": "은평", "claim": "recent3m_vs_prior9m_median_change_pct", "value": -1.1, "direction": "▼", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 8, "area_m2": 84.5}
+{"name": "북한산대창센시티", "gu": "은평", "claim": "position_in_52w_range_pct", "value": 33, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 8, "area_m2": 84.5}
+{"name": "북한산대창센시티", "gu": "은평", "claim": "annual_trade_count", "value": 12.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02"}
+{"name": "북한산대창센시티", "gu": "은평", "claim": "units", "value": 256, "grade": "fact", "source": "public_record"}
+{"name": "북한산대창센시티", "gu": "은평", "claim": "built_year", "value": 2004, "grade": "fact", "source": "public_record"}
+{"name": "DMC진흥", "gu": "은평", "claim": "recent_transaction_median_eok", "value": 6.62, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 16, "area_m2": 57.5}
+{"name": "DMC진흥", "gu": "은평", "claim": "transaction_iqr_eok", "p25": 6.38, "p75": 6.98, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 16, "area_m2": 57.5}
+{"name": "DMC진흥", "gu": "은평", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 10.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 16, "area_m2": 57.5}
+{"name": "DMC진흥", "gu": "은평", "claim": "position_in_52w_range_pct", "value": 57, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 16, "area_m2": 57.5}
+{"name": "DMC진흥", "gu": "은평", "claim": "sale_jeonse_gap_eok", "value": 2.72, "jeonse_median_eok": 3.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 9, "area_m2": 57.5}
+{"name": "DMC진흥", "gu": "은평", "claim": "annual_trade_count", "value": 28.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02"}
+{"name": "DMC진흥", "gu": "은평", "claim": "units", "value": 280, "grade": "fact", "source": "public_record"}
+{"name": "DMC진흥", "gu": "은평", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
+{"name": "삼성타운", "gu": "은평", "claim": "recent_transaction_median_eok", "value": 6.38, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 16, "area_m2": 59.5}
+{"name": "삼성타운", "gu": "은평", "claim": "transaction_iqr_eok", "p25": 6.17, "p75": 6.51, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 16, "area_m2": 59.5}
+{"name": "삼성타운", "gu": "은평", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 4.0, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 16, "area_m2": 59.5}
+{"name": "삼성타운", "gu": "은평", "claim": "position_in_52w_range_pct", "value": 71, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 16, "area_m2": 59.5}
+{"name": "삼성타운", "gu": "은평", "claim": "sale_jeonse_gap_eok", "value": 2.53, "jeonse_median_eok": 3.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 16, "area_m2": 59.5}
+{"name": "삼성타운", "gu": "은평", "claim": "annual_trade_count", "value": 21.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02"}
+{"name": "삼성타운", "gu": "은평", "claim": "units", "value": 357, "grade": "fact", "source": "public_record"}
+{"name": "삼성타운", "gu": "은평", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
+{"name": "경남아너스빌", "gu": "은평", "claim": "recent_transaction_median_eok", "value": 6.17, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 22, "area_m2": 84.5}
+{"name": "경남아너스빌", "gu": "은평", "claim": "transaction_iqr_eok", "p25": 5.91, "p75": 6.39, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 22, "area_m2": 84.5}
+{"name": "경남아너스빌", "gu": "은평", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 3.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 22, "area_m2": 84.5}
+{"name": "경남아너스빌", "gu": "은평", "claim": "position_in_52w_range_pct", "value": 58, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 22, "area_m2": 84.5}
+{"name": "경남아너스빌", "gu": "은평", "claim": "sale_jeonse_gap_eok", "value": 1.92, "jeonse_median_eok": 4.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 14, "area_m2": 84.5}
+{"name": "경남아너스빌", "gu": "은평", "claim": "annual_trade_count", "value": 23.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02"}
+{"name": "경남아너스빌", "gu": "은평", "claim": "units", "value": 475, "grade": "fact", "source": "public_record"}
+{"name": "경남아너스빌", "gu": "은평", "claim": "built_year", "value": 2004, "grade": "fact", "source": "public_record"}
+{"name": "갈현현대", "gu": "은평", "claim": "recent_transaction_median_eok", "value": 5.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 10, "area_m2": 85.0}
+{"name": "갈현현대", "gu": "은평", "claim": "transaction_iqr_eok", "p25": 5.37, "p75": 5.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 10, "area_m2": 85.0}
+{"name": "갈현현대", "gu": "은평", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 5.0, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 10, "area_m2": 85.0}
+{"name": "갈현현대", "gu": "은평", "claim": "position_in_52w_range_pct", "value": 66, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 10, "area_m2": 85.0}
+{"name": "갈현현대", "gu": "은평", "claim": "sale_jeonse_gap_eok", "value": 1.6, "jeonse_median_eok": 3.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 2, "area_m2": 85.0}
+{"name": "갈현현대", "gu": "은평", "claim": "annual_trade_count", "value": 20.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02"}
+{"name": "갈현현대", "gu": "은평", "claim": "units", "value": 366, "grade": "fact", "source": "public_record"}
+{"name": "갈현현대", "gu": "은평", "claim": "built_year", "value": 1998, "grade": "fact", "source": "public_record"}
+{"name": "미미", "gu": "은평", "claim": "recent_transaction_median_eok", "value": 5.46, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 6, "area_m2": 59.5}
+{"name": "미미", "gu": "은평", "claim": "transaction_iqr_eok", "p25": 5.18, "p75": 5.61, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 6, "area_m2": 59.5}
+{"name": "미미", "gu": "은평", "claim": "sale_jeonse_gap_eok", "value": 2.13, "jeonse_median_eok": 3.33, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 6, "area_m2": 59.5}
+{"name": "미미", "gu": "은평", "claim": "annual_trade_count", "value": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02"}
+{"name": "미미", "gu": "은평", "claim": "units", "value": 200, "grade": "fact", "source": "public_record"}
+{"name": "미미", "gu": "은평", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
+{"name": "라이프씨티", "gu": "은평", "claim": "recent_transaction_median_eok", "value": 4.74, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 4, "area_m2": 83.0}
+{"name": "라이프씨티", "gu": "은평", "claim": "sale_jeonse_gap_eok", "value": 1.39, "jeonse_median_eok": 3.35, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 8, "area_m2": 83.0}
+{"name": "라이프씨티", "gu": "은평", "claim": "annual_trade_count", "value": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02"}
+{"name": "라이프씨티", "gu": "은평", "claim": "units", "value": 298, "grade": "fact", "source": "public_record"}
+{"name": "라이프씨티", "gu": "은평", "claim": "built_year", "value": 1992, "grade": "fact", "source": "public_record"}
+{"name": "구산그린빌", "gu": "은평", "claim": "recent_transaction_median_eok", "value": 4.56, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 2, "area_m2": 59.5}
+{"name": "구산그린빌", "gu": "은평", "claim": "annual_trade_count", "value": 2.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02"}
+{"name": "구산그린빌", "gu": "은평", "claim": "units", "value": 203, "grade": "fact", "source": "public_record"}
+{"name": "구산그린빌", "gu": "은평", "claim": "built_year", "value": 2009, "grade": "fact", "source": "public_record"}
+{"name": "신성", "gu": "은평", "claim": "recent_transaction_median_eok", "value": 4.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 15, "area_m2": 61.5}
+{"name": "신성", "gu": "은평", "claim": "transaction_iqr_eok", "p25": 4.38, "p75": 4.67, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 15, "area_m2": 61.5}
+{"name": "신성", "gu": "은평", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 5.0, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 15, "area_m2": 61.5}
+{"name": "신성", "gu": "은평", "claim": "position_in_52w_range_pct", "value": 74, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 15, "area_m2": 61.5}
+{"name": "신성", "gu": "은평", "claim": "sale_jeonse_gap_eok", "value": 1.7, "jeonse_median_eok": 2.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02", "n": 19, "area_m2": 61.5}
+{"name": "신성", "gu": "은평", "claim": "annual_trade_count", "value": 15.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-02"}
+{"name": "신성", "gu": "은평", "claim": "units", "value": 238, "grade": "fact", "source": "public_record"}
+{"name": "신성", "gu": "은평", "claim": "built_year", "value": 1988, "grade": "fact", "source": "public_record"}
