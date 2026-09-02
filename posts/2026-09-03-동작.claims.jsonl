@@ -1,0 +1,190 @@
+{"name": "두산위브", "gu": "동작", "claim": "recent_transaction_median_eok", "value": 19.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 35, "area_m2": 85.0}
+{"name": "두산위브", "gu": "동작", "claim": "transaction_iqr_eok", "p25": 17.4, "p75": 19.67, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 35, "area_m2": 85.0}
+{"name": "두산위브", "gu": "동작", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 2.6, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 35, "area_m2": 85.0}
+{"name": "두산위브", "gu": "동작", "claim": "position_in_52w_range_pct", "value": 60, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 35, "area_m2": 85.0}
+{"name": "두산위브", "gu": "동작", "claim": "sale_jeonse_gap_eok", "value": 11.0, "jeonse_median_eok": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 104, "area_m2": 85.0}
+{"name": "두산위브", "gu": "동작", "claim": "units", "value": 271, "grade": "fact", "source": "public_record"}
+{"name": "두산위브", "gu": "동작", "claim": "built_year", "value": 2004, "grade": "fact", "source": "public_record"}
+{"name": "롯데캐슬", "gu": "동작", "claim": "recent_transaction_median_eok", "value": 15.22, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 66, "area_m2": 85.0}
+{"name": "롯데캐슬", "gu": "동작", "claim": "transaction_iqr_eok", "p25": 14.0, "p75": 16.46, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 66, "area_m2": 85.0}
+{"name": "롯데캐슬", "gu": "동작", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 11.7, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 66, "area_m2": 85.0}
+{"name": "롯데캐슬", "gu": "동작", "claim": "position_in_52w_range_pct", "value": 46, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 66, "area_m2": 85.0}
+{"name": "롯데캐슬", "gu": "동작", "claim": "sale_jeonse_gap_eok", "value": 7.42, "jeonse_median_eok": 7.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 154, "area_m2": 85.0}
+{"name": "롯데캐슬", "gu": "동작", "claim": "annual_trade_count", "value": 23.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03"}
+{"name": "롯데캐슬", "gu": "동작", "claim": "units", "value": 444, "grade": "fact", "source": "public_record"}
+{"name": "롯데캐슬", "gu": "동작", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
+{"name": "극동", "gu": "동작", "claim": "recent_transaction_median_eok", "value": 15.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 25, "area_m2": 84.5}
+{"name": "극동", "gu": "동작", "claim": "transaction_iqr_eok", "p25": 14.0, "p75": 15.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 25, "area_m2": 84.5}
+{"name": "극동", "gu": "동작", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 4.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 25, "area_m2": 84.5}
+{"name": "극동", "gu": "동작", "claim": "position_in_52w_range_pct", "value": 85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 25, "area_m2": 84.5}
+{"name": "극동", "gu": "동작", "claim": "sale_jeonse_gap_eok", "value": 9.7, "jeonse_median_eok": 5.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 29, "area_m2": 84.5}
+{"name": "극동", "gu": "동작", "claim": "annual_trade_count", "value": 83.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03"}
+{"name": "극동", "gu": "동작", "claim": "units", "value": 1550, "grade": "fact", "source": "public_record"}
+{"name": "극동", "gu": "동작", "claim": "built_year", "value": 1993, "grade": "fact", "source": "public_record"}
+{"name": "사당롯데캐슬골든포레", "gu": "동작", "claim": "recent_transaction_median_eok", "value": 15.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 56, "area_m2": 85.0}
+{"name": "사당롯데캐슬골든포레", "gu": "동작", "claim": "transaction_iqr_eok", "p25": 13.95, "p75": 16.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 56, "area_m2": 85.0}
+{"name": "사당롯데캐슬골든포레", "gu": "동작", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 8.7, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 56, "area_m2": 85.0}
+{"name": "사당롯데캐슬골든포레", "gu": "동작", "claim": "position_in_52w_range_pct", "value": 84, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 56, "area_m2": 85.0}
+{"name": "사당롯데캐슬골든포레", "gu": "동작", "claim": "sale_jeonse_gap_eok", "value": 7.4, "jeonse_median_eok": 7.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 109, "area_m2": 85.0}
+{"name": "사당롯데캐슬골든포레", "gu": "동작", "claim": "annual_trade_count", "value": 83.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03"}
+{"name": "사당롯데캐슬골든포레", "gu": "동작", "claim": "units", "value": 959, "grade": "fact", "source": "public_record"}
+{"name": "사당롯데캐슬골든포레", "gu": "동작", "claim": "built_year", "value": 2021, "grade": "fact", "source": "public_record"}
+{"name": "삼성래미안", "gu": "동작", "claim": "recent_transaction_median_eok", "value": 14.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 39, "area_m2": 85.0}
+{"name": "삼성래미안", "gu": "동작", "claim": "transaction_iqr_eok", "p25": 13.95, "p75": 15.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 39, "area_m2": 85.0}
+{"name": "삼성래미안", "gu": "동작", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 2.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 39, "area_m2": 85.0}
+{"name": "삼성래미안", "gu": "동작", "claim": "position_in_52w_range_pct", "value": 72, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 39, "area_m2": 85.0}
+{"name": "삼성래미안", "gu": "동작", "claim": "sale_jeonse_gap_eok", "value": 8.1, "jeonse_median_eok": 6.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 64, "area_m2": 85.0}
+{"name": "삼성래미안", "gu": "동작", "claim": "annual_trade_count", "value": 66.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03"}
+{"name": "삼성래미안", "gu": "동작", "claim": "units", "value": 477, "grade": "fact", "source": "public_record"}
+{"name": "삼성래미안", "gu": "동작", "claim": "built_year", "value": 2004, "grade": "fact", "source": "public_record"}
+{"name": "사당우성3단지", "gu": "동작", "claim": "recent_transaction_median_eok", "value": 14.64, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 40, "area_m2": 60.0}
+{"name": "사당우성3단지", "gu": "동작", "claim": "transaction_iqr_eok", "p25": 13.5, "p75": 15.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 40, "area_m2": 60.0}
+{"name": "사당우성3단지", "gu": "동작", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 13.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 40, "area_m2": 60.0}
+{"name": "사당우성3단지", "gu": "동작", "claim": "position_in_52w_range_pct", "value": 87, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 40, "area_m2": 60.0}
+{"name": "사당우성3단지", "gu": "동작", "claim": "sale_jeonse_gap_eok", "value": 9.34, "jeonse_median_eok": 5.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 79, "area_m2": 60.0}
+{"name": "사당우성3단지", "gu": "동작", "claim": "annual_trade_count", "value": 41.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03"}
+{"name": "사당우성3단지", "gu": "동작", "claim": "units", "value": 855, "grade": "fact", "source": "public_record"}
+{"name": "사당우성3단지", "gu": "동작", "claim": "built_year", "value": 1993, "grade": "fact", "source": "public_record"}
+{"name": "신동아리버파크", "gu": "동작", "claim": "recent_transaction_median_eok", "value": 14.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 31, "area_m2": 59.0}
+{"name": "신동아리버파크", "gu": "동작", "claim": "transaction_iqr_eok", "p25": 11.72, "p75": 14.68, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 31, "area_m2": 59.0}
+{"name": "신동아리버파크", "gu": "동작", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 6.0, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 31, "area_m2": 59.0}
+{"name": "신동아리버파크", "gu": "동작", "claim": "position_in_52w_range_pct", "value": 92, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 31, "area_m2": 59.0}
+{"name": "신동아리버파크", "gu": "동작", "claim": "sale_jeonse_gap_eok", "value": 9.6, "jeonse_median_eok": 4.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 63, "area_m2": 59.0}
+{"name": "신동아리버파크", "gu": "동작", "claim": "annual_trade_count", "value": 92.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03"}
+{"name": "신동아리버파크", "gu": "동작", "claim": "units", "value": 1696, "grade": "fact", "source": "public_record"}
+{"name": "신동아리버파크", "gu": "동작", "claim": "built_year", "value": 2001, "grade": "fact", "source": "public_record"}
+{"name": "성원", "gu": "동작", "claim": "recent_transaction_median_eok", "value": 14.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 35, "area_m2": 84.5}
+{"name": "성원", "gu": "동작", "claim": "transaction_iqr_eok", "p25": 13.2, "p75": 14.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 35, "area_m2": 84.5}
+{"name": "성원", "gu": "동작", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 9.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 35, "area_m2": 84.5}
+{"name": "성원", "gu": "동작", "claim": "position_in_52w_range_pct", "value": 88, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 35, "area_m2": 84.5}
+{"name": "성원", "gu": "동작", "claim": "sale_jeonse_gap_eok", "value": 6.62, "jeonse_median_eok": 7.38, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 24, "area_m2": 84.5}
+{"name": "성원", "gu": "동작", "claim": "annual_trade_count", "value": 35.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03"}
+{"name": "성원", "gu": "동작", "claim": "units", "value": 487, "grade": "fact", "source": "public_record"}
+{"name": "성원", "gu": "동작", "claim": "built_year", "value": 1994, "grade": "fact", "source": "public_record"}
+{"name": "성원(650)", "gu": "동작", "claim": "recent_transaction_median_eok", "value": 14.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 35, "area_m2": 84.5}
+{"name": "성원(650)", "gu": "동작", "claim": "transaction_iqr_eok", "p25": 13.2, "p75": 14.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 35, "area_m2": 84.5}
+{"name": "성원(650)", "gu": "동작", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 9.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 35, "area_m2": 84.5}
+{"name": "성원(650)", "gu": "동작", "claim": "position_in_52w_range_pct", "value": 88, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 35, "area_m2": 84.5}
+{"name": "성원(650)", "gu": "동작", "claim": "sale_jeonse_gap_eok", "value": 6.62, "jeonse_median_eok": 7.38, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 24, "area_m2": 84.5}
+{"name": "성원(650)", "gu": "동작", "claim": "annual_trade_count", "value": 35.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03"}
+{"name": "성원(650)", "gu": "동작", "claim": "units", "value": 220, "grade": "fact", "source": "public_record"}
+{"name": "성원(650)", "gu": "동작", "claim": "built_year", "value": 1995, "grade": "fact", "source": "public_record"}
+{"name": "우리유앤미", "gu": "동작", "claim": "recent_transaction_median_eok", "value": 14.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 7, "area_m2": 83.5}
+{"name": "우리유앤미", "gu": "동작", "claim": "transaction_iqr_eok", "p25": 13.45, "p75": 14.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 7, "area_m2": 83.5}
+{"name": "우리유앤미", "gu": "동작", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 4.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 7, "area_m2": 83.5}
+{"name": "우리유앤미", "gu": "동작", "claim": "position_in_52w_range_pct", "value": 55, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 7, "area_m2": 83.5}
+{"name": "우리유앤미", "gu": "동작", "claim": "sale_jeonse_gap_eok", "value": 8.5, "jeonse_median_eok": 5.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 3, "area_m2": 83.5}
+{"name": "우리유앤미", "gu": "동작", "claim": "annual_trade_count", "value": 19.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03"}
+{"name": "우리유앤미", "gu": "동작", "claim": "units", "value": 206, "grade": "fact", "source": "public_record"}
+{"name": "우리유앤미", "gu": "동작", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
+{"name": "한신휴플러스", "gu": "동작", "claim": "recent_transaction_median_eok", "value": 13.82, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 10, "area_m2": 85.0}
+{"name": "한신휴플러스", "gu": "동작", "claim": "transaction_iqr_eok", "p25": 12.55, "p75": 15.14, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 10, "area_m2": 85.0}
+{"name": "한신휴플러스", "gu": "동작", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 17.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 10, "area_m2": 85.0}
+{"name": "한신휴플러스", "gu": "동작", "claim": "position_in_52w_range_pct", "value": 98, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 10, "area_m2": 85.0}
+{"name": "한신휴플러스", "gu": "동작", "claim": "sale_jeonse_gap_eok", "value": 7.52, "jeonse_median_eok": 6.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 10, "area_m2": 85.0}
+{"name": "한신휴플러스", "gu": "동작", "claim": "annual_trade_count", "value": 12.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03"}
+{"name": "한신휴플러스", "gu": "동작", "claim": "units", "value": 247, "grade": "fact", "source": "public_record"}
+{"name": "한신휴플러스", "gu": "동작", "claim": "built_year", "value": 2004, "grade": "fact", "source": "public_record"}
+{"name": "건영", "gu": "동작", "claim": "recent_transaction_median_eok", "value": 13.55, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 24, "area_m2": 85.0}
+{"name": "건영", "gu": "동작", "claim": "transaction_iqr_eok", "p25": 12.15, "p75": 14.81, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 24, "area_m2": 85.0}
+{"name": "건영", "gu": "동작", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 18.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 24, "area_m2": 85.0}
+{"name": "건영", "gu": "동작", "claim": "position_in_52w_range_pct", "value": 98, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 24, "area_m2": 85.0}
+{"name": "건영", "gu": "동작", "claim": "sale_jeonse_gap_eok", "value": 7.5, "jeonse_median_eok": 6.05, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 8, "area_m2": 85.0}
+{"name": "건영", "gu": "동작", "claim": "annual_trade_count", "value": 59.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03"}
+{"name": "건영", "gu": "동작", "claim": "units", "value": 1376, "grade": "fact", "source": "public_record"}
+{"name": "건영", "gu": "동작", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
+{"name": "보라매파크빌", "gu": "동작", "claim": "recent_transaction_median_eok", "value": 13.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 21, "area_m2": 85.0}
+{"name": "보라매파크빌", "gu": "동작", "claim": "transaction_iqr_eok", "p25": 12.5, "p75": 13.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 21, "area_m2": 85.0}
+{"name": "보라매파크빌", "gu": "동작", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 2.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 21, "area_m2": 85.0}
+{"name": "보라매파크빌", "gu": "동작", "claim": "position_in_52w_range_pct", "value": 81, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 21, "area_m2": 85.0}
+{"name": "보라매파크빌", "gu": "동작", "claim": "sale_jeonse_gap_eok", "value": 5.6, "jeonse_median_eok": 7.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 29, "area_m2": 85.0}
+{"name": "보라매파크빌", "gu": "동작", "claim": "annual_trade_count", "value": 21.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03"}
+{"name": "보라매파크빌", "gu": "동작", "claim": "units", "value": 423, "grade": "fact", "source": "public_record"}
+{"name": "보라매파크빌", "gu": "동작", "claim": "built_year", "value": 2002, "grade": "fact", "source": "public_record"}
+{"name": "쌍용스윗닷홈", "gu": "동작", "claim": "recent_transaction_median_eok", "value": 12.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 8, "area_m2": 85.0}
+{"name": "쌍용스윗닷홈", "gu": "동작", "claim": "transaction_iqr_eok", "p25": 11.95, "p75": 13.01, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 8, "area_m2": 85.0}
+{"name": "쌍용스윗닷홈", "gu": "동작", "claim": "sale_jeonse_gap_eok", "value": 6.3, "jeonse_median_eok": 6.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 8, "area_m2": 85.0}
+{"name": "쌍용스윗닷홈", "gu": "동작", "claim": "annual_trade_count", "value": 12.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03"}
+{"name": "쌍용스윗닷홈", "gu": "동작", "claim": "units", "value": 389, "grade": "fact", "source": "public_record"}
+{"name": "쌍용스윗닷홈", "gu": "동작", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
+{"name": "경동윈츠리버", "gu": "동작", "claim": "recent_transaction_median_eok", "value": 12.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 13, "area_m2": 56.5}
+{"name": "경동윈츠리버", "gu": "동작", "claim": "transaction_iqr_eok", "p25": 10.3, "p75": 12.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 13, "area_m2": 56.5}
+{"name": "경동윈츠리버", "gu": "동작", "claim": "sale_jeonse_gap_eok", "value": 7.05, "jeonse_median_eok": 5.15, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 24, "area_m2": 56.5}
+{"name": "경동윈츠리버", "gu": "동작", "claim": "annual_trade_count", "value": 22.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03"}
+{"name": "경동윈츠리버", "gu": "동작", "claim": "units", "value": 272, "grade": "fact", "source": "public_record"}
+{"name": "경동윈츠리버", "gu": "동작", "claim": "built_year", "value": 2004, "grade": "fact", "source": "public_record"}
+{"name": "삼호그린", "gu": "동작", "claim": "recent_transaction_median_eok", "value": 11.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 5, "area_m2": 84.5}
+{"name": "삼호그린", "gu": "동작", "claim": "transaction_iqr_eok", "p25": 11.2, "p75": 12.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 5, "area_m2": 84.5}
+{"name": "삼호그린", "gu": "동작", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 16.6, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 5, "area_m2": 84.5}
+{"name": "삼호그린", "gu": "동작", "claim": "position_in_52w_range_pct", "value": 100, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 5, "area_m2": 84.5}
+{"name": "삼호그린", "gu": "동작", "claim": "sale_jeonse_gap_eok", "value": 6.4, "jeonse_median_eok": 5.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 2, "area_m2": 84.5}
+{"name": "삼호그린", "gu": "동작", "claim": "annual_trade_count", "value": 11.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03"}
+{"name": "삼호그린", "gu": "동작", "claim": "units", "value": 211, "grade": "fact", "source": "public_record"}
+{"name": "삼호그린", "gu": "동작", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "제일", "gu": "동작", "claim": "recent_transaction_median_eok", "value": 11.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 17, "area_m2": 60.0}
+{"name": "제일", "gu": "동작", "claim": "transaction_iqr_eok", "p25": 11.4, "p75": 12.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 17, "area_m2": 60.0}
+{"name": "제일", "gu": "동작", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 0.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 17, "area_m2": 60.0}
+{"name": "제일", "gu": "동작", "claim": "position_in_52w_range_pct", "value": 80, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 17, "area_m2": 60.0}
+{"name": "제일", "gu": "동작", "claim": "sale_jeonse_gap_eok", "value": 7.7, "jeonse_median_eok": 4.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 29, "area_m2": 60.0}
+{"name": "제일", "gu": "동작", "claim": "annual_trade_count", "value": 17.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03"}
+{"name": "제일", "gu": "동작", "claim": "units", "value": 296, "grade": "fact", "source": "public_record"}
+{"name": "제일", "gu": "동작", "claim": "built_year", "value": 1987, "grade": "fact", "source": "public_record"}
+{"name": "대림현대", "gu": "동작", "claim": "recent_transaction_median_eok", "value": 11.77, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 68, "area_m2": 85.0}
+{"name": "대림현대", "gu": "동작", "claim": "transaction_iqr_eok", "p25": 10.46, "p75": 15.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 68, "area_m2": 85.0}
+{"name": "대림현대", "gu": "동작", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 22.6, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 68, "area_m2": 85.0}
+{"name": "대림현대", "gu": "동작", "claim": "position_in_52w_range_pct", "value": 64, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 68, "area_m2": 85.0}
+{"name": "대림현대", "gu": "동작", "claim": "sale_jeonse_gap_eok", "value": 5.87, "jeonse_median_eok": 5.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 112, "area_m2": 85.0}
+{"name": "대림현대", "gu": "동작", "claim": "units", "value": 217, "grade": "fact", "source": "public_record"}
+{"name": "대림현대", "gu": "동작", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "동작협성휴포레시그니처", "gu": "동작", "claim": "recent_transaction_median_eok", "value": 11.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 24, "area_m2": 85.0}
+{"name": "동작협성휴포레시그니처", "gu": "동작", "claim": "transaction_iqr_eok", "p25": 11.5, "p75": 12.12, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 24, "area_m2": 85.0}
+{"name": "동작협성휴포레시그니처", "gu": "동작", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 10.7, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 24, "area_m2": 85.0}
+{"name": "동작협성휴포레시그니처", "gu": "동작", "claim": "position_in_52w_range_pct", "value": 81, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 24, "area_m2": 85.0}
+{"name": "동작협성휴포레시그니처", "gu": "동작", "claim": "sale_jeonse_gap_eok", "value": 4.25, "jeonse_median_eok": 7.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 39, "area_m2": 85.0}
+{"name": "동작협성휴포레시그니처", "gu": "동작", "claim": "annual_trade_count", "value": 24.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03"}
+{"name": "동작협성휴포레시그니처", "gu": "동작", "claim": "units", "value": 274, "grade": "fact", "source": "public_record"}
+{"name": "동작협성휴포레시그니처", "gu": "동작", "claim": "built_year", "value": 2022, "grade": "fact", "source": "public_record"}
+{"name": "현대", "gu": "동작", "claim": "recent_transaction_median_eok", "value": 11.64, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 78, "area_m2": 85.0}
+{"name": "현대", "gu": "동작", "claim": "transaction_iqr_eok", "p25": 10.31, "p75": 12.88, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 78, "area_m2": 85.0}
+{"name": "현대", "gu": "동작", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 15.7, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 78, "area_m2": 85.0}
+{"name": "현대", "gu": "동작", "claim": "position_in_52w_range_pct", "value": 34, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 78, "area_m2": 85.0}
+{"name": "현대", "gu": "동작", "claim": "sale_jeonse_gap_eok", "value": 5.55, "jeonse_median_eok": 6.09, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 119, "area_m2": 85.0}
+{"name": "현대", "gu": "동작", "claim": "annual_trade_count", "value": 76.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03"}
+{"name": "현대", "gu": "동작", "claim": "units", "value": 880, "grade": "fact", "source": "public_record"}
+{"name": "현대", "gu": "동작", "claim": "built_year", "value": 1996, "grade": "fact", "source": "public_record"}
+{"name": "현대홈타운", "gu": "동작", "claim": "recent_transaction_median_eok", "value": 11.07, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 50, "area_m2": 84.5}
+{"name": "현대홈타운", "gu": "동작", "claim": "transaction_iqr_eok", "p25": 9.56, "p75": 12.14, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 50, "area_m2": 84.5}
+{"name": "현대홈타운", "gu": "동작", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 11.2, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 50, "area_m2": 84.5}
+{"name": "현대홈타운", "gu": "동작", "claim": "position_in_52w_range_pct", "value": 67, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 50, "area_m2": 84.5}
+{"name": "현대홈타운", "gu": "동작", "claim": "sale_jeonse_gap_eok", "value": 5.08, "jeonse_median_eok": 5.99, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 63, "area_m2": 84.5}
+{"name": "현대홈타운", "gu": "동작", "claim": "units", "value": 914, "grade": "fact", "source": "public_record"}
+{"name": "현대홈타운", "gu": "동작", "claim": "built_year", "value": 2000, "grade": "fact", "source": "public_record"}
+{"name": "독산현대", "gu": "동작", "claim": "recent_transaction_median_eok", "value": 11.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 47, "area_m2": 84.5}
+{"name": "독산현대", "gu": "동작", "claim": "transaction_iqr_eok", "p25": 9.38, "p75": 12.07, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 47, "area_m2": 84.5}
+{"name": "독산현대", "gu": "동작", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 12.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 47, "area_m2": 84.5}
+{"name": "독산현대", "gu": "동작", "claim": "position_in_52w_range_pct", "value": 68, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 47, "area_m2": 84.5}
+{"name": "독산현대", "gu": "동작", "claim": "sale_jeonse_gap_eok", "value": 5.07, "jeonse_median_eok": 5.93, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 62, "area_m2": 84.5}
+{"name": "독산현대", "gu": "동작", "claim": "units", "value": 214, "grade": "fact", "source": "public_record"}
+{"name": "독산현대", "gu": "동작", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "사당자이", "gu": "동작", "claim": "recent_transaction_median_eok", "value": 10.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 13, "area_m2": 84.0}
+{"name": "사당자이", "gu": "동작", "claim": "transaction_iqr_eok", "p25": 10.47, "p75": 13.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 13, "area_m2": 84.0}
+{"name": "사당자이", "gu": "동작", "claim": "sale_jeonse_gap_eok", "value": 4.85, "jeonse_median_eok": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 16, "area_m2": 84.0}
+{"name": "사당자이", "gu": "동작", "claim": "annual_trade_count", "value": 56.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03"}
+{"name": "사당자이", "gu": "동작", "claim": "units", "value": 719, "grade": "fact", "source": "public_record"}
+{"name": "사당자이", "gu": "동작", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "청호", "gu": "동작", "claim": "recent_transaction_median_eok", "value": 10.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 12, "area_m2": 60.0}
+{"name": "청호", "gu": "동작", "claim": "transaction_iqr_eok", "p25": 9.0, "p75": 11.05, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 12, "area_m2": 60.0}
+{"name": "청호", "gu": "동작", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 6.2, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 12, "area_m2": 60.0}
+{"name": "청호", "gu": "동작", "claim": "position_in_52w_range_pct", "value": 81, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 12, "area_m2": 60.0}
+{"name": "청호", "gu": "동작", "claim": "sale_jeonse_gap_eok", "value": 6.4, "jeonse_median_eok": 4.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 13, "area_m2": 60.0}
+{"name": "청호", "gu": "동작", "claim": "annual_trade_count", "value": 12.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03"}
+{"name": "청호", "gu": "동작", "claim": "units", "value": 346, "grade": "fact", "source": "public_record"}
+{"name": "청호", "gu": "동작", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
+{"name": "경남아너스빌", "gu": "동작", "claim": "recent_transaction_median_eok", "value": 9.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 23, "area_m2": 60.0}
+{"name": "경남아너스빌", "gu": "동작", "claim": "transaction_iqr_eok", "p25": 8.3, "p75": 9.65, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 23, "area_m2": 60.0}
+{"name": "경남아너스빌", "gu": "동작", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 18.6, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 23, "area_m2": 60.0}
+{"name": "경남아너스빌", "gu": "동작", "claim": "position_in_52w_range_pct", "value": 75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 23, "area_m2": 60.0}
+{"name": "경남아너스빌", "gu": "동작", "claim": "sale_jeonse_gap_eok", "value": 4.21, "jeonse_median_eok": 4.79, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03", "n": 20, "area_m2": 60.0}
+{"name": "경남아너스빌", "gu": "동작", "claim": "annual_trade_count", "value": 10.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-03"}
+{"name": "경남아너스빌", "gu": "동작", "claim": "units", "value": 340, "grade": "fact", "source": "public_record"}
+{"name": "경남아너스빌", "gu": "동작", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
