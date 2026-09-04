@@ -1,0 +1,199 @@
+{"name": "동아그린", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 9.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 16, "area_m2": 89.5}
+{"name": "동아그린", "gu": "도봉", "claim": "transaction_iqr_eok", "p25": 6.88, "p75": 9.61, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 16, "area_m2": 89.5}
+{"name": "동아그린", "gu": "도봉", "claim": "sale_jeonse_gap_eok", "value": 4.9, "jeonse_median_eok": 4.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 27, "area_m2": 89.5}
+{"name": "동아그린", "gu": "도봉", "claim": "annual_trade_count", "value": 16.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
+{"name": "동아그린", "gu": "도봉", "claim": "units", "value": 449, "grade": "fact", "source": "public_record"}
+{"name": "동아그린", "gu": "도봉", "claim": "built_year", "value": 1996, "grade": "fact", "source": "public_record"}
+{"name": "창동신도브래뉴1차", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 8.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 15, "area_m2": 85.0}
+{"name": "창동신도브래뉴1차", "gu": "도봉", "claim": "transaction_iqr_eok", "p25": 8.71, "p75": 9.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 15, "area_m2": 85.0}
+{"name": "창동신도브래뉴1차", "gu": "도봉", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 5.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 15, "area_m2": 85.0}
+{"name": "창동신도브래뉴1차", "gu": "도봉", "claim": "position_in_52w_range_pct", "value": 68, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 15, "area_m2": 85.0}
+{"name": "창동신도브래뉴1차", "gu": "도봉", "claim": "sale_jeonse_gap_eok", "value": 3.95, "jeonse_median_eok": 4.95, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 10, "area_m2": 85.0}
+{"name": "창동신도브래뉴1차", "gu": "도봉", "claim": "annual_trade_count", "value": 21.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
+{"name": "창동신도브래뉴1차", "gu": "도봉", "claim": "units", "value": 456, "grade": "fact", "source": "public_record"}
+{"name": "창동신도브래뉴1차", "gu": "도봉", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
+{"name": "대상타운현대", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 8.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 26, "area_m2": 84.0}
+{"name": "대상타운현대", "gu": "도봉", "claim": "transaction_iqr_eok", "p25": 8.05, "p75": 8.57, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 26, "area_m2": 84.0}
+{"name": "대상타운현대", "gu": "도봉", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 5.5, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 26, "area_m2": 84.0}
+{"name": "대상타운현대", "gu": "도봉", "claim": "position_in_52w_range_pct", "value": 86, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 26, "area_m2": 84.0}
+{"name": "대상타운현대", "gu": "도봉", "claim": "sale_jeonse_gap_eok", "value": 3.45, "jeonse_median_eok": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 21, "area_m2": 84.0}
+{"name": "대상타운현대", "gu": "도봉", "claim": "units", "value": 1278, "grade": "fact", "source": "public_record"}
+{"name": "대상타운현대", "gu": "도봉", "claim": "built_year", "value": 2001, "grade": "fact", "source": "public_record"}
+{"name": "삼성", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 8.36, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 60, "area_m2": 85.0}
+{"name": "삼성", "gu": "도봉", "claim": "transaction_iqr_eok", "p25": 8.09, "p75": 9.16, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 60, "area_m2": 85.0}
+{"name": "삼성", "gu": "도봉", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 9.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 60, "area_m2": 85.0}
+{"name": "삼성", "gu": "도봉", "claim": "position_in_52w_range_pct", "value": 75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 60, "area_m2": 85.0}
+{"name": "삼성", "gu": "도봉", "claim": "sale_jeonse_gap_eok", "value": 3.56, "jeonse_median_eok": 4.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 72, "area_m2": 85.0}
+{"name": "삼성", "gu": "도봉", "claim": "units", "value": 228, "grade": "fact", "source": "public_record"}
+{"name": "삼성", "gu": "도봉", "claim": "built_year", "value": 1998, "grade": "fact", "source": "public_record"}
+{"name": "삼성래미안", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 8.36, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 60, "area_m2": 85.0}
+{"name": "삼성래미안", "gu": "도봉", "claim": "transaction_iqr_eok", "p25": 8.09, "p75": 9.16, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 60, "area_m2": 85.0}
+{"name": "삼성래미안", "gu": "도봉", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 9.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 60, "area_m2": 85.0}
+{"name": "삼성래미안", "gu": "도봉", "claim": "position_in_52w_range_pct", "value": 75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 60, "area_m2": 85.0}
+{"name": "삼성래미안", "gu": "도봉", "claim": "sale_jeonse_gap_eok", "value": 3.56, "jeonse_median_eok": 4.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 72, "area_m2": 85.0}
+{"name": "삼성래미안", "gu": "도봉", "claim": "annual_trade_count", "value": 57.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
+{"name": "삼성래미안", "gu": "도봉", "claim": "units", "value": 1668, "grade": "fact", "source": "public_record"}
+{"name": "삼성래미안", "gu": "도봉", "claim": "built_year", "value": 1992, "grade": "fact", "source": "public_record"}
+{"name": "금호어울림", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 8.06, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 12, "area_m2": 85.0}
+{"name": "금호어울림", "gu": "도봉", "claim": "transaction_iqr_eok", "p25": 7.9, "p75": 8.73, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 12, "area_m2": 85.0}
+{"name": "금호어울림", "gu": "도봉", "claim": "sale_jeonse_gap_eok", "value": 3.51, "jeonse_median_eok": 4.55, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 6, "area_m2": 85.0}
+{"name": "금호어울림", "gu": "도봉", "claim": "annual_trade_count", "value": 15.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
+{"name": "금호어울림", "gu": "도봉", "claim": "units", "value": 230, "grade": "fact", "source": "public_record"}
+{"name": "금호어울림", "gu": "도봉", "claim": "built_year", "value": 1995, "grade": "fact", "source": "public_record"}
+{"name": "쌍용", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 7.78, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 26, "area_m2": 60.0}
+{"name": "쌍용", "gu": "도봉", "claim": "transaction_iqr_eok", "p25": 7.17, "p75": 8.19, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 26, "area_m2": 60.0}
+{"name": "쌍용", "gu": "도봉", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 6.5, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 26, "area_m2": 60.0}
+{"name": "쌍용", "gu": "도봉", "claim": "position_in_52w_range_pct", "value": 88, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 26, "area_m2": 60.0}
+{"name": "쌍용", "gu": "도봉", "claim": "sale_jeonse_gap_eok", "value": 4.11, "jeonse_median_eok": 3.67, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 27, "area_m2": 60.0}
+{"name": "쌍용", "gu": "도봉", "claim": "annual_trade_count", "value": 58.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
+{"name": "쌍용", "gu": "도봉", "claim": "units", "value": 1352, "grade": "fact", "source": "public_record"}
+{"name": "쌍용", "gu": "도봉", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
+{"name": "초안산쌍용스윗닷홈", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 7.78, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 26, "area_m2": 60.0}
+{"name": "초안산쌍용스윗닷홈", "gu": "도봉", "claim": "transaction_iqr_eok", "p25": 7.17, "p75": 8.19, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 26, "area_m2": 60.0}
+{"name": "초안산쌍용스윗닷홈", "gu": "도봉", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 6.5, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 26, "area_m2": 60.0}
+{"name": "초안산쌍용스윗닷홈", "gu": "도봉", "claim": "position_in_52w_range_pct", "value": 88, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 26, "area_m2": 60.0}
+{"name": "초안산쌍용스윗닷홈", "gu": "도봉", "claim": "sale_jeonse_gap_eok", "value": 4.11, "jeonse_median_eok": 3.67, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 27, "area_m2": 60.0}
+{"name": "초안산쌍용스윗닷홈", "gu": "도봉", "claim": "units", "value": 225, "grade": "fact", "source": "public_record"}
+{"name": "초안산쌍용스윗닷홈", "gu": "도봉", "claim": "built_year", "value": 2006, "grade": "fact", "source": "public_record"}
+{"name": "동아에코빌", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 7.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 5, "area_m2": 105.0}
+{"name": "동아에코빌", "gu": "도봉", "claim": "transaction_iqr_eok", "p25": 7.2, "p75": 7.68, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 5, "area_m2": 105.0}
+{"name": "동아에코빌", "gu": "도봉", "claim": "sale_jeonse_gap_eok", "value": 1.9, "jeonse_median_eok": 5.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 3, "area_m2": 105.0}
+{"name": "동아에코빌", "gu": "도봉", "claim": "annual_trade_count", "value": 12.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
+{"name": "동아에코빌", "gu": "도봉", "claim": "units", "value": 526, "grade": "fact", "source": "public_record"}
+{"name": "동아에코빌", "gu": "도봉", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
+{"name": "북한산코오롱하늘채", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 7.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 11, "area_m2": 85.0}
+{"name": "북한산코오롱하늘채", "gu": "도봉", "claim": "transaction_iqr_eok", "p25": 7.25, "p75": 7.53, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 11, "area_m2": 85.0}
+{"name": "북한산코오롱하늘채", "gu": "도봉", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 1.0, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 11, "area_m2": 85.0}
+{"name": "북한산코오롱하늘채", "gu": "도봉", "claim": "position_in_52w_range_pct", "value": 51, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 11, "area_m2": 85.0}
+{"name": "북한산코오롱하늘채", "gu": "도봉", "claim": "sale_jeonse_gap_eok", "value": 2.35, "jeonse_median_eok": 5.05, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 6, "area_m2": 85.0}
+{"name": "북한산코오롱하늘채", "gu": "도봉", "claim": "annual_trade_count", "value": 13.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
+{"name": "북한산코오롱하늘채", "gu": "도봉", "claim": "units", "value": 293, "grade": "fact", "source": "public_record"}
+{"name": "북한산코오롱하늘채", "gu": "도봉", "claim": "built_year", "value": 2014, "grade": "fact", "source": "public_record"}
+{"name": "대우그린", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 7.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 33, "area_m2": 85.0}
+{"name": "대우그린", "gu": "도봉", "claim": "transaction_iqr_eok", "p25": 6.9, "p75": 7.35, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 33, "area_m2": 85.0}
+{"name": "대우그린", "gu": "도봉", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 5.7, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 33, "area_m2": 85.0}
+{"name": "대우그린", "gu": "도봉", "claim": "position_in_52w_range_pct", "value": 50, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 33, "area_m2": 85.0}
+{"name": "대우그린", "gu": "도봉", "claim": "sale_jeonse_gap_eok", "value": 2.72, "jeonse_median_eok": 4.38, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 18, "area_m2": 85.0}
+{"name": "대우그린", "gu": "도봉", "claim": "annual_trade_count", "value": 15.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
+{"name": "대우그린", "gu": "도봉", "claim": "units", "value": 366, "grade": "fact", "source": "public_record"}
+{"name": "대우그린", "gu": "도봉", "claim": "built_year", "value": 2000, "grade": "fact", "source": "public_record"}
+{"name": "대우", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 7.09, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 37, "area_m2": 85.0}
+{"name": "대우", "gu": "도봉", "claim": "transaction_iqr_eok", "p25": 6.8, "p75": 7.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 37, "area_m2": 85.0}
+{"name": "대우", "gu": "도봉", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 4.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 37, "area_m2": 85.0}
+{"name": "대우", "gu": "도봉", "claim": "position_in_52w_range_pct", "value": 61, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 37, "area_m2": 85.0}
+{"name": "대우", "gu": "도봉", "claim": "sale_jeonse_gap_eok", "value": 2.64, "jeonse_median_eok": 4.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 23, "area_m2": 85.0}
+{"name": "대우", "gu": "도봉", "claim": "annual_trade_count", "value": 45.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
+{"name": "대우", "gu": "도봉", "claim": "units", "value": 260, "grade": "fact", "source": "public_record"}
+{"name": "대우", "gu": "도봉", "claim": "built_year", "value": 2000, "grade": "fact", "source": "public_record"}
+{"name": "이에스에이", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 6.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 20, "area_m2": 84.0}
+{"name": "이에스에이", "gu": "도봉", "claim": "transaction_iqr_eok", "p25": 6.5, "p75": 6.95, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 20, "area_m2": 84.0}
+{"name": "이에스에이", "gu": "도봉", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 3.7, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 20, "area_m2": 84.0}
+{"name": "이에스에이", "gu": "도봉", "claim": "position_in_52w_range_pct", "value": 38, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 20, "area_m2": 84.0}
+{"name": "이에스에이", "gu": "도봉", "claim": "sale_jeonse_gap_eok", "value": 2.45, "jeonse_median_eok": 4.15, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 12, "area_m2": 84.0}
+{"name": "이에스에이", "gu": "도봉", "claim": "units", "value": 296, "grade": "fact", "source": "public_record"}
+{"name": "이에스에이", "gu": "도봉", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
+{"name": "이에스에이2", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 6.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 20, "area_m2": 84.0}
+{"name": "이에스에이2", "gu": "도봉", "claim": "transaction_iqr_eok", "p25": 6.5, "p75": 6.95, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 20, "area_m2": 84.0}
+{"name": "이에스에이2", "gu": "도봉", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 3.7, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 20, "area_m2": 84.0}
+{"name": "이에스에이2", "gu": "도봉", "claim": "position_in_52w_range_pct", "value": 38, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 20, "area_m2": 84.0}
+{"name": "이에스에이2", "gu": "도봉", "claim": "sale_jeonse_gap_eok", "value": 2.45, "jeonse_median_eok": 4.15, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 12, "area_m2": 84.0}
+{"name": "이에스에이2", "gu": "도봉", "claim": "units", "value": 225, "grade": "fact", "source": "public_record"}
+{"name": "이에스에이2", "gu": "도봉", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
+{"name": "도봉파크빌3단지", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 6.08, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 20, "area_m2": 84.0}
+{"name": "도봉파크빌3단지", "gu": "도봉", "claim": "transaction_iqr_eok", "p25": 5.99, "p75": 6.16, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 20, "area_m2": 84.0}
+{"name": "도봉파크빌3단지", "gu": "도봉", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 0.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 20, "area_m2": 84.0}
+{"name": "도봉파크빌3단지", "gu": "도봉", "claim": "position_in_52w_range_pct", "value": 41, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 20, "area_m2": 84.0}
+{"name": "도봉파크빌3단지", "gu": "도봉", "claim": "sale_jeonse_gap_eok", "value": 2.08, "jeonse_median_eok": 4.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 20, "area_m2": 84.0}
+{"name": "도봉파크빌3단지", "gu": "도봉", "claim": "annual_trade_count", "value": 11.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
+{"name": "도봉파크빌3단지", "gu": "도봉", "claim": "units", "value": 200, "grade": "fact", "source": "public_record"}
+{"name": "도봉파크빌3단지", "gu": "도봉", "claim": "built_year", "value": 2002, "grade": "fact", "source": "public_record"}
+{"name": "한신", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 5.97, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 122, "area_m2": 85.0}
+{"name": "한신", "gu": "도봉", "claim": "transaction_iqr_eok", "p25": 5.71, "p75": 6.23, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 122, "area_m2": 85.0}
+{"name": "한신", "gu": "도봉", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 5.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 122, "area_m2": 85.0}
+{"name": "한신", "gu": "도봉", "claim": "position_in_52w_range_pct", "value": 52, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 122, "area_m2": 85.0}
+{"name": "한신", "gu": "도봉", "claim": "sale_jeonse_gap_eok", "value": 2.17, "jeonse_median_eok": 3.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 122, "area_m2": 85.0}
+{"name": "한신", "gu": "도봉", "claim": "annual_trade_count", "value": 120.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
+{"name": "한신", "gu": "도봉", "claim": "units", "value": 1200, "grade": "fact", "source": "public_record"}
+{"name": "한신", "gu": "도봉", "claim": "built_year", "value": 1988, "grade": "fact", "source": "public_record"}
+{"name": "한신2차", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 5.95, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 117, "area_m2": 85.0}
+{"name": "한신2차", "gu": "도봉", "claim": "transaction_iqr_eok", "p25": 5.7, "p75": 6.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 117, "area_m2": 85.0}
+{"name": "한신2차", "gu": "도봉", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 5.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 117, "area_m2": 85.0}
+{"name": "한신2차", "gu": "도봉", "claim": "position_in_52w_range_pct", "value": 79, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 117, "area_m2": 85.0}
+{"name": "한신2차", "gu": "도봉", "claim": "sale_jeonse_gap_eok", "value": 2.15, "jeonse_median_eok": 3.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 116, "area_m2": 85.0}
+{"name": "한신2차", "gu": "도봉", "claim": "units", "value": 471, "grade": "fact", "source": "public_record"}
+{"name": "한신2차", "gu": "도봉", "claim": "built_year", "value": 1988, "grade": "fact", "source": "public_record"}
+{"name": "래미안도봉", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 5.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 20, "area_m2": 59.0}
+{"name": "래미안도봉", "gu": "도봉", "claim": "transaction_iqr_eok", "p25": 5.64, "p75": 6.06, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 20, "area_m2": 59.0}
+{"name": "래미안도봉", "gu": "도봉", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 5.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 20, "area_m2": 59.0}
+{"name": "래미안도봉", "gu": "도봉", "claim": "position_in_52w_range_pct", "value": 91, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 20, "area_m2": 59.0}
+{"name": "래미안도봉", "gu": "도봉", "claim": "sale_jeonse_gap_eok", "value": 2.4, "jeonse_median_eok": 3.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 12, "area_m2": 59.0}
+{"name": "래미안도봉", "gu": "도봉", "claim": "annual_trade_count", "value": 32.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
+{"name": "래미안도봉", "gu": "도봉", "claim": "units", "value": 448, "grade": "fact", "source": "public_record"}
+{"name": "래미안도봉", "gu": "도봉", "claim": "built_year", "value": 2005, "grade": "fact", "source": "public_record"}
+{"name": "초안산신도브래뉴", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 5.89, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 4, "area_m2": 85.0}
+{"name": "초안산신도브래뉴", "gu": "도봉", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 9.6, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 4, "area_m2": 85.0}
+{"name": "초안산신도브래뉴", "gu": "도봉", "claim": "sale_jeonse_gap_eok", "value": 1.89, "jeonse_median_eok": 4.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 5, "area_m2": 85.0}
+{"name": "초안산신도브래뉴", "gu": "도봉", "claim": "annual_trade_count", "value": 9.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
+{"name": "초안산신도브래뉴", "gu": "도봉", "claim": "units", "value": 213, "grade": "fact", "source": "public_record"}
+{"name": "초안산신도브래뉴", "gu": "도봉", "claim": "built_year", "value": 2005, "grade": "fact", "source": "public_record"}
+{"name": "삼익세라믹", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 5.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 18, "area_m2": 79.0}
+{"name": "삼익세라믹", "gu": "도봉", "claim": "transaction_iqr_eok", "p25": 5.54, "p75": 5.94, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 18, "area_m2": 79.0}
+{"name": "삼익세라믹", "gu": "도봉", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 0.0, "direction": "—", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 18, "area_m2": 79.0}
+{"name": "삼익세라믹", "gu": "도봉", "claim": "position_in_52w_range_pct", "value": 38, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 18, "area_m2": 79.0}
+{"name": "삼익세라믹", "gu": "도봉", "claim": "sale_jeonse_gap_eok", "value": 2.1, "jeonse_median_eok": 3.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 17, "area_m2": 79.0}
+{"name": "삼익세라믹", "gu": "도봉", "claim": "annual_trade_count", "value": 76.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
+{"name": "삼익세라믹", "gu": "도봉", "claim": "units", "value": 1541, "grade": "fact", "source": "public_record"}
+{"name": "삼익세라믹", "gu": "도봉", "claim": "built_year", "value": 1988, "grade": "fact", "source": "public_record"}
+{"name": "럭키", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 5.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 21, "area_m2": 84.0}
+{"name": "럭키", "gu": "도봉", "claim": "transaction_iqr_eok", "p25": 5.39, "p75": 5.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 21, "area_m2": 84.0}
+{"name": "럭키", "gu": "도봉", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 5.0, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 21, "area_m2": 84.0}
+{"name": "럭키", "gu": "도봉", "claim": "position_in_52w_range_pct", "value": 57, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 21, "area_m2": 84.0}
+{"name": "럭키", "gu": "도봉", "claim": "sale_jeonse_gap_eok", "value": 1.9, "jeonse_median_eok": 3.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 18, "area_m2": 84.0}
+{"name": "럭키", "gu": "도봉", "claim": "annual_trade_count", "value": 21.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
+{"name": "럭키", "gu": "도봉", "claim": "units", "value": 630, "grade": "fact", "source": "public_record"}
+{"name": "럭키", "gu": "도봉", "claim": "built_year", "value": 1992, "grade": "fact", "source": "public_record"}
+{"name": "성원", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 5.33, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 22, "area_m2": 85.0}
+{"name": "성원", "gu": "도봉", "claim": "transaction_iqr_eok", "p25": 4.92, "p75": 5.69, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 22, "area_m2": 85.0}
+{"name": "성원", "gu": "도봉", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 6.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 22, "area_m2": 85.0}
+{"name": "성원", "gu": "도봉", "claim": "position_in_52w_range_pct", "value": 43, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 22, "area_m2": 85.0}
+{"name": "성원", "gu": "도봉", "claim": "sale_jeonse_gap_eok", "value": 1.83, "jeonse_median_eok": 3.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 21, "area_m2": 85.0}
+{"name": "성원", "gu": "도봉", "claim": "annual_trade_count", "value": 17.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
+{"name": "성원", "gu": "도봉", "claim": "units", "value": 262, "grade": "fact", "source": "public_record"}
+{"name": "성원", "gu": "도봉", "claim": "built_year", "value": 1990, "grade": "fact", "source": "public_record"}
+{"name": "극동", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 4.88, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 20, "area_m2": 85.0}
+{"name": "극동", "gu": "도봉", "claim": "transaction_iqr_eok", "p25": 4.69, "p75": 5.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 20, "area_m2": 85.0}
+{"name": "극동", "gu": "도봉", "claim": "recent3m_vs_prior9m_median_change_pct", "value": -3.4, "direction": "▼", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 20, "area_m2": 85.0}
+{"name": "극동", "gu": "도봉", "claim": "position_in_52w_range_pct", "value": 33, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 20, "area_m2": 85.0}
+{"name": "극동", "gu": "도봉", "claim": "sale_jeonse_gap_eok", "value": 1.44, "jeonse_median_eok": 3.44, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 8, "area_m2": 85.0}
+{"name": "극동", "gu": "도봉", "claim": "annual_trade_count", "value": 11.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
+{"name": "극동", "gu": "도봉", "claim": "units", "value": 205, "grade": "fact", "source": "public_record"}
+{"name": "극동", "gu": "도봉", "claim": "built_year", "value": 1991, "grade": "fact", "source": "public_record"}
+{"name": "청구", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 4.64, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 4, "area_m2": 70.0}
+{"name": "청구", "gu": "도봉", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 1.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 4, "area_m2": 70.0}
+{"name": "청구", "gu": "도봉", "claim": "annual_trade_count", "value": 7.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
+{"name": "청구", "gu": "도봉", "claim": "units", "value": 978, "grade": "fact", "source": "public_record"}
+{"name": "청구", "gu": "도봉", "claim": "built_year", "value": 1994, "grade": "fact", "source": "public_record"}
+{"name": "창동주공3단지", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 4.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 104, "area_m2": 41.0}
+{"name": "창동주공3단지", "gu": "도봉", "claim": "transaction_iqr_eok", "p25": 3.75, "p75": 4.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 104, "area_m2": 41.0}
+{"name": "창동주공3단지", "gu": "도봉", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 15.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 104, "area_m2": 41.0}
+{"name": "창동주공3단지", "gu": "도봉", "claim": "position_in_52w_range_pct", "value": 49, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 104, "area_m2": 41.0}
+{"name": "창동주공3단지", "gu": "도봉", "claim": "sale_jeonse_gap_eok", "value": 2.3, "jeonse_median_eok": 2.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 128, "area_m2": 41.0}
+{"name": "창동주공3단지", "gu": "도봉", "claim": "annual_trade_count", "value": 166.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
+{"name": "창동주공3단지", "gu": "도봉", "claim": "units", "value": 2856, "grade": "fact", "source": "public_record"}
+{"name": "창동주공3단지", "gu": "도봉", "claim": "built_year", "value": 1990, "grade": "fact", "source": "public_record"}
+{"name": "신창", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 4.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 13, "area_m2": 59.5}
+{"name": "신창", "gu": "도봉", "claim": "transaction_iqr_eok", "p25": 4.0, "p75": 4.27, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 13, "area_m2": 59.5}
+{"name": "신창", "gu": "도봉", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 2.5, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 13, "area_m2": 59.5}
+{"name": "신창", "gu": "도봉", "claim": "position_in_52w_range_pct", "value": 55, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 13, "area_m2": 59.5}
+{"name": "신창", "gu": "도봉", "claim": "sale_jeonse_gap_eok", "value": 1.47, "jeonse_median_eok": 2.73, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 9, "area_m2": 59.5}
+{"name": "신창", "gu": "도봉", "claim": "annual_trade_count", "value": 27.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
+{"name": "신창", "gu": "도봉", "claim": "units", "value": 609, "grade": "fact", "source": "public_record"}
+{"name": "신창", "gu": "도봉", "claim": "built_year", "value": 1998, "grade": "fact", "source": "public_record"}
+{"name": "서원", "gu": "도봉", "claim": "recent_transaction_median_eok", "value": 3.55, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 80, "area_m2": 50.0}
+{"name": "서원", "gu": "도봉", "claim": "transaction_iqr_eok", "p25": 3.5, "p75": 3.67, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 80, "area_m2": 50.0}
+{"name": "서원", "gu": "도봉", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 1.7, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 80, "area_m2": 50.0}
+{"name": "서원", "gu": "도봉", "claim": "position_in_52w_range_pct", "value": 57, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 80, "area_m2": 50.0}
+{"name": "서원", "gu": "도봉", "claim": "sale_jeonse_gap_eok", "value": 1.45, "jeonse_median_eok": 2.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 52, "area_m2": 50.0}
+{"name": "서원", "gu": "도봉", "claim": "annual_trade_count", "value": 100.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
+{"name": "서원", "gu": "도봉", "claim": "units", "value": 2450, "grade": "fact", "source": "public_record"}
+{"name": "서원", "gu": "도봉", "claim": "built_year", "value": 1996, "grade": "fact", "source": "public_record"}
