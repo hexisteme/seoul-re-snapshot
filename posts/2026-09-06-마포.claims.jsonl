@@ -1,0 +1,149 @@
+{"name": "상암월드컵파크6단지", "gu": "마포", "claim": "recent_transaction_median_eok", "value": 15.93, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 16, "area_m2": 104.5}
+{"name": "상암월드컵파크6단지", "gu": "마포", "claim": "transaction_iqr_eok", "p25": 15.35, "p75": 16.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 16, "area_m2": 104.5}
+{"name": "상암월드컵파크6단지", "gu": "마포", "claim": "sale_jeonse_gap_eok", "value": 7.53, "jeonse_median_eok": 8.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 29, "area_m2": 104.5}
+{"name": "상암월드컵파크6단지", "gu": "마포", "claim": "annual_trade_count", "value": 21.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
+{"name": "상암월드컵파크6단지", "gu": "마포", "claim": "units", "value": 484, "grade": "fact", "source": "public_record"}
+{"name": "상암월드컵파크6단지", "gu": "마포", "claim": "built_year", "value": 2005, "grade": "fact", "source": "public_record"}
+{"name": "대원칸타빌", "gu": "마포", "claim": "recent_transaction_median_eok", "value": 15.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 6, "area_m2": 85.0}
+{"name": "대원칸타빌", "gu": "마포", "claim": "transaction_iqr_eok", "p25": 14.55, "p75": 16.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 6, "area_m2": 85.0}
+{"name": "대원칸타빌", "gu": "마포", "claim": "sale_jeonse_gap_eok", "value": 8.08, "jeonse_median_eok": 7.42, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 10, "area_m2": 85.0}
+{"name": "대원칸타빌", "gu": "마포", "claim": "annual_trade_count", "value": 11.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
+{"name": "대원칸타빌", "gu": "마포", "claim": "units", "value": 279, "grade": "fact", "source": "public_record"}
+{"name": "대원칸타빌", "gu": "마포", "claim": "built_year", "value": 2004, "grade": "fact", "source": "public_record"}
+{"name": "현대홈타운", "gu": "마포", "claim": "recent_transaction_median_eok", "value": 15.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 16, "area_m2": 85.0}
+{"name": "현대홈타운", "gu": "마포", "claim": "transaction_iqr_eok", "p25": 14.0, "p75": 16.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 16, "area_m2": 85.0}
+{"name": "현대홈타운", "gu": "마포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 19.6, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 16, "area_m2": 85.0}
+{"name": "현대홈타운", "gu": "마포", "claim": "position_in_52w_range_pct", "value": 88, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 16, "area_m2": 85.0}
+{"name": "현대홈타운", "gu": "마포", "claim": "sale_jeonse_gap_eok", "value": 8.5, "jeonse_median_eok": 6.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 37, "area_m2": 85.0}
+{"name": "현대홈타운", "gu": "마포", "claim": "annual_trade_count", "value": 32.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
+{"name": "현대홈타운", "gu": "마포", "claim": "units", "value": 914, "grade": "fact", "source": "public_record"}
+{"name": "현대홈타운", "gu": "마포", "claim": "built_year", "value": 2000, "grade": "fact", "source": "public_record"}
+{"name": "마포현대", "gu": "마포", "claim": "recent_transaction_median_eok", "value": 14.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 9, "area_m2": 60.0}
+{"name": "마포현대", "gu": "마포", "claim": "transaction_iqr_eok", "p25": 13.95, "p75": 14.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 9, "area_m2": 60.0}
+{"name": "마포현대", "gu": "마포", "claim": "sale_jeonse_gap_eok", "value": 9.92, "jeonse_median_eok": 4.58, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 22, "area_m2": 60.0}
+{"name": "마포현대", "gu": "마포", "claim": "annual_trade_count", "value": 19.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
+{"name": "마포현대", "gu": "마포", "claim": "units", "value": 480, "grade": "fact", "source": "public_record"}
+{"name": "마포현대", "gu": "마포", "claim": "built_year", "value": 1988, "grade": "fact", "source": "public_record"}
+{"name": "상암월드컵파크5단지", "gu": "마포", "claim": "recent_transaction_median_eok", "value": 14.43, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 20, "area_m2": 84.5}
+{"name": "상암월드컵파크5단지", "gu": "마포", "claim": "transaction_iqr_eok", "p25": 13.88, "p75": 14.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 20, "area_m2": 84.5}
+{"name": "상암월드컵파크5단지", "gu": "마포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 7.6, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 20, "area_m2": 84.5}
+{"name": "상암월드컵파크5단지", "gu": "마포", "claim": "position_in_52w_range_pct", "value": 85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 20, "area_m2": 84.5}
+{"name": "상암월드컵파크5단지", "gu": "마포", "claim": "sale_jeonse_gap_eok", "value": 7.33, "jeonse_median_eok": 7.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 35, "area_m2": 84.5}
+{"name": "상암월드컵파크5단지", "gu": "마포", "claim": "annual_trade_count", "value": 28.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
+{"name": "상암월드컵파크5단지", "gu": "마포", "claim": "units", "value": 436, "grade": "fact", "source": "public_record"}
+{"name": "상암월드컵파크5단지", "gu": "마포", "claim": "built_year", "value": 2005, "grade": "fact", "source": "public_record"}
+{"name": "서강GS", "gu": "마포", "claim": "recent_transaction_median_eok", "value": 13.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 16, "area_m2": 60.0}
+{"name": "서강GS", "gu": "마포", "claim": "transaction_iqr_eok", "p25": 13.32, "p75": 14.38, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 16, "area_m2": 60.0}
+{"name": "서강GS", "gu": "마포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 16.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 16, "area_m2": 60.0}
+{"name": "서강GS", "gu": "마포", "claim": "position_in_52w_range_pct", "value": 97, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 16, "area_m2": 60.0}
+{"name": "서강GS", "gu": "마포", "claim": "sale_jeonse_gap_eok", "value": 7.9, "jeonse_median_eok": 5.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 34, "area_m2": 60.0}
+{"name": "서강GS", "gu": "마포", "claim": "annual_trade_count", "value": 28.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
+{"name": "서강GS", "gu": "마포", "claim": "units", "value": 538, "grade": "fact", "source": "public_record"}
+{"name": "서강GS", "gu": "마포", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "상암월드컵파크7단지", "gu": "마포", "claim": "recent_transaction_median_eok", "value": 13.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 17, "area_m2": 84.5}
+{"name": "상암월드컵파크7단지", "gu": "마포", "claim": "transaction_iqr_eok", "p25": 12.95, "p75": 13.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 17, "area_m2": 84.5}
+{"name": "상암월드컵파크7단지", "gu": "마포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 4.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 17, "area_m2": 84.5}
+{"name": "상암월드컵파크7단지", "gu": "마포", "claim": "position_in_52w_range_pct", "value": 88, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 17, "area_m2": 84.5}
+{"name": "상암월드컵파크7단지", "gu": "마포", "claim": "sale_jeonse_gap_eok", "value": 6.7, "jeonse_median_eok": 6.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 59, "area_m2": 84.5}
+{"name": "상암월드컵파크7단지", "gu": "마포", "claim": "annual_trade_count", "value": 22.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
+{"name": "상암월드컵파크7단지", "gu": "마포", "claim": "units", "value": 733, "grade": "fact", "source": "public_record"}
+{"name": "상암월드컵파크7단지", "gu": "마포", "claim": "built_year", "value": 2005, "grade": "fact", "source": "public_record"}
+{"name": "신촌삼익", "gu": "마포", "claim": "recent_transaction_median_eok", "value": 13.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 9, "area_m2": 60.0}
+{"name": "신촌삼익", "gu": "마포", "claim": "transaction_iqr_eok", "p25": 12.0, "p75": 13.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 9, "area_m2": 60.0}
+{"name": "신촌삼익", "gu": "마포", "claim": "sale_jeonse_gap_eok", "value": 8.45, "jeonse_median_eok": 4.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 13, "area_m2": 60.0}
+{"name": "신촌삼익", "gu": "마포", "claim": "annual_trade_count", "value": 13.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
+{"name": "신촌삼익", "gu": "마포", "claim": "units", "value": 391, "grade": "fact", "source": "public_record"}
+{"name": "신촌삼익", "gu": "마포", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
+{"name": "상암월드컵파크3단지", "gu": "마포", "claim": "recent_transaction_median_eok", "value": 12.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 25, "area_m2": 85.0}
+{"name": "상암월드컵파크3단지", "gu": "마포", "claim": "transaction_iqr_eok", "p25": 11.3, "p75": 12.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 25, "area_m2": 85.0}
+{"name": "상암월드컵파크3단지", "gu": "마포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 15.6, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 25, "area_m2": 85.0}
+{"name": "상암월드컵파크3단지", "gu": "마포", "claim": "position_in_52w_range_pct", "value": 86, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 25, "area_m2": 85.0}
+{"name": "상암월드컵파크3단지", "gu": "마포", "claim": "sale_jeonse_gap_eok", "value": 6.05, "jeonse_median_eok": 6.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 42, "area_m2": 85.0}
+{"name": "상암월드컵파크3단지", "gu": "마포", "claim": "annual_trade_count", "value": 25.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
+{"name": "상암월드컵파크3단지", "gu": "마포", "claim": "units", "value": 540, "grade": "fact", "source": "public_record"}
+{"name": "상암월드컵파크3단지", "gu": "마포", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
+{"name": "DMC상암센트럴파크1단지", "gu": "마포", "claim": "recent_transaction_median_eok", "value": 12.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 14, "area_m2": 85.0}
+{"name": "DMC상암센트럴파크1단지", "gu": "마포", "claim": "transaction_iqr_eok", "p25": 11.43, "p75": 12.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 14, "area_m2": 85.0}
+{"name": "DMC상암센트럴파크1단지", "gu": "마포", "claim": "sale_jeonse_gap_eok", "value": 5.4, "jeonse_median_eok": 6.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 14, "area_m2": 85.0}
+{"name": "DMC상암센트럴파크1단지", "gu": "마포", "claim": "annual_trade_count", "value": 17.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
+{"name": "DMC상암센트럴파크1단지", "gu": "마포", "claim": "units", "value": 213, "grade": "fact", "source": "public_record"}
+{"name": "DMC상암센트럴파크1단지", "gu": "마포", "claim": "built_year", "value": 2009, "grade": "fact", "source": "public_record"}
+{"name": "신촌금호", "gu": "마포", "claim": "recent_transaction_median_eok", "value": 11.53, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 12, "area_m2": 85.0}
+{"name": "신촌금호", "gu": "마포", "claim": "transaction_iqr_eok", "p25": 11.35, "p75": 12.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 12, "area_m2": 85.0}
+{"name": "신촌금호", "gu": "마포", "claim": "sale_jeonse_gap_eok", "value": 5.03, "jeonse_median_eok": 6.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 5, "area_m2": 85.0}
+{"name": "신촌금호", "gu": "마포", "claim": "annual_trade_count", "value": 14.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
+{"name": "신촌금호", "gu": "마포", "claim": "units", "value": 239, "grade": "fact", "source": "public_record"}
+{"name": "신촌금호", "gu": "마포", "claim": "built_year", "value": 2001, "grade": "fact", "source": "public_record"}
+{"name": "상암월드컵파크2단지", "gu": "마포", "claim": "recent_transaction_median_eok", "value": 11.35, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 39, "area_m2": 60.0}
+{"name": "상암월드컵파크2단지", "gu": "마포", "claim": "transaction_iqr_eok", "p25": 10.55, "p75": 12.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 39, "area_m2": 60.0}
+{"name": "상암월드컵파크2단지", "gu": "마포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 15.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 39, "area_m2": 60.0}
+{"name": "상암월드컵파크2단지", "gu": "마포", "claim": "position_in_52w_range_pct", "value": 63, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 39, "area_m2": 60.0}
+{"name": "상암월드컵파크2단지", "gu": "마포", "claim": "sale_jeonse_gap_eok", "value": 5.85, "jeonse_median_eok": 5.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 79, "area_m2": 60.0}
+{"name": "상암월드컵파크2단지", "gu": "마포", "claim": "annual_trade_count", "value": 43.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
+{"name": "상암월드컵파크2단지", "gu": "마포", "claim": "units", "value": 657, "grade": "fact", "source": "public_record"}
+{"name": "상암월드컵파크2단지", "gu": "마포", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
+{"name": "서서울삼성", "gu": "마포", "claim": "recent_transaction_median_eok", "value": 11.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 7, "area_m2": 85.0}
+{"name": "서서울삼성", "gu": "마포", "claim": "transaction_iqr_eok", "p25": 11.18, "p75": 12.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 7, "area_m2": 85.0}
+{"name": "서서울삼성", "gu": "마포", "claim": "sale_jeonse_gap_eok", "value": 5.25, "jeonse_median_eok": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 8, "area_m2": 85.0}
+{"name": "서서울삼성", "gu": "마포", "claim": "annual_trade_count", "value": 10.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
+{"name": "서서울삼성", "gu": "마포", "claim": "units", "value": 208, "grade": "fact", "source": "public_record"}
+{"name": "서서울삼성", "gu": "마포", "claim": "built_year", "value": 1998, "grade": "fact", "source": "public_record"}
+{"name": "상록", "gu": "마포", "claim": "recent_transaction_median_eok", "value": 11.15, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 21, "area_m2": 58.5}
+{"name": "상록", "gu": "마포", "claim": "transaction_iqr_eok", "p25": 10.7, "p75": 13.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 21, "area_m2": 58.5}
+{"name": "상록", "gu": "마포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 17.6, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 21, "area_m2": 58.5}
+{"name": "상록", "gu": "마포", "claim": "position_in_52w_range_pct", "value": 76, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 21, "area_m2": 58.5}
+{"name": "상록", "gu": "마포", "claim": "sale_jeonse_gap_eok", "value": 6.35, "jeonse_median_eok": 4.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 53, "area_m2": 58.5}
+{"name": "상록", "gu": "마포", "claim": "annual_trade_count", "value": 27.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
+{"name": "상록", "gu": "마포", "claim": "units", "value": 678, "grade": "fact", "source": "public_record"}
+{"name": "상록", "gu": "마포", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
+{"name": "상암월드컵파크9단지", "gu": "마포", "claim": "recent_transaction_median_eok", "value": 10.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 21, "area_m2": 85.0}
+{"name": "상암월드컵파크9단지", "gu": "마포", "claim": "transaction_iqr_eok", "p25": 10.3, "p75": 11.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 21, "area_m2": 85.0}
+{"name": "상암월드컵파크9단지", "gu": "마포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 9.9, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 21, "area_m2": 85.0}
+{"name": "상암월드컵파크9단지", "gu": "마포", "claim": "position_in_52w_range_pct", "value": 98, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 21, "area_m2": 85.0}
+{"name": "상암월드컵파크9단지", "gu": "마포", "claim": "sale_jeonse_gap_eok", "value": 4.9, "jeonse_median_eok": 5.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 39, "area_m2": 85.0}
+{"name": "상암월드컵파크9단지", "gu": "마포", "claim": "annual_trade_count", "value": 21.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
+{"name": "상암월드컵파크9단지", "gu": "마포", "claim": "units", "value": 1036, "grade": "fact", "source": "public_record"}
+{"name": "상암월드컵파크9단지", "gu": "마포", "claim": "built_year", "value": 2010, "grade": "fact", "source": "public_record"}
+{"name": "상암월드컵파크10단지", "gu": "마포", "claim": "recent_transaction_median_eok", "value": 10.68, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 12, "area_m2": 85.0}
+{"name": "상암월드컵파크10단지", "gu": "마포", "claim": "transaction_iqr_eok", "p25": 10.07, "p75": 10.86, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 12, "area_m2": 85.0}
+{"name": "상암월드컵파크10단지", "gu": "마포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 8.9, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 12, "area_m2": 85.0}
+{"name": "상암월드컵파크10단지", "gu": "마포", "claim": "position_in_52w_range_pct", "value": 94, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 12, "area_m2": 85.0}
+{"name": "상암월드컵파크10단지", "gu": "마포", "claim": "sale_jeonse_gap_eok", "value": 5.98, "jeonse_median_eok": 4.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 22, "area_m2": 85.0}
+{"name": "상암월드컵파크10단지", "gu": "마포", "claim": "annual_trade_count", "value": 17.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
+{"name": "상암월드컵파크10단지", "gu": "마포", "claim": "units", "value": 861, "grade": "fact", "source": "public_record"}
+{"name": "상암월드컵파크10단지", "gu": "마포", "claim": "built_year", "value": 2010, "grade": "fact", "source": "public_record"}
+{"name": "상암월드컵파크11단지", "gu": "마포", "claim": "recent_transaction_median_eok", "value": 9.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 4, "area_m2": 85.0}
+{"name": "상암월드컵파크11단지", "gu": "마포", "claim": "sale_jeonse_gap_eok", "value": 5.67, "jeonse_median_eok": 4.08, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 24, "area_m2": 85.0}
+{"name": "상암월드컵파크11단지", "gu": "마포", "claim": "annual_trade_count", "value": 4.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
+{"name": "상암월드컵파크11단지", "gu": "마포", "claim": "units", "value": 588, "grade": "fact", "source": "public_record"}
+{"name": "상암월드컵파크11단지", "gu": "마포", "claim": "built_year", "value": 2010, "grade": "fact", "source": "public_record"}
+{"name": "상암월드컵파크12단지", "gu": "마포", "claim": "recent_transaction_median_eok", "value": 8.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 8, "area_m2": 59.5}
+{"name": "상암월드컵파크12단지", "gu": "마포", "claim": "transaction_iqr_eok", "p25": 8.7, "p75": 9.36, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 8, "area_m2": 59.5}
+{"name": "상암월드컵파크12단지", "gu": "마포", "claim": "sale_jeonse_gap_eok", "value": 3.6, "jeonse_median_eok": 5.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 7, "area_m2": 59.5}
+{"name": "상암월드컵파크12단지", "gu": "마포", "claim": "annual_trade_count", "value": 17.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
+{"name": "상암월드컵파크12단지", "gu": "마포", "claim": "units", "value": 380, "grade": "fact", "source": "public_record"}
+{"name": "상암월드컵파크12단지", "gu": "마포", "claim": "built_year", "value": 2010, "grade": "fact", "source": "public_record"}
+{"name": "건영월드컵", "gu": "마포", "claim": "recent_transaction_median_eok", "value": 7.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 5, "area_m2": 59.0}
+{"name": "건영월드컵", "gu": "마포", "claim": "transaction_iqr_eok", "p25": 6.85, "p75": 7.09, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 5, "area_m2": 59.0}
+{"name": "건영월드컵", "gu": "마포", "claim": "sale_jeonse_gap_eok", "value": 2.59, "jeonse_median_eok": 4.41, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 3, "area_m2": 59.0}
+{"name": "건영월드컵", "gu": "마포", "claim": "annual_trade_count", "value": 17.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
+{"name": "건영월드컵", "gu": "마포", "claim": "units", "value": 206, "grade": "fact", "source": "public_record"}
+{"name": "건영월드컵", "gu": "마포", "claim": "built_year", "value": 2002, "grade": "fact", "source": "public_record"}
+{"name": "현대벤처빌", "gu": "마포", "claim": "recent_transaction_median_eok", "value": 2.77, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 6, "area_m2": 34.0}
+{"name": "현대벤처빌", "gu": "마포", "claim": "transaction_iqr_eok", "p25": 2.74, "p75": 2.84, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 6, "area_m2": 34.0}
+{"name": "현대벤처빌", "gu": "마포", "claim": "sale_jeonse_gap_eok", "value": 0.47, "jeonse_median_eok": 2.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 5, "area_m2": 34.0}
+{"name": "현대벤처빌", "gu": "마포", "claim": "annual_trade_count", "value": 11.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
+{"name": "현대벤처빌", "gu": "마포", "claim": "units", "value": 203, "grade": "fact", "source": "public_record"}
+{"name": "현대벤처빌", "gu": "마포", "claim": "built_year", "value": 2002, "grade": "fact", "source": "public_record"}
+{"name": "마포한화오벨리스크", "gu": "마포", "claim": "units", "value": 662, "grade": "fact", "source": "public_record"}
+{"name": "마포한화오벨리스크", "gu": "마포", "claim": "built_year", "value": 2004, "grade": "fact", "source": "public_record"}
+{"name": "메트로디오빌", "gu": "마포", "claim": "units", "value": 242, "grade": "fact", "source": "public_record"}
+{"name": "메트로디오빌", "gu": "마포", "claim": "built_year", "value": 2005, "grade": "fact", "source": "public_record"}
+{"name": "서교대우미래사랑", "gu": "마포", "claim": "units", "value": 366, "grade": "fact", "source": "public_record"}
+{"name": "서교대우미래사랑", "gu": "마포", "claim": "built_year", "value": 2005, "grade": "fact", "source": "public_record"}
+{"name": "성산월드타운대림", "gu": "마포", "claim": "annual_trade_count", "value": 42.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
+{"name": "성산월드타운대림", "gu": "마포", "claim": "units", "value": 795, "grade": "fact", "source": "public_record"}
+{"name": "성산월드타운대림", "gu": "마포", "claim": "built_year", "value": 2004, "grade": "fact", "source": "public_record"}
+{"name": "신촌포스빌", "gu": "마포", "claim": "annual_trade_count", "value": 10.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
+{"name": "신촌포스빌", "gu": "마포", "claim": "units", "value": 350, "grade": "fact", "source": "public_record"}
+{"name": "신촌포스빌", "gu": "마포", "claim": "built_year", "value": 2004, "grade": "fact", "source": "public_record"}
