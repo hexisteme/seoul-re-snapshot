@@ -33,3 +33,11 @@
 {"name": "강남자곡힐스테이트", "gu": "강남", "claim": "annual_trade_count", "value": 62.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
 {"name": "강남자곡힐스테이트", "gu": "강남", "claim": "units", "value": 1339, "grade": "fact", "source": "public_record"}
 {"name": "강남자곡힐스테이트", "gu": "강남", "claim": "built_year", "value": 2015, "grade": "fact", "source": "public_record"}
+{"name": "강남브리즈힐", "gu": "강남", "claim": "recent_transaction_median_eok", "value": 11.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 13, "area_m2": 74.0}
+{"name": "강남브리즈힐", "gu": "강남", "claim": "transaction_iqr_eok", "p25": 10.5, "p75": 12.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 13, "area_m2": 74.0}
+{"name": "강남브리즈힐", "gu": "강남", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 22.9, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 13, "area_m2": 74.0}
+{"name": "강남브리즈힐", "gu": "강남", "claim": "position_in_52w_range_pct", "value": 98, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 13, "area_m2": 74.0}
+{"name": "강남브리즈힐", "gu": "강남", "claim": "sale_jeonse_gap_eok", "value": 5.2, "jeonse_median_eok": 6.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 22, "area_m2": 74.0}
+{"name": "강남브리즈힐", "gu": "강남", "claim": "annual_trade_count", "value": 19.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
+{"name": "강남브리즈힐", "gu": "강남", "claim": "units", "value": 402, "grade": "fact", "source": "public_record"}
+{"name": "강남브리즈힐", "gu": "강남", "claim": "built_year", "value": 2014, "grade": "fact", "source": "public_record"}

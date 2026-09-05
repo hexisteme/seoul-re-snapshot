@@ -134,6 +134,14 @@
 {"name": "북한산두산위브", "gu": "서대문", "claim": "annual_trade_count", "value": 42.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
 {"name": "북한산두산위브", "gu": "서대문", "claim": "units", "value": 497, "grade": "fact", "source": "public_record"}
 {"name": "북한산두산위브", "gu": "서대문", "claim": "built_year", "value": 2020, "grade": "fact", "source": "public_record"}
+{"name": "인왕산현대(인왕산힐스테이트)", "gu": "서대문", "claim": "recent_transaction_median_eok", "value": 9.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 26, "area_m2": 85.0}
+{"name": "인왕산현대(인왕산힐스테이트)", "gu": "서대문", "claim": "transaction_iqr_eok", "p25": 9.4, "p75": 10.18, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 26, "area_m2": 85.0}
+{"name": "인왕산현대(인왕산힐스테이트)", "gu": "서대문", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 26.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 26, "area_m2": 85.0}
+{"name": "인왕산현대(인왕산힐스테이트)", "gu": "서대문", "claim": "position_in_52w_range_pct", "value": 79, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 26, "area_m2": 85.0}
+{"name": "인왕산현대(인왕산힐스테이트)", "gu": "서대문", "claim": "sale_jeonse_gap_eok", "value": 4.0, "jeonse_median_eok": 5.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 13, "area_m2": 85.0}
+{"name": "인왕산현대(인왕산힐스테이트)", "gu": "서대문", "claim": "annual_trade_count", "value": 58.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
+{"name": "인왕산현대(인왕산힐스테이트)", "gu": "서대문", "claim": "units", "value": 700, "grade": "fact", "source": "public_record"}
+{"name": "인왕산현대(인왕산힐스테이트)", "gu": "서대문", "claim": "built_year", "value": 2000, "grade": "fact", "source": "public_record"}
 {"name": "DMC래미안클라시스", "gu": "서대문", "claim": "recent_transaction_median_eok", "value": 9.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 38, "area_m2": 60.0}
 {"name": "DMC래미안클라시스", "gu": "서대문", "claim": "transaction_iqr_eok", "p25": 8.98, "p75": 10.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 38, "area_m2": 60.0}
 {"name": "DMC래미안클라시스", "gu": "서대문", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 16.7, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 38, "area_m2": 60.0}
@@ -262,3 +270,8 @@
 {"name": "극동", "gu": "서대문", "claim": "annual_trade_count", "value": 26.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
 {"name": "극동", "gu": "서대문", "claim": "units", "value": 488, "grade": "fact", "source": "public_record"}
 {"name": "극동", "gu": "서대문", "claim": "built_year", "value": 1995, "grade": "fact", "source": "public_record"}
+{"name": "태영으뜸", "gu": "서대문", "claim": "recent_transaction_median_eok", "value": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 3, "area_m2": 46.5}
+{"name": "태영으뜸", "gu": "서대문", "claim": "sale_jeonse_gap_eok", "value": 1.8, "jeonse_median_eok": 3.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 3, "area_m2": 46.5}
+{"name": "태영으뜸", "gu": "서대문", "claim": "annual_trade_count", "value": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
+{"name": "태영으뜸", "gu": "서대문", "claim": "units", "value": 214, "grade": "fact", "source": "public_record"}
+{"name": "태영으뜸", "gu": "서대문", "claim": "built_year", "value": 1998, "grade": "fact", "source": "public_record"}

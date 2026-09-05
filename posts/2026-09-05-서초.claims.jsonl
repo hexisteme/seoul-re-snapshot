@@ -15,6 +15,14 @@
 {"name": "동고", "gu": "서초", "claim": "annual_trade_count", "value": 11.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
 {"name": "동고", "gu": "서초", "claim": "units", "value": 330, "grade": "fact", "source": "public_record"}
 {"name": "동고", "gu": "서초", "claim": "built_year", "value": 1995, "grade": "fact", "source": "public_record"}
+{"name": "호반써밋서초파크뷰", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 14.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 10, "area_m2": 85.0}
+{"name": "호반써밋서초파크뷰", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 14.04, "p75": 15.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 10, "area_m2": 85.0}
+{"name": "호반써밋서초파크뷰", "gu": "서초", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 5.9, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 10, "area_m2": 85.0}
+{"name": "호반써밋서초파크뷰", "gu": "서초", "claim": "position_in_52w_range_pct", "value": 76, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 10, "area_m2": 85.0}
+{"name": "호반써밋서초파크뷰", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 6.75, "jeonse_median_eok": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 19, "area_m2": 85.0}
+{"name": "호반써밋서초파크뷰", "gu": "서초", "claim": "annual_trade_count", "value": 18.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
+{"name": "호반써밋서초파크뷰", "gu": "서초", "claim": "units", "value": 358, "grade": "fact", "source": "public_record"}
+{"name": "호반써밋서초파크뷰", "gu": "서초", "claim": "built_year", "value": 2013, "grade": "fact", "source": "public_record"}
 {"name": "래미안서초유니빌(주상복합)", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 5.05, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 21, "area_m2": 45.5}
 {"name": "래미안서초유니빌(주상복합)", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 4.6, "p75": 5.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 21, "area_m2": 45.5}
 {"name": "래미안서초유니빌(주상복합)", "gu": "서초", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 2.0, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 21, "area_m2": 45.5}
