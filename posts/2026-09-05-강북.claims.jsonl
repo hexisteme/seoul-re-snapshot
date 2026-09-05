@@ -4,6 +4,14 @@
 {"name": "송천센트레빌", "gu": "강북", "claim": "annual_trade_count", "value": 17.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
 {"name": "송천센트레빌", "gu": "강북", "claim": "units", "value": 376, "grade": "fact", "source": "public_record"}
 {"name": "송천센트레빌", "gu": "강북", "claim": "built_year", "value": 2010, "grade": "fact", "source": "public_record"}
+{"name": "미아동부센트레빌", "gu": "강북", "claim": "recent_transaction_median_eok", "value": 10.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 20, "area_m2": 85.0}
+{"name": "미아동부센트레빌", "gu": "강북", "claim": "transaction_iqr_eok", "p25": 9.4, "p75": 11.18, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 20, "area_m2": 85.0}
+{"name": "미아동부센트레빌", "gu": "강북", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 22.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 20, "area_m2": 85.0}
+{"name": "미아동부센트레빌", "gu": "강북", "claim": "position_in_52w_range_pct", "value": 80, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 20, "area_m2": 85.0}
+{"name": "미아동부센트레빌", "gu": "강북", "claim": "sale_jeonse_gap_eok", "value": 4.3, "jeonse_median_eok": 5.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 19, "area_m2": 85.0}
+{"name": "미아동부센트레빌", "gu": "강북", "claim": "annual_trade_count", "value": 38.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
+{"name": "미아동부센트레빌", "gu": "강북", "claim": "units", "value": 480, "grade": "fact", "source": "public_record"}
+{"name": "미아동부센트레빌", "gu": "강북", "claim": "built_year", "value": 2006, "grade": "fact", "source": "public_record"}
 {"name": "꿈의숲롯데캐슬", "gu": "강북", "claim": "recent_transaction_median_eok", "value": 9.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 25, "area_m2": 85.0}
 {"name": "꿈의숲롯데캐슬", "gu": "강북", "claim": "transaction_iqr_eok", "p25": 9.1, "p75": 10.38, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 25, "area_m2": 85.0}
 {"name": "꿈의숲롯데캐슬", "gu": "강북", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 13.6, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 25, "area_m2": 85.0}
@@ -28,29 +36,12 @@
 {"name": "꿈의숲해링턴플레이스", "gu": "강북", "claim": "annual_trade_count", "value": 84.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
 {"name": "꿈의숲해링턴플레이스", "gu": "강북", "claim": "units", "value": 1028, "grade": "fact", "source": "public_record"}
 {"name": "꿈의숲해링턴플레이스", "gu": "강북", "claim": "built_year", "value": 2019, "grade": "fact", "source": "public_record"}
-{"name": "경남아너스빌(1356)", "gu": "강북", "claim": "recent_transaction_median_eok", "value": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 24, "area_m2": 85.0}
-{"name": "경남아너스빌(1356)", "gu": "강북", "claim": "transaction_iqr_eok", "p25": 7.46, "p75": 8.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 24, "area_m2": 85.0}
-{"name": "경남아너스빌(1356)", "gu": "강북", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 2.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 24, "area_m2": 85.0}
-{"name": "경남아너스빌(1356)", "gu": "강북", "claim": "position_in_52w_range_pct", "value": 61, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 24, "area_m2": 85.0}
-{"name": "경남아너스빌(1356)", "gu": "강북", "claim": "sale_jeonse_gap_eok", "value": 3.5, "jeonse_median_eok": 4.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 23, "area_m2": 85.0}
-{"name": "경남아너스빌(1356)", "gu": "강북", "claim": "annual_trade_count", "value": 53.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
-{"name": "경남아너스빌(1356)", "gu": "강북", "claim": "units", "value": 860, "grade": "fact", "source": "public_record"}
-{"name": "경남아너스빌(1356)", "gu": "강북", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
-{"name": "경남아너스빌(796)", "gu": "강북", "claim": "recent_transaction_median_eok", "value": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 24, "area_m2": 85.0}
-{"name": "경남아너스빌(796)", "gu": "강북", "claim": "transaction_iqr_eok", "p25": 7.46, "p75": 8.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 24, "area_m2": 85.0}
-{"name": "경남아너스빌(796)", "gu": "강북", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 2.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 24, "area_m2": 85.0}
-{"name": "경남아너스빌(796)", "gu": "강북", "claim": "position_in_52w_range_pct", "value": 61, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 24, "area_m2": 85.0}
-{"name": "경남아너스빌(796)", "gu": "강북", "claim": "sale_jeonse_gap_eok", "value": 3.5, "jeonse_median_eok": 4.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 23, "area_m2": 85.0}
-{"name": "경남아너스빌(796)", "gu": "강북", "claim": "annual_trade_count", "value": 53.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
-{"name": "경남아너스빌(796)", "gu": "강북", "claim": "units", "value": 208, "grade": "fact", "source": "public_record"}
-{"name": "경남아너스빌(796)", "gu": "강북", "claim": "built_year", "value": 2008, "grade": "fact", "source": "public_record"}
-{"name": "길음뉴타운경남아너스빌", "gu": "강북", "claim": "recent_transaction_median_eok", "value": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 24, "area_m2": 85.0}
-{"name": "길음뉴타운경남아너스빌", "gu": "강북", "claim": "transaction_iqr_eok", "p25": 7.46, "p75": 8.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 24, "area_m2": 85.0}
-{"name": "길음뉴타운경남아너스빌", "gu": "강북", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 2.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 24, "area_m2": 85.0}
-{"name": "길음뉴타운경남아너스빌", "gu": "강북", "claim": "position_in_52w_range_pct", "value": 61, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 24, "area_m2": 85.0}
-{"name": "길음뉴타운경남아너스빌", "gu": "강북", "claim": "sale_jeonse_gap_eok", "value": 3.5, "jeonse_median_eok": 4.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 23, "area_m2": 85.0}
-{"name": "길음뉴타운경남아너스빌", "gu": "강북", "claim": "units", "value": 860, "grade": "fact", "source": "public_record"}
-{"name": "길음뉴타운경남아너스빌", "gu": "강북", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "꿈의숲한신더휴", "gu": "강북", "claim": "recent_transaction_median_eok", "value": 7.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 11, "area_m2": 60.0}
+{"name": "꿈의숲한신더휴", "gu": "강북", "claim": "transaction_iqr_eok", "p25": 7.24, "p75": 7.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 11, "area_m2": 60.0}
+{"name": "꿈의숲한신더휴", "gu": "강북", "claim": "sale_jeonse_gap_eok", "value": 2.8, "jeonse_median_eok": 4.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 12, "area_m2": 60.0}
+{"name": "꿈의숲한신더휴", "gu": "강북", "claim": "annual_trade_count", "value": 19.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
+{"name": "꿈의숲한신더휴", "gu": "강북", "claim": "units", "value": 203, "grade": "fact", "source": "public_record"}
+{"name": "꿈의숲한신더휴", "gu": "강북", "claim": "built_year", "value": 2022, "grade": "fact", "source": "public_record"}
 {"name": "삼각산아이원", "gu": "강북", "claim": "recent_transaction_median_eok", "value": 7.48, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 73, "area_m2": 84.5}
 {"name": "삼각산아이원", "gu": "강북", "claim": "transaction_iqr_eok", "p25": 7.19, "p75": 7.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 73, "area_m2": 84.5}
 {"name": "삼각산아이원", "gu": "강북", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 16.0, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 73, "area_m2": 84.5}
@@ -83,11 +74,8 @@
 {"name": "벽산라이브파크", "gu": "강북", "claim": "annual_trade_count", "value": 126.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
 {"name": "벽산라이브파크", "gu": "강북", "claim": "units", "value": 1585, "grade": "fact", "source": "public_record"}
 {"name": "벽산라이브파크", "gu": "강북", "claim": "built_year", "value": 2004, "grade": "fact", "source": "public_record"}
-{"name": "현대성우(주상복합)", "gu": "강북", "claim": "recent_transaction_median_eok", "value": 6.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 24, "area_m2": 85.0}
-{"name": "현대성우(주상복합)", "gu": "강북", "claim": "transaction_iqr_eok", "p25": 5.06, "p75": 6.58, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 24, "area_m2": 85.0}
-{"name": "현대성우(주상복합)", "gu": "강북", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 10.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 24, "area_m2": 85.0}
-{"name": "현대성우(주상복합)", "gu": "강북", "claim": "position_in_52w_range_pct", "value": 93, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 24, "area_m2": 85.0}
-{"name": "현대성우(주상복합)", "gu": "강북", "claim": "sale_jeonse_gap_eok", "value": 2.1, "jeonse_median_eok": 4.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 4, "area_m2": 85.0}
+{"name": "현대성우(주상복합)", "gu": "강북", "claim": "recent_transaction_median_eok", "value": 6.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 7, "area_m2": 85.0}
+{"name": "현대성우(주상복합)", "gu": "강북", "claim": "transaction_iqr_eok", "p25": 6.05, "p75": 6.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 7, "area_m2": 85.0}
 {"name": "현대성우(주상복합)", "gu": "강북", "claim": "annual_trade_count", "value": 10.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
 {"name": "현대성우(주상복합)", "gu": "강북", "claim": "units", "value": 216, "grade": "fact", "source": "public_record"}
 {"name": "현대성우(주상복합)", "gu": "강북", "claim": "built_year", "value": 1998, "grade": "fact", "source": "public_record"}
@@ -107,13 +95,6 @@
 {"name": "수유벽산1차", "gu": "강북", "claim": "annual_trade_count", "value": 64.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
 {"name": "수유벽산1차", "gu": "강북", "claim": "units", "value": 1454, "grade": "fact", "source": "public_record"}
 {"name": "수유벽산1차", "gu": "강북", "claim": "built_year", "value": 1993, "grade": "fact", "source": "public_record"}
-{"name": "창동주공1단지", "gu": "강북", "claim": "recent_transaction_median_eok", "value": 4.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 43, "area_m2": 41.5}
-{"name": "창동주공1단지", "gu": "강북", "claim": "transaction_iqr_eok", "p25": 4.4, "p75": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 43, "area_m2": 41.5}
-{"name": "창동주공1단지", "gu": "강북", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 16.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 43, "area_m2": 41.5}
-{"name": "창동주공1단지", "gu": "강북", "claim": "position_in_52w_range_pct", "value": 76, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 43, "area_m2": 41.5}
-{"name": "창동주공1단지", "gu": "강북", "claim": "sale_jeonse_gap_eok", "value": 2.97, "jeonse_median_eok": 1.73, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 44, "area_m2": 41.5}
-{"name": "창동주공1단지", "gu": "강북", "claim": "units", "value": 808, "grade": "fact", "source": "public_record"}
-{"name": "창동주공1단지", "gu": "강북", "claim": "built_year", "value": 1990, "grade": "fact", "source": "public_record"}
 {"name": "기산그린", "gu": "강북", "claim": "recent_transaction_median_eok", "value": 4.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 11, "area_m2": 60.0}
 {"name": "기산그린", "gu": "강북", "claim": "transaction_iqr_eok", "p25": 3.94, "p75": 4.09, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 11, "area_m2": 60.0}
 {"name": "기산그린", "gu": "강북", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 3.2, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 11, "area_m2": 60.0}
@@ -122,11 +103,6 @@
 {"name": "기산그린", "gu": "강북", "claim": "annual_trade_count", "value": 13.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
 {"name": "기산그린", "gu": "강북", "claim": "units", "value": 263, "grade": "fact", "source": "public_record"}
 {"name": "기산그린", "gu": "강북", "claim": "built_year", "value": 2000, "grade": "fact", "source": "public_record"}
-{"name": "동아", "gu": "강북", "claim": "units", "value": 600, "grade": "fact", "source": "public_record"}
-{"name": "동아", "gu": "강북", "claim": "built_year", "value": 1988, "grade": "fact", "source": "public_record"}
-{"name": "북서울자이폴라리스", "gu": "강북", "claim": "annual_trade_count", "value": 2.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
-{"name": "북서울자이폴라리스", "gu": "강북", "claim": "units", "value": 1045, "grade": "fact", "source": "public_record"}
-{"name": "북서울자이폴라리스", "gu": "강북", "claim": "built_year", "value": 2024, "grade": "fact", "source": "public_record"}
 {"name": "칸타빌수유팰리스", "gu": "강북", "claim": "annual_trade_count", "value": 4.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
 {"name": "칸타빌수유팰리스", "gu": "강북", "claim": "units", "value": 216, "grade": "fact", "source": "public_record"}
 {"name": "칸타빌수유팰리스", "gu": "강북", "claim": "built_year", "value": 2022, "grade": "fact", "source": "public_record"}

@@ -1,6 +1,6 @@
-{"name": "한강타운", "gu": "용산", "claim": "recent_transaction_median_eok", "value": 11.57, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 18, "area_m2": 59.5}
-{"name": "한강타운", "gu": "용산", "claim": "transaction_iqr_eok", "p25": 10.77, "p75": 12.84, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 18, "area_m2": 59.5}
-{"name": "한강타운", "gu": "용산", "claim": "sale_jeonse_gap_eok", "value": 6.67, "jeonse_median_eok": 4.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 46, "area_m2": 59.5}
+{"name": "한강타운", "gu": "용산", "claim": "recent_transaction_median_eok", "value": 11.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 15, "area_m2": 59.5}
+{"name": "한강타운", "gu": "용산", "claim": "transaction_iqr_eok", "p25": 10.71, "p75": 12.15, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 15, "area_m2": 59.5}
+{"name": "한강타운", "gu": "용산", "claim": "sale_jeonse_gap_eok", "value": 6.8, "jeonse_median_eok": 4.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05", "n": 27, "area_m2": 59.5}
 {"name": "한강타운", "gu": "용산", "claim": "annual_trade_count", "value": 15.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-05"}
 {"name": "한강타운", "gu": "용산", "claim": "units", "value": 289, "grade": "fact", "source": "public_record"}
 {"name": "한강타운", "gu": "용산", "claim": "built_year", "value": 2001, "grade": "fact", "source": "public_record"}
