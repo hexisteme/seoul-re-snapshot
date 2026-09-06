@@ -1,3 +1,11 @@
+{"name": "삼성", "gu": "마포", "claim": "recent_transaction_median_eok", "value": 19.98, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 14, "area_m2": 85.0}
+{"name": "삼성", "gu": "마포", "claim": "transaction_iqr_eok", "p25": 19.55, "p75": 20.57, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 14, "area_m2": 85.0}
+{"name": "삼성", "gu": "마포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 1.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 14, "area_m2": 85.0}
+{"name": "삼성", "gu": "마포", "claim": "position_in_52w_range_pct", "value": 73, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 14, "area_m2": 85.0}
+{"name": "삼성", "gu": "마포", "claim": "sale_jeonse_gap_eok", "value": 12.13, "jeonse_median_eok": 7.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 26, "area_m2": 85.0}
+{"name": "삼성", "gu": "마포", "claim": "annual_trade_count", "value": 27.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
+{"name": "삼성", "gu": "마포", "claim": "units", "value": 982, "grade": "fact", "source": "public_record"}
+{"name": "삼성", "gu": "마포", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
 {"name": "상암월드컵파크6단지", "gu": "마포", "claim": "recent_transaction_median_eok", "value": 15.93, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 16, "area_m2": 104.5}
 {"name": "상암월드컵파크6단지", "gu": "마포", "claim": "transaction_iqr_eok", "p25": 15.35, "p75": 16.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 16, "area_m2": 104.5}
 {"name": "상암월드컵파크6단지", "gu": "마포", "claim": "sale_jeonse_gap_eok", "value": 7.53, "jeonse_median_eok": 8.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 29, "area_m2": 104.5}

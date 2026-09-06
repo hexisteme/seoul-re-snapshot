@@ -17,14 +17,6 @@
 {"name": "신당푸르지오", "gu": "중구", "claim": "annual_trade_count", "value": 27.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
 {"name": "신당푸르지오", "gu": "중구", "claim": "units", "value": 461, "grade": "fact", "source": "public_record"}
 {"name": "신당푸르지오", "gu": "중구", "claim": "built_year", "value": 2005, "grade": "fact", "source": "public_record"}
-{"name": "삼성", "gu": "중구", "claim": "recent_transaction_median_eok", "value": 13.72, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 22, "area_m2": 60.0}
-{"name": "삼성", "gu": "중구", "claim": "transaction_iqr_eok", "p25": 11.95, "p75": 14.81, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 22, "area_m2": 60.0}
-{"name": "삼성", "gu": "중구", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 13.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 22, "area_m2": 60.0}
-{"name": "삼성", "gu": "중구", "claim": "position_in_52w_range_pct", "value": 100, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 22, "area_m2": 60.0}
-{"name": "삼성", "gu": "중구", "claim": "sale_jeonse_gap_eok", "value": 8.22, "jeonse_median_eok": 5.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 29, "area_m2": 60.0}
-{"name": "삼성", "gu": "중구", "claim": "annual_trade_count", "value": 47.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
-{"name": "삼성", "gu": "중구", "claim": "units", "value": 982, "grade": "fact", "source": "public_record"}
-{"name": "삼성", "gu": "중구", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
 {"name": "남산센트럴자이(주상복합)", "gu": "중구", "claim": "recent_transaction_median_eok", "value": 12.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 8, "area_m2": 82.5}
 {"name": "남산센트럴자이(주상복합)", "gu": "중구", "claim": "transaction_iqr_eok", "p25": 12.25, "p75": 12.89, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 8, "area_m2": 82.5}
 {"name": "남산센트럴자이(주상복합)", "gu": "중구", "claim": "sale_jeonse_gap_eok", "value": 5.15, "jeonse_median_eok": 7.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 7, "area_m2": 82.5}
@@ -37,6 +29,12 @@
 {"name": "황학아크로타워(주상복합)", "gu": "중구", "claim": "annual_trade_count", "value": 13.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
 {"name": "황학아크로타워(주상복합)", "gu": "중구", "claim": "units", "value": 263, "grade": "fact", "source": "public_record"}
 {"name": "황학아크로타워(주상복합)", "gu": "중구", "claim": "built_year", "value": 2010, "grade": "fact", "source": "public_record"}
+{"name": "현대", "gu": "중구", "claim": "recent_transaction_median_eok", "value": 12.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 9, "area_m2": 79.0}
+{"name": "현대", "gu": "중구", "claim": "transaction_iqr_eok", "p25": 11.5, "p75": 12.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 9, "area_m2": 79.0}
+{"name": "현대", "gu": "중구", "claim": "sale_jeonse_gap_eok", "value": 6.5, "jeonse_median_eok": 5.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 7, "area_m2": 79.0}
+{"name": "현대", "gu": "중구", "claim": "annual_trade_count", "value": 37.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
+{"name": "현대", "gu": "중구", "claim": "units", "value": 942, "grade": "fact", "source": "public_record"}
+{"name": "현대", "gu": "중구", "claim": "built_year", "value": 1993, "grade": "fact", "source": "public_record"}
 {"name": "힐스테이트세운센트럴1단지(도시형)", "gu": "중구", "claim": "recent_transaction_median_eok", "value": 11.55, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 9, "area_m2": 49.5}
 {"name": "힐스테이트세운센트럴1단지(도시형)", "gu": "중구", "claim": "transaction_iqr_eok", "p25": 8.62, "p75": 12.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 9, "area_m2": 49.5}
 {"name": "힐스테이트세운센트럴1단지(도시형)", "gu": "중구", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 2.6, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 9, "area_m2": 49.5}

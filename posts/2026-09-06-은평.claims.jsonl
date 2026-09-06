@@ -207,20 +207,6 @@
 {"name": "경남아너스빌", "gu": "은평", "claim": "annual_trade_count", "value": 23.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
 {"name": "경남아너스빌", "gu": "은평", "claim": "units", "value": 475, "grade": "fact", "source": "public_record"}
 {"name": "경남아너스빌", "gu": "은평", "claim": "built_year", "value": 2004, "grade": "fact", "source": "public_record"}
-{"name": "현대1차", "gu": "은평", "claim": "recent_transaction_median_eok", "value": 5.96, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 26, "area_m2": 84.0}
-{"name": "현대1차", "gu": "은평", "claim": "transaction_iqr_eok", "p25": 5.86, "p75": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 26, "area_m2": 84.0}
-{"name": "현대1차", "gu": "은평", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 4.7, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 26, "area_m2": 84.0}
-{"name": "현대1차", "gu": "은평", "claim": "position_in_52w_range_pct", "value": 81, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 26, "area_m2": 84.0}
-{"name": "현대1차", "gu": "은평", "claim": "sale_jeonse_gap_eok", "value": 1.96, "jeonse_median_eok": 4.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 26, "area_m2": 84.0}
-{"name": "현대1차", "gu": "은평", "claim": "annual_trade_count", "value": 26.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
-{"name": "현대1차", "gu": "은평", "claim": "units", "value": 477, "grade": "fact", "source": "public_record"}
-{"name": "현대1차", "gu": "은평", "claim": "built_year", "value": 2001, "grade": "fact", "source": "public_record"}
-{"name": "코오롱하늘채", "gu": "은평", "claim": "recent_transaction_median_eok", "value": 5.95, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 5, "area_m2": 85.0}
-{"name": "코오롱하늘채", "gu": "은평", "claim": "transaction_iqr_eok", "p25": 5.92, "p75": 6.02, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 5, "area_m2": 85.0}
-{"name": "코오롱하늘채", "gu": "은평", "claim": "sale_jeonse_gap_eok", "value": 1.55, "jeonse_median_eok": 4.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 3, "area_m2": 85.0}
-{"name": "코오롱하늘채", "gu": "은평", "claim": "annual_trade_count", "value": 7.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
-{"name": "코오롱하늘채", "gu": "은평", "claim": "units", "value": 466, "grade": "fact", "source": "public_record"}
-{"name": "코오롱하늘채", "gu": "은평", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
 {"name": "미미", "gu": "은평", "claim": "recent_transaction_median_eok", "value": 5.46, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 6, "area_m2": 59.5}
 {"name": "미미", "gu": "은평", "claim": "transaction_iqr_eok", "p25": 5.18, "p75": 5.61, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 6, "area_m2": 59.5}
 {"name": "미미", "gu": "은평", "claim": "sale_jeonse_gap_eok", "value": 2.13, "jeonse_median_eok": 3.33, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 6, "area_m2": 59.5}

@@ -163,6 +163,11 @@
 {"name": "중계무지개", "gu": "노원", "claim": "annual_trade_count", "value": 168.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
 {"name": "중계무지개", "gu": "노원", "claim": "units", "value": 2433, "grade": "fact", "source": "public_record"}
 {"name": "중계무지개", "gu": "노원", "claim": "built_year", "value": 1991, "grade": "fact", "source": "public_record"}
+{"name": "동원베네스트", "gu": "노원", "claim": "recent_transaction_median_eok", "value": 6.66, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 4, "area_m2": 84.5}
+{"name": "동원베네스트", "gu": "노원", "claim": "sale_jeonse_gap_eok", "value": 2.01, "jeonse_median_eok": 4.65, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 4, "area_m2": 84.5}
+{"name": "동원베네스트", "gu": "노원", "claim": "annual_trade_count", "value": 7.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
+{"name": "동원베네스트", "gu": "노원", "claim": "units", "value": 205, "grade": "fact", "source": "public_record"}
+{"name": "동원베네스트", "gu": "노원", "claim": "built_year", "value": 2005, "grade": "fact", "source": "public_record"}
 {"name": "상계주공2단지", "gu": "노원", "claim": "recent_transaction_median_eok", "value": 6.49, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 54, "area_m2": 59.0}
 {"name": "상계주공2단지", "gu": "노원", "claim": "transaction_iqr_eok", "p25": 6.0, "p75": 6.89, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 54, "area_m2": 59.0}
 {"name": "상계주공2단지", "gu": "노원", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 12.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 54, "area_m2": 59.0}
@@ -356,14 +361,6 @@
 {"name": "은빛1단지", "gu": "노원", "claim": "annual_trade_count", "value": 88.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
 {"name": "은빛1단지", "gu": "노원", "claim": "units", "value": 1391, "grade": "fact", "source": "public_record"}
 {"name": "은빛1단지", "gu": "노원", "claim": "built_year", "value": 1998, "grade": "fact", "source": "public_record"}
-{"name": "신원", "gu": "노원", "claim": "recent_transaction_median_eok", "value": 5.21, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 10, "area_m2": 59.5}
-{"name": "신원", "gu": "노원", "claim": "transaction_iqr_eok", "p25": 4.93, "p75": 5.34, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 10, "area_m2": 59.5}
-{"name": "신원", "gu": "노원", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 4.9, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 10, "area_m2": 59.5}
-{"name": "신원", "gu": "노원", "claim": "position_in_52w_range_pct", "value": 76, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 10, "area_m2": 59.5}
-{"name": "신원", "gu": "노원", "claim": "sale_jeonse_gap_eok", "value": 1.61, "jeonse_median_eok": 3.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 2, "area_m2": 59.5}
-{"name": "신원", "gu": "노원", "claim": "annual_trade_count", "value": 13.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
-{"name": "신원", "gu": "노원", "claim": "units", "value": 285, "grade": "fact", "source": "public_record"}
-{"name": "신원", "gu": "노원", "claim": "built_year", "value": 2000, "grade": "fact", "source": "public_record"}
 {"name": "상계주공16단지", "gu": "노원", "claim": "recent_transaction_median_eok", "value": 5.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 89, "area_m2": 59.0}
 {"name": "상계주공16단지", "gu": "노원", "claim": "transaction_iqr_eok", "p25": 4.95, "p75": 5.43, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 89, "area_m2": 59.0}
 {"name": "상계주공16단지", "gu": "노원", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 17.6, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 89, "area_m2": 59.0}

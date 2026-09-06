@@ -204,8 +204,3 @@
 {"name": "강동리버스트4단지", "gu": "강동", "claim": "annual_trade_count", "value": 44.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
 {"name": "강동리버스트4단지", "gu": "강동", "claim": "units", "value": 1239, "grade": "fact", "source": "public_record"}
 {"name": "강동리버스트4단지", "gu": "강동", "claim": "built_year", "value": 2020, "grade": "fact", "source": "public_record"}
-{"name": "라인", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 6.26, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 2, "area_m2": 60.0}
-{"name": "라인", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 1.71, "jeonse_median_eok": 4.55, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 2, "area_m2": 60.0}
-{"name": "라인", "gu": "강동", "claim": "annual_trade_count", "value": 4.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
-{"name": "라인", "gu": "강동", "claim": "units", "value": 352, "grade": "fact", "source": "public_record"}
-{"name": "라인", "gu": "강동", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}

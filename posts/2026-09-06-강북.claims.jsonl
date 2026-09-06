@@ -79,6 +79,14 @@
 {"name": "현대성우(주상복합)", "gu": "강북", "claim": "annual_trade_count", "value": 10.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
 {"name": "현대성우(주상복합)", "gu": "강북", "claim": "units", "value": 216, "grade": "fact", "source": "public_record"}
 {"name": "현대성우(주상복합)", "gu": "강북", "claim": "built_year", "value": 1998, "grade": "fact", "source": "public_record"}
+{"name": "대우", "gu": "강북", "claim": "recent_transaction_median_eok", "value": 6.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 7, "area_m2": 85.0}
+{"name": "대우", "gu": "강북", "claim": "transaction_iqr_eok", "p25": 6.1, "p75": 6.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 7, "area_m2": 85.0}
+{"name": "대우", "gu": "강북", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 8.2, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 7, "area_m2": 85.0}
+{"name": "대우", "gu": "강북", "claim": "position_in_52w_range_pct", "value": 49, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 7, "area_m2": 85.0}
+{"name": "대우", "gu": "강북", "claim": "sale_jeonse_gap_eok", "value": 1.7, "jeonse_median_eok": 4.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 6, "area_m2": 85.0}
+{"name": "대우", "gu": "강북", "claim": "annual_trade_count", "value": 7.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
+{"name": "대우", "gu": "강북", "claim": "units", "value": 260, "grade": "fact", "source": "public_record"}
+{"name": "대우", "gu": "강북", "claim": "built_year", "value": 2000, "grade": "fact", "source": "public_record"}
 {"name": "번동솔그린", "gu": "강북", "claim": "recent_transaction_median_eok", "value": 5.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 11, "area_m2": 84.5}
 {"name": "번동솔그린", "gu": "강북", "claim": "transaction_iqr_eok", "p25": 5.58, "p75": 5.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 11, "area_m2": 84.5}
 {"name": "번동솔그린", "gu": "강북", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 6.0, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 11, "area_m2": 84.5}
@@ -87,6 +95,13 @@
 {"name": "번동솔그린", "gu": "강북", "claim": "annual_trade_count", "value": 18.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
 {"name": "번동솔그린", "gu": "강북", "claim": "units", "value": 380, "grade": "fact", "source": "public_record"}
 {"name": "번동솔그린", "gu": "강북", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "신원", "gu": "강북", "claim": "recent_transaction_median_eok", "value": 5.67, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 8, "area_m2": 84.5}
+{"name": "신원", "gu": "강북", "claim": "transaction_iqr_eok", "p25": 5.58, "p75": 5.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 8, "area_m2": 84.5}
+{"name": "신원", "gu": "강북", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 3.6, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 8, "area_m2": 84.5}
+{"name": "신원", "gu": "강북", "claim": "position_in_52w_range_pct", "value": 81, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 8, "area_m2": 84.5}
+{"name": "신원", "gu": "강북", "claim": "annual_trade_count", "value": 14.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
+{"name": "신원", "gu": "강북", "claim": "units", "value": 285, "grade": "fact", "source": "public_record"}
+{"name": "신원", "gu": "강북", "claim": "built_year", "value": 2000, "grade": "fact", "source": "public_record"}
 {"name": "수유벽산1차", "gu": "강북", "claim": "recent_transaction_median_eok", "value": 5.42, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 26, "area_m2": 64.0}
 {"name": "수유벽산1차", "gu": "강북", "claim": "transaction_iqr_eok", "p25": 5.11, "p75": 5.59, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 26, "area_m2": 64.0}
 {"name": "수유벽산1차", "gu": "강북", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 5.7, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 26, "area_m2": 64.0}
@@ -95,6 +110,19 @@
 {"name": "수유벽산1차", "gu": "강북", "claim": "annual_trade_count", "value": 64.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
 {"name": "수유벽산1차", "gu": "강북", "claim": "units", "value": 1454, "grade": "fact", "source": "public_record"}
 {"name": "수유벽산1차", "gu": "강북", "claim": "built_year", "value": 1993, "grade": "fact", "source": "public_record"}
+{"name": "극동", "gu": "강북", "claim": "recent_transaction_median_eok", "value": 5.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 13, "area_m2": 85.0}
+{"name": "극동", "gu": "강북", "claim": "transaction_iqr_eok", "p25": 5.2, "p75": 5.48, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 13, "area_m2": 85.0}
+{"name": "극동", "gu": "강북", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 3.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 13, "area_m2": 85.0}
+{"name": "극동", "gu": "강북", "claim": "position_in_52w_range_pct", "value": 69, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 13, "area_m2": 85.0}
+{"name": "극동", "gu": "강북", "claim": "sale_jeonse_gap_eok", "value": 1.67, "jeonse_median_eok": 3.63, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 10, "area_m2": 85.0}
+{"name": "극동", "gu": "강북", "claim": "annual_trade_count", "value": 17.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
+{"name": "극동", "gu": "강북", "claim": "units", "value": 574, "grade": "fact", "source": "public_record"}
+{"name": "극동", "gu": "강북", "claim": "built_year", "value": 1992, "grade": "fact", "source": "public_record"}
+{"name": "삼성", "gu": "강북", "claim": "recent_transaction_median_eok", "value": 5.03, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 4, "area_m2": 60.0}
+{"name": "삼성", "gu": "강북", "claim": "sale_jeonse_gap_eok", "value": 1.73, "jeonse_median_eok": 3.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 3, "area_m2": 60.0}
+{"name": "삼성", "gu": "강북", "claim": "annual_trade_count", "value": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
+{"name": "삼성", "gu": "강북", "claim": "units", "value": 228, "grade": "fact", "source": "public_record"}
+{"name": "삼성", "gu": "강북", "claim": "built_year", "value": 1998, "grade": "fact", "source": "public_record"}
 {"name": "기산그린", "gu": "강북", "claim": "recent_transaction_median_eok", "value": 4.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 11, "area_m2": 60.0}
 {"name": "기산그린", "gu": "강북", "claim": "transaction_iqr_eok", "p25": 3.94, "p75": 4.09, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 11, "area_m2": 60.0}
 {"name": "기산그린", "gu": "강북", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 3.2, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 11, "area_m2": 60.0}

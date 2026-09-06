@@ -287,12 +287,6 @@
 {"name": "태진아름", "gu": "강서", "claim": "annual_trade_count", "value": 16.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
 {"name": "태진아름", "gu": "강서", "claim": "units", "value": 221, "grade": "fact", "source": "public_record"}
 {"name": "태진아름", "gu": "강서", "claim": "built_year", "value": 1995, "grade": "fact", "source": "public_record"}
-{"name": "길훈", "gu": "강서", "claim": "recent_transaction_median_eok", "value": 6.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 7, "area_m2": 51.5}
-{"name": "길훈", "gu": "강서", "claim": "transaction_iqr_eok", "p25": 6.1, "p75": 6.42, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 7, "area_m2": 51.5}
-{"name": "길훈", "gu": "강서", "claim": "sale_jeonse_gap_eok", "value": 2.2, "jeonse_median_eok": 4.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 3, "area_m2": 51.5}
-{"name": "길훈", "gu": "강서", "claim": "annual_trade_count", "value": 20.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
-{"name": "길훈", "gu": "강서", "claim": "units", "value": 290, "grade": "fact", "source": "public_record"}
-{"name": "길훈", "gu": "강서", "claim": "built_year", "value": 1987, "grade": "fact", "source": "public_record"}
 {"name": "삼성꽃마을", "gu": "강서", "claim": "recent_transaction_median_eok", "value": 5.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 13, "area_m2": 60.0}
 {"name": "삼성꽃마을", "gu": "강서", "claim": "transaction_iqr_eok", "p25": 5.5, "p75": 5.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 13, "area_m2": 60.0}
 {"name": "삼성꽃마을", "gu": "강서", "claim": "recent3m_vs_prior9m_median_change_pct", "value": -0.9, "direction": "▼", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 13, "area_m2": 60.0}

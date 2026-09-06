@@ -64,14 +64,6 @@
 {"name": "독산현대", "gu": "금천", "claim": "annual_trade_count", "value": 10.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
 {"name": "독산현대", "gu": "금천", "claim": "units", "value": 214, "grade": "fact", "source": "public_record"}
 {"name": "독산현대", "gu": "금천", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
-{"name": "우방", "gu": "금천", "claim": "recent_transaction_median_eok", "value": 4.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 27, "area_m2": 60.0}
-{"name": "우방", "gu": "금천", "claim": "transaction_iqr_eok", "p25": 4.38, "p75": 4.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 27, "area_m2": 60.0}
-{"name": "우방", "gu": "금천", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 6.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 27, "area_m2": 60.0}
-{"name": "우방", "gu": "금천", "claim": "position_in_52w_range_pct", "value": 75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 27, "area_m2": 60.0}
-{"name": "우방", "gu": "금천", "claim": "sale_jeonse_gap_eok", "value": 1.3, "jeonse_median_eok": 3.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 25, "area_m2": 60.0}
-{"name": "우방", "gu": "금천", "claim": "annual_trade_count", "value": 47.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
-{"name": "우방", "gu": "금천", "claim": "units", "value": 201, "grade": "fact", "source": "public_record"}
-{"name": "우방", "gu": "금천", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
 {"name": "삼익", "gu": "금천", "claim": "recent_transaction_median_eok", "value": 4.57, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 24, "area_m2": 60.0}
 {"name": "삼익", "gu": "금천", "claim": "transaction_iqr_eok", "p25": 4.3, "p75": 4.76, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 24, "area_m2": 60.0}
 {"name": "삼익", "gu": "금천", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 1.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 24, "area_m2": 60.0}

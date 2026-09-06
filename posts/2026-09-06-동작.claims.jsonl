@@ -148,6 +148,14 @@
 {"name": "현대", "gu": "동작", "claim": "annual_trade_count", "value": 46.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
 {"name": "현대", "gu": "동작", "claim": "units", "value": 265, "grade": "fact", "source": "public_record"}
 {"name": "현대", "gu": "동작", "claim": "built_year", "value": 1991, "grade": "fact", "source": "public_record"}
+{"name": "우성1차", "gu": "동작", "claim": "recent_transaction_median_eok", "value": 11.47, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 24, "area_m2": 66.5}
+{"name": "우성1차", "gu": "동작", "claim": "transaction_iqr_eok", "p25": 10.71, "p75": 12.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 24, "area_m2": 66.5}
+{"name": "우성1차", "gu": "동작", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 19.5, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 24, "area_m2": 66.5}
+{"name": "우성1차", "gu": "동작", "claim": "position_in_52w_range_pct", "value": 90, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 24, "area_m2": 66.5}
+{"name": "우성1차", "gu": "동작", "claim": "sale_jeonse_gap_eok", "value": 7.37, "jeonse_median_eok": 4.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 36, "area_m2": 66.5}
+{"name": "우성1차", "gu": "동작", "claim": "annual_trade_count", "value": 57.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
+{"name": "우성1차", "gu": "동작", "claim": "units", "value": 1335, "grade": "fact", "source": "public_record"}
+{"name": "우성1차", "gu": "동작", "claim": "built_year", "value": 1988, "grade": "fact", "source": "public_record"}
 {"name": "우정", "gu": "동작", "claim": "recent_transaction_median_eok", "value": 11.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 5, "area_m2": 84.5}
 {"name": "우정", "gu": "동작", "claim": "transaction_iqr_eok", "p25": 10.85, "p75": 12.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 5, "area_m2": 84.5}
 {"name": "우정", "gu": "동작", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 14.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 5, "area_m2": 84.5}
@@ -162,6 +170,12 @@
 {"name": "사당자이", "gu": "동작", "claim": "annual_trade_count", "value": 56.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
 {"name": "사당자이", "gu": "동작", "claim": "units", "value": 719, "grade": "fact", "source": "public_record"}
 {"name": "사당자이", "gu": "동작", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "한성", "gu": "동작", "claim": "recent_transaction_median_eok", "value": 10.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 7, "area_m2": 60.0}
+{"name": "한성", "gu": "동작", "claim": "transaction_iqr_eok", "p25": 9.55, "p75": 11.12, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 7, "area_m2": 60.0}
+{"name": "한성", "gu": "동작", "claim": "sale_jeonse_gap_eok", "value": 5.48, "jeonse_median_eok": 5.22, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 12, "area_m2": 60.0}
+{"name": "한성", "gu": "동작", "claim": "annual_trade_count", "value": 13.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
+{"name": "한성", "gu": "동작", "claim": "units", "value": 272, "grade": "fact", "source": "public_record"}
+{"name": "한성", "gu": "동작", "claim": "built_year", "value": 1995, "grade": "fact", "source": "public_record"}
 {"name": "청호", "gu": "동작", "claim": "recent_transaction_median_eok", "value": 10.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 12, "area_m2": 60.0}
 {"name": "청호", "gu": "동작", "claim": "transaction_iqr_eok", "p25": 9.0, "p75": 11.05, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 12, "area_m2": 60.0}
 {"name": "청호", "gu": "동작", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 6.2, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 12, "area_m2": 60.0}

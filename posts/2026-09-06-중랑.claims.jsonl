@@ -58,13 +58,6 @@
 {"name": "신내역금강펜테리움센트럴파크", "gu": "중랑", "claim": "annual_trade_count", "value": 28.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
 {"name": "신내역금강펜테리움센트럴파크", "gu": "중랑", "claim": "units", "value": 490, "grade": "fact", "source": "public_record"}
 {"name": "신내역금강펜테리움센트럴파크", "gu": "중랑", "claim": "built_year", "value": 2021, "grade": "fact", "source": "public_record"}
-{"name": "동원베네스트", "gu": "중랑", "claim": "recent_transaction_median_eok", "value": 7.93, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 6, "area_m2": 85.0}
-{"name": "동원베네스트", "gu": "중랑", "claim": "transaction_iqr_eok", "p25": 7.83, "p75": 7.95, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 6, "area_m2": 85.0}
-{"name": "동원베네스트", "gu": "중랑", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 0.7, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 6, "area_m2": 85.0}
-{"name": "동원베네스트", "gu": "중랑", "claim": "position_in_52w_range_pct", "value": 62, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 6, "area_m2": 85.0}
-{"name": "동원베네스트", "gu": "중랑", "claim": "annual_trade_count", "value": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
-{"name": "동원베네스트", "gu": "중랑", "claim": "units", "value": 205, "grade": "fact", "source": "public_record"}
-{"name": "동원베네스트", "gu": "중랑", "claim": "built_year", "value": 2005, "grade": "fact", "source": "public_record"}
 {"name": "대원칸타빌", "gu": "중랑", "claim": "recent_transaction_median_eok", "value": 7.76, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 6, "area_m2": 79.5}
 {"name": "대원칸타빌", "gu": "중랑", "claim": "transaction_iqr_eok", "p25": 7.61, "p75": 7.93, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 6, "area_m2": 79.5}
 {"name": "대원칸타빌", "gu": "중랑", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 3.7, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 6, "area_m2": 79.5}
@@ -105,14 +98,6 @@
 {"name": "경남아너스빌", "gu": "중랑", "claim": "annual_trade_count", "value": 28.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
 {"name": "경남아너스빌", "gu": "중랑", "claim": "units", "value": 386, "grade": "fact", "source": "public_record"}
 {"name": "경남아너스빌", "gu": "중랑", "claim": "built_year", "value": 2006, "grade": "fact", "source": "public_record"}
-{"name": "현대", "gu": "중랑", "claim": "recent_transaction_median_eok", "value": 7.48, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 27, "area_m2": 85.0}
-{"name": "현대", "gu": "중랑", "claim": "transaction_iqr_eok", "p25": 7.3, "p75": 7.72, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 27, "area_m2": 85.0}
-{"name": "현대", "gu": "중랑", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 7.5, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 27, "area_m2": 85.0}
-{"name": "현대", "gu": "중랑", "claim": "position_in_52w_range_pct", "value": 76, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 27, "area_m2": 85.0}
-{"name": "현대", "gu": "중랑", "claim": "sale_jeonse_gap_eok", "value": 2.98, "jeonse_median_eok": 4.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 31, "area_m2": 85.0}
-{"name": "현대", "gu": "중랑", "claim": "annual_trade_count", "value": 41.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
-{"name": "현대", "gu": "중랑", "claim": "units", "value": 601, "grade": "fact", "source": "public_record"}
-{"name": "현대", "gu": "중랑", "claim": "built_year", "value": 2000, "grade": "fact", "source": "public_record"}
 {"name": "중랑숲시티프라디움", "gu": "중랑", "claim": "recent_transaction_median_eok", "value": 7.26, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 10, "area_m2": 56.0}
 {"name": "중랑숲시티프라디움", "gu": "중랑", "claim": "transaction_iqr_eok", "p25": 7.19, "p75": 7.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 10, "area_m2": 56.0}
 {"name": "중랑숲시티프라디움", "gu": "중랑", "claim": "sale_jeonse_gap_eok", "value": 2.26, "jeonse_median_eok": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 9, "area_m2": 56.0}
@@ -159,8 +144,8 @@
 {"name": "중앙하이츠", "gu": "중랑", "claim": "position_in_52w_range_pct", "value": 74, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 39, "area_m2": 85.0}
 {"name": "중앙하이츠", "gu": "중랑", "claim": "sale_jeonse_gap_eok", "value": 2.62, "jeonse_median_eok": 3.73, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 24, "area_m2": 85.0}
 {"name": "중앙하이츠", "gu": "중랑", "claim": "annual_trade_count", "value": 39.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
-{"name": "중앙하이츠", "gu": "중랑", "claim": "units", "value": 315, "grade": "fact", "source": "public_record"}
-{"name": "중앙하이츠", "gu": "중랑", "claim": "built_year", "value": 1994, "grade": "fact", "source": "public_record"}
+{"name": "중앙하이츠", "gu": "중랑", "claim": "units", "value": 704, "grade": "fact", "source": "public_record"}
+{"name": "중앙하이츠", "gu": "중랑", "claim": "built_year", "value": 1996, "grade": "fact", "source": "public_record"}
 {"name": "새한", "gu": "중랑", "claim": "recent_transaction_median_eok", "value": 6.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 13, "area_m2": 84.5}
 {"name": "새한", "gu": "중랑", "claim": "transaction_iqr_eok", "p25": 6.0, "p75": 6.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 13, "area_m2": 84.5}
 {"name": "새한", "gu": "중랑", "claim": "sale_jeonse_gap_eok", "value": 1.7, "jeonse_median_eok": 4.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 11, "area_m2": 84.5}

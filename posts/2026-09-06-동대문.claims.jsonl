@@ -250,22 +250,14 @@
 {"name": "한신", "gu": "동대문", "claim": "annual_trade_count", "value": 156.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
 {"name": "한신", "gu": "동대문", "claim": "units", "value": 960, "grade": "fact", "source": "public_record"}
 {"name": "한신", "gu": "동대문", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
-{"name": "삼익", "gu": "동대문", "claim": "recent_transaction_median_eok", "value": 8.47, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 14, "area_m2": 85.0}
-{"name": "삼익", "gu": "동대문", "claim": "transaction_iqr_eok", "p25": 8.07, "p75": 8.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 14, "area_m2": 85.0}
-{"name": "삼익", "gu": "동대문", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 9.0, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 14, "area_m2": 85.0}
-{"name": "삼익", "gu": "동대문", "claim": "position_in_52w_range_pct", "value": 83, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 14, "area_m2": 85.0}
-{"name": "삼익", "gu": "동대문", "claim": "sale_jeonse_gap_eok", "value": 3.67, "jeonse_median_eok": 4.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 5, "area_m2": 85.0}
-{"name": "삼익", "gu": "동대문", "claim": "annual_trade_count", "value": 27.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
-{"name": "삼익", "gu": "동대문", "claim": "units", "value": 204, "grade": "fact", "source": "public_record"}
-{"name": "삼익", "gu": "동대문", "claim": "built_year", "value": 1983, "grade": "fact", "source": "public_record"}
 {"name": "중앙하이츠빌", "gu": "동대문", "claim": "recent_transaction_median_eok", "value": 8.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 12, "area_m2": 85.0}
 {"name": "중앙하이츠빌", "gu": "동대문", "claim": "transaction_iqr_eok", "p25": 8.28, "p75": 9.55, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 12, "area_m2": 85.0}
 {"name": "중앙하이츠빌", "gu": "동대문", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 20.5, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 12, "area_m2": 85.0}
 {"name": "중앙하이츠빌", "gu": "동대문", "claim": "position_in_52w_range_pct", "value": 80, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 12, "area_m2": 85.0}
 {"name": "중앙하이츠빌", "gu": "동대문", "claim": "sale_jeonse_gap_eok", "value": 3.6, "jeonse_median_eok": 4.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 8, "area_m2": 85.0}
 {"name": "중앙하이츠빌", "gu": "동대문", "claim": "annual_trade_count", "value": 27.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
-{"name": "중앙하이츠빌", "gu": "동대문", "claim": "units", "value": 256, "grade": "fact", "source": "public_record"}
-{"name": "중앙하이츠빌", "gu": "동대문", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
+{"name": "중앙하이츠빌", "gu": "동대문", "claim": "units", "value": 302, "grade": "fact", "source": "public_record"}
+{"name": "중앙하이츠빌", "gu": "동대문", "claim": "built_year", "value": 2002, "grade": "fact", "source": "public_record"}
 {"name": "세양청마루", "gu": "동대문", "claim": "recent_transaction_median_eok", "value": 8.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 8, "area_m2": 85.0}
 {"name": "세양청마루", "gu": "동대문", "claim": "transaction_iqr_eok", "p25": 7.74, "p75": 8.55, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 8, "area_m2": 85.0}
 {"name": "세양청마루", "gu": "동대문", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 9.2, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 8, "area_m2": 85.0}
@@ -282,6 +274,14 @@
 {"name": "우성그린", "gu": "동대문", "claim": "annual_trade_count", "value": 22.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
 {"name": "우성그린", "gu": "동대문", "claim": "units", "value": 496, "grade": "fact", "source": "public_record"}
 {"name": "우성그린", "gu": "동대문", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
+{"name": "신동아", "gu": "동대문", "claim": "recent_transaction_median_eok", "value": 7.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 25, "area_m2": 58.5}
+{"name": "신동아", "gu": "동대문", "claim": "transaction_iqr_eok", "p25": 7.12, "p75": 8.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 25, "area_m2": 58.5}
+{"name": "신동아", "gu": "동대문", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 27.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 25, "area_m2": 58.5}
+{"name": "신동아", "gu": "동대문", "claim": "position_in_52w_range_pct", "value": 98, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 25, "area_m2": 58.5}
+{"name": "신동아", "gu": "동대문", "claim": "sale_jeonse_gap_eok", "value": 3.7, "jeonse_median_eok": 4.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 14, "area_m2": 58.5}
+{"name": "신동아", "gu": "동대문", "claim": "annual_trade_count", "value": 47.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06"}
+{"name": "신동아", "gu": "동대문", "claim": "units", "value": 772, "grade": "fact", "source": "public_record"}
+{"name": "신동아", "gu": "동대문", "claim": "built_year", "value": 1994, "grade": "fact", "source": "public_record"}
 {"name": "대림", "gu": "동대문", "claim": "recent_transaction_median_eok", "value": 7.87, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 13, "area_m2": 84.5}
 {"name": "대림", "gu": "동대문", "claim": "transaction_iqr_eok", "p25": 7.75, "p75": 8.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 13, "area_m2": 84.5}
 {"name": "대림", "gu": "동대문", "claim": "sale_jeonse_gap_eok", "value": 2.92, "jeonse_median_eok": 4.95, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-06", "n": 4, "area_m2": 84.5}
