@@ -56,7 +56,7 @@ tbody tr:hover{background:#f6faff}
 </div>
 <script>
 const S={q:"",gu:new Set(),area:new Set(),decade:new Set(),ptype:new Set(),seg:new Set(),emin:null,emax:null,units_min:null,ppmin:null,ppmax:null,sort:"molit_recent_eok",dir:-1};
-const SEG_ORDER=["6억 이하","6~10억","10~15억","15억 초과"];
+const SEG_ORDER=["10억 미만","10~15억","15~20억","20억 이상"];   // = PRICE_SEGMENTS 라벨 순서(2026-09-07 4밴드)
 let DB=null;
 const COLS=[
   {k:"name",t:"단지명",num:false},
@@ -76,6 +76,10 @@ const COLS=[
   {k:"molit_pos_52w",t:"52주위치<span class=muted style=font-weight:400> 최근3개월</span>",num:true,
      fmt:r=>r.molit_pos_52w!=null?`${r.molit_pos_52w}%`:`<span class=muted>—</span>`},
   {k:"pyeong_price_man",t:"평단가",num:true,fmt:r=>r.pyeong_price_man!=null?`${r.pyeong_price_man.toLocaleString()}만`:`<span class=muted>—</span>`},
+  {k:"gongsi_multiple",t:"공시가 배율<span class=muted style=font-weight:400> 중위÷공시가</span>",num:true,
+     fmt:r=>r.gongsi_multiple!=null?`×${r.gongsi_multiple.toFixed(2)} <span class=muted>공시 ${(r.gongsi_man/10000).toFixed(2)}억</span>`:`<span class=muted>—</span>`},
+  {k:"area_spread_59_84_pct",t:"평형 격차<span class=muted style=font-weight:400> 59↔84 ㎡당</span>",num:true,
+     fmt:r=>r.area_spread_59_84_pct!=null?`${r.area_spread_59_84_pct>0?"+":""}${r.area_spread_59_84_pct}% <span class=muted>n${r.n59}·n${r.n84}</span>`:`<span class=muted>—</span>`},
   // ── 입지·인프라 추가 열(기본 숨김, '인프라 보기' 토글로 표시) ──
   {k:"subway_m",t:"지하철(m)",num:true,extra:true,
    fmt:r=>r.subway_m!=null?`${r.subway_m.toLocaleString()}m`:`<span class=muted>—</span>`},
@@ -235,6 +239,8 @@ function init(){
     +`<br>• <b>가격대</b> = 매매 중위 기준 단순 구간화(사실)이며 대출 적격·추천을 의미하지 않습니다 — 대출 가능 여부·금리·한도는 소득 등 개별조건에 따라 다르므로 은행 등 금융기관에 직접 확인하십시오.`
     +`<br>• <b>전세가율(단지)</b>·<b>매매-전세 갭</b> = 동일평형 전세 실거래(공공 RTMS) 매칭 사실. <b>전세가율(서울전체)</b>은 개별 단지가 아닌 한국부동산원 R-ONE 서울 전체 월간 평균(참고용 거시지표)입니다.`
     +`<br>• <b>거래회전율</b> = 그 단지 12개월 전체 실거래 건수÷세대수×100(%) — 거주만족·매물희소 등 다양한 이유로 낮을 수 있어 '환금성 나쁨'의 단정적 지표가 아닙니다.`
+    +`<br>• <b>공시가 배율</b> = 국토부 실거래 12개월 동일평형 중위÷같은 평형 공시가격(공시가를 찾은 면적과 발행 면적이 일치하는 단지만) — 보유세 산정 기준 대비 시세 배율의 사실이며 가치 판단이 아닙니다.`
+    +`<br>• <b>평형 격차</b> = 같은 단지 59㎡대와 84㎡대(각 ±3.5㎡, 양쪽 n≥5)의 ㎡당 실거래 중위 비(59÷84−1, %). 같은 구에서 이름매칭이 겹치는 단지가 있거나(공공 프레임 대조) K-apt 면적대 세대수와 맞지 않거나 대조 자료가 없거나 84 총액 중위가 59 보다 낮으면 빈칸 — 국토부 실거래 원본에 동 정보가 없어 이름이 같은 단지의 거래는 가를 수 없습니다. 격차의 사실만 적고 원인은 적지 않습니다.`
     +`<br>• ${esc(DB.takedown)}`;
 }
 function passFilter(x){
