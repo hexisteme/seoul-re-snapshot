@@ -1,12 +1,84 @@
 <!DOCTYPE html><html lang=ko><head><meta charset=utf-8>
 <meta name=viewport content="width=device-width,initial-scale=1">
-<title>중구 아파트 공공 실거래 구허브 — 2026-09-08</title>
+<title>중구 아파트 공공 실거래 구허브 — 2026-09-09</title>
 <meta name=description content="중구 감시 단지 13개 국토부 공공 실거래 중위·분포·추세 한눈에. 자체 점수·순위 없음, 투자자문 아님.">
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "서울 부동산 데이터 스냅샷", "item": "https://hexisteme.github.io/seoul-re-snapshot/"}, {"@type": "ListItem", "position": 2, "name": "중구", "item": "https://hexisteme.github.io/seoul-re-snapshot/gu/%EC%A4%91%EA%B5%AC.html"}]}</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Dataset", "name": "서울 중구 아파트 공공 실거래 구허브 2026-09-08", "description": "중구 감시 단지 13개의 국토부 공공 실거래 중위·분포·추세 구 단위 집계.", "dateModified": "2026-09-08", "license": "https://creativecommons.org/licenses/by-nc/4.0/", "creator": {"@type": "Organization", "name": "agent_realestate (개인 연구)"}, "isAccessibleForFree": true, "keywords": ["부동산", "실거래", "공공데이터", "서울", "중구"]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Dataset", "name": "서울 중구 아파트 공공 실거래 구허브 2026-09-09", "description": "중구 감시 단지 13개의 국토부 공공 실거래 중위·분포·추세 구 단위 집계.", "dateModified": "2026-09-09", "license": "https://creativecommons.org/licenses/by-nc/4.0/", "creator": {"@type": "Organization", "name": "agent_realestate (개인 연구)"}, "isAccessibleForFree": true, "keywords": ["부동산", "실거래", "공공데이터", "서울", "중구"]}</script>
 <style>*{box-sizing:border-box}body{margin:0;background:#f7f5f0;color:#1b1a17;font-family:"IBM Plex Sans KR",-apple-system,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;font-size:14px;line-height:1.5;font-variant-numeric:tabular-nums}a{color:#1d6f6a;text-decoration:none}a:hover{text-decoration:underline}h1,h2,p{margin:0}.wrap{max-width:1180px;margin:0 auto;padding:20px 20px 56px}nav.top{display:flex;gap:16px;font-size:13px;color:#5c584f;margin-bottom:16px;flex-wrap:wrap}.crumb{font-size:12px;color:#8a857a;margin-bottom:6px}h1{font-size:26px;font-weight:700;letter-spacing:-.02em;margin-bottom:4px}.meta{font-size:13px;color:#5c584f;margin-bottom:18px}.tiles{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:20px}.tile{background:#fff;border:1px solid #e6e2d9;border-radius:10px;padding:14px 16px;flex:1 1 150px;min-width:140px}.tile .k{font-size:12px;color:#8a857a}.tile .v{font-size:20px;font-weight:700;margin-top:2px}.up{color:#c43d2f}.down{color:#2f5fc4}.tblwrap{overflow-x:auto;background:#fff;border:1px solid #e6e2d9;border-radius:10px}table{width:100%;border-collapse:collapse;font-size:13px}th,td{padding:8px 9px;border-bottom:1px solid #e6e2d9;text-align:right;white-space:nowrap}th{color:#5c584f;font-weight:500;font-size:12px;border-bottom:1px solid #cfc9bc}td:first-child,th:first-child{text-align:left}tbody tr:hover{background:#faf9f6}.foot{font-size:12px;color:#8a857a;margin-top:16px;line-height:1.6}@media(max-width:760px){.wrap{padding:14px 14px 40px}.tiles{gap:8px}.tile{flex:1 1 45%;padding:10px 12px}.tile .v{font-size:17px}table{font-size:12px}th,td{padding:6px 7px}}.lead{background:#f7f5f0;color:#1b1a17;border:1px solid #e6e2d9;border-radius:10px;padding:14px 16px;margin-bottom:18px;font-size:15px;font-variant-numeric:tabular-nums}.lead h2{font-size:15px;font-weight:700;margin-bottom:8px;color:#1d6f6a}.lead ul{margin:0;padding-left:18px}.lead li{margin-bottom:6px;line-height:1.5}.lead-note{font-size:12px;color:#8a857a;margin-top:8px}</style>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-J40FMJG903"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-J40FMJG903');</script>
+<script id="macro-entry-v2">
+(function () {
+  function initMacroEntry() {
+    const links = Array.from(document.querySelectorAll('a[data-macro-entry][data-macro-surface]'))
+      .filter(a => ['macro', 'calc'].includes(a.dataset.macroEntry) &&
+                   ['index', 'daily'].includes(a.dataset.macroSurface));
+    if (!links.length) return;
+    let viewed = false, opened = false;
+    const visibleTab = () => document.visibilityState === 'visible';
+    function emit(name, a) {
+      if (typeof window.gtag !== 'function') return false;
+      const surface = a.dataset.macroSurface, entry = a.dataset.macroEntry;
+      if (!['index', 'daily'].includes(surface) || !['macro', 'calc'].includes(entry)) return false;
+      try {
+        window.gtag('event', name, {surface: surface, entry: entry, metric_version: '2'});
+        return true;
+      } catch (_) { return false; }
+    }
+    function show(a) {
+      if (!viewed && visibleTab()) viewed = emit('macro_entry_view', a);
+      return viewed;
+    }
+    function displayed(a) {
+      const style = window.getComputedStyle(a);
+      return a.getClientRects().length > 0 && style.visibility !== 'hidden' &&
+        style.visibility !== 'collapse' && style.opacity !== '0';
+    }
+    function viewportCheck() {
+      if (viewed || !visibleTab()) return;
+      for (const a of links) {
+        if (!displayed(a)) continue;
+        const r = a.getBoundingClientRect(), area = r.width * r.height;
+        const width = Math.max(0, Math.min(r.right, window.innerWidth) - Math.max(r.left, 0));
+        const height = Math.max(0, Math.min(r.bottom, window.innerHeight) - Math.max(r.top, 0));
+        if (area > 0 && width * height / area >= 0.5 && show(a)) break;
+      }
+    }
+    let observer;
+    if (typeof window.IntersectionObserver === 'function') {
+      observer = new window.IntersectionObserver(entries => {
+        for (const e of entries) {
+          if (e.isIntersecting && e.intersectionRatio >= 0.5 && displayed(e.target)) show(e.target);
+        }
+        if (viewed) observer.disconnect();
+      }, {threshold: [0.5]});
+      links.forEach(a => observer.observe(a));
+    } else {
+      // 교차 API 미지원: 실제 viewport 면적 검사. 단순 페이지 로드는 노출이 아니다.
+      window.addEventListener('scroll', viewportCheck, {passive: true});
+      window.addEventListener('resize', viewportCheck, {passive: true});
+      viewportCheck();
+    }
+    document.addEventListener('visibilitychange', () => {
+      if (viewed || !visibleTab()) return;
+      if (observer) links.forEach(a => { observer.unobserve(a); observer.observe(a); });
+      else viewportCheck();
+    });
+    function activate(e) {
+      if (opened || !e.isTrusted || e.defaultPrevented || !visibleTab()) return;
+      if ((e.type === 'click' && e.button !== 0) || (e.type === 'auxclick' && e.button !== 1)) return;
+      const a = e.target.closest && e.target.closest('a[data-macro-entry][data-macro-surface]');
+      if (!links.includes(a)) return;
+      // 키보드·새 탭·중간 클릭도 실제 활성화다. IO 콜백보다 빨라도 분모를 먼저 기록한다.
+      if (show(a)) opened = emit('macro_entry_open', a);
+    }
+    document.addEventListener('click', activate);
+    document.addEventListener('auxclick', activate);
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', initMacroEntry, {once: true});
+  else initMacroEntry();
+})();
+</script>
 
 </head><body>
 <div class=wrap>
@@ -14,7 +86,7 @@
 <a href="../daily/latest.html">오늘의 변화</a><a href="../methodology.html">방법론</a></nav>
 <div class=crumb><a href="../index.html">서울</a> › 중구</div>
 <h1>중구 아파트 실거래</h1>
-<p class=meta>13단지 · 기준 2026-09-08 · 국토부 실거래(신고 지연 최대 30일) · 매일 자동 갱신</p>
+<p class=meta>13단지 · 기준 2026-09-09 · 국토부 실거래(신고 지연 최대 30일) · 매일 자동 갱신</p>
 <section class="lead"><h2>이 페이지에서만 알 수 있는 것</h2><ul><li>중구 6단지 중 추세 판정 5곳, 그중 상승 5곳. 상승폭 중위 +12.6%(서울 +9.9%).</li><li>전세가율은 남산타운 36.8%부터 래미안하이베르 53.6%까지(전세표본 5건 이상). 구 중위 44.2%, 서울 구 중위 51.0%.</li><li>실거래÷공시가 배율은 서울역센트럴자이 1.57배부터 신당푸르지오 1.6배까지(공시가 기준일 1월 1일, 실거래는 12개월 중위 — 시점이 다르다).</li></ul><p class="lead-note">국토부 공공 실거래 기준 결정론 산출 — 자체 점수·순위 아님.</p></section>
 <div class=tiles><div class=tile><span class=k>단지 수</span><span class=v>13</span></div><div class=tile><span class=k>구 중위(중위의 중위)</span><span class=v>14.47억</span></div><div class=tile><span class=k>P25–P75(거래의 가운데 절반)</span><span class=v style="font-size:16px">13.81억–17.57억</span></div><div class=tile><span class=k>추세(3/9개월)</span><span class=v style="font-size:16px"><span class=up>▲7</span> · <span class=down>▼0</span> · —0</span></div><div class=tile><span class=k>전세가율 중위(게이트)</span><span class=v>44.2%</span></div></div>
 <div class=tblwrap><table><thead><tr>
@@ -25,7 +97,7 @@
 산식: 구 중위=아파트·전용40㎡+·매매표본10건+ 단지만 골라 그 단지들 중위의 중위(억). 구중위대비%=(단지 중위÷구 중위−1)×100.
 3/9개월=최근 3개월 중위 vs 직전 9개월 중위(과거 비교 사실, 전망 아님 — ▲/▼ 옆 %는 "직전 9개월보다 이만큼 높음/낮음"). 52주 위치=최근 3개월 체결 중위가
 12개월 실거래 최저~최고 레인지에서 차지하는 위치(%, 예: 74%면 1년 범위에서 74% 지점). 전세가율=전세 중위÷매매 중위(전세표본 5건 미만 또는 95% 초과·매매표본
-10건 미만·비아파트·40㎡ 미만은 —). 회전율=12개월 거래건수÷세대수×100(%). 기준일 2026-09-08 · 국토부 RTMS 공공데이터, 민간 시세는 사용·게재하지 않음.<br>
+10건 미만·비아파트·40㎡ 미만은 —). 회전율=12개월 거래건수÷세대수×100(%). 기준일 2026-09-09 · 국토부 RTMS 공공데이터, 민간 시세는 사용·게재하지 않음.<br>
 본 자료는 개인 연구·정보 공유이며 투자자문·매수권유가 아닙니다. 수치는 국토교통부 공공 실거래가 기준이며 게시 시점 스냅샷입니다. 거래 전 반드시 국토부 실거래가·현장에서 재확인하십시오. 사실 오류·이의제기 접수 시 확인 후 수정·삭제합니다. 연락처: hexisteme@gmail.com<br>
 <a href="../methodology.html">방법론 전문</a> · <a href="../posts/2026-09-07-%EC%A4%91%EA%B5%AC.html">중구 최신 주간 리포트</a> · 
 코드: <a href="https://github.com/hexisteme/agent-realestate">agent-realestate</a>

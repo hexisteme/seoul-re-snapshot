@@ -5,15 +5,87 @@
 <style>*{box-sizing:border-box}body{margin:0;background:#f7f5f0;color:#1b1a17;font-family:"IBM Plex Sans KR",-apple-system,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;font-size:14px;line-height:1.5;font-variant-numeric:tabular-nums}a{color:#1d6f6a;text-decoration:none}a:hover{text-decoration:underline}h1,h2,p{margin:0}.wrap{max-width:720px;margin:0 auto;padding:20px 20px 56px}nav.top{display:flex;gap:16px;font-size:13px;color:#5c584f;margin-bottom:16px;flex-wrap:wrap}.crumb{font-size:12px;color:#8a857a;margin-bottom:6px}h1{font-size:24px;font-weight:700;letter-spacing:-.02em;margin-bottom:4px}h2{font-size:16px;font-weight:700;margin:26px 0 8px}.meta{font-size:13px;color:#5c584f;margin-bottom:16px}.mut{color:#8a857a;font-size:12px}.up{color:#c43d2f}.down{color:#2f5fc4}.tiles{display:flex;gap:10px;flex-wrap:wrap}.tile{background:#fff;border:1px solid #e6e2d9;border-radius:10px;padding:12px 14px;flex:1 1 110px;min-width:100px}.tile .k{font-size:12px;color:#8a857a;display:block}.tile .v{font-size:19px;font-weight:700}.tblwrap{overflow-x:auto;background:#fff;border:1px solid #e6e2d9;border-radius:10px;margin-top:4px}table{width:100%;border-collapse:collapse;font-size:13px}th,td{padding:7px 9px;border-bottom:1px solid #e6e2d9;text-align:right;white-space:nowrap}th{color:#5c584f;font-weight:500;font-size:12px;border-bottom:1px solid #cfc9bc}td:first-child,th:first-child{text-align:left;white-space:normal}tbody tr:hover{background:#faf9f6}.foot{font-size:12px;color:#8a857a;margin-top:18px;line-height:1.6}@media(max-width:760px){.wrap{padding:14px 14px 40px}.tiles{gap:8px}.tile{flex:1 1 45%;padding:10px 12px}table{font-size:12px}th,td{padding:6px 7px}}.lead{background:#f7f5f0;color:#1b1a17;border:1px solid #e6e2d9;border-radius:10px;padding:14px 16px;margin-bottom:4px;font-size:15px;font-variant-numeric:tabular-nums}.lead h2{font-size:15px;font-weight:700;margin-bottom:8px;color:#1d6f6a}.lead ul{margin:0;padding-left:18px}.lead li{margin-bottom:6px;line-height:1.5}.lead-note{font-size:12px;color:#8a857a;margin-top:8px}</style>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-J40FMJG903"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-J40FMJG903');</script>
+<script id="macro-entry-v2">
+(function () {
+  function initMacroEntry() {
+    const links = Array.from(document.querySelectorAll('a[data-macro-entry][data-macro-surface]'))
+      .filter(a => ['macro', 'calc'].includes(a.dataset.macroEntry) &&
+                   ['index', 'daily'].includes(a.dataset.macroSurface));
+    if (!links.length) return;
+    let viewed = false, opened = false;
+    const visibleTab = () => document.visibilityState === 'visible';
+    function emit(name, a) {
+      if (typeof window.gtag !== 'function') return false;
+      const surface = a.dataset.macroSurface, entry = a.dataset.macroEntry;
+      if (!['index', 'daily'].includes(surface) || !['macro', 'calc'].includes(entry)) return false;
+      try {
+        window.gtag('event', name, {surface: surface, entry: entry, metric_version: '2'});
+        return true;
+      } catch (_) { return false; }
+    }
+    function show(a) {
+      if (!viewed && visibleTab()) viewed = emit('macro_entry_view', a);
+      return viewed;
+    }
+    function displayed(a) {
+      const style = window.getComputedStyle(a);
+      return a.getClientRects().length > 0 && style.visibility !== 'hidden' &&
+        style.visibility !== 'collapse' && style.opacity !== '0';
+    }
+    function viewportCheck() {
+      if (viewed || !visibleTab()) return;
+      for (const a of links) {
+        if (!displayed(a)) continue;
+        const r = a.getBoundingClientRect(), area = r.width * r.height;
+        const width = Math.max(0, Math.min(r.right, window.innerWidth) - Math.max(r.left, 0));
+        const height = Math.max(0, Math.min(r.bottom, window.innerHeight) - Math.max(r.top, 0));
+        if (area > 0 && width * height / area >= 0.5 && show(a)) break;
+      }
+    }
+    let observer;
+    if (typeof window.IntersectionObserver === 'function') {
+      observer = new window.IntersectionObserver(entries => {
+        for (const e of entries) {
+          if (e.isIntersecting && e.intersectionRatio >= 0.5 && displayed(e.target)) show(e.target);
+        }
+        if (viewed) observer.disconnect();
+      }, {threshold: [0.5]});
+      links.forEach(a => observer.observe(a));
+    } else {
+      // 교차 API 미지원: 실제 viewport 면적 검사. 단순 페이지 로드는 노출이 아니다.
+      window.addEventListener('scroll', viewportCheck, {passive: true});
+      window.addEventListener('resize', viewportCheck, {passive: true});
+      viewportCheck();
+    }
+    document.addEventListener('visibilitychange', () => {
+      if (viewed || !visibleTab()) return;
+      if (observer) links.forEach(a => { observer.unobserve(a); observer.observe(a); });
+      else viewportCheck();
+    });
+    function activate(e) {
+      if (opened || !e.isTrusted || e.defaultPrevented || !visibleTab()) return;
+      if ((e.type === 'click' && e.button !== 0) || (e.type === 'auxclick' && e.button !== 1)) return;
+      const a = e.target.closest && e.target.closest('a[data-macro-entry][data-macro-surface]');
+      if (!links.includes(a)) return;
+      // 키보드·새 탭·중간 클릭도 실제 활성화다. IO 콜백보다 빨라도 분모를 먼저 기록한다.
+      if (show(a)) opened = emit('macro_entry_open', a);
+    }
+    document.addEventListener('click', activate);
+    document.addEventListener('auxclick', activate);
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', initMacroEntry, {once: true});
+  else initMacroEntry();
+})();
+</script>
 
 </head><body>
 <div class=wrap>
 <nav class=top><a href="index.html">구 허브</a><a href="explorer.html">탐색기</a><a href="macro.html">거시 지표</a><a href="methodology.html">방법론</a></nav>
 <div class=crumb><a href="index.html">서울</a> › <a href="macro.html">거시 지표</a> › 과거 인상사이클</div>
 <h1>과거 인상사이클</h1>
-<p class=meta>수집 기준일 2026-09-08 · 기준금리 변경 1999-05-06 ~ 2026-08-27 · 완료 인상사이클 6회 · 진행 중 1회 · 관측 사실만(자체 해석 없음) · <a href="macro.html" onclick="if(typeof gtag==='function')gtag('event','macro_click',{code:'macro'})">지표 카드 →</a> · <a href="calc.html" onclick="if(typeof gtag==='function')gtag('event','macro_click',{code:'calc'})">전달 계산기 →</a></p>
+<p class=meta>수집 기준일 2026-09-09 · 기준금리 변경 1999-05-06 ~ 2026-08-27 · 완료 인상사이클 6회 · 진행 중 1회 · 관측 사실만(자체 해석 없음) · <a href="macro.html" onclick="try{if(typeof gtag==='function')gtag('event','macro_click',{code:'macro'})}catch(_){}">지표 카드 →</a> · <a href="calc.html" onclick="try{if(typeof gtag==='function')gtag('event','macro_click',{code:'calc'})}catch(_){}">전달 계산기 →</a></p>
 <h2>인상사이클 <span class=mut>(기준금리 변경 시계열에서 기계적으로 자른 구간)</span></h2><div class=tblwrap><table><tr><th>시작(첫 인상)</th><th>직전 → 첫 인상</th><th>마지막 인상</th><th>정점</th><th>인상 횟수</th><th>누적</th><th>기간</th><th>상태</th></tr><tr><td>2000-02-10</td><td>4.75% → 5.00%</td><td>2000-10-05</td><td>5.25%</td><td>2회</td><td>+50bp</td><td>8개월</td><td>완료</td></tr><tr><td>2002-05-07</td><td>4.00% → 4.25%</td><td>2002-05-07</td><td>4.25%</td><td>1회</td><td>+25bp</td><td>0개월</td><td>완료</td></tr><tr><td>2005-10-11</td><td>3.25% → 3.50%</td><td>2008-08-07</td><td>5.25%</td><td>8회</td><td>+200bp</td><td>34개월</td><td>완료</td></tr><tr><td>2010-07-09</td><td>2.00% → 2.25%</td><td>2011-06-10</td><td>3.25%</td><td>5회</td><td>+125bp</td><td>11개월</td><td>완료</td></tr><tr><td>2017-11-30</td><td>1.25% → 1.50%</td><td>2018-11-30</td><td>1.75%</td><td>2회</td><td>+50bp</td><td>12개월</td><td>완료</td></tr><tr><td>2021-08-26</td><td>0.50% → 0.75%</td><td>2023-01-13</td><td>3.50%</td><td>10회</td><td>+300bp</td><td>17개월</td><td>완료</td></tr><tr><td>2026-07-16</td><td>2.50% → 2.75%</td><td>2026-08-27</td><td>3.00%</td><td>2회</td><td>+50bp</td><td>1개월</td><td>진행 중</td></tr></table></div>
-<h2>사이클 시작 후 지표 변화 <span class=mut>(조건부통계 — 과거 n회 중 m회)</span></h2><h3>국고채 10년(월평균) <span class=mut>(% · 관측 2000-10-01 ~ 2026-06-01 · <a href="https://fred.stlouisfed.org/series/IRLTLT01KRM156N" onclick="if(typeof gtag==='function')gtag('event','macro_click',{code:'kr_govt10y_m'})">FRED IRLTLT01KRM156N</a>)</span></h3><ul><li>+6개월: 일관된 패턴 없음(완료 사이클 5회 대조)</li><li>+12개월: 일관된 패턴 없음(완료 사이클 5회 대조)</li></ul><p class=mut>부호 일치인 기간이 없어 사이클별 반응 표는 싣지 않는다(브리핑 §4 규칙 — 표 대신 판정 한 줄).</p><h3>자료 없음 <span class=mut>(지어내지 않음)</span></h3><ul><li>서울 아파트 실거래 12개월 중위 — MOLIT 2006~ 월중위 백필 전 — 자료 없음</li><li>서울 아파트 월 거래량 — 같은 백필 전 — 자료 없음</li><li>신규 코픽스 — 관측 창이 2026-06 이후뿐(네이버금융 일별 표) — 사이클 대조 자료 없음</li></ul>
+<h2>사이클 시작 후 지표 변화 <span class=mut>(조건부통계 — 과거 n회 중 m회)</span></h2><h3>국고채 10년(월평균) <span class=mut>(% · 관측 2000-10-01 ~ 2026-06-01 · <a href="https://fred.stlouisfed.org/series/IRLTLT01KRM156N" onclick="try{if(typeof gtag==='function')gtag('event','macro_click',{code:'kr_govt10y_m'})}catch(_){}">FRED IRLTLT01KRM156N</a>)</span></h3><ul><li>+6개월: 일관된 패턴 없음(완료 사이클 5회 대조)</li><li>+12개월: 일관된 패턴 없음(완료 사이클 5회 대조)</li></ul><p class=mut>부호 일치인 기간이 없어 사이클별 반응 표는 싣지 않는다(브리핑 §4 규칙 — 표 대신 판정 한 줄).</p><h3>자료 없음 <span class=mut>(지어내지 않음)</span></h3><ul><li>서울 아파트 실거래 12개월 중위 — MOLIT 2006~ 월중위 백필 전 — 자료 없음</li><li>서울 아파트 월 거래량 — 같은 백필 전 — 자료 없음</li><li>신규 코픽스 — 관측 창이 2026-06 이후뿐(네이버금융 일별 표) — 사이클 대조 자료 없음</li></ul>
 <div class=foot>
 인상사이클 = 기준금리 변경 시계열에서 인하(또는 시계열 시작) 뒤 첫 인상부터 다음 인하 전 마지막 인상까지, 기계적으로 자른 구간(국면 라벨 아님).
 시작 월 값 = 사이클 시작일 이전 가장 가까운 월 관측(45일 안), +h개월 값 = 시작일의 h개월 뒤 같은 규칙(목표일이 수집 기준일 뒤면 '미도래', 지났는데 관측이 없으면 '관측 없음'). 대조 표본은 완료 사이클만 — 진행 중 사이클은 표에 '진행 중(대조 제외)'. 판정 = 완료 사이클 3회 이상이고 Δ 부호 전부 같을 때만 '부호 일치' 와 횟수·중위, 그 외엔 '일관된 패턴 없음' 한 줄(사이클별 반응 표 없음).

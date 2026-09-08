@@ -6,14 +6,86 @@
 label{display:inline-block;margin:4px 10px 4px 0;font-size:13px}input{width:84px;padding:4px 6px;border:1px solid #cfc9bc;border-radius:6px;font:inherit}</style>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-J40FMJG903"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-J40FMJG903');</script>
+<script id="macro-entry-v2">
+(function () {
+  function initMacroEntry() {
+    const links = Array.from(document.querySelectorAll('a[data-macro-entry][data-macro-surface]'))
+      .filter(a => ['macro', 'calc'].includes(a.dataset.macroEntry) &&
+                   ['index', 'daily'].includes(a.dataset.macroSurface));
+    if (!links.length) return;
+    let viewed = false, opened = false;
+    const visibleTab = () => document.visibilityState === 'visible';
+    function emit(name, a) {
+      if (typeof window.gtag !== 'function') return false;
+      const surface = a.dataset.macroSurface, entry = a.dataset.macroEntry;
+      if (!['index', 'daily'].includes(surface) || !['macro', 'calc'].includes(entry)) return false;
+      try {
+        window.gtag('event', name, {surface: surface, entry: entry, metric_version: '2'});
+        return true;
+      } catch (_) { return false; }
+    }
+    function show(a) {
+      if (!viewed && visibleTab()) viewed = emit('macro_entry_view', a);
+      return viewed;
+    }
+    function displayed(a) {
+      const style = window.getComputedStyle(a);
+      return a.getClientRects().length > 0 && style.visibility !== 'hidden' &&
+        style.visibility !== 'collapse' && style.opacity !== '0';
+    }
+    function viewportCheck() {
+      if (viewed || !visibleTab()) return;
+      for (const a of links) {
+        if (!displayed(a)) continue;
+        const r = a.getBoundingClientRect(), area = r.width * r.height;
+        const width = Math.max(0, Math.min(r.right, window.innerWidth) - Math.max(r.left, 0));
+        const height = Math.max(0, Math.min(r.bottom, window.innerHeight) - Math.max(r.top, 0));
+        if (area > 0 && width * height / area >= 0.5 && show(a)) break;
+      }
+    }
+    let observer;
+    if (typeof window.IntersectionObserver === 'function') {
+      observer = new window.IntersectionObserver(entries => {
+        for (const e of entries) {
+          if (e.isIntersecting && e.intersectionRatio >= 0.5 && displayed(e.target)) show(e.target);
+        }
+        if (viewed) observer.disconnect();
+      }, {threshold: [0.5]});
+      links.forEach(a => observer.observe(a));
+    } else {
+      // 교차 API 미지원: 실제 viewport 면적 검사. 단순 페이지 로드는 노출이 아니다.
+      window.addEventListener('scroll', viewportCheck, {passive: true});
+      window.addEventListener('resize', viewportCheck, {passive: true});
+      viewportCheck();
+    }
+    document.addEventListener('visibilitychange', () => {
+      if (viewed || !visibleTab()) return;
+      if (observer) links.forEach(a => { observer.unobserve(a); observer.observe(a); });
+      else viewportCheck();
+    });
+    function activate(e) {
+      if (opened || !e.isTrusted || e.defaultPrevented || !visibleTab()) return;
+      if ((e.type === 'click' && e.button !== 0) || (e.type === 'auxclick' && e.button !== 1)) return;
+      const a = e.target.closest && e.target.closest('a[data-macro-entry][data-macro-surface]');
+      if (!links.includes(a)) return;
+      // 키보드·새 탭·중간 클릭도 실제 활성화다. IO 콜백보다 빨라도 분모를 먼저 기록한다.
+      if (show(a)) opened = emit('macro_entry_open', a);
+    }
+    document.addEventListener('click', activate);
+    document.addEventListener('auxclick', activate);
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', initMacroEntry, {once: true});
+  else initMacroEntry();
+})();
+</script>
 
 </head><body>
 <div class=wrap>
 <nav class=top><a href="index.html">구 허브</a><a href="explorer.html">탐색기</a><a href="daily/latest.html">오늘의 변화</a><a href="macro.html">거시 지표</a><a href="methodology.html">방법론</a></nav>
 <div class=crumb><a href="index.html">서울</a> › <a href="macro.html">거시 지표</a> › 전달 계산기</div>
 <h1>전달 계산기</h1>
-<p class=meta>2026-09-08 · 결정론 산식(원리금균등·DSR 월 단위·정책 파라미터). 기준금리 결정이 대출금리로 얼마나 옮겨가는지는 여기서 가정하지 않는다 — "대출금리가 이만큼 움직이면 이 산수" 를 행으로 둔다.</p>
-<p class=meta>관측값(사실): 한국은행 기준금리 3.00%(2026-08-27) · 코픽스 신규취급액 3.18%(2026-08-18) · 국고채 3년 3.90%(2026-09-07)</p>
+<p class=meta>2026-09-09 · 결정론 산식(원리금균등·DSR 월 단위·정책 파라미터). 기준금리 결정이 대출금리로 얼마나 옮겨가는지는 여기서 가정하지 않는다 — "대출금리가 이만큼 움직이면 이 산수" 를 행으로 둔다.</p>
+<p class=meta>관측값(사실): 한국은행 기준금리 3.00%(2026-08-27) · 코픽스 신규취급액 3.18%(2026-08-18) · 국고채 3년 3.90%(2026-09-08)</p>
 <h2>입력 <span class=mut>(전부 [가정] — 은행별 실제 금리는 은행연합회 비교공시)</span></h2>
 <p><label>대출금(억) <input id=loan type=number step=0.1 value=3 min=0 max=100000></label><label>기간(년, 상한 30) <input id=years type=number max=30 value=30></label>
 <label>대출금리(%) <input id=rate type=number step=0.01 value=4.50 min=0 max=100></label><label>고정금리(%) <input id=fixed type=number step=0.01 value=4.74 min=0 max=100></label>
