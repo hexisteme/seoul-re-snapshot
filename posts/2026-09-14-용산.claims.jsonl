@@ -1,0 +1,136 @@
+{"name": "한남더힐", "gu": "용산", "claim": "recent_transaction_median_eok", "value": 38.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 5, "area_m2": 59.5}
+{"name": "한남더힐", "gu": "용산", "claim": "transaction_iqr_eok", "p25": 38.0, "p75": 38.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 5, "area_m2": 59.5}
+{"name": "한남더힐", "gu": "용산", "claim": "sale_jeonse_gap_eok", "value": 20.3, "jeonse_median_eok": 18.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 11, "area_m2": 59.5}
+{"name": "한남더힐", "gu": "용산", "claim": "annual_trade_count", "value": 10.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14"}
+{"name": "한남더힐", "gu": "용산", "claim": "units", "value": 600, "grade": "fact", "source": "public_record"}
+{"name": "한남더힐", "gu": "용산", "claim": "built_year", "value": 2011, "grade": "fact", "source": "public_record"}
+{"name": "센트럴파크(주상복합)", "gu": "용산", "claim": "recent_transaction_median_eok", "value": 35.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 13, "area_m2": 103.0}
+{"name": "센트럴파크(주상복합)", "gu": "용산", "claim": "transaction_iqr_eok", "p25": 34.5, "p75": 35.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 13, "area_m2": 103.0}
+{"name": "센트럴파크(주상복합)", "gu": "용산", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 3.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 13, "area_m2": 103.0}
+{"name": "센트럴파크(주상복합)", "gu": "용산", "claim": "position_in_52w_range_pct", "value": 49, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 13, "area_m2": 103.0}
+{"name": "센트럴파크(주상복합)", "gu": "용산", "claim": "sale_jeonse_gap_eok", "value": 17.5, "jeonse_median_eok": 17.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 18, "area_m2": 103.0}
+{"name": "센트럴파크(주상복합)", "gu": "용산", "claim": "annual_trade_count", "value": 45.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14"}
+{"name": "센트럴파크(주상복합)", "gu": "용산", "claim": "units", "value": 1140, "grade": "fact", "source": "public_record"}
+{"name": "센트럴파크(주상복합)", "gu": "용산", "claim": "built_year", "value": 2020, "grade": "fact", "source": "public_record"}
+{"name": "신동아", "gu": "용산", "claim": "recent_transaction_median_eok", "value": 33.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 11, "area_m2": 95.5}
+{"name": "신동아", "gu": "용산", "claim": "transaction_iqr_eok", "p25": 33.4, "p75": 35.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 11, "area_m2": 95.5}
+{"name": "신동아", "gu": "용산", "claim": "sale_jeonse_gap_eok", "value": 26.93, "jeonse_median_eok": 6.82, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 24, "area_m2": 95.5}
+{"name": "신동아", "gu": "용산", "claim": "annual_trade_count", "value": 29.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14"}
+{"name": "신동아", "gu": "용산", "claim": "units", "value": 226, "grade": "fact", "source": "public_record"}
+{"name": "신동아", "gu": "용산", "claim": "built_year", "value": 1992, "grade": "fact", "source": "public_record"}
+{"name": "동부센트레빌", "gu": "용산", "claim": "recent_transaction_median_eok", "value": 27.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 4, "area_m2": 101.0}
+{"name": "동부센트레빌", "gu": "용산", "claim": "sale_jeonse_gap_eok", "value": 16.25, "jeonse_median_eok": 11.55, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 23, "area_m2": 101.0}
+{"name": "동부센트레빌", "gu": "용산", "claim": "annual_trade_count", "value": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14"}
+{"name": "동부센트레빌", "gu": "용산", "claim": "units", "value": 309, "grade": "fact", "source": "public_record"}
+{"name": "동부센트레빌", "gu": "용산", "claim": "built_year", "value": 2001, "grade": "fact", "source": "public_record"}
+{"name": "현대맨숀", "gu": "용산", "claim": "recent_transaction_median_eok", "value": 27.42, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 10, "area_m2": 83.5}
+{"name": "현대맨숀", "gu": "용산", "claim": "transaction_iqr_eok", "p25": 26.65, "p75": 29.06, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 10, "area_m2": 83.5}
+{"name": "현대맨숀", "gu": "용산", "claim": "annual_trade_count", "value": 22.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14"}
+{"name": "현대맨숀", "gu": "용산", "claim": "units", "value": 653, "grade": "fact", "source": "public_record"}
+{"name": "현대맨숀", "gu": "용산", "claim": "built_year", "value": 1974, "grade": "fact", "source": "public_record"}
+{"name": "용산더프라임(주상복합)", "gu": "용산", "claim": "recent_transaction_median_eok", "value": 24.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 6, "area_m2": 143.0}
+{"name": "용산더프라임(주상복합)", "gu": "용산", "claim": "transaction_iqr_eok", "p25": 24.1, "p75": 25.35, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 6, "area_m2": 143.0}
+{"name": "용산더프라임(주상복합)", "gu": "용산", "claim": "recent3m_vs_prior9m_median_change_pct", "value": -12.5, "direction": "▼", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 6, "area_m2": 143.0}
+{"name": "용산더프라임(주상복합)", "gu": "용산", "claim": "position_in_52w_range_pct", "value": 35, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 6, "area_m2": 143.0}
+{"name": "용산더프라임(주상복합)", "gu": "용산", "claim": "sale_jeonse_gap_eok", "value": 11.5, "jeonse_median_eok": 13.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 11, "area_m2": 143.0}
+{"name": "용산더프라임(주상복합)", "gu": "용산", "claim": "annual_trade_count", "value": 24.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14"}
+{"name": "용산더프라임(주상복합)", "gu": "용산", "claim": "units", "value": 559, "grade": "fact", "source": "public_record"}
+{"name": "용산더프라임(주상복합)", "gu": "용산", "claim": "built_year", "value": 2014, "grade": "fact", "source": "public_record"}
+{"name": "한남힐스테이트", "gu": "용산", "claim": "recent_transaction_median_eok", "value": 24.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 3, "area_m2": 85.0}
+{"name": "한남힐스테이트", "gu": "용산", "claim": "sale_jeonse_gap_eok", "value": 16.5, "jeonse_median_eok": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 7, "area_m2": 85.0}
+{"name": "한남힐스테이트", "gu": "용산", "claim": "annual_trade_count", "value": 4.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14"}
+{"name": "한남힐스테이트", "gu": "용산", "claim": "units", "value": 283, "grade": "fact", "source": "public_record"}
+{"name": "한남힐스테이트", "gu": "용산", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
+{"name": "한가람", "gu": "용산", "claim": "recent_transaction_median_eok", "value": 24.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 30, "area_m2": 60.0}
+{"name": "한가람", "gu": "용산", "claim": "transaction_iqr_eok", "p25": 23.07, "p75": 25.07, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 30, "area_m2": 60.0}
+{"name": "한가람", "gu": "용산", "claim": "recent3m_vs_prior9m_median_change_pct", "value": -2.0, "direction": "▼", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 30, "area_m2": 60.0}
+{"name": "한가람", "gu": "용산", "claim": "position_in_52w_range_pct", "value": 84, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 30, "area_m2": 60.0}
+{"name": "한가람", "gu": "용산", "claim": "sale_jeonse_gap_eok", "value": 17.4, "jeonse_median_eok": 7.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 103, "area_m2": 60.0}
+{"name": "한가람", "gu": "용산", "claim": "annual_trade_count", "value": 58.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14"}
+{"name": "한가람", "gu": "용산", "claim": "units", "value": 2036, "grade": "fact", "source": "public_record"}
+{"name": "한가람", "gu": "용산", "claim": "built_year", "value": 1998, "grade": "fact", "source": "public_record"}
+{"name": "용산롯데캐슬센터포레", "gu": "용산", "claim": "recent_transaction_median_eok", "value": 23.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 8, "area_m2": 85.0}
+{"name": "용산롯데캐슬센터포레", "gu": "용산", "claim": "transaction_iqr_eok", "p25": 22.57, "p75": 24.41, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 8, "area_m2": 85.0}
+{"name": "용산롯데캐슬센터포레", "gu": "용산", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 8.5, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 8, "area_m2": 85.0}
+{"name": "용산롯데캐슬센터포레", "gu": "용산", "claim": "position_in_52w_range_pct", "value": 88, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 8, "area_m2": 85.0}
+{"name": "용산롯데캐슬센터포레", "gu": "용산", "claim": "sale_jeonse_gap_eok", "value": 13.85, "jeonse_median_eok": 10.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 24, "area_m2": 85.0}
+{"name": "용산롯데캐슬센터포레", "gu": "용산", "claim": "annual_trade_count", "value": 14.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14"}
+{"name": "용산롯데캐슬센터포레", "gu": "용산", "claim": "units", "value": 478, "grade": "fact", "source": "public_record"}
+{"name": "용산롯데캐슬센터포레", "gu": "용산", "claim": "built_year", "value": 2019, "grade": "fact", "source": "public_record"}
+{"name": "강촌", "gu": "용산", "claim": "recent_transaction_median_eok", "value": 23.35, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 14, "area_m2": 59.0}
+{"name": "강촌", "gu": "용산", "claim": "transaction_iqr_eok", "p25": 22.35, "p75": 23.73, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 14, "area_m2": 59.0}
+{"name": "강촌", "gu": "용산", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 6.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 14, "area_m2": 59.0}
+{"name": "강촌", "gu": "용산", "claim": "position_in_52w_range_pct", "value": 84, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 14, "area_m2": 59.0}
+{"name": "강촌", "gu": "용산", "claim": "sale_jeonse_gap_eok", "value": 17.05, "jeonse_median_eok": 6.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 30, "area_m2": 59.0}
+{"name": "강촌", "gu": "용산", "claim": "annual_trade_count", "value": 30.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14"}
+{"name": "강촌", "gu": "용산", "claim": "units", "value": 1001, "grade": "fact", "source": "public_record"}
+{"name": "강촌", "gu": "용산", "claim": "built_year", "value": 1998, "grade": "fact", "source": "public_record"}
+{"name": "현대한강", "gu": "용산", "claim": "recent_transaction_median_eok", "value": 23.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 13, "area_m2": 85.0}
+{"name": "현대한강", "gu": "용산", "claim": "transaction_iqr_eok", "p25": 22.75, "p75": 23.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 13, "area_m2": 85.0}
+{"name": "현대한강", "gu": "용산", "claim": "sale_jeonse_gap_eok", "value": 15.85, "jeonse_median_eok": 7.15, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 32, "area_m2": 85.0}
+{"name": "현대한강", "gu": "용산", "claim": "annual_trade_count", "value": 20.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14"}
+{"name": "현대한강", "gu": "용산", "claim": "units", "value": 516, "grade": "fact", "source": "public_record"}
+{"name": "현대한강", "gu": "용산", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
+{"name": "효창파크푸르지오", "gu": "용산", "claim": "recent_transaction_median_eok", "value": 21.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 6, "area_m2": 84.5}
+{"name": "효창파크푸르지오", "gu": "용산", "claim": "transaction_iqr_eok", "p25": 21.07, "p75": 21.68, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 6, "area_m2": 84.5}
+{"name": "효창파크푸르지오", "gu": "용산", "claim": "sale_jeonse_gap_eok", "value": 12.45, "jeonse_median_eok": 9.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 15, "area_m2": 84.5}
+{"name": "효창파크푸르지오", "gu": "용산", "claim": "annual_trade_count", "value": 11.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14"}
+{"name": "효창파크푸르지오", "gu": "용산", "claim": "units", "value": 307, "grade": "fact", "source": "public_record"}
+{"name": "효창파크푸르지오", "gu": "용산", "claim": "built_year", "value": 2010, "grade": "fact", "source": "public_record"}
+{"name": "북한강(성원)", "gu": "용산", "claim": "recent_transaction_median_eok", "value": 20.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 13, "area_m2": 59.5}
+{"name": "북한강(성원)", "gu": "용산", "claim": "transaction_iqr_eok", "p25": 20.0, "p75": 21.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 13, "area_m2": 59.5}
+{"name": "북한강(성원)", "gu": "용산", "claim": "sale_jeonse_gap_eok", "value": 15.42, "jeonse_median_eok": 5.48, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 42, "area_m2": 59.5}
+{"name": "북한강(성원)", "gu": "용산", "claim": "annual_trade_count", "value": 13.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14"}
+{"name": "북한강(성원)", "gu": "용산", "claim": "units", "value": 340, "grade": "fact", "source": "public_record"}
+{"name": "북한강(성원)", "gu": "용산", "claim": "built_year", "value": 2001, "grade": "fact", "source": "public_record"}
+{"name": "대림", "gu": "용산", "claim": "recent_transaction_median_eok", "value": 18.35, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 6, "area_m2": 59.0}
+{"name": "대림", "gu": "용산", "claim": "transaction_iqr_eok", "p25": 16.62, "p75": 19.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 6, "area_m2": 59.0}
+{"name": "대림", "gu": "용산", "claim": "sale_jeonse_gap_eok", "value": 13.55, "jeonse_median_eok": 4.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 45, "area_m2": 59.0}
+{"name": "대림", "gu": "용산", "claim": "annual_trade_count", "value": 13.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14"}
+{"name": "대림", "gu": "용산", "claim": "units", "value": 638, "grade": "fact", "source": "public_record"}
+{"name": "대림", "gu": "용산", "claim": "built_year", "value": 1994, "grade": "fact", "source": "public_record"}
+{"name": "남산대림", "gu": "용산", "claim": "recent_transaction_median_eok", "value": 18.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 4, "area_m2": 60.0}
+{"name": "남산대림", "gu": "용산", "claim": "sale_jeonse_gap_eok", "value": 12.33, "jeonse_median_eok": 5.67, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 15, "area_m2": 60.0}
+{"name": "남산대림", "gu": "용산", "claim": "annual_trade_count", "value": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14"}
+{"name": "남산대림", "gu": "용산", "claim": "units", "value": 400, "grade": "fact", "source": "public_record"}
+{"name": "남산대림", "gu": "용산", "claim": "built_year", "value": 1994, "grade": "fact", "source": "public_record"}
+{"name": "용산KCC웰츠타워(주상복합)", "gu": "용산", "claim": "recent_transaction_median_eok", "value": 16.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 15, "area_m2": 84.0}
+{"name": "용산KCC웰츠타워(주상복합)", "gu": "용산", "claim": "transaction_iqr_eok", "p25": 16.35, "p75": 17.52, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 15, "area_m2": 84.0}
+{"name": "용산KCC웰츠타워(주상복합)", "gu": "용산", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 7.7, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 15, "area_m2": 84.0}
+{"name": "용산KCC웰츠타워(주상복합)", "gu": "용산", "claim": "position_in_52w_range_pct", "value": 96, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 15, "area_m2": 84.0}
+{"name": "용산KCC웰츠타워(주상복합)", "gu": "용산", "claim": "sale_jeonse_gap_eok", "value": 8.3, "jeonse_median_eok": 8.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 21, "area_m2": 84.0}
+{"name": "용산KCC웰츠타워(주상복합)", "gu": "용산", "claim": "annual_trade_count", "value": 20.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14"}
+{"name": "용산KCC웰츠타워(주상복합)", "gu": "용산", "claim": "units", "value": 232, "grade": "fact", "source": "public_record"}
+{"name": "용산KCC웰츠타워(주상복합)", "gu": "용산", "claim": "built_year", "value": 2015, "grade": "fact", "source": "public_record"}
+{"name": "리버힐삼성", "gu": "용산", "claim": "recent_transaction_median_eok", "value": 15.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 19, "area_m2": 59.5}
+{"name": "리버힐삼성", "gu": "용산", "claim": "transaction_iqr_eok", "p25": 13.96, "p75": 15.35, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 19, "area_m2": 59.5}
+{"name": "리버힐삼성", "gu": "용산", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 1.0, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 19, "area_m2": 59.5}
+{"name": "리버힐삼성", "gu": "용산", "claim": "position_in_52w_range_pct", "value": 67, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 19, "area_m2": 59.5}
+{"name": "리버힐삼성", "gu": "용산", "claim": "sale_jeonse_gap_eok", "value": 9.37, "jeonse_median_eok": 5.63, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 52, "area_m2": 59.5}
+{"name": "리버힐삼성", "gu": "용산", "claim": "annual_trade_count", "value": 49.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14"}
+{"name": "리버힐삼성", "gu": "용산", "claim": "units", "value": 1102, "grade": "fact", "source": "public_record"}
+{"name": "리버힐삼성", "gu": "용산", "claim": "built_year", "value": 2001, "grade": "fact", "source": "public_record"}
+{"name": "용산데시앙포레", "gu": "용산", "claim": "recent_transaction_median_eok", "value": 14.62, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 10, "area_m2": 60.0}
+{"name": "용산데시앙포레", "gu": "용산", "claim": "transaction_iqr_eok", "p25": 13.95, "p75": 16.55, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 10, "area_m2": 60.0}
+{"name": "용산데시앙포레", "gu": "용산", "claim": "sale_jeonse_gap_eok", "value": 7.12, "jeonse_median_eok": 7.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 43, "area_m2": 60.0}
+{"name": "용산데시앙포레", "gu": "용산", "claim": "annual_trade_count", "value": 19.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14"}
+{"name": "용산데시앙포레", "gu": "용산", "claim": "units", "value": 384, "grade": "fact", "source": "public_record"}
+{"name": "용산데시앙포레", "gu": "용산", "claim": "built_year", "value": 2022, "grade": "fact", "source": "public_record"}
+{"name": "강변삼성스위트", "gu": "용산", "claim": "recent_transaction_median_eok", "value": 13.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 11, "area_m2": 60.0}
+{"name": "강변삼성스위트", "gu": "용산", "claim": "transaction_iqr_eok", "p25": 13.13, "p75": 13.91, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 11, "area_m2": 60.0}
+{"name": "강변삼성스위트", "gu": "용산", "claim": "sale_jeonse_gap_eok", "value": 8.3, "jeonse_median_eok": 5.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 23, "area_m2": 60.0}
+{"name": "강변삼성스위트", "gu": "용산", "claim": "annual_trade_count", "value": 15.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14"}
+{"name": "강변삼성스위트", "gu": "용산", "claim": "units", "value": 300, "grade": "fact", "source": "public_record"}
+{"name": "강변삼성스위트", "gu": "용산", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "한강타운", "gu": "용산", "claim": "recent_transaction_median_eok", "value": 11.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 15, "area_m2": 59.5}
+{"name": "한강타운", "gu": "용산", "claim": "transaction_iqr_eok", "p25": 10.71, "p75": 12.15, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 15, "area_m2": 59.5}
+{"name": "한강타운", "gu": "용산", "claim": "sale_jeonse_gap_eok", "value": 6.8, "jeonse_median_eok": 4.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 27, "area_m2": 59.5}
+{"name": "한강타운", "gu": "용산", "claim": "annual_trade_count", "value": 15.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14"}
+{"name": "한강타운", "gu": "용산", "claim": "units", "value": 289, "grade": "fact", "source": "public_record"}
+{"name": "한강타운", "gu": "용산", "claim": "built_year", "value": 2001, "grade": "fact", "source": "public_record"}
+{"name": "후암미주", "gu": "용산", "claim": "recent_transaction_median_eok", "value": 9.93, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 16, "area_m2": 62.5}
+{"name": "후암미주", "gu": "용산", "claim": "transaction_iqr_eok", "p25": 9.35, "p75": 10.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 16, "area_m2": 62.5}
+{"name": "후암미주", "gu": "용산", "claim": "sale_jeonse_gap_eok", "value": 6.93, "jeonse_median_eok": 3.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14", "n": 11, "area_m2": 62.5}
+{"name": "후암미주", "gu": "용산", "claim": "annual_trade_count", "value": 16.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-14"}
+{"name": "후암미주", "gu": "용산", "claim": "units", "value": 226, "grade": "fact", "source": "public_record"}
+{"name": "후암미주", "gu": "용산", "claim": "built_year", "value": 1980, "grade": "fact", "source": "public_record"}
