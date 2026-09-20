@@ -1,0 +1,334 @@
+{"name": "올림픽파크포레온", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 28.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 43, "area_m2": 85.0}
+{"name": "올림픽파크포레온", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 27.5, "p75": 28.95, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 43, "area_m2": 85.0}
+{"name": "올림픽파크포레온", "gu": "강동", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 10.6, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 43, "area_m2": 85.0}
+{"name": "올림픽파크포레온", "gu": "강동", "claim": "position_in_52w_range_pct", "value": 87, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 43, "area_m2": 85.0}
+{"name": "올림픽파크포레온", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 15.25, "jeonse_median_eok": 13.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 33, "area_m2": 85.0}
+{"name": "올림픽파크포레온", "gu": "강동", "claim": "annual_trade_count", "value": 112.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "올림픽파크포레온", "gu": "강동", "claim": "units", "value": 12032, "grade": "fact", "source": "public_record"}
+{"name": "올림픽파크포레온", "gu": "강동", "claim": "built_year", "value": 2025, "grade": "fact", "source": "public_record"}
+{"name": "고덕아르테온", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 21.77, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 80, "area_m2": 85.0}
+{"name": "고덕아르테온", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 20.4, "p75": 22.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 80, "area_m2": 85.0}
+{"name": "고덕아르테온", "gu": "강동", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 8.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 80, "area_m2": 85.0}
+{"name": "고덕아르테온", "gu": "강동", "claim": "position_in_52w_range_pct", "value": 77, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 80, "area_m2": 85.0}
+{"name": "고덕아르테온", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 13.27, "jeonse_median_eok": 8.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 260, "area_m2": 85.0}
+{"name": "고덕아르테온", "gu": "강동", "claim": "annual_trade_count", "value": 129.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "고덕아르테온", "gu": "강동", "claim": "units", "value": 4066, "grade": "fact", "source": "public_record"}
+{"name": "고덕아르테온", "gu": "강동", "claim": "built_year", "value": 2020, "grade": "fact", "source": "public_record"}
+{"name": "고덕아이파크", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 19.55, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 10, "area_m2": 85.0}
+{"name": "고덕아이파크", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 18.85, "p75": 20.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 10, "area_m2": 85.0}
+{"name": "고덕아이파크", "gu": "강동", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 9.9, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 10, "area_m2": 85.0}
+{"name": "고덕아이파크", "gu": "강동", "claim": "position_in_52w_range_pct", "value": 93, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 10, "area_m2": 85.0}
+{"name": "고덕아이파크", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 11.3, "jeonse_median_eok": 8.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 36, "area_m2": 85.0}
+{"name": "고덕아이파크", "gu": "강동", "claim": "annual_trade_count", "value": 22.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "고덕아이파크", "gu": "강동", "claim": "units", "value": 1142, "grade": "fact", "source": "public_record"}
+{"name": "고덕아이파크", "gu": "강동", "claim": "built_year", "value": 2011, "grade": "fact", "source": "public_record"}
+{"name": "고덕그라시움", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 18.93, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 82, "area_m2": 60.0}
+{"name": "고덕그라시움", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 18.05, "p75": 19.92, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 82, "area_m2": 60.0}
+{"name": "고덕그라시움", "gu": "강동", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 8.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 82, "area_m2": 60.0}
+{"name": "고덕그라시움", "gu": "강동", "claim": "position_in_52w_range_pct", "value": 94, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 82, "area_m2": 60.0}
+{"name": "고덕그라시움", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 12.11, "jeonse_median_eok": 6.82, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 308, "area_m2": 60.0}
+{"name": "고덕그라시움", "gu": "강동", "claim": "annual_trade_count", "value": 163.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "고덕그라시움", "gu": "강동", "claim": "units", "value": 4932, "grade": "fact", "source": "public_record"}
+{"name": "고덕그라시움", "gu": "강동", "claim": "built_year", "value": 2019, "grade": "fact", "source": "public_record"}
+{"name": "고덕자이", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 18.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 30, "area_m2": 84.5}
+{"name": "고덕자이", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 18.23, "p75": 19.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 30, "area_m2": 84.5}
+{"name": "고덕자이", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 10.25, "jeonse_median_eok": 8.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 42, "area_m2": 84.5}
+{"name": "고덕자이", "gu": "강동", "claim": "annual_trade_count", "value": 67.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "고덕자이", "gu": "강동", "claim": "units", "value": 1824, "grade": "fact", "source": "public_record"}
+{"name": "고덕자이", "gu": "강동", "claim": "built_year", "value": 2021, "grade": "fact", "source": "public_record"}
+{"name": "한양", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 18.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 8, "area_m2": 85.0}
+{"name": "한양", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 17.95, "p75": 19.23, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 8, "area_m2": 85.0}
+{"name": "한양", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 12.73, "jeonse_median_eok": 5.57, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 15, "area_m2": 85.0}
+{"name": "한양", "gu": "강동", "claim": "annual_trade_count", "value": 20.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "한양", "gu": "강동", "claim": "units", "value": 540, "grade": "fact", "source": "public_record"}
+{"name": "한양", "gu": "강동", "claim": "built_year", "value": 1986, "grade": "fact", "source": "public_record"}
+{"name": "더샵둔촌포레", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 17.95, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 18, "area_m2": 93.5}
+{"name": "더샵둔촌포레", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 17.0, "p75": 18.07, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 18, "area_m2": 93.5}
+{"name": "더샵둔촌포레", "gu": "강동", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 4.5, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 18, "area_m2": 93.5}
+{"name": "더샵둔촌포레", "gu": "강동", "claim": "position_in_52w_range_pct", "value": 91, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 18, "area_m2": 93.5}
+{"name": "더샵둔촌포레", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 8.75, "jeonse_median_eok": 9.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 16, "area_m2": 93.5}
+{"name": "더샵둔촌포레", "gu": "강동", "claim": "annual_trade_count", "value": 18.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "더샵둔촌포레", "gu": "강동", "claim": "units", "value": 572, "grade": "fact", "source": "public_record"}
+{"name": "더샵둔촌포레", "gu": "강동", "claim": "built_year", "value": 2024, "grade": "fact", "source": "public_record"}
+{"name": "래미안솔베뉴", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 17.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 51, "area_m2": 59.0}
+{"name": "래미안솔베뉴", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 16.85, "p75": 18.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 51, "area_m2": 59.0}
+{"name": "래미안솔베뉴", "gu": "강동", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 2.9, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 51, "area_m2": 59.0}
+{"name": "래미안솔베뉴", "gu": "강동", "claim": "position_in_52w_range_pct", "value": 85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 51, "area_m2": 59.0}
+{"name": "래미안솔베뉴", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 10.2, "jeonse_median_eok": 7.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 107, "area_m2": 59.0}
+{"name": "래미안솔베뉴", "gu": "강동", "claim": "annual_trade_count", "value": 73.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "래미안솔베뉴", "gu": "강동", "claim": "units", "value": 1900, "grade": "fact", "source": "public_record"}
+{"name": "래미안솔베뉴", "gu": "강동", "claim": "built_year", "value": 2019, "grade": "fact", "source": "public_record"}
+{"name": "고덕롯데캐슬베네루체", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 17.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 80, "area_m2": 85.0}
+{"name": "고덕롯데캐슬베네루체", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 16.38, "p75": 18.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 80, "area_m2": 85.0}
+{"name": "고덕롯데캐슬베네루체", "gu": "강동", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 9.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 80, "area_m2": 85.0}
+{"name": "고덕롯데캐슬베네루체", "gu": "강동", "claim": "position_in_52w_range_pct", "value": 83, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 80, "area_m2": 85.0}
+{"name": "고덕롯데캐슬베네루체", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 9.5, "jeonse_median_eok": 7.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 139, "area_m2": 85.0}
+{"name": "고덕롯데캐슬베네루체", "gu": "강동", "claim": "annual_trade_count", "value": 106.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "고덕롯데캐슬베네루체", "gu": "강동", "claim": "units", "value": 1859, "grade": "fact", "source": "public_record"}
+{"name": "고덕롯데캐슬베네루체", "gu": "강동", "claim": "built_year", "value": 2019, "grade": "fact", "source": "public_record"}
+{"name": "래미안강동팰리스(주상복합)", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 17.07, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 46, "area_m2": 85.0}
+{"name": "래미안강동팰리스(주상복합)", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 16.5, "p75": 17.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 46, "area_m2": 85.0}
+{"name": "래미안강동팰리스(주상복합)", "gu": "강동", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 5.9, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 46, "area_m2": 85.0}
+{"name": "래미안강동팰리스(주상복합)", "gu": "강동", "claim": "position_in_52w_range_pct", "value": 65, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 46, "area_m2": 85.0}
+{"name": "래미안강동팰리스(주상복합)", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 8.16, "jeonse_median_eok": 8.91, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 94, "area_m2": 85.0}
+{"name": "래미안강동팰리스(주상복합)", "gu": "강동", "claim": "annual_trade_count", "value": 76.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "래미안강동팰리스(주상복합)", "gu": "강동", "claim": "units", "value": 999, "grade": "fact", "source": "public_record"}
+{"name": "래미안강동팰리스(주상복합)", "gu": "강동", "claim": "built_year", "value": 2017, "grade": "fact", "source": "public_record"}
+{"name": "고덕풍경채어바니티", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 16.89, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 16, "area_m2": 84.0}
+{"name": "고덕풍경채어바니티", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 16.38, "p75": 17.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 16, "area_m2": 84.0}
+{"name": "고덕풍경채어바니티", "gu": "강동", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 9.0, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 16, "area_m2": 84.0}
+{"name": "고덕풍경채어바니티", "gu": "강동", "claim": "position_in_52w_range_pct", "value": 80, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 16, "area_m2": 84.0}
+{"name": "고덕풍경채어바니티", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 10.48, "jeonse_median_eok": 6.41, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 17, "area_m2": 84.0}
+{"name": "고덕풍경채어바니티", "gu": "강동", "claim": "annual_trade_count", "value": 17.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "고덕풍경채어바니티", "gu": "강동", "claim": "units", "value": 780, "grade": "fact", "source": "public_record"}
+{"name": "고덕풍경채어바니티", "gu": "강동", "claim": "built_year", "value": 2024, "grade": "fact", "source": "public_record"}
+{"name": "프라이어팰리스", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 16.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 44, "area_m2": 85.0}
+{"name": "프라이어팰리스", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 16.04, "p75": 17.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 44, "area_m2": 85.0}
+{"name": "프라이어팰리스", "gu": "강동", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 6.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 44, "area_m2": 85.0}
+{"name": "프라이어팰리스", "gu": "강동", "claim": "position_in_52w_range_pct", "value": 90, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 44, "area_m2": 85.0}
+{"name": "프라이어팰리스", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 9.63, "jeonse_median_eok": 7.12, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 46, "area_m2": 85.0}
+{"name": "프라이어팰리스", "gu": "강동", "claim": "annual_trade_count", "value": 83.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "프라이어팰리스", "gu": "강동", "claim": "units", "value": 1622, "grade": "fact", "source": "public_record"}
+{"name": "프라이어팰리스", "gu": "강동", "claim": "built_year", "value": 2007, "grade": "fact", "source": "public_record"}
+{"name": "고덕숲아이파크", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 16.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 20, "area_m2": 85.0}
+{"name": "고덕숲아이파크", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 15.82, "p75": 16.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 20, "area_m2": 85.0}
+{"name": "고덕숲아이파크", "gu": "강동", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 10.0, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 20, "area_m2": 85.0}
+{"name": "고덕숲아이파크", "gu": "강동", "claim": "position_in_52w_range_pct", "value": 92, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 20, "area_m2": 85.0}
+{"name": "고덕숲아이파크", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 9.08, "jeonse_median_eok": 7.42, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 46, "area_m2": 85.0}
+{"name": "고덕숲아이파크", "gu": "강동", "claim": "annual_trade_count", "value": 33.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "고덕숲아이파크", "gu": "강동", "claim": "units", "value": 687, "grade": "fact", "source": "public_record"}
+{"name": "고덕숲아이파크", "gu": "강동", "claim": "built_year", "value": 2018, "grade": "fact", "source": "public_record"}
+{"name": "강동헤리티지자이", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 16.48, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 14, "area_m2": 60.0}
+{"name": "강동헤리티지자이", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 16.1, "p75": 16.93, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 14, "area_m2": 60.0}
+{"name": "강동헤리티지자이", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 10.9, "jeonse_median_eok": 5.58, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 85, "area_m2": 60.0}
+{"name": "강동헤리티지자이", "gu": "강동", "claim": "annual_trade_count", "value": 24.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "강동헤리티지자이", "gu": "강동", "claim": "units", "value": 1299, "grade": "fact", "source": "public_record"}
+{"name": "강동헤리티지자이", "gu": "강동", "claim": "built_year", "value": 2024, "grade": "fact", "source": "public_record"}
+{"name": "힐스테이트강동리버뷰", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 15.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 17, "area_m2": 85.0}
+{"name": "힐스테이트강동리버뷰", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 15.5, "p75": 16.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 17, "area_m2": 85.0}
+{"name": "힐스테이트강동리버뷰", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 7.68, "jeonse_median_eok": 8.22, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 48, "area_m2": 85.0}
+{"name": "힐스테이트강동리버뷰", "gu": "강동", "claim": "annual_trade_count", "value": 18.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "힐스테이트강동리버뷰", "gu": "강동", "claim": "units", "value": 460, "grade": "fact", "source": "public_record"}
+{"name": "힐스테이트강동리버뷰", "gu": "강동", "claim": "built_year", "value": 2019, "grade": "fact", "source": "public_record"}
+{"name": "둔촌푸르지오", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 15.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 39, "area_m2": 85.0}
+{"name": "둔촌푸르지오", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 14.57, "p75": 16.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 39, "area_m2": 85.0}
+{"name": "둔촌푸르지오", "gu": "강동", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 9.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 39, "area_m2": 85.0}
+{"name": "둔촌푸르지오", "gu": "강동", "claim": "position_in_52w_range_pct", "value": 86, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 39, "area_m2": 85.0}
+{"name": "둔촌푸르지오", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 8.2, "jeonse_median_eok": 7.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 36, "area_m2": 85.0}
+{"name": "둔촌푸르지오", "gu": "강동", "claim": "annual_trade_count", "value": 75.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "둔촌푸르지오", "gu": "강동", "claim": "units", "value": 800, "grade": "fact", "source": "public_record"}
+{"name": "둔촌푸르지오", "gu": "강동", "claim": "built_year", "value": 2010, "grade": "fact", "source": "public_record"}
+{"name": "삼성광나루", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 15.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 12, "area_m2": 85.0}
+{"name": "삼성광나루", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 13.93, "p75": 15.61, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 12, "area_m2": 85.0}
+{"name": "삼성광나루", "gu": "강동", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 9.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 12, "area_m2": 85.0}
+{"name": "삼성광나루", "gu": "강동", "claim": "position_in_52w_range_pct", "value": 90, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 12, "area_m2": 85.0}
+{"name": "삼성광나루", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 8.3, "jeonse_median_eok": 7.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 15, "area_m2": 85.0}
+{"name": "삼성광나루", "gu": "강동", "claim": "annual_trade_count", "value": 33.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "삼성광나루", "gu": "강동", "claim": "units", "value": 490, "grade": "fact", "source": "public_record"}
+{"name": "삼성광나루", "gu": "강동", "claim": "built_year", "value": 2002, "grade": "fact", "source": "public_record"}
+{"name": "그란츠리버파크", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 14.99, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 5, "area_m2": 60.0}
+{"name": "그란츠리버파크", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 14.9, "p75": 15.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 5, "area_m2": 60.0}
+{"name": "그란츠리버파크", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 6.99, "jeonse_median_eok": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 15, "area_m2": 60.0}
+{"name": "그란츠리버파크", "gu": "강동", "claim": "annual_trade_count", "value": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "그란츠리버파크", "gu": "강동", "claim": "units", "value": 407, "grade": "fact", "source": "public_record"}
+{"name": "그란츠리버파크", "gu": "강동", "claim": "built_year", "value": 2025, "grade": "fact", "source": "public_record"}
+{"name": "힐스테이트리슈빌강일", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 14.88, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 24, "area_m2": 85.0}
+{"name": "힐스테이트리슈빌강일", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 14.11, "p75": 15.69, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 24, "area_m2": 85.0}
+{"name": "힐스테이트리슈빌강일", "gu": "강동", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 7.5, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 24, "area_m2": 85.0}
+{"name": "힐스테이트리슈빌강일", "gu": "강동", "claim": "position_in_52w_range_pct", "value": 80, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 24, "area_m2": 85.0}
+{"name": "힐스테이트리슈빌강일", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 9.1, "jeonse_median_eok": 5.78, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 118, "area_m2": 85.0}
+{"name": "힐스테이트리슈빌강일", "gu": "강동", "claim": "annual_trade_count", "value": 33.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "힐스테이트리슈빌강일", "gu": "강동", "claim": "units", "value": 809, "grade": "fact", "source": "public_record"}
+{"name": "힐스테이트리슈빌강일", "gu": "강동", "claim": "built_year", "value": 2023, "grade": "fact", "source": "public_record"}
+{"name": "강변그대가리버뷰", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 14.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 12, "area_m2": 85.0}
+{"name": "강변그대가리버뷰", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 13.0, "p75": 15.19, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 12, "area_m2": 85.0}
+{"name": "강변그대가리버뷰", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 8.33, "jeonse_median_eok": 6.42, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 19, "area_m2": 85.0}
+{"name": "강변그대가리버뷰", "gu": "강동", "claim": "annual_trade_count", "value": 12.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "강변그대가리버뷰", "gu": "강동", "claim": "units", "value": 225, "grade": "fact", "source": "public_record"}
+{"name": "강변그대가리버뷰", "gu": "강동", "claim": "built_year", "value": 2007, "grade": "fact", "source": "public_record"}
+{"name": "고덕센트럴푸르지오", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 14.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 49, "area_m2": 59.0}
+{"name": "고덕센트럴푸르지오", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 13.95, "p75": 15.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 49, "area_m2": 59.0}
+{"name": "고덕센트럴푸르지오", "gu": "강동", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 13.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 49, "area_m2": 59.0}
+{"name": "고덕센트럴푸르지오", "gu": "강동", "claim": "position_in_52w_range_pct", "value": 92, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 49, "area_m2": 59.0}
+{"name": "고덕센트럴푸르지오", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 7.5, "jeonse_median_eok": 6.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 63, "area_m2": 59.0}
+{"name": "고덕센트럴푸르지오", "gu": "강동", "claim": "annual_trade_count", "value": 50.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "고덕센트럴푸르지오", "gu": "강동", "claim": "units", "value": 656, "grade": "fact", "source": "public_record"}
+{"name": "고덕센트럴푸르지오", "gu": "강동", "claim": "built_year", "value": 2020, "grade": "fact", "source": "public_record"}
+{"name": "배재현대", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 13.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 15, "area_m2": 60.0}
+{"name": "배재현대", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 12.5, "p75": 14.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 15, "area_m2": 60.0}
+{"name": "배재현대", "gu": "강동", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 14.0, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 15, "area_m2": 60.0}
+{"name": "배재현대", "gu": "강동", "claim": "position_in_52w_range_pct", "value": 88, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 15, "area_m2": 60.0}
+{"name": "배재현대", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 8.1, "jeonse_median_eok": 5.15, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 24, "area_m2": 60.0}
+{"name": "배재현대", "gu": "강동", "claim": "annual_trade_count", "value": 23.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "배재현대", "gu": "강동", "claim": "units", "value": 448, "grade": "fact", "source": "public_record"}
+{"name": "배재현대", "gu": "강동", "claim": "built_year", "value": 1995, "grade": "fact", "source": "public_record"}
+{"name": "고덕리엔파크2단지", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 12.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 8, "area_m2": 85.0}
+{"name": "고덕리엔파크2단지", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 12.19, "p75": 12.82, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 8, "area_m2": 85.0}
+{"name": "고덕리엔파크2단지", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 7.5, "jeonse_median_eok": 5.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 19, "area_m2": 85.0}
+{"name": "고덕리엔파크2단지", "gu": "강동", "claim": "annual_trade_count", "value": 20.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "고덕리엔파크2단지", "gu": "강동", "claim": "units", "value": 636, "grade": "fact", "source": "public_record"}
+{"name": "고덕리엔파크2단지", "gu": "강동", "claim": "built_year", "value": 2011, "grade": "fact", "source": "public_record"}
+{"name": "강일리버파크7단지", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 12.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 12, "area_m2": 84.5}
+{"name": "강일리버파크7단지", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 11.47, "p75": 13.19, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 12, "area_m2": 84.5}
+{"name": "강일리버파크7단지", "gu": "강동", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 7.2, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 12, "area_m2": 84.5}
+{"name": "강일리버파크7단지", "gu": "강동", "claim": "position_in_52w_range_pct", "value": 92, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 12, "area_m2": 84.5}
+{"name": "강일리버파크7단지", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 7.17, "jeonse_median_eok": 5.43, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 22, "area_m2": 84.5}
+{"name": "강일리버파크7단지", "gu": "강동", "claim": "annual_trade_count", "value": 17.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "강일리버파크7단지", "gu": "강동", "claim": "units", "value": 731, "grade": "fact", "source": "public_record"}
+{"name": "강일리버파크7단지", "gu": "강동", "claim": "built_year", "value": 2009, "grade": "fact", "source": "public_record"}
+{"name": "강일리버파크6단지", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 12.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 19, "area_m2": 84.5}
+{"name": "강일리버파크6단지", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 11.1, "p75": 13.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 19, "area_m2": 84.5}
+{"name": "강일리버파크6단지", "gu": "강동", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 11.9, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 19, "area_m2": 84.5}
+{"name": "강일리버파크6단지", "gu": "강동", "claim": "position_in_52w_range_pct", "value": 90, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 19, "area_m2": 84.5}
+{"name": "강일리버파크6단지", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 7.36, "jeonse_median_eok": 5.14, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 37, "area_m2": 84.5}
+{"name": "강일리버파크6단지", "gu": "강동", "claim": "annual_trade_count", "value": 19.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "강일리버파크6단지", "gu": "강동", "claim": "units", "value": 553, "grade": "fact", "source": "public_record"}
+{"name": "강일리버파크6단지", "gu": "강동", "claim": "built_year", "value": 2009, "grade": "fact", "source": "public_record"}
+{"name": "고덕리엔파크1단지", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 12.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 6, "area_m2": 85.0}
+{"name": "고덕리엔파크1단지", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 12.25, "p75": 12.82, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 6, "area_m2": 85.0}
+{"name": "고덕리엔파크1단지", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 8.64, "jeonse_median_eok": 3.86, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 29, "area_m2": 85.0}
+{"name": "고덕리엔파크1단지", "gu": "강동", "claim": "annual_trade_count", "value": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "고덕리엔파크1단지", "gu": "강동", "claim": "units", "value": 605, "grade": "fact", "source": "public_record"}
+{"name": "고덕리엔파크1단지", "gu": "강동", "claim": "built_year", "value": 2011, "grade": "fact", "source": "public_record"}
+{"name": "프라자", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 12.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 13, "area_m2": 83.5}
+{"name": "프라자", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 12.0, "p75": 13.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 13, "area_m2": 83.5}
+{"name": "프라자", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 7.45, "jeonse_median_eok": 5.05, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 20, "area_m2": 83.5}
+{"name": "프라자", "gu": "강동", "claim": "annual_trade_count", "value": 20.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "프라자", "gu": "강동", "claim": "units", "value": 354, "grade": "fact", "source": "public_record"}
+{"name": "프라자", "gu": "강동", "claim": "built_year", "value": 1984, "grade": "fact", "source": "public_record"}
+{"name": "강일리버파크10단지", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 12.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 13, "area_m2": 84.5}
+{"name": "강일리버파크10단지", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 11.88, "p75": 12.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 13, "area_m2": 84.5}
+{"name": "강일리버파크10단지", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 7.05, "jeonse_median_eok": 5.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 23, "area_m2": 84.5}
+{"name": "강일리버파크10단지", "gu": "강동", "claim": "annual_trade_count", "value": 17.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "강일리버파크10단지", "gu": "강동", "claim": "units", "value": 694, "grade": "fact", "source": "public_record"}
+{"name": "강일리버파크10단지", "gu": "강동", "claim": "built_year", "value": 2009, "grade": "fact", "source": "public_record"}
+{"name": "강일리버파크9단지", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 12.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 5, "area_m2": 84.5}
+{"name": "강일리버파크9단지", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 11.75, "p75": 12.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 5, "area_m2": 84.5}
+{"name": "강일리버파크9단지", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 6.0, "jeonse_median_eok": 6.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 20, "area_m2": 84.5}
+{"name": "강일리버파크9단지", "gu": "강동", "claim": "annual_trade_count", "value": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "강일리버파크9단지", "gu": "강동", "claim": "units", "value": 841, "grade": "fact", "source": "public_record"}
+{"name": "강일리버파크9단지", "gu": "강동", "claim": "built_year", "value": 2009, "grade": "fact", "source": "public_record"}
+{"name": "중앙하이츠", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 12.15, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 22, "area_m2": 84.0}
+{"name": "중앙하이츠", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 10.11, "p75": 13.18, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 22, "area_m2": 84.0}
+{"name": "중앙하이츠", "gu": "강동", "claim": "recent3m_vs_prior9m_median_change_pct", "value": -21.6, "direction": "▼", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 22, "area_m2": 84.0}
+{"name": "중앙하이츠", "gu": "강동", "claim": "position_in_52w_range_pct", "value": 31, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 22, "area_m2": 84.0}
+{"name": "중앙하이츠", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 6.7, "jeonse_median_eok": 5.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 20, "area_m2": 84.0}
+{"name": "중앙하이츠", "gu": "강동", "claim": "annual_trade_count", "value": 49.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "중앙하이츠", "gu": "강동", "claim": "units", "value": 226, "grade": "fact", "source": "public_record"}
+{"name": "중앙하이츠", "gu": "강동", "claim": "built_year", "value": 1998, "grade": "fact", "source": "public_record"}
+{"name": "고덕리엔파크3단지", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 12.02, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 28, "area_m2": 85.0}
+{"name": "고덕리엔파크3단지", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 11.75, "p75": 12.83, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 28, "area_m2": 85.0}
+{"name": "고덕리엔파크3단지", "gu": "강동", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 16.9, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 28, "area_m2": 85.0}
+{"name": "고덕리엔파크3단지", "gu": "강동", "claim": "position_in_52w_range_pct", "value": 92, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 28, "area_m2": 85.0}
+{"name": "고덕리엔파크3단지", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 8.28, "jeonse_median_eok": 3.74, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 71, "area_m2": 85.0}
+{"name": "고덕리엔파크3단지", "gu": "강동", "claim": "annual_trade_count", "value": 31.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "고덕리엔파크3단지", "gu": "강동", "claim": "units", "value": 2283, "grade": "fact", "source": "public_record"}
+{"name": "고덕리엔파크3단지", "gu": "강동", "claim": "built_year", "value": 2011, "grade": "fact", "source": "public_record"}
+{"name": "강일리버파크3단지", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 11.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 11, "area_m2": 60.0}
+{"name": "강일리버파크3단지", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 11.4, "p75": 12.32, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 11, "area_m2": 60.0}
+{"name": "강일리버파크3단지", "gu": "강동", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 7.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 11, "area_m2": 60.0}
+{"name": "강일리버파크3단지", "gu": "강동", "claim": "position_in_52w_range_pct", "value": 91, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 11, "area_m2": 60.0}
+{"name": "강일리버파크3단지", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 6.9, "jeonse_median_eok": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 14, "area_m2": 60.0}
+{"name": "강일리버파크3단지", "gu": "강동", "claim": "annual_trade_count", "value": 24.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "강일리버파크3단지", "gu": "강동", "claim": "units", "value": 987, "grade": "fact", "source": "public_record"}
+{"name": "강일리버파크3단지", "gu": "강동", "claim": "built_year", "value": 2009, "grade": "fact", "source": "public_record"}
+{"name": "강일리버파크5단지", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 11.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 7, "area_m2": 85.0}
+{"name": "강일리버파크5단지", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 11.0, "p75": 11.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 7, "area_m2": 85.0}
+{"name": "강일리버파크5단지", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 5.5, "jeonse_median_eok": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 22, "area_m2": 85.0}
+{"name": "강일리버파크5단지", "gu": "강동", "claim": "annual_trade_count", "value": 11.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "강일리버파크5단지", "gu": "강동", "claim": "units", "value": 722, "grade": "fact", "source": "public_record"}
+{"name": "강일리버파크5단지", "gu": "강동", "claim": "built_year", "value": 2009, "grade": "fact", "source": "public_record"}
+{"name": "강일리버파크8단지", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 11.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 9, "area_m2": 84.5}
+{"name": "강일리버파크8단지", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 11.0, "p75": 12.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 9, "area_m2": 84.5}
+{"name": "강일리버파크8단지", "gu": "강동", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 16.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 9, "area_m2": 84.5}
+{"name": "강일리버파크8단지", "gu": "강동", "claim": "position_in_52w_range_pct", "value": 83, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 9, "area_m2": 84.5}
+{"name": "강일리버파크8단지", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 5.8, "jeonse_median_eok": 5.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 13, "area_m2": 84.5}
+{"name": "강일리버파크8단지", "gu": "강동", "claim": "annual_trade_count", "value": 9.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "강일리버파크8단지", "gu": "강동", "claim": "units", "value": 410, "grade": "fact", "source": "public_record"}
+{"name": "강일리버파크8단지", "gu": "강동", "claim": "built_year", "value": 2009, "grade": "fact", "source": "public_record"}
+{"name": "현대", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 11.05, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 10, "area_m2": 84.5}
+{"name": "현대", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 10.7, "p75": 11.49, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 10, "area_m2": 84.5}
+{"name": "현대", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 5.52, "jeonse_median_eok": 5.53, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 6, "area_m2": 84.5}
+{"name": "현대", "gu": "강동", "claim": "annual_trade_count", "value": 32.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "현대", "gu": "강동", "claim": "units", "value": 264, "grade": "fact", "source": "public_record"}
+{"name": "현대", "gu": "강동", "claim": "built_year", "value": 1996, "grade": "fact", "source": "public_record"}
+{"name": "강일리버파크4단지", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 10.99, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 12, "area_m2": 84.5}
+{"name": "강일리버파크4단지", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 10.47, "p75": 12.12, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 12, "area_m2": 84.5}
+{"name": "강일리버파크4단지", "gu": "강동", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 28.2, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 12, "area_m2": 84.5}
+{"name": "강일리버파크4단지", "gu": "강동", "claim": "position_in_52w_range_pct", "value": 91, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 12, "area_m2": 84.5}
+{"name": "강일리버파크4단지", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 5.85, "jeonse_median_eok": 5.14, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 41, "area_m2": 84.5}
+{"name": "강일리버파크4단지", "gu": "강동", "claim": "annual_trade_count", "value": 12.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "강일리버파크4단지", "gu": "강동", "claim": "units", "value": 748, "grade": "fact", "source": "public_record"}
+{"name": "강일리버파크4단지", "gu": "강동", "claim": "built_year", "value": 2009, "grade": "fact", "source": "public_record"}
+{"name": "길동우성", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 10.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 24, "area_m2": 85.0}
+{"name": "길동우성", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 10.3, "p75": 12.81, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 24, "area_m2": 85.0}
+{"name": "길동우성", "gu": "강동", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 21.2, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 24, "area_m2": 85.0}
+{"name": "길동우성", "gu": "강동", "claim": "position_in_52w_range_pct", "value": 75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 24, "area_m2": 85.0}
+{"name": "길동우성", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 5.65, "jeonse_median_eok": 5.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 21, "area_m2": 85.0}
+{"name": "길동우성", "gu": "강동", "claim": "annual_trade_count", "value": 43.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "길동우성", "gu": "강동", "claim": "units", "value": 811, "grade": "fact", "source": "public_record"}
+{"name": "길동우성", "gu": "강동", "claim": "built_year", "value": 1994, "grade": "fact", "source": "public_record"}
+{"name": "강일리버파크1단지", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 10.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 6, "area_m2": 84.5}
+{"name": "강일리버파크1단지", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 10.62, "p75": 11.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 6, "area_m2": 84.5}
+{"name": "강일리버파크1단지", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 5.9, "jeonse_median_eok": 4.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 15, "area_m2": 84.5}
+{"name": "강일리버파크1단지", "gu": "강동", "claim": "annual_trade_count", "value": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "강일리버파크1단지", "gu": "강동", "claim": "units", "value": 282, "grade": "fact", "source": "public_record"}
+{"name": "강일리버파크1단지", "gu": "강동", "claim": "built_year", "value": 2009, "grade": "fact", "source": "public_record"}
+{"name": "강일리버파크2단지", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 10.68, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 10, "area_m2": 84.5}
+{"name": "강일리버파크2단지", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 10.53, "p75": 12.06, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 10, "area_m2": 84.5}
+{"name": "강일리버파크2단지", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 6.24, "jeonse_median_eok": 4.44, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 39, "area_m2": 84.5}
+{"name": "강일리버파크2단지", "gu": "강동", "claim": "annual_trade_count", "value": 10.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "강일리버파크2단지", "gu": "강동", "claim": "units", "value": 442, "grade": "fact", "source": "public_record"}
+{"name": "강일리버파크2단지", "gu": "강동", "claim": "built_year", "value": 2009, "grade": "fact", "source": "public_record"}
+{"name": "한강현대", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 10.37, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 11, "area_m2": 60.0}
+{"name": "한강현대", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 9.52, "p75": 11.88, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 11, "area_m2": 60.0}
+{"name": "한강현대", "gu": "강동", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 21.0, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 11, "area_m2": 60.0}
+{"name": "한강현대", "gu": "강동", "claim": "position_in_52w_range_pct", "value": 93, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 11, "area_m2": 60.0}
+{"name": "한강현대", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 5.75, "jeonse_median_eok": 4.62, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 6, "area_m2": 60.0}
+{"name": "한강현대", "gu": "강동", "claim": "annual_trade_count", "value": 29.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "한강현대", "gu": "강동", "claim": "units", "value": 417, "grade": "fact", "source": "public_record"}
+{"name": "한강현대", "gu": "강동", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "둔촌역청구", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 10.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 11, "area_m2": 60.0}
+{"name": "둔촌역청구", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 9.24, "p75": 10.57, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 11, "area_m2": 60.0}
+{"name": "둔촌역청구", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 5.53, "jeonse_median_eok": 4.72, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 5, "area_m2": 60.0}
+{"name": "둔촌역청구", "gu": "강동", "claim": "annual_trade_count", "value": 16.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "둔촌역청구", "gu": "강동", "claim": "units", "value": 222, "grade": "fact", "source": "public_record"}
+{"name": "둔촌역청구", "gu": "강동", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "둔촌하이츠", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 10.21, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 22, "area_m2": 60.0}
+{"name": "둔촌하이츠", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 9.07, "p75": 10.96, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 22, "area_m2": 60.0}
+{"name": "둔촌하이츠", "gu": "강동", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 22.2, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 22, "area_m2": 60.0}
+{"name": "둔촌하이츠", "gu": "강동", "claim": "position_in_52w_range_pct", "value": 100, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 22, "area_m2": 60.0}
+{"name": "둔촌하이츠", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 5.49, "jeonse_median_eok": 4.72, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 14, "area_m2": 60.0}
+{"name": "둔촌하이츠", "gu": "강동", "claim": "annual_trade_count", "value": 25.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "둔촌하이츠", "gu": "강동", "claim": "units", "value": 232, "grade": "fact", "source": "public_record"}
+{"name": "둔촌하이츠", "gu": "강동", "claim": "built_year", "value": 1998, "grade": "fact", "source": "public_record"}
+{"name": "성안마을청구", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 9.57, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 10, "area_m2": 60.0}
+{"name": "성안마을청구", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 9.5, "p75": 11.03, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 10, "area_m2": 60.0}
+{"name": "성안마을청구", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 4.37, "jeonse_median_eok": 5.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 15, "area_m2": 60.0}
+{"name": "성안마을청구", "gu": "강동", "claim": "annual_trade_count", "value": 17.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "성안마을청구", "gu": "강동", "claim": "units", "value": 349, "grade": "fact", "source": "public_record"}
+{"name": "성안마을청구", "gu": "강동", "claim": "built_year", "value": 2002, "grade": "fact", "source": "public_record"}
+{"name": "강동리버스트8단지", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 9.47, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 30, "area_m2": 49.5}
+{"name": "강동리버스트8단지", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 9.1, "p75": 9.74, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 30, "area_m2": 49.5}
+{"name": "강동리버스트8단지", "gu": "강동", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 4.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 30, "area_m2": 49.5}
+{"name": "강동리버스트8단지", "gu": "강동", "claim": "position_in_52w_range_pct", "value": 78, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 30, "area_m2": 49.5}
+{"name": "강동리버스트8단지", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 4.32, "jeonse_median_eok": 5.15, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 14, "area_m2": 49.5}
+{"name": "강동리버스트8단지", "gu": "강동", "claim": "annual_trade_count", "value": 45.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "강동리버스트8단지", "gu": "강동", "claim": "units", "value": 946, "grade": "fact", "source": "public_record"}
+{"name": "강동리버스트8단지", "gu": "강동", "claim": "built_year", "value": 2021, "grade": "fact", "source": "public_record"}
+{"name": "강동리엔파크14단지", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 8.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 26, "area_m2": 49.5}
+{"name": "강동리엔파크14단지", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 8.65, "p75": 8.94, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 26, "area_m2": 49.5}
+{"name": "강동리엔파크14단지", "gu": "강동", "claim": "recent3m_vs_prior9m_median_change_pct", "value": -0.7, "direction": "▼", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 26, "area_m2": 49.5}
+{"name": "강동리엔파크14단지", "gu": "강동", "claim": "position_in_52w_range_pct", "value": 33, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 26, "area_m2": 49.5}
+{"name": "강동리엔파크14단지", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 3.8, "jeonse_median_eok": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 18, "area_m2": 49.5}
+{"name": "강동리엔파크14단지", "gu": "강동", "claim": "annual_trade_count", "value": 45.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "강동리엔파크14단지", "gu": "강동", "claim": "units", "value": 943, "grade": "fact", "source": "public_record"}
+{"name": "강동리엔파크14단지", "gu": "강동", "claim": "built_year", "value": 2021, "grade": "fact", "source": "public_record"}
+{"name": "강동리버스트4단지", "gu": "강동", "claim": "recent_transaction_median_eok", "value": 8.43, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 26, "area_m2": 50.0}
+{"name": "강동리버스트4단지", "gu": "강동", "claim": "transaction_iqr_eok", "p25": 7.9, "p75": 9.16, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 26, "area_m2": 50.0}
+{"name": "강동리버스트4단지", "gu": "강동", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 20.5, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 26, "area_m2": 50.0}
+{"name": "강동리버스트4단지", "gu": "강동", "claim": "position_in_52w_range_pct", "value": 90, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 26, "area_m2": 50.0}
+{"name": "강동리버스트4단지", "gu": "강동", "claim": "sale_jeonse_gap_eok", "value": 4.13, "jeonse_median_eok": 4.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21", "n": 29, "area_m2": 50.0}
+{"name": "강동리버스트4단지", "gu": "강동", "claim": "annual_trade_count", "value": 44.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-21"}
+{"name": "강동리버스트4단지", "gu": "강동", "claim": "units", "value": 1239, "grade": "fact", "source": "public_record"}
+{"name": "강동리버스트4단지", "gu": "강동", "claim": "built_year", "value": 2020, "grade": "fact", "source": "public_record"}
