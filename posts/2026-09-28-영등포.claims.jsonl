@@ -1,0 +1,758 @@
+{"name": "브라이튼여의도(주상복합)", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 41.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 2, "area_m2": 84.0}
+{"name": "브라이튼여의도(주상복합)", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 21.0, "jeonse_median_eok": 20.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 14, "area_m2": 84.0}
+{"name": "브라이튼여의도(주상복합)", "gu": "영등포", "claim": "annual_trade_count", "value": 4.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "브라이튼여의도(주상복합)", "gu": "영등포", "claim": "units", "value": 454, "grade": "fact", "source": "public_record"}
+{"name": "브라이튼여의도(주상복합)", "gu": "영등포", "claim": "built_year", "value": 2023, "grade": "fact", "source": "public_record"}
+{"name": "여의도자이(주상복합)", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 36.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 3, "area_m2": 125.5}
+{"name": "여의도자이(주상복합)", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 21.9, "jeonse_median_eok": 14.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 125.5}
+{"name": "여의도자이(주상복합)", "gu": "영등포", "claim": "annual_trade_count", "value": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "여의도자이(주상복합)", "gu": "영등포", "claim": "units", "value": 580, "grade": "fact", "source": "public_record"}
+{"name": "여의도자이(주상복합)", "gu": "영등포", "claim": "built_year", "value": 2008, "grade": "fact", "source": "public_record"}
+{"name": "한양", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 32.15, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 4, "area_m2": 109.5}
+{"name": "한양", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 26.9, "jeonse_median_eok": 5.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 109.5}
+{"name": "한양", "gu": "영등포", "claim": "annual_trade_count", "value": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "한양", "gu": "영등포", "claim": "units", "value": 338, "grade": "fact", "source": "public_record"}
+{"name": "한양", "gu": "영등포", "claim": "built_year", "value": 1986, "grade": "fact", "source": "public_record"}
+{"name": "삼익", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 31.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 123.5}
+{"name": "삼익", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 29.25, "p75": 32.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 123.5}
+{"name": "삼익", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": -9.4, "direction": "▼", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 123.5}
+{"name": "삼익", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 123.5}
+{"name": "삼익", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 22.65, "jeonse_median_eok": 8.35, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 28, "area_m2": 123.5}
+{"name": "삼익", "gu": "영등포", "claim": "annual_trade_count", "value": 11.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "삼익", "gu": "영등포", "claim": "units", "value": 176, "grade": "fact", "source": "public_record"}
+{"name": "삼익", "gu": "영등포", "claim": "built_year", "value": 1979, "grade": "fact", "source": "public_record"}
+{"name": "롯데캐슬엠파이어(주상복합)", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 29.95, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 3, "area_m2": 164.0}
+{"name": "롯데캐슬엠파이어(주상복합)", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 15.95, "jeonse_median_eok": 14.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 3, "area_m2": 164.0}
+{"name": "롯데캐슬엠파이어(주상복합)", "gu": "영등포", "claim": "annual_trade_count", "value": 11.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "롯데캐슬엠파이어(주상복합)", "gu": "영등포", "claim": "units", "value": 406, "grade": "fact", "source": "public_record"}
+{"name": "롯데캐슬엠파이어(주상복합)", "gu": "영등포", "claim": "built_year", "value": 2005, "grade": "fact", "source": "public_record"}
+{"name": "삼부", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 29.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 10, "area_m2": 92.0}
+{"name": "삼부", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 28.12, "p75": 30.57, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 10, "area_m2": 92.0}
+{"name": "삼부", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 8.5, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 10, "area_m2": 92.0}
+{"name": "삼부", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 52, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 10, "area_m2": 92.0}
+{"name": "삼부", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 23.6, "jeonse_median_eok": 5.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 37, "area_m2": 92.0}
+{"name": "삼부", "gu": "영등포", "claim": "annual_trade_count", "value": 25.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "삼부", "gu": "영등포", "claim": "units", "value": 866, "grade": "fact", "source": "public_record"}
+{"name": "삼부", "gu": "영등포", "claim": "built_year", "value": 1975, "grade": "fact", "source": "public_record"}
+{"name": "대우트럼프월드II(주상복합)", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 28.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 2, "area_m2": 143.5}
+{"name": "대우트럼프월드II(주상복합)", "gu": "영등포", "claim": "annual_trade_count", "value": 3.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "대우트럼프월드II(주상복합)", "gu": "영등포", "claim": "units", "value": 218, "grade": "fact", "source": "public_record"}
+{"name": "대우트럼프월드II(주상복합)", "gu": "영등포", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
+{"name": "롯데캐슬아이비(주상복합)", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 24.27, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 4, "area_m2": 137.0}
+{"name": "롯데캐슬아이비(주상복합)", "gu": "영등포", "claim": "annual_trade_count", "value": 12.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "롯데캐슬아이비(주상복합)", "gu": "영등포", "claim": "units", "value": 445, "grade": "fact", "source": "public_record"}
+{"name": "롯데캐슬아이비(주상복합)", "gu": "영등포", "claim": "built_year", "value": 2005, "grade": "fact", "source": "public_record"}
+{"name": "당산센트럴아이파크", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 23.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 13, "area_m2": 85.0}
+{"name": "당산센트럴아이파크", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 23.0, "p75": 24.35, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 13, "area_m2": 85.0}
+{"name": "당산센트럴아이파크", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 6.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 13, "area_m2": 85.0}
+{"name": "당산센트럴아이파크", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 77, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 13, "area_m2": 85.0}
+{"name": "당산센트럴아이파크", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 12.5, "jeonse_median_eok": 11.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 39, "area_m2": 85.0}
+{"name": "당산센트럴아이파크", "gu": "영등포", "claim": "annual_trade_count", "value": 21.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "당산센트럴아이파크", "gu": "영등포", "claim": "units", "value": 802, "grade": "fact", "source": "public_record"}
+{"name": "당산센트럴아이파크", "gu": "영등포", "claim": "built_year", "value": 2020, "grade": "fact", "source": "public_record"}
+{"name": "영등포자이디그니티", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 22.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 3, "area_m2": 85.0}
+{"name": "영등포자이디그니티", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 11.85, "jeonse_median_eok": 10.15, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 2, "area_m2": 85.0}
+{"name": "영등포자이디그니티", "gu": "영등포", "claim": "annual_trade_count", "value": 3.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "영등포자이디그니티", "gu": "영등포", "claim": "units", "value": 707, "grade": "fact", "source": "public_record"}
+{"name": "영등포자이디그니티", "gu": "영등포", "claim": "built_year", "value": 2026, "grade": "fact", "source": "public_record"}
+{"name": "아크로타워스퀘어", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 19.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 19, "area_m2": 84.5}
+{"name": "아크로타워스퀘어", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 18.15, "p75": 20.35, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 19, "area_m2": 84.5}
+{"name": "아크로타워스퀘어", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 4.2, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 19, "area_m2": 84.5}
+{"name": "아크로타워스퀘어", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 47, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 19, "area_m2": 84.5}
+{"name": "아크로타워스퀘어", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 9.87, "jeonse_median_eok": 9.13, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 95, "area_m2": 84.5}
+{"name": "아크로타워스퀘어", "gu": "영등포", "claim": "annual_trade_count", "value": 50.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "아크로타워스퀘어", "gu": "영등포", "claim": "units", "value": 1221, "grade": "fact", "source": "public_record"}
+{"name": "아크로타워스퀘어", "gu": "영등포", "claim": "built_year", "value": 2017, "grade": "fact", "source": "public_record"}
+{"name": "래미안에스티움", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 18.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 38, "area_m2": 85.0}
+{"name": "래미안에스티움", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 17.95, "p75": 19.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 38, "area_m2": 85.0}
+{"name": "래미안에스티움", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 5.9, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 38, "area_m2": 85.0}
+{"name": "래미안에스티움", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 38, "area_m2": 85.0}
+{"name": "래미안에스티움", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 10.57, "jeonse_median_eok": 8.18, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 34, "area_m2": 85.0}
+{"name": "래미안에스티움", "gu": "영등포", "claim": "annual_trade_count", "value": 70.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "래미안에스티움", "gu": "영등포", "claim": "units", "value": 1722, "grade": "fact", "source": "public_record"}
+{"name": "래미안에스티움", "gu": "영등포", "claim": "built_year", "value": 2017, "grade": "fact", "source": "public_record"}
+{"name": "문래힐스테이트", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 18.55, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 10, "area_m2": 119.5}
+{"name": "문래힐스테이트", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 17.74, "p75": 19.43, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 10, "area_m2": 119.5}
+{"name": "문래힐스테이트", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 9.1, "jeonse_median_eok": 9.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 20, "area_m2": 119.5}
+{"name": "문래힐스테이트", "gu": "영등포", "claim": "annual_trade_count", "value": 22.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "문래힐스테이트", "gu": "영등포", "claim": "units", "value": 776, "grade": "fact", "source": "public_record"}
+{"name": "문래힐스테이트", "gu": "영등포", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
+{"name": "보라매SK뷰", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 18.52, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 26, "area_m2": 85.0}
+{"name": "보라매SK뷰", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 18.15, "p75": 19.49, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 26, "area_m2": 85.0}
+{"name": "보라매SK뷰", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 6.5, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 26, "area_m2": 85.0}
+{"name": "보라매SK뷰", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 80, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 26, "area_m2": 85.0}
+{"name": "보라매SK뷰", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 10.32, "jeonse_median_eok": 8.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 118, "area_m2": 85.0}
+{"name": "보라매SK뷰", "gu": "영등포", "claim": "annual_trade_count", "value": 45.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "보라매SK뷰", "gu": "영등포", "claim": "units", "value": 1546, "grade": "fact", "source": "public_record"}
+{"name": "보라매SK뷰", "gu": "영등포", "claim": "built_year", "value": 2020, "grade": "fact", "source": "public_record"}
+{"name": "신길파크자이", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 18.32, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 85.0}
+{"name": "신길파크자이", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 17.89, "p75": 18.52, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 85.0}
+{"name": "신길파크자이", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 7.2, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 85.0}
+{"name": "신길파크자이", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 87, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 85.0}
+{"name": "신길파크자이", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 10.07, "jeonse_median_eok": 8.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 26, "area_m2": 85.0}
+{"name": "신길파크자이", "gu": "영등포", "claim": "annual_trade_count", "value": 20.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "신길파크자이", "gu": "영등포", "claim": "units", "value": 641, "grade": "fact", "source": "public_record"}
+{"name": "신길파크자이", "gu": "영등포", "claim": "built_year", "value": 2022, "grade": "fact", "source": "public_record"}
+{"name": "문래자이", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 18.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 22, "area_m2": 85.0}
+{"name": "문래자이", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 17.07, "p75": 18.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 22, "area_m2": 85.0}
+{"name": "문래자이", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 3.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 22, "area_m2": 85.0}
+{"name": "문래자이", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 83, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 22, "area_m2": 85.0}
+{"name": "문래자이", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 10.25, "jeonse_median_eok": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 35, "area_m2": 85.0}
+{"name": "문래자이", "gu": "영등포", "claim": "annual_trade_count", "value": 34.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "문래자이", "gu": "영등포", "claim": "units", "value": 1302, "grade": "fact", "source": "public_record"}
+{"name": "문래자이", "gu": "영등포", "claim": "built_year", "value": 2001, "grade": "fact", "source": "public_record"}
+{"name": "강변래미안", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 17.95, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 13, "area_m2": 108.0}
+{"name": "강변래미안", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 15.0, "p75": 18.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 13, "area_m2": 108.0}
+{"name": "강변래미안", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 9.51, "jeonse_median_eok": 8.44, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 108.0}
+{"name": "강변래미안", "gu": "영등포", "claim": "annual_trade_count", "value": 37.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "강변래미안", "gu": "영등포", "claim": "units", "value": 801, "grade": "fact", "source": "public_record"}
+{"name": "강변래미안", "gu": "영등포", "claim": "built_year", "value": 2002, "grade": "fact", "source": "public_record"}
+{"name": "당산효성타운2차", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 17.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 84.5}
+{"name": "당산효성타운2차", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 16.7, "p75": 17.93, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 84.5}
+{"name": "당산효성타운2차", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 9.3, "jeonse_median_eok": 8.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 21, "area_m2": 84.5}
+{"name": "당산효성타운2차", "gu": "영등포", "claim": "annual_trade_count", "value": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "당산효성타운2차", "gu": "영등포", "claim": "units", "value": 258, "grade": "fact", "source": "public_record"}
+{"name": "당산효성타운2차", "gu": "영등포", "claim": "built_year", "value": 2001, "grade": "fact", "source": "public_record"}
+{"name": "당산반도유보라팰리스", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 17.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 158.0}
+{"name": "당산반도유보라팰리스", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 17.2, "p75": 18.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 158.0}
+{"name": "당산반도유보라팰리스", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 2.0, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 158.0}
+{"name": "당산반도유보라팰리스", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 50, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 158.0}
+{"name": "당산반도유보라팰리스", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 5.7, "jeonse_median_eok": 11.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 3, "area_m2": 158.0}
+{"name": "당산반도유보라팰리스", "gu": "영등포", "claim": "annual_trade_count", "value": 24.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "당산반도유보라팰리스", "gu": "영등포", "claim": "units", "value": 299, "grade": "fact", "source": "public_record"}
+{"name": "당산반도유보라팰리스", "gu": "영등포", "claim": "built_year", "value": 2010, "grade": "fact", "source": "public_record"}
+{"name": "당산푸르지오", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 17.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 133.5}
+{"name": "당산푸르지오", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 17.02, "p75": 17.82, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 133.5}
+{"name": "당산푸르지오", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 6.7, "jeonse_median_eok": 10.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 133.5}
+{"name": "당산푸르지오", "gu": "영등포", "claim": "annual_trade_count", "value": 19.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "당산푸르지오", "gu": "영등포", "claim": "units", "value": 538, "grade": "fact", "source": "public_record"}
+{"name": "당산푸르지오", "gu": "영등포", "claim": "built_year", "value": 2004, "grade": "fact", "source": "public_record"}
+{"name": "당산현대5차", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 17.05, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 17, "area_m2": 84.5}
+{"name": "당산현대5차", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 15.9, "p75": 18.12, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 17, "area_m2": 84.5}
+{"name": "당산현대5차", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 11.6, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 17, "area_m2": 84.5}
+{"name": "당산현대5차", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 81, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 17, "area_m2": 84.5}
+{"name": "당산현대5차", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 9.55, "jeonse_median_eok": 7.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 22, "area_m2": 84.5}
+{"name": "당산현대5차", "gu": "영등포", "claim": "annual_trade_count", "value": 45.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "당산현대5차", "gu": "영등포", "claim": "units", "value": 976, "grade": "fact", "source": "public_record"}
+{"name": "당산현대5차", "gu": "영등포", "claim": "built_year", "value": 2000, "grade": "fact", "source": "public_record"}
+{"name": "힐스테이트클래시안", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 16.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 37, "area_m2": 60.0}
+{"name": "힐스테이트클래시안", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 15.1, "p75": 16.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 37, "area_m2": 60.0}
+{"name": "힐스테이트클래시안", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 7.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 37, "area_m2": 60.0}
+{"name": "힐스테이트클래시안", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 80, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 37, "area_m2": 60.0}
+{"name": "힐스테이트클래시안", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 9.2, "jeonse_median_eok": 7.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 71, "area_m2": 60.0}
+{"name": "힐스테이트클래시안", "gu": "영등포", "claim": "annual_trade_count", "value": 60.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "힐스테이트클래시안", "gu": "영등포", "claim": "units", "value": 1476, "grade": "fact", "source": "public_record"}
+{"name": "힐스테이트클래시안", "gu": "영등포", "claim": "built_year", "value": 2020, "grade": "fact", "source": "public_record"}
+{"name": "신길센트럴자이", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 16.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 27, "area_m2": 60.0}
+{"name": "신길센트럴자이", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 15.15, "p75": 16.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 27, "area_m2": 60.0}
+{"name": "신길센트럴자이", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 9.29, "jeonse_median_eok": 6.81, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 70, "area_m2": 60.0}
+{"name": "신길센트럴자이", "gu": "영등포", "claim": "annual_trade_count", "value": 47.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "신길센트럴자이", "gu": "영등포", "claim": "units", "value": 1008, "grade": "fact", "source": "public_record"}
+{"name": "신길센트럴자이", "gu": "영등포", "claim": "built_year", "value": 2021, "grade": "fact", "source": "public_record"}
+{"name": "신길센트럴아이파크", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 16.02, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 14, "area_m2": 85.0}
+{"name": "신길센트럴아이파크", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 15.31, "p75": 16.56, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 14, "area_m2": 85.0}
+{"name": "신길센트럴아이파크", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 8.95, "jeonse_median_eok": 7.07, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 16, "area_m2": 85.0}
+{"name": "신길센트럴아이파크", "gu": "영등포", "claim": "annual_trade_count", "value": 25.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "신길센트럴아이파크", "gu": "영등포", "claim": "units", "value": 612, "grade": "fact", "source": "public_record"}
+{"name": "신길센트럴아이파크", "gu": "영등포", "claim": "built_year", "value": 2019, "grade": "fact", "source": "public_record"}
+{"name": "당산효성1차", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 15.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 60.0}
+{"name": "당산효성1차", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 15.32, "p75": 16.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 60.0}
+{"name": "당산효성1차", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 5.2, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 60.0}
+{"name": "당산효성1차", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 83, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 60.0}
+{"name": "당산효성1차", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 9.3, "jeonse_median_eok": 6.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 26, "area_m2": 60.0}
+{"name": "당산효성1차", "gu": "영등포", "claim": "annual_trade_count", "value": 17.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "당산효성1차", "gu": "영등포", "claim": "units", "value": 480, "grade": "fact", "source": "public_record"}
+{"name": "당산효성1차", "gu": "영등포", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "당산금호어울림", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 15.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 84.0}
+{"name": "당산금호어울림", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 14.03, "p75": 15.79, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 84.0}
+{"name": "당산금호어울림", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 6.0, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 84.0}
+{"name": "당산금호어울림", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 84.0}
+{"name": "당산금호어울림", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 8.05, "jeonse_median_eok": 7.35, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 19, "area_m2": 84.0}
+{"name": "당산금호어울림", "gu": "영등포", "claim": "annual_trade_count", "value": 10.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "당산금호어울림", "gu": "영등포", "claim": "units", "value": 292, "grade": "fact", "source": "public_record"}
+{"name": "당산금호어울림", "gu": "영등포", "claim": "built_year", "value": 2002, "grade": "fact", "source": "public_record"}
+{"name": "영등포아트자이", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 14.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 23, "area_m2": 85.0}
+{"name": "영등포아트자이", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 13.45, "p75": 15.34, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 23, "area_m2": 85.0}
+{"name": "영등포아트자이", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 5.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 23, "area_m2": 85.0}
+{"name": "영등포아트자이", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 23, "area_m2": 85.0}
+{"name": "영등포아트자이", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 7.85, "jeonse_median_eok": 7.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 42, "area_m2": 85.0}
+{"name": "영등포아트자이", "gu": "영등포", "claim": "annual_trade_count", "value": 31.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "영등포아트자이", "gu": "영등포", "claim": "units", "value": 836, "grade": "fact", "source": "public_record"}
+{"name": "영등포아트자이", "gu": "영등포", "claim": "built_year", "value": 2014, "grade": "fact", "source": "public_record"}
+{"name": "당산삼성2차", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 14.81, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 10, "area_m2": 85.0}
+{"name": "당산삼성2차", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 14.36, "p75": 15.59, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 10, "area_m2": 85.0}
+{"name": "당산삼성2차", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 8.01, "jeonse_median_eok": 6.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 13, "area_m2": 85.0}
+{"name": "당산삼성2차", "gu": "영등포", "claim": "annual_trade_count", "value": 19.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "당산삼성2차", "gu": "영등포", "claim": "units", "value": 392, "grade": "fact", "source": "public_record"}
+{"name": "당산삼성2차", "gu": "영등포", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
+{"name": "더샵파크프레스티지", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 14.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 24, "area_m2": 60.0}
+{"name": "더샵파크프레스티지", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 13.8, "p75": 14.91, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 24, "area_m2": 60.0}
+{"name": "더샵파크프레스티지", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 1.0, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 24, "area_m2": 60.0}
+{"name": "더샵파크프레스티지", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 93, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 24, "area_m2": 60.0}
+{"name": "더샵파크프레스티지", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 8.3, "jeonse_median_eok": 6.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 37, "area_m2": 60.0}
+{"name": "더샵파크프레스티지", "gu": "영등포", "claim": "annual_trade_count", "value": 34.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "더샵파크프레스티지", "gu": "영등포", "claim": "units", "value": 799, "grade": "fact", "source": "public_record"}
+{"name": "더샵파크프레스티지", "gu": "영등포", "claim": "built_year", "value": 2022, "grade": "fact", "source": "public_record"}
+{"name": "영등포푸르지오", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 14.78, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 38, "area_m2": 80.0}
+{"name": "영등포푸르지오", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 13.34, "p75": 15.69, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 38, "area_m2": 80.0}
+{"name": "영등포푸르지오", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 15.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 38, "area_m2": 80.0}
+{"name": "영등포푸르지오", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 81, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 38, "area_m2": 80.0}
+{"name": "영등포푸르지오", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 8.58, "jeonse_median_eok": 6.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 80, "area_m2": 80.0}
+{"name": "영등포푸르지오", "gu": "영등포", "claim": "annual_trade_count", "value": 100.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "영등포푸르지오", "gu": "영등포", "claim": "units", "value": 2462, "grade": "fact", "source": "public_record"}
+{"name": "영등포푸르지오", "gu": "영등포", "claim": "built_year", "value": 2002, "grade": "fact", "source": "public_record"}
+{"name": "브라운스톤당산", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 14.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 84.0}
+{"name": "브라운스톤당산", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 14.0, "p75": 16.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 84.0}
+{"name": "브라운스톤당산", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 13.0, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 84.0}
+{"name": "브라운스톤당산", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 98, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 84.0}
+{"name": "브라운스톤당산", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 6.9, "jeonse_median_eok": 7.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 23, "area_m2": 84.0}
+{"name": "브라운스톤당산", "gu": "영등포", "claim": "annual_trade_count", "value": 12.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "브라운스톤당산", "gu": "영등포", "claim": "units", "value": 162, "grade": "fact", "source": "public_record"}
+{"name": "브라운스톤당산", "gu": "영등포", "claim": "built_year", "value": 2015, "grade": "fact", "source": "public_record"}
+{"name": "우성2차", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 14.62, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 26, "area_m2": 84.5}
+{"name": "우성2차", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 13.82, "p75": 15.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 26, "area_m2": 84.5}
+{"name": "우성2차", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 8.6, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 26, "area_m2": 84.5}
+{"name": "우성2차", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 96, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 26, "area_m2": 84.5}
+{"name": "우성2차", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 10.82, "jeonse_median_eok": 3.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 23, "area_m2": 84.5}
+{"name": "우성2차", "gu": "영등포", "claim": "annual_trade_count", "value": 61.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "우성2차", "gu": "영등포", "claim": "units", "value": 120, "grade": "fact", "source": "public_record"}
+{"name": "우성2차", "gu": "영등포", "claim": "built_year", "value": 1992, "grade": "fact", "source": "public_record"}
+{"name": "문래금호어울림", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 14.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 3, "area_m2": 85.0}
+{"name": "문래금호어울림", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 7.4, "jeonse_median_eok": 7.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 85.0}
+{"name": "문래금호어울림", "gu": "영등포", "claim": "annual_trade_count", "value": 3.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "문래금호어울림", "gu": "영등포", "claim": "units", "value": 134, "grade": "fact", "source": "public_record"}
+{"name": "문래금호어울림", "gu": "영등포", "claim": "built_year", "value": 2006, "grade": "fact", "source": "public_record"}
+{"name": "동부센트레빌", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 14.47, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 4, "area_m2": 95.0}
+{"name": "동부센트레빌", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 7.47, "jeonse_median_eok": 7.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 95.0}
+{"name": "동부센트레빌", "gu": "영등포", "claim": "annual_trade_count", "value": 13.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "동부센트레빌", "gu": "영등포", "claim": "units", "value": 468, "grade": "fact", "source": "public_record"}
+{"name": "동부센트레빌", "gu": "영등포", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
+{"name": "문래모아미래도", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 14.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 16, "area_m2": 85.0}
+{"name": "문래모아미래도", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 14.28, "p75": 14.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 16, "area_m2": 85.0}
+{"name": "문래모아미래도", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": -0.3, "direction": "▼", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 16, "area_m2": 85.0}
+{"name": "문래모아미래도", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 82, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 16, "area_m2": 85.0}
+{"name": "문래모아미래도", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 7.07, "jeonse_median_eok": 7.33, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 32, "area_m2": 85.0}
+{"name": "문래모아미래도", "gu": "영등포", "claim": "annual_trade_count", "value": 16.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "문래모아미래도", "gu": "영등포", "claim": "units", "value": 222, "grade": "fact", "source": "public_record"}
+{"name": "문래모아미래도", "gu": "영등포", "claim": "built_year", "value": 2017, "grade": "fact", "source": "public_record"}
+{"name": "포레나신길", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 13.65, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 84.5}
+{"name": "포레나신길", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 13.0, "p75": 14.66, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 84.5}
+{"name": "포레나신길", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 16.9, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 84.5}
+{"name": "포레나신길", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 76, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 84.5}
+{"name": "포레나신길", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 7.15, "jeonse_median_eok": 6.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 84.5}
+{"name": "포레나신길", "gu": "영등포", "claim": "annual_trade_count", "value": 11.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "포레나신길", "gu": "영등포", "claim": "units", "value": 284, "grade": "fact", "source": "public_record"}
+{"name": "포레나신길", "gu": "영등포", "claim": "built_year", "value": 2008, "grade": "fact", "source": "public_record"}
+{"name": "e편한세상영등포아델포레", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 13.55, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 36, "area_m2": 85.0}
+{"name": "e편한세상영등포아델포레", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 13.0, "p75": 15.53, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 36, "area_m2": 85.0}
+{"name": "e편한세상영등포아델포레", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 18.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 36, "area_m2": 85.0}
+{"name": "e편한세상영등포아델포레", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 36, "area_m2": 85.0}
+{"name": "e편한세상영등포아델포레", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 6.2, "jeonse_median_eok": 7.35, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 60, "area_m2": 85.0}
+{"name": "e편한세상영등포아델포레", "gu": "영등포", "claim": "annual_trade_count", "value": 53.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "e편한세상영등포아델포레", "gu": "영등포", "claim": "units", "value": 859, "grade": "fact", "source": "public_record"}
+{"name": "e편한세상영등포아델포레", "gu": "영등포", "claim": "built_year", "value": 2020, "grade": "fact", "source": "public_record"}
+{"name": "한강", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 13.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 85.0}
+{"name": "한강", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 12.5, "p75": 13.95, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 85.0}
+{"name": "한강", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 2.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 85.0}
+{"name": "한강", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 58, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 85.0}
+{"name": "한강", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 6.59, "jeonse_median_eok": 6.86, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 15, "area_m2": 85.0}
+{"name": "한강", "gu": "영등포", "claim": "annual_trade_count", "value": 16.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "한강", "gu": "영등포", "claim": "units", "value": 265, "grade": "fact", "source": "public_record"}
+{"name": "한강", "gu": "영등포", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "당산현대3차", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 13.38, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 10, "area_m2": 59.0}
+{"name": "당산현대3차", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 12.74, "p75": 14.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 10, "area_m2": 59.0}
+{"name": "당산현대3차", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 17.7, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 10, "area_m2": 59.0}
+{"name": "당산현대3차", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 99, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 10, "area_m2": 59.0}
+{"name": "당산현대3차", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 8.38, "jeonse_median_eok": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 33, "area_m2": 59.0}
+{"name": "당산현대3차", "gu": "영등포", "claim": "annual_trade_count", "value": 23.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "당산현대3차", "gu": "영등포", "claim": "units", "value": 509, "grade": "fact", "source": "public_record"}
+{"name": "당산현대3차", "gu": "영등포", "claim": "built_year", "value": 1988, "grade": "fact", "source": "public_record"}
+{"name": "래미안당산1차", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 13.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 4, "area_m2": 60.0}
+{"name": "래미안당산1차", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 7.63, "jeonse_median_eok": 5.62, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 18, "area_m2": 60.0}
+{"name": "래미안당산1차", "gu": "영등포", "claim": "annual_trade_count", "value": 9.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "래미안당산1차", "gu": "영등포", "claim": "units", "value": 348, "grade": "fact", "source": "public_record"}
+{"name": "래미안당산1차", "gu": "영등포", "claim": "built_year", "value": 1995, "grade": "fact", "source": "public_record"}
+{"name": "양평한신", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 13.14, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 36, "area_m2": 59.0}
+{"name": "양평한신", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 11.0, "p75": 13.46, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 36, "area_m2": 59.0}
+{"name": "양평한신", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 17.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 36, "area_m2": 59.0}
+{"name": "양평한신", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 89, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 36, "area_m2": 59.0}
+{"name": "양평한신", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 7.94, "jeonse_median_eok": 5.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 72, "area_m2": 59.0}
+{"name": "양평한신", "gu": "영등포", "claim": "annual_trade_count", "value": 57.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "양평한신", "gu": "영등포", "claim": "units", "value": 1215, "grade": "fact", "source": "public_record"}
+{"name": "양평한신", "gu": "영등포", "claim": "built_year", "value": 1996, "grade": "fact", "source": "public_record"}
+{"name": "센트레빌아스테리움영등포", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 13.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 60.0}
+{"name": "센트레빌아스테리움영등포", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 13.1, "p75": 13.12, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 60.0}
+{"name": "센트레빌아스테리움영등포", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 6.0, "jeonse_median_eok": 7.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 4, "area_m2": 60.0}
+{"name": "센트레빌아스테리움영등포", "gu": "영등포", "claim": "annual_trade_count", "value": 9.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "센트레빌아스테리움영등포", "gu": "영등포", "claim": "units", "value": 156, "grade": "fact", "source": "public_record"}
+{"name": "센트레빌아스테리움영등포", "gu": "영등포", "claim": "built_year", "value": 2024, "grade": "fact", "source": "public_record"}
+{"name": "포레나영등포센트럴(주상복합)", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 13.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 60.0}
+{"name": "포레나영등포센트럴(주상복합)", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 12.4, "p75": 13.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 60.0}
+{"name": "포레나영등포센트럴(주상복합)", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 5.6, "jeonse_median_eok": 7.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 60.0}
+{"name": "포레나영등포센트럴(주상복합)", "gu": "영등포", "claim": "annual_trade_count", "value": 15.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "포레나영등포센트럴(주상복합)", "gu": "영등포", "claim": "units", "value": 185, "grade": "fact", "source": "public_record"}
+{"name": "포레나영등포센트럴(주상복합)", "gu": "영등포", "claim": "built_year", "value": 2020, "grade": "fact", "source": "public_record"}
+{"name": "e편한세상문래에듀플라츠", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 12.95, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 60.0}
+{"name": "e편한세상문래에듀플라츠", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 12.36, "p75": 13.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 60.0}
+{"name": "e편한세상문래에듀플라츠", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 7.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 60.0}
+{"name": "e편한세상문래에듀플라츠", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 51, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 60.0}
+{"name": "e편한세상문래에듀플라츠", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 6.1, "jeonse_median_eok": 6.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 20, "area_m2": 60.0}
+{"name": "e편한세상문래에듀플라츠", "gu": "영등포", "claim": "annual_trade_count", "value": 13.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "e편한세상문래에듀플라츠", "gu": "영등포", "claim": "units", "value": 263, "grade": "fact", "source": "public_record"}
+{"name": "e편한세상문래에듀플라츠", "gu": "영등포", "claim": "built_year", "value": 2020, "grade": "fact", "source": "public_record"}
+{"name": "거성파스텔", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 12.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 13, "area_m2": 85.0}
+{"name": "거성파스텔", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 11.7, "p75": 13.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 13, "area_m2": 85.0}
+{"name": "거성파스텔", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 6.4, "jeonse_median_eok": 6.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 15, "area_m2": 85.0}
+{"name": "거성파스텔", "gu": "영등포", "claim": "annual_trade_count", "value": 20.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "거성파스텔", "gu": "영등포", "claim": "units", "value": 532, "grade": "fact", "source": "public_record"}
+{"name": "거성파스텔", "gu": "영등포", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "양평현대6차", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 12.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 22, "area_m2": 60.0}
+{"name": "양평현대6차", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 10.7, "p75": 13.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 22, "area_m2": 60.0}
+{"name": "양평현대6차", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 15.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 22, "area_m2": 60.0}
+{"name": "양평현대6차", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 94, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 22, "area_m2": 60.0}
+{"name": "양평현대6차", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 7.3, "jeonse_median_eok": 5.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 27, "area_m2": 60.0}
+{"name": "양평현대6차", "gu": "영등포", "claim": "annual_trade_count", "value": 41.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "양평현대6차", "gu": "영등포", "claim": "units", "value": 770, "grade": "fact", "source": "public_record"}
+{"name": "양평현대6차", "gu": "영등포", "claim": "built_year", "value": 2000, "grade": "fact", "source": "public_record"}
+{"name": "삼성래미안", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 12.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 27, "area_m2": 114.0}
+{"name": "삼성래미안", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 12.0, "p75": 13.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 27, "area_m2": 114.0}
+{"name": "삼성래미안", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 8.9, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 27, "area_m2": 114.0}
+{"name": "삼성래미안", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 74, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 27, "area_m2": 114.0}
+{"name": "삼성래미안", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 5.9, "jeonse_median_eok": 6.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 114.0}
+{"name": "삼성래미안", "gu": "영등포", "claim": "annual_trade_count", "value": 93.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "삼성래미안", "gu": "영등포", "claim": "units", "value": 1213, "grade": "fact", "source": "public_record"}
+{"name": "삼성래미안", "gu": "영등포", "claim": "built_year", "value": 2001, "grade": "fact", "source": "public_record"}
+{"name": "당산어울림2차", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 12.15, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 4, "area_m2": 85.0}
+{"name": "당산어울림2차", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 4.7, "jeonse_median_eok": 7.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 85.0}
+{"name": "당산어울림2차", "gu": "영등포", "claim": "annual_trade_count", "value": 4.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "당산어울림2차", "gu": "영등포", "claim": "units", "value": 125, "grade": "fact", "source": "public_record"}
+{"name": "당산어울림2차", "gu": "영등포", "claim": "built_year", "value": 2009, "grade": "fact", "source": "public_record"}
+{"name": "문래공원한신", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 12.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 17, "area_m2": 59.0}
+{"name": "문래공원한신", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 10.75, "p75": 13.05, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 17, "area_m2": 59.0}
+{"name": "문래공원한신", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 11.7, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 17, "area_m2": 59.0}
+{"name": "문래공원한신", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 95, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 17, "area_m2": 59.0}
+{"name": "문래공원한신", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 7.1, "jeonse_median_eok": 4.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 28, "area_m2": 59.0}
+{"name": "문래공원한신", "gu": "영등포", "claim": "annual_trade_count", "value": 23.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "문래공원한신", "gu": "영등포", "claim": "units", "value": 367, "grade": "fact", "source": "public_record"}
+{"name": "문래공원한신", "gu": "영등포", "claim": "built_year", "value": 1988, "grade": "fact", "source": "public_record"}
+{"name": "보라매두산위브", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 12.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 136.5}
+{"name": "보라매두산위브", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 11.6, "p75": 12.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 136.5}
+{"name": "보라매두산위브", "gu": "영등포", "claim": "annual_trade_count", "value": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "보라매두산위브", "gu": "영등포", "claim": "units", "value": 164, "grade": "fact", "source": "public_record"}
+{"name": "보라매두산위브", "gu": "영등포", "claim": "built_year", "value": 2005, "grade": "fact", "source": "public_record"}
+{"name": "성원", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 12.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 18, "area_m2": 84.5}
+{"name": "성원", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 10.11, "p75": 12.98, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 18, "area_m2": 84.5}
+{"name": "성원", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 25.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 18, "area_m2": 84.5}
+{"name": "성원", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 91, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 18, "area_m2": 84.5}
+{"name": "성원", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 6.0, "jeonse_median_eok": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 32, "area_m2": 84.5}
+{"name": "성원", "gu": "영등포", "claim": "annual_trade_count", "value": 25.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "성원", "gu": "영등포", "claim": "units", "value": 205, "grade": "fact", "source": "public_record"}
+{"name": "성원", "gu": "영등포", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
+{"name": "동보", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 11.95, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 84.5}
+{"name": "동보", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 11.9, "p75": 12.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 84.5}
+{"name": "동보", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 3.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 84.5}
+{"name": "동보", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 95, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 84.5}
+{"name": "동보", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 5.55, "jeonse_median_eok": 6.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 84.5}
+{"name": "동보", "gu": "영등포", "claim": "annual_trade_count", "value": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "동보", "gu": "영등포", "claim": "units", "value": 184, "grade": "fact", "source": "public_record"}
+{"name": "동보", "gu": "영등포", "claim": "built_year", "value": 1998, "grade": "fact", "source": "public_record"}
+{"name": "한성", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 11.68, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 60.0}
+{"name": "한성", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 9.35, "p75": 12.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 60.0}
+{"name": "한성", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 28.0, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 60.0}
+{"name": "한성", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 100, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 60.0}
+{"name": "한성", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 7.17, "jeonse_median_eok": 4.51, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 10, "area_m2": 60.0}
+{"name": "한성", "gu": "영등포", "claim": "annual_trade_count", "value": 22.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "한성", "gu": "영등포", "claim": "units", "value": 420, "grade": "fact", "source": "public_record"}
+{"name": "한성", "gu": "영등포", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
+{"name": "진로", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 11.54, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 59.5}
+{"name": "진로", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 10.82, "p75": 12.62, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 59.5}
+{"name": "진로", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 6.24, "jeonse_median_eok": 5.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 30, "area_m2": 59.5}
+{"name": "진로", "gu": "영등포", "claim": "annual_trade_count", "value": 17.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "진로", "gu": "영등포", "claim": "units", "value": 461, "grade": "fact", "source": "public_record"}
+{"name": "진로", "gu": "영등포", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
+{"name": "두산위브", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 11.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 60.0}
+{"name": "두산위브", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 11.2, "p75": 11.72, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 60.0}
+{"name": "두산위브", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 9.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 60.0}
+{"name": "두산위브", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 92, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 60.0}
+{"name": "두산위브", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 6.5, "jeonse_median_eok": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 15, "area_m2": 60.0}
+{"name": "두산위브", "gu": "영등포", "claim": "annual_trade_count", "value": 12.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "두산위브", "gu": "영등포", "claim": "units", "value": 271, "grade": "fact", "source": "public_record"}
+{"name": "두산위브", "gu": "영등포", "claim": "built_year", "value": 2004, "grade": "fact", "source": "public_record"}
+{"name": "삼환", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 11.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 51, "area_m2": 59.0}
+{"name": "삼환", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 9.72, "p75": 12.88, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 51, "area_m2": 59.0}
+{"name": "삼환", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 26.7, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 51, "area_m2": 59.0}
+{"name": "삼환", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 82, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 51, "area_m2": 59.0}
+{"name": "삼환", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 6.2, "jeonse_median_eok": 5.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 56, "area_m2": 59.0}
+{"name": "삼환", "gu": "영등포", "claim": "annual_trade_count", "value": 107.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "삼환", "gu": "영등포", "claim": "units", "value": 1174, "grade": "fact", "source": "public_record"}
+{"name": "삼환", "gu": "영등포", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
+{"name": "문래우정", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 11.12, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 2, "area_m2": 85.0}
+{"name": "문래우정", "gu": "영등포", "claim": "annual_trade_count", "value": 4.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "문래우정", "gu": "영등포", "claim": "units", "value": 103, "grade": "fact", "source": "public_record"}
+{"name": "문래우정", "gu": "영등포", "claim": "built_year", "value": 1998, "grade": "fact", "source": "public_record"}
+{"name": "삼천리", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 11.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 85.0}
+{"name": "삼천리", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 10.85, "p75": 11.43, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 85.0}
+{"name": "삼천리", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 9.6, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 85.0}
+{"name": "삼천리", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 100, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 85.0}
+{"name": "삼천리", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 4.75, "jeonse_median_eok": 6.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 85.0}
+{"name": "삼천리", "gu": "영등포", "claim": "annual_trade_count", "value": 17.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "삼천리", "gu": "영등포", "claim": "units", "value": 179, "grade": "fact", "source": "public_record"}
+{"name": "삼천리", "gu": "영등포", "claim": "built_year", "value": 2000, "grade": "fact", "source": "public_record"}
+{"name": "현대3차", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 10.84, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 19, "area_m2": 59.0}
+{"name": "현대3차", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 9.65, "p75": 11.36, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 19, "area_m2": 59.0}
+{"name": "현대3차", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 14.9, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 19, "area_m2": 59.0}
+{"name": "현대3차", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 95, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 19, "area_m2": 59.0}
+{"name": "현대3차", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 6.04, "jeonse_median_eok": 4.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 29, "area_m2": 59.0}
+{"name": "현대3차", "gu": "영등포", "claim": "annual_trade_count", "value": 103.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "현대3차", "gu": "영등포", "claim": "units", "value": 1162, "grade": "fact", "source": "public_record"}
+{"name": "현대3차", "gu": "영등포", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
+{"name": "신길자이", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 10.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 85.0}
+{"name": "신길자이", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 10.7, "p75": 10.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 85.0}
+{"name": "신길자이", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 4.9, "jeonse_median_eok": 5.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 85.0}
+{"name": "신길자이", "gu": "영등포", "claim": "annual_trade_count", "value": 11.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "신길자이", "gu": "영등포", "claim": "units", "value": 198, "grade": "fact", "source": "public_record"}
+{"name": "신길자이", "gu": "영등포", "claim": "built_year", "value": 2011, "grade": "fact", "source": "public_record"}
+{"name": "보라매경남아너스빌", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 10.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 59.0}
+{"name": "보라매경남아너스빌", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 9.97, "p75": 11.97, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 59.0}
+{"name": "보라매경남아너스빌", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 21.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 59.0}
+{"name": "보라매경남아너스빌", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 99, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 59.0}
+{"name": "보라매경남아너스빌", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 6.2, "jeonse_median_eok": 4.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 59.0}
+{"name": "보라매경남아너스빌", "gu": "영등포", "claim": "annual_trade_count", "value": 36.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "보라매경남아너스빌", "gu": "영등포", "claim": "units", "value": 669, "grade": "fact", "source": "public_record"}
+{"name": "보라매경남아너스빌", "gu": "영등포", "claim": "built_year", "value": 2005, "grade": "fact", "source": "public_record"}
+{"name": "문래건영", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 10.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 59.5}
+{"name": "문래건영", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 8.88, "p75": 11.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 59.5}
+{"name": "문래건영", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 32.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 59.5}
+{"name": "문래건영", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 99, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 59.5}
+{"name": "문래건영", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 6.3, "jeonse_median_eok": 4.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 59.5}
+{"name": "문래건영", "gu": "영등포", "claim": "annual_trade_count", "value": 14.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "문래건영", "gu": "영등포", "claim": "units", "value": 141, "grade": "fact", "source": "public_record"}
+{"name": "문래건영", "gu": "영등포", "claim": "built_year", "value": 1998, "grade": "fact", "source": "public_record"}
+{"name": "문래두산위브", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 10.32, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 65.5}
+{"name": "문래두산위브", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 10.04, "p75": 11.28, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 65.5}
+{"name": "문래두산위브", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 16.0, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 65.5}
+{"name": "문래두산위브", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 93, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 65.5}
+{"name": "문래두산위브", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 6.02, "jeonse_median_eok": 4.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 16, "area_m2": 65.5}
+{"name": "문래두산위브", "gu": "영등포", "claim": "annual_trade_count", "value": 12.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "문래두산위브", "gu": "영등포", "claim": "units", "value": 383, "grade": "fact", "source": "public_record"}
+{"name": "문래두산위브", "gu": "영등포", "claim": "built_year", "value": 1988, "grade": "fact", "source": "public_record"}
+{"name": "동아에코빌", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 10.07, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 85.0}
+{"name": "동아에코빌", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 9.66, "p75": 10.49, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 85.0}
+{"name": "동아에코빌", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 4.57, "jeonse_median_eok": 5.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 85.0}
+{"name": "동아에코빌", "gu": "영등포", "claim": "annual_trade_count", "value": 11.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "동아에코빌", "gu": "영등포", "claim": "units", "value": 346, "grade": "fact", "source": "public_record"}
+{"name": "동아에코빌", "gu": "영등포", "claim": "built_year", "value": 2000, "grade": "fact", "source": "public_record"}
+{"name": "보라매신동아파밀리에", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 10.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 19, "area_m2": 85.0}
+{"name": "보라매신동아파밀리에", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 9.85, "p75": 10.72, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 19, "area_m2": 85.0}
+{"name": "보라매신동아파밀리에", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 14.5, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 19, "area_m2": 85.0}
+{"name": "보라매신동아파밀리에", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 77, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 19, "area_m2": 85.0}
+{"name": "보라매신동아파밀리에", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 4.1, "jeonse_median_eok": 5.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 25, "area_m2": 85.0}
+{"name": "보라매신동아파밀리에", "gu": "영등포", "claim": "annual_trade_count", "value": 20.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "보라매신동아파밀리에", "gu": "영등포", "claim": "units", "value": 247, "grade": "fact", "source": "public_record"}
+{"name": "보라매신동아파밀리에", "gu": "영등포", "claim": "built_year", "value": 2016, "grade": "fact", "source": "public_record"}
+{"name": "문래현대5차", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 9.78, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 17, "area_m2": 85.0}
+{"name": "문래현대5차", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 8.72, "p75": 10.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 17, "area_m2": 85.0}
+{"name": "문래현대5차", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 4.58, "jeonse_median_eok": 5.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 15, "area_m2": 85.0}
+{"name": "문래현대5차", "gu": "영등포", "claim": "annual_trade_count", "value": 17.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "문래현대5차", "gu": "영등포", "claim": "units", "value": 282, "grade": "fact", "source": "public_record"}
+{"name": "문래현대5차", "gu": "영등포", "claim": "built_year", "value": 1992, "grade": "fact", "source": "public_record"}
+{"name": "양평역미소지움", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 9.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 59.5}
+{"name": "양평역미소지움", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 9.2, "p75": 10.05, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 59.5}
+{"name": "양평역미소지움", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 4.22, "jeonse_median_eok": 5.38, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 59.5}
+{"name": "양평역미소지움", "gu": "영등포", "claim": "annual_trade_count", "value": 16.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "양평역미소지움", "gu": "영등포", "claim": "units", "value": 128, "grade": "fact", "source": "public_record"}
+{"name": "양평역미소지움", "gu": "영등포", "claim": "built_year", "value": 2018, "grade": "fact", "source": "public_record"}
+{"name": "삼호한숲", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 9.54, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 4, "area_m2": 60.0}
+{"name": "삼호한숲", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 4.04, "jeonse_median_eok": 5.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 16, "area_m2": 60.0}
+{"name": "삼호한숲", "gu": "영등포", "claim": "annual_trade_count", "value": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "삼호한숲", "gu": "영등포", "claim": "units", "value": 216, "grade": "fact", "source": "public_record"}
+{"name": "삼호한숲", "gu": "영등포", "claim": "built_year", "value": 2000, "grade": "fact", "source": "public_record"}
+{"name": "경남아너스빌", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 9.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 23, "area_m2": 60.0}
+{"name": "경남아너스빌", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 8.15, "p75": 10.93, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 23, "area_m2": 60.0}
+{"name": "경남아너스빌", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 28.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 23, "area_m2": 60.0}
+{"name": "경남아너스빌", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 58, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 23, "area_m2": 60.0}
+{"name": "경남아너스빌", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 4.15, "jeonse_median_eok": 5.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 52, "area_m2": 60.0}
+{"name": "경남아너스빌", "gu": "영등포", "claim": "annual_trade_count", "value": 44.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "경남아너스빌", "gu": "영등포", "claim": "units", "value": 600, "grade": "fact", "source": "public_record"}
+{"name": "경남아너스빌", "gu": "영등포", "claim": "built_year", "value": 1998, "grade": "fact", "source": "public_record"}
+{"name": "신대림자이2단지", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 9.26, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 84.0}
+{"name": "신대림자이2단지", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 8.79, "p75": 9.88, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 84.0}
+{"name": "신대림자이2단지", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 10.9, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 84.0}
+{"name": "신대림자이2단지", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 74, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 84.0}
+{"name": "신대림자이2단지", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 3.26, "jeonse_median_eok": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 84.0}
+{"name": "신대림자이2단지", "gu": "영등포", "claim": "annual_trade_count", "value": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "신대림자이2단지", "gu": "영등포", "claim": "units", "value": 159, "grade": "fact", "source": "public_record"}
+{"name": "신대림자이2단지", "gu": "영등포", "claim": "built_year", "value": 2007, "grade": "fact", "source": "public_record"}
+{"name": "동양", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 9.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 60.0}
+{"name": "동양", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 8.25, "p75": 9.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 60.0}
+{"name": "동양", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 4.2, "jeonse_median_eok": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 60.0}
+{"name": "동양", "gu": "영등포", "claim": "annual_trade_count", "value": 15.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "동양", "gu": "영등포", "claim": "units", "value": 263, "grade": "fact", "source": "public_record"}
+{"name": "동양", "gu": "영등포", "claim": "built_year", "value": 2000, "grade": "fact", "source": "public_record"}
+{"name": "대원", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 9.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 60.0}
+{"name": "대원", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 7.18, "p75": 9.48, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 60.0}
+{"name": "대원", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 33.7, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 60.0}
+{"name": "대원", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 84, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 60.0}
+{"name": "대원", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 4.95, "jeonse_median_eok": 4.05, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 60.0}
+{"name": "대원", "gu": "영등포", "claim": "annual_trade_count", "value": 14.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "대원", "gu": "영등포", "claim": "units", "value": 218, "grade": "fact", "source": "public_record"}
+{"name": "대원", "gu": "영등포", "claim": "built_year", "value": 1998, "grade": "fact", "source": "public_record"}
+{"name": "신대림자이1단지", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 8.95, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 84.0}
+{"name": "신대림자이1단지", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 8.71, "p75": 9.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 84.0}
+{"name": "신대림자이1단지", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 1.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 84.0}
+{"name": "신대림자이1단지", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 66, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 84.0}
+{"name": "신대림자이1단지", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 3.37, "jeonse_median_eok": 5.58, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 10, "area_m2": 84.0}
+{"name": "신대림자이1단지", "gu": "영등포", "claim": "annual_trade_count", "value": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "신대림자이1단지", "gu": "영등포", "claim": "units", "value": 155, "grade": "fact", "source": "public_record"}
+{"name": "신대림자이1단지", "gu": "영등포", "claim": "built_year", "value": 2007, "grade": "fact", "source": "public_record"}
+{"name": "양평벽산블루밍", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 8.95, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 20, "area_m2": 59.5}
+{"name": "양평벽산블루밍", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 8.09, "p75": 9.93, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 20, "area_m2": 59.5}
+{"name": "양평벽산블루밍", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 19.5, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 20, "area_m2": 59.5}
+{"name": "양평벽산블루밍", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 78, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 20, "area_m2": 59.5}
+{"name": "양평벽산블루밍", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 4.75, "jeonse_median_eok": 4.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 33, "area_m2": 59.5}
+{"name": "양평벽산블루밍", "gu": "영등포", "claim": "annual_trade_count", "value": 28.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "양평벽산블루밍", "gu": "영등포", "claim": "units", "value": 417, "grade": "fact", "source": "public_record"}
+{"name": "양평벽산블루밍", "gu": "영등포", "claim": "built_year", "value": 1990, "grade": "fact", "source": "public_record"}
+{"name": "유원문래", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 8.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 85.0}
+{"name": "유원문래", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 8.0, "p75": 9.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 85.0}
+{"name": "유원문래", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 3.1, "jeonse_median_eok": 5.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 85.0}
+{"name": "유원문래", "gu": "영등포", "claim": "annual_trade_count", "value": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "유원문래", "gu": "영등포", "claim": "units", "value": 134, "grade": "fact", "source": "public_record"}
+{"name": "유원문래", "gu": "영등포", "claim": "built_year", "value": 1991, "grade": "fact", "source": "public_record"}
+{"name": "신대림신동아파밀리에", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 8.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 85.0}
+{"name": "신대림신동아파밀리에", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 8.6, "p75": 9.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 85.0}
+{"name": "신대림신동아파밀리에", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 1.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 85.0}
+{"name": "신대림신동아파밀리에", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 38, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 85.0}
+{"name": "신대림신동아파밀리에", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 4.1, "jeonse_median_eok": 4.65, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 2, "area_m2": 85.0}
+{"name": "신대림신동아파밀리에", "gu": "영등포", "claim": "annual_trade_count", "value": 14.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "신대림신동아파밀리에", "gu": "영등포", "claim": "units", "value": 185, "grade": "fact", "source": "public_record"}
+{"name": "신대림신동아파밀리에", "gu": "영등포", "claim": "built_year", "value": 2013, "grade": "fact", "source": "public_record"}
+{"name": "순영웰라이빌", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 8.65, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 3, "area_m2": 85.0}
+{"name": "순영웰라이빌", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 3.6, "jeonse_median_eok": 5.05, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 85.0}
+{"name": "순영웰라이빌", "gu": "영등포", "claim": "annual_trade_count", "value": 3.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "순영웰라이빌", "gu": "영등포", "claim": "units", "value": 136, "grade": "fact", "source": "public_record"}
+{"name": "순영웰라이빌", "gu": "영등포", "claim": "built_year", "value": 2002, "grade": "fact", "source": "public_record"}
+{"name": "신길AK푸르지오", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 8.47, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 3, "area_m2": 49.0}
+{"name": "신길AK푸르지오", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 3.17, "jeonse_median_eok": 5.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 31, "area_m2": 49.0}
+{"name": "신길AK푸르지오", "gu": "영등포", "claim": "annual_trade_count", "value": 3.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "신길AK푸르지오", "gu": "영등포", "claim": "units", "value": 296, "grade": "fact", "source": "public_record"}
+{"name": "신길AK푸르지오", "gu": "영등포", "claim": "built_year", "value": 2024, "grade": "fact", "source": "public_record"}
+{"name": "당산계룡리슈빌3단지(도시형)", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 8.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 19, "area_m2": 50.0}
+{"name": "당산계룡리슈빌3단지(도시형)", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 8.05, "p75": 8.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 19, "area_m2": 50.0}
+{"name": "당산계룡리슈빌3단지(도시형)", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 6.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 19, "area_m2": 50.0}
+{"name": "당산계룡리슈빌3단지(도시형)", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 96, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 19, "area_m2": 50.0}
+{"name": "당산계룡리슈빌3단지(도시형)", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 3.07, "jeonse_median_eok": 5.38, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 20, "area_m2": 50.0}
+{"name": "당산계룡리슈빌3단지(도시형)", "gu": "영등포", "claim": "annual_trade_count", "value": 19.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "당산계룡리슈빌3단지(도시형)", "gu": "영등포", "claim": "units", "value": 149, "grade": "fact", "source": "public_record"}
+{"name": "당산계룡리슈빌3단지(도시형)", "gu": "영등포", "claim": "built_year", "value": 2014, "grade": "fact", "source": "public_record"}
+{"name": "우성1차", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 8.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 42, "area_m2": 49.5}
+{"name": "우성1차", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 6.15, "p75": 9.61, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 42, "area_m2": 49.5}
+{"name": "우성1차", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 24.9, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 42, "area_m2": 49.5}
+{"name": "우성1차", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 81, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 42, "area_m2": 49.5}
+{"name": "우성1차", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 5.43, "jeonse_median_eok": 3.02, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 24, "area_m2": 49.5}
+{"name": "우성1차", "gu": "영등포", "claim": "annual_trade_count", "value": 97.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "우성1차", "gu": "영등포", "claim": "units", "value": 435, "grade": "fact", "source": "public_record"}
+{"name": "우성1차", "gu": "영등포", "claim": "built_year", "value": 1985, "grade": "fact", "source": "public_record"}
+{"name": "현대1차", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 8.43, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 10, "area_m2": 64.5}
+{"name": "현대1차", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 7.8, "p75": 8.67, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 10, "area_m2": 64.5}
+{"name": "현대1차", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 3.93, "jeonse_median_eok": 4.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 64.5}
+{"name": "현대1차", "gu": "영등포", "claim": "annual_trade_count", "value": 18.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "현대1차", "gu": "영등포", "claim": "units", "value": 476, "grade": "fact", "source": "public_record"}
+{"name": "현대1차", "gu": "영등포", "claim": "built_year", "value": 1992, "grade": "fact", "source": "public_record"}
+{"name": "문래미원", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 8.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 59.5}
+{"name": "문래미원", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 7.8, "p75": 8.95, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 59.5}
+{"name": "문래미원", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 3.75, "jeonse_median_eok": 4.55, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 2, "area_m2": 59.5}
+{"name": "문래미원", "gu": "영등포", "claim": "annual_trade_count", "value": 7.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "문래미원", "gu": "영등포", "claim": "units", "value": 170, "grade": "fact", "source": "public_record"}
+{"name": "문래미원", "gu": "영등포", "claim": "built_year", "value": 1996, "grade": "fact", "source": "public_record"}
+{"name": "문래대림", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 7.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 60.0}
+{"name": "문래대림", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 7.59, "p75": 7.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 60.0}
+{"name": "문래대림", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 3.15, "jeonse_median_eok": 4.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 13, "area_m2": 60.0}
+{"name": "문래대림", "gu": "영등포", "claim": "annual_trade_count", "value": 14.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "문래대림", "gu": "영등포", "claim": "units", "value": 200, "grade": "fact", "source": "public_record"}
+{"name": "문래대림", "gu": "영등포", "claim": "built_year", "value": 2000, "grade": "fact", "source": "public_record"}
+{"name": "오목교벽산블루밍", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 7.65, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 60.0}
+{"name": "오목교벽산블루밍", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 7.24, "p75": 7.83, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 60.0}
+{"name": "오목교벽산블루밍", "gu": "영등포", "claim": "annual_trade_count", "value": 13.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "오목교벽산블루밍", "gu": "영등포", "claim": "units", "value": 114, "grade": "fact", "source": "public_record"}
+{"name": "오목교벽산블루밍", "gu": "영등포", "claim": "built_year", "value": 1996, "grade": "fact", "source": "public_record"}
+{"name": "한솔", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 7.55, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 59.5}
+{"name": "한솔", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 7.5, "p75": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 59.5}
+{"name": "한솔", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 2.94, "jeonse_median_eok": 4.61, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 4, "area_m2": 59.5}
+{"name": "한솔", "gu": "영등포", "claim": "annual_trade_count", "value": 9.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "한솔", "gu": "영등포", "claim": "units", "value": 219, "grade": "fact", "source": "public_record"}
+{"name": "한솔", "gu": "영등포", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "현대2차", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 7.47, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 16, "area_m2": 41.0}
+{"name": "현대2차", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 6.38, "p75": 7.71, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 16, "area_m2": 41.0}
+{"name": "현대2차", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 11.7, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 16, "area_m2": 41.0}
+{"name": "현대2차", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 99, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 16, "area_m2": 41.0}
+{"name": "현대2차", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 4.37, "jeonse_median_eok": 3.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 16, "area_m2": 41.0}
+{"name": "현대2차", "gu": "영등포", "claim": "annual_trade_count", "value": 39.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "현대2차", "gu": "영등포", "claim": "units", "value": 280, "grade": "fact", "source": "public_record"}
+{"name": "현대2차", "gu": "영등포", "claim": "built_year", "value": 1992, "grade": "fact", "source": "public_record"}
+{"name": "당산계룡리슈빌2단지(도시형)", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 7.35, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 39.0}
+{"name": "당산계룡리슈빌2단지(도시형)", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 7.33, "p75": 7.72, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 39.0}
+{"name": "당산계룡리슈빌2단지(도시형)", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 2.25, "jeonse_median_eok": 5.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 23, "area_m2": 39.0}
+{"name": "당산계룡리슈빌2단지(도시형)", "gu": "영등포", "claim": "annual_trade_count", "value": 12.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "당산계룡리슈빌2단지(도시형)", "gu": "영등포", "claim": "units", "value": 146, "grade": "fact", "source": "public_record"}
+{"name": "당산계룡리슈빌2단지(도시형)", "gu": "영등포", "claim": "built_year", "value": 2014, "grade": "fact", "source": "public_record"}
+{"name": "당산계룡리슈빌1단지(도시형)", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 7.22, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 40.0}
+{"name": "당산계룡리슈빌1단지(도시형)", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 7.05, "p75": 7.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 40.0}
+{"name": "당산계룡리슈빌1단지(도시형)", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 0.7, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 40.0}
+{"name": "당산계룡리슈빌1단지(도시형)", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 50, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 40.0}
+{"name": "당산계룡리슈빌1단지(도시형)", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 2.52, "jeonse_median_eok": 4.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 40.0}
+{"name": "당산계룡리슈빌1단지(도시형)", "gu": "영등포", "claim": "annual_trade_count", "value": 16.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "당산계룡리슈빌1단지(도시형)", "gu": "영등포", "claim": "units", "value": 146, "grade": "fact", "source": "public_record"}
+{"name": "당산계룡리슈빌1단지(도시형)", "gu": "영등포", "claim": "built_year", "value": 2014, "grade": "fact", "source": "public_record"}
+{"name": "문래해태", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 7.09, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 2, "area_m2": 59.5}
+{"name": "문래해태", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 3.76, "jeonse_median_eok": 3.33, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 2, "area_m2": 59.5}
+{"name": "문래해태", "gu": "영등포", "claim": "annual_trade_count", "value": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "문래해태", "gu": "영등포", "claim": "units", "value": 101, "grade": "fact", "source": "public_record"}
+{"name": "문래해태", "gu": "영등포", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "한라", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 6.88, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 4, "area_m2": 60.0}
+{"name": "한라", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 2.88, "jeonse_median_eok": 4.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 60.0}
+{"name": "한라", "gu": "영등포", "claim": "annual_trade_count", "value": 7.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "한라", "gu": "영등포", "claim": "units", "value": 142, "grade": "fact", "source": "public_record"}
+{"name": "한라", "gu": "영등포", "claim": "built_year", "value": 1998, "grade": "fact", "source": "public_record"}
+{"name": "대림현대", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 6.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 60.0}
+{"name": "대림현대", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 6.1, "p75": 6.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 60.0}
+{"name": "대림현대", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 8.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 60.0}
+{"name": "대림현대", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 95, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 60.0}
+{"name": "대림현대", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 2.61, "jeonse_median_eok": 4.09, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 60.0}
+{"name": "대림현대", "gu": "영등포", "claim": "annual_trade_count", "value": 18.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "대림현대", "gu": "영등포", "claim": "units", "value": 217, "grade": "fact", "source": "public_record"}
+{"name": "대림현대", "gu": "영등포", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "무림", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 6.65, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 2, "area_m2": 56.0}
+{"name": "무림", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 4.17, "jeonse_median_eok": 2.48, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 4, "area_m2": 56.0}
+{"name": "무림", "gu": "영등포", "claim": "annual_trade_count", "value": 3.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "무림", "gu": "영등포", "claim": "units", "value": 110, "grade": "fact", "source": "public_record"}
+{"name": "무림", "gu": "영등포", "claim": "built_year", "value": 1981, "grade": "fact", "source": "public_record"}
+{"name": "성원(650)", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 6.54, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 59.5}
+{"name": "성원(650)", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 6.3, "p75": 6.93, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 59.5}
+{"name": "성원(650)", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 2.64, "jeonse_median_eok": 3.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 59.5}
+{"name": "성원(650)", "gu": "영등포", "claim": "annual_trade_count", "value": 22.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "성원(650)", "gu": "영등포", "claim": "units", "value": 220, "grade": "fact", "source": "public_record"}
+{"name": "성원(650)", "gu": "영등포", "claim": "built_year", "value": 1995, "grade": "fact", "source": "public_record"}
+{"name": "영등포자이르네", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 6.49, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 17, "area_m2": 49.0}
+{"name": "영등포자이르네", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 6.43, "p75": 6.69, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 17, "area_m2": 49.0}
+{"name": "영등포자이르네", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 5.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 17, "area_m2": 49.0}
+{"name": "영등포자이르네", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 92, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 17, "area_m2": 49.0}
+{"name": "영등포자이르네", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 1.49, "jeonse_median_eok": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 14, "area_m2": 49.0}
+{"name": "영등포자이르네", "gu": "영등포", "claim": "annual_trade_count", "value": 17.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "영등포자이르네", "gu": "영등포", "claim": "units", "value": 212, "grade": "fact", "source": "public_record"}
+{"name": "영등포자이르네", "gu": "영등포", "claim": "built_year", "value": 2022, "grade": "fact", "source": "public_record"}
+{"name": "상록수", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 6.15, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 60.0}
+{"name": "상록수", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 5.97, "p75": 6.22, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 60.0}
+{"name": "상록수", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 2.15, "jeonse_median_eok": 4.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 13, "area_m2": 60.0}
+{"name": "상록수", "gu": "영등포", "claim": "annual_trade_count", "value": 7.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "상록수", "gu": "영등포", "claim": "units", "value": 176, "grade": "fact", "source": "public_record"}
+{"name": "상록수", "gu": "영등포", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "신기목련", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 59.5}
+{"name": "신기목련", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 5.83, "p75": 6.32, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 59.5}
+{"name": "신기목련", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 6.0, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 59.5}
+{"name": "신기목련", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 50, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 59.5}
+{"name": "신기목련", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 2.34, "jeonse_median_eok": 3.66, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 4, "area_m2": 59.5}
+{"name": "신기목련", "gu": "영등포", "claim": "annual_trade_count", "value": 11.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "신기목련", "gu": "영등포", "claim": "units", "value": 213, "grade": "fact", "source": "public_record"}
+{"name": "신기목련", "gu": "영등포", "claim": "built_year", "value": 2000, "grade": "fact", "source": "public_record"}
+{"name": "신동아", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 5.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 23, "area_m2": 67.5}
+{"name": "신동아", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 5.76, "p75": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 23, "area_m2": 67.5}
+{"name": "신동아", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 2.54, "jeonse_median_eok": 3.36, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 27, "area_m2": 67.5}
+{"name": "신동아", "gu": "영등포", "claim": "annual_trade_count", "value": 56.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "신동아", "gu": "영등포", "claim": "units", "value": 591, "grade": "fact", "source": "public_record"}
+{"name": "신동아", "gu": "영등포", "claim": "built_year", "value": 1987, "grade": "fact", "source": "public_record"}
+{"name": "삼두", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 5.88, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 2, "area_m2": 43.5}
+{"name": "삼두", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 3.58, "jeonse_median_eok": 2.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 13, "area_m2": 43.5}
+{"name": "삼두", "gu": "영등포", "claim": "annual_trade_count", "value": 3.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "삼두", "gu": "영등포", "claim": "units", "value": 160, "grade": "fact", "source": "public_record"}
+{"name": "삼두", "gu": "영등포", "claim": "built_year", "value": 1987, "grade": "fact", "source": "public_record"}
+{"name": "한신", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 5.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 2, "area_m2": 40.0}
+{"name": "한신", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 2.7, "jeonse_median_eok": 2.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 40.0}
+{"name": "한신", "gu": "영등포", "claim": "annual_trade_count", "value": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "한신", "gu": "영등포", "claim": "units", "value": 186, "grade": "fact", "source": "public_record"}
+{"name": "한신", "gu": "영등포", "claim": "built_year", "value": 1985, "grade": "fact", "source": "public_record"}
+{"name": "여의도리미티오148(도시형)", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 5.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 4, "area_m2": 38.5}
+{"name": "여의도리미티오148(도시형)", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 0.65, "jeonse_median_eok": 4.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 38.5}
+{"name": "여의도리미티오148(도시형)", "gu": "영등포", "claim": "annual_trade_count", "value": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "여의도리미티오148(도시형)", "gu": "영등포", "claim": "units", "value": 132, "grade": "fact", "source": "public_record"}
+{"name": "여의도리미티오148(도시형)", "gu": "영등포", "claim": "built_year", "value": 2022, "grade": "fact", "source": "public_record"}
+{"name": "라르파크(도시형)", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 4.78, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 30.5}
+{"name": "라르파크(도시형)", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 4.6, "p75": 5.07, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 30.5}
+{"name": "라르파크(도시형)", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": -6.6, "direction": "▼", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 30.5}
+{"name": "라르파크(도시형)", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 30.5}
+{"name": "라르파크(도시형)", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 0.78, "jeonse_median_eok": 4.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 42, "area_m2": 30.5}
+{"name": "라르파크(도시형)", "gu": "영등포", "claim": "annual_trade_count", "value": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "라르파크(도시형)", "gu": "영등포", "claim": "units", "value": 145, "grade": "fact", "source": "public_record"}
+{"name": "라르파크(도시형)", "gu": "영등포", "claim": "built_year", "value": 2021, "grade": "fact", "source": "public_record"}
+{"name": "여의도이튼브라운(도시형)", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 4.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 29.0}
+{"name": "여의도이튼브라운(도시형)", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 4.4, "p75": 4.82, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 29.0}
+{"name": "여의도이튼브라운(도시형)", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 9.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 29.0}
+{"name": "여의도이튼브라운(도시형)", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 96, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 29.0}
+{"name": "여의도이튼브라운(도시형)", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 0.75, "jeonse_median_eok": 3.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 19, "area_m2": 29.0}
+{"name": "여의도이튼브라운(도시형)", "gu": "영등포", "claim": "annual_trade_count", "value": 18.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "여의도이튼브라운(도시형)", "gu": "영등포", "claim": "units", "value": 216, "grade": "fact", "source": "public_record"}
+{"name": "여의도이튼브라운(도시형)", "gu": "영등포", "claim": "built_year", "value": 2022, "grade": "fact", "source": "public_record"}
+{"name": "도림청구", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 4.17, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 38.0}
+{"name": "도림청구", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 4.05, "p75": 4.18, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 38.0}
+{"name": "도림청구", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 1.77, "jeonse_median_eok": 2.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 38.0}
+{"name": "도림청구", "gu": "영등포", "claim": "annual_trade_count", "value": 11.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "도림청구", "gu": "영등포", "claim": "units", "value": 200, "grade": "fact", "source": "public_record"}
+{"name": "도림청구", "gu": "영등포", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
+{"name": "여의도더리브스타일(도시형)", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 1.87, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 15.0}
+{"name": "여의도더리브스타일(도시형)", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 1.81, "p75": 1.91, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 15.0}
+{"name": "여의도더리브스타일(도시형)", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": -4.2, "direction": "▼", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 15.0}
+{"name": "여의도더리브스타일(도시형)", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 15.0}
+{"name": "여의도더리브스타일(도시형)", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 0.02, "jeonse_median_eok": 1.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 2, "area_m2": 15.0}
+{"name": "여의도더리브스타일(도시형)", "gu": "영등포", "claim": "annual_trade_count", "value": 11.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "여의도더리브스타일(도시형)", "gu": "영등포", "claim": "units", "value": 185, "grade": "fact", "source": "public_record"}
+{"name": "여의도더리브스타일(도시형)", "gu": "영등포", "claim": "built_year", "value": 2020, "grade": "fact", "source": "public_record"}
+{"name": "유탑유블레스(도시형)", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 1.51, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 2, "area_m2": 13.5}
+{"name": "유탑유블레스(도시형)", "gu": "영등포", "claim": "annual_trade_count", "value": 2.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "유탑유블레스(도시형)", "gu": "영등포", "claim": "units", "value": 148, "grade": "fact", "source": "public_record"}
+{"name": "유탑유블레스(도시형)", "gu": "영등포", "claim": "built_year", "value": 2012, "grade": "fact", "source": "public_record"}
+{"name": "G밸리소홈(도시형)", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 1.35, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 16.0}
+{"name": "G밸리소홈(도시형)", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 1.29, "p75": 1.42, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 16.0}
+{"name": "G밸리소홈(도시형)", "gu": "영등포", "claim": "recent3m_vs_prior9m_median_change_pct", "value": -4.4, "direction": "▼", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 16.0}
+{"name": "G밸리소홈(도시형)", "gu": "영등포", "claim": "position_in_52w_range_pct", "value": 19, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 16.0}
+{"name": "G밸리소홈(도시형)", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 0.05, "jeonse_median_eok": 1.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 16.0}
+{"name": "G밸리소홈(도시형)", "gu": "영등포", "claim": "annual_trade_count", "value": 12.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "G밸리소홈(도시형)", "gu": "영등포", "claim": "units", "value": 299, "grade": "fact", "source": "public_record"}
+{"name": "G밸리소홈(도시형)", "gu": "영등포", "claim": "built_year", "value": 2018, "grade": "fact", "source": "public_record"}
+{"name": "리버뷰(도시형)", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 1.18, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 3, "area_m2": 15.0}
+{"name": "리버뷰(도시형)", "gu": "영등포", "claim": "annual_trade_count", "value": 3.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "리버뷰(도시형)", "gu": "영등포", "claim": "units", "value": 149, "grade": "fact", "source": "public_record"}
+{"name": "리버뷰(도시형)", "gu": "영등포", "claim": "built_year", "value": 2015, "grade": "fact", "source": "public_record"}
+{"name": "훼미리하우스117(도시형)", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 1.09, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 17.0}
+{"name": "훼미리하우스117(도시형)", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 1.02, "p75": 1.21, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 17.0}
+{"name": "훼미리하우스117(도시형)", "gu": "영등포", "claim": "annual_trade_count", "value": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "훼미리하우스117(도시형)", "gu": "영등포", "claim": "units", "value": 117, "grade": "fact", "source": "public_record"}
+{"name": "훼미리하우스117(도시형)", "gu": "영등포", "claim": "built_year", "value": 2012, "grade": "fact", "source": "public_record"}
+{"name": "훼미리하우스138(도시형)", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 1.09, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 14.5}
+{"name": "훼미리하우스138(도시형)", "gu": "영등포", "claim": "transaction_iqr_eok", "p25": 1.06, "p75": 1.11, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 14.5}
+{"name": "훼미리하우스138(도시형)", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": -0.05, "jeonse_median_eok": 1.14, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 3, "area_m2": 14.5}
+{"name": "훼미리하우스138(도시형)", "gu": "영등포", "claim": "annual_trade_count", "value": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "훼미리하우스138(도시형)", "gu": "영등포", "claim": "units", "value": 138, "grade": "fact", "source": "public_record"}
+{"name": "훼미리하우스138(도시형)", "gu": "영등포", "claim": "built_year", "value": 2013, "grade": "fact", "source": "public_record"}
+{"name": "내이처해밀(도시형)", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 1.08, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 3, "area_m2": 14.0}
+{"name": "내이처해밀(도시형)", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": -0.02, "jeonse_median_eok": 1.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 14.0}
+{"name": "내이처해밀(도시형)", "gu": "영등포", "claim": "annual_trade_count", "value": 3.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "내이처해밀(도시형)", "gu": "영등포", "claim": "units", "value": 149, "grade": "fact", "source": "public_record"}
+{"name": "내이처해밀(도시형)", "gu": "영등포", "claim": "built_year", "value": 2012, "grade": "fact", "source": "public_record"}
+{"name": "여의도리버뷰(도시형)", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 1.07, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 2, "area_m2": 13.0}
+{"name": "여의도리버뷰(도시형)", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": 0.07, "jeonse_median_eok": 1.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 13.0}
+{"name": "여의도리버뷰(도시형)", "gu": "영등포", "claim": "annual_trade_count", "value": 2.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "여의도리버뷰(도시형)", "gu": "영등포", "claim": "units", "value": 125, "grade": "fact", "source": "public_record"}
+{"name": "여의도리버뷰(도시형)", "gu": "영등포", "claim": "built_year", "value": 2012, "grade": "fact", "source": "public_record"}
+{"name": "포레스트힐시티(도시형)", "gu": "영등포", "claim": "recent_transaction_median_eok", "value": 0.98, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 3, "area_m2": 13.5}
+{"name": "포레스트힐시티(도시형)", "gu": "영등포", "claim": "sale_jeonse_gap_eok", "value": -0.04, "jeonse_median_eok": 1.02, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 2, "area_m2": 13.5}
+{"name": "포레스트힐시티(도시형)", "gu": "영등포", "claim": "annual_trade_count", "value": 3.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "포레스트힐시티(도시형)", "gu": "영등포", "claim": "units", "value": 154, "grade": "fact", "source": "public_record"}
+{"name": "포레스트힐시티(도시형)", "gu": "영등포", "claim": "built_year", "value": 2014, "grade": "fact", "source": "public_record"}
+{"name": "당산디오빌", "gu": "영등포", "claim": "annual_trade_count", "value": 7.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "당산디오빌", "gu": "영등포", "claim": "units", "value": 212, "grade": "fact", "source": "public_record"}
+{"name": "당산디오빌", "gu": "영등포", "claim": "built_year", "value": 2005, "grade": "fact", "source": "public_record"}
+{"name": "대우트럼프월드Ⅰ", "gu": "영등포", "claim": "annual_trade_count", "value": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "대우트럼프월드Ⅰ", "gu": "영등포", "claim": "units", "value": 282, "grade": "fact", "source": "public_record"}
+{"name": "대우트럼프월드Ⅰ", "gu": "영등포", "claim": "built_year", "value": 2002, "grade": "fact", "source": "public_record"}
+{"name": "영등포현대프라자", "gu": "영등포", "claim": "units", "value": 115, "grade": "fact", "source": "public_record"}
+{"name": "영등포현대프라자", "gu": "영등포", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}

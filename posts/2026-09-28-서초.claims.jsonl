@@ -1,0 +1,593 @@
+{"name": "래미안원펜타스", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 100.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 3, "area_m2": 192.0}
+{"name": "래미안원펜타스", "gu": "서초", "claim": "annual_trade_count", "value": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "래미안원펜타스", "gu": "서초", "claim": "units", "value": 641, "grade": "fact", "source": "public_record"}
+{"name": "래미안원펜타스", "gu": "서초", "claim": "built_year", "value": 2024, "grade": "fact", "source": "public_record"}
+{"name": "래미안원베일리", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 59.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 21, "area_m2": 85.0}
+{"name": "래미안원베일리", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 56.3, "p75": 60.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 21, "area_m2": 85.0}
+{"name": "래미안원베일리", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 41.15, "jeonse_median_eok": 17.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 107, "area_m2": 85.0}
+{"name": "래미안원베일리", "gu": "서초", "claim": "annual_trade_count", "value": 40.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "래미안원베일리", "gu": "서초", "claim": "units", "value": 2990, "grade": "fact", "source": "public_record"}
+{"name": "래미안원베일리", "gu": "서초", "claim": "built_year", "value": 2023, "grade": "fact", "source": "public_record"}
+{"name": "아크로리버파크", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 55.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 85.0}
+{"name": "아크로리버파크", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 54.3, "p75": 57.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 85.0}
+{"name": "아크로리버파크", "gu": "서초", "claim": "recent3m_vs_prior9m_median_change_pct", "value": -6.3, "direction": "▼", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 85.0}
+{"name": "아크로리버파크", "gu": "서초", "claim": "position_in_52w_range_pct", "value": 12, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 85.0}
+{"name": "아크로리버파크", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 37.5, "jeonse_median_eok": 18.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 64, "area_m2": 85.0}
+{"name": "아크로리버파크", "gu": "서초", "claim": "annual_trade_count", "value": 25.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "아크로리버파크", "gu": "서초", "claim": "units", "value": 1612, "grade": "fact", "source": "public_record"}
+{"name": "아크로리버파크", "gu": "서초", "claim": "built_year", "value": 2016, "grade": "fact", "source": "public_record"}
+{"name": "반포래미안아이파크", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 53.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 4, "area_m2": 131.0}
+{"name": "반포래미안아이파크", "gu": "서초", "claim": "recent3m_vs_prior9m_median_change_pct", "value": -2.1, "direction": "▼", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 4, "area_m2": 131.0}
+{"name": "반포래미안아이파크", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 27.0, "jeonse_median_eok": 26.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 131.0}
+{"name": "반포래미안아이파크", "gu": "서초", "claim": "annual_trade_count", "value": 12.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "반포래미안아이파크", "gu": "서초", "claim": "units", "value": 829, "grade": "fact", "source": "public_record"}
+{"name": "반포래미안아이파크", "gu": "서초", "claim": "built_year", "value": 2018, "grade": "fact", "source": "public_record"}
+{"name": "반포르엘", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 52.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 3, "area_m2": 84.5}
+{"name": "반포르엘", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 34.8, "jeonse_median_eok": 18.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 16, "area_m2": 84.5}
+{"name": "반포르엘", "gu": "서초", "claim": "annual_trade_count", "value": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "반포르엘", "gu": "서초", "claim": "units", "value": 596, "grade": "fact", "source": "public_record"}
+{"name": "반포르엘", "gu": "서초", "claim": "built_year", "value": 2022, "grade": "fact", "source": "public_record"}
+{"name": "래미안퍼스티지", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 52.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 15, "area_m2": 85.0}
+{"name": "래미안퍼스티지", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 50.75, "p75": 55.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 15, "area_m2": 85.0}
+{"name": "래미안퍼스티지", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 35.0, "jeonse_median_eok": 17.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 57, "area_m2": 85.0}
+{"name": "래미안퍼스티지", "gu": "서초", "claim": "annual_trade_count", "value": 45.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "래미안퍼스티지", "gu": "서초", "claim": "units", "value": 2444, "grade": "fact", "source": "public_record"}
+{"name": "래미안퍼스티지", "gu": "서초", "claim": "built_year", "value": 2009, "grade": "fact", "source": "public_record"}
+{"name": "반포센트럴자이", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 51.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 99.0}
+{"name": "반포센트럴자이", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 50.0, "p75": 55.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 99.0}
+{"name": "반포센트럴자이", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 31.0, "jeonse_median_eok": 20.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 17, "area_m2": 99.0}
+{"name": "반포센트럴자이", "gu": "서초", "claim": "annual_trade_count", "value": 10.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "반포센트럴자이", "gu": "서초", "claim": "units", "value": 757, "grade": "fact", "source": "public_record"}
+{"name": "반포센트럴자이", "gu": "서초", "claim": "built_year", "value": 2020, "grade": "fact", "source": "public_record"}
+{"name": "메이플자이", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 50.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 17, "area_m2": 85.0}
+{"name": "메이플자이", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 49.5, "p75": 50.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 17, "area_m2": 85.0}
+{"name": "메이플자이", "gu": "서초", "claim": "recent3m_vs_prior9m_median_change_pct", "value": -4.5, "direction": "▼", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 17, "area_m2": 85.0}
+{"name": "메이플자이", "gu": "서초", "claim": "position_in_52w_range_pct", "value": 73, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 17, "area_m2": 85.0}
+{"name": "메이플자이", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 32.1, "jeonse_median_eok": 18.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 57, "area_m2": 85.0}
+{"name": "메이플자이", "gu": "서초", "claim": "annual_trade_count", "value": 40.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "메이플자이", "gu": "서초", "claim": "units", "value": 3307, "grade": "fact", "source": "public_record"}
+{"name": "메이플자이", "gu": "서초", "claim": "built_year", "value": 2025, "grade": "fact", "source": "public_record"}
+{"name": "아크로리버뷰신반포", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 49.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 78.5}
+{"name": "아크로리버뷰신반포", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 45.5, "p75": 50.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 78.5}
+{"name": "아크로리버뷰신반포", "gu": "서초", "claim": "recent3m_vs_prior9m_median_change_pct", "value": -8.1, "direction": "▼", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 78.5}
+{"name": "아크로리버뷰신반포", "gu": "서초", "claim": "position_in_52w_range_pct", "value": 4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 78.5}
+{"name": "아크로리버뷰신반포", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 31.84, "jeonse_median_eok": 17.16, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 38, "area_m2": 78.5}
+{"name": "아크로리버뷰신반포", "gu": "서초", "claim": "annual_trade_count", "value": 11.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "아크로리버뷰신반포", "gu": "서초", "claim": "units", "value": 595, "grade": "fact", "source": "public_record"}
+{"name": "아크로리버뷰신반포", "gu": "서초", "claim": "built_year", "value": 2018, "grade": "fact", "source": "public_record"}
+{"name": "반포자이", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 48.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 20, "area_m2": 85.0}
+{"name": "반포자이", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 47.0, "p75": 50.33, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 20, "area_m2": 85.0}
+{"name": "반포자이", "gu": "서초", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 7.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 20, "area_m2": 85.0}
+{"name": "반포자이", "gu": "서초", "claim": "position_in_52w_range_pct", "value": 100, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 20, "area_m2": 85.0}
+{"name": "반포자이", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 32.5, "jeonse_median_eok": 16.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 107, "area_m2": 85.0}
+{"name": "반포자이", "gu": "서초", "claim": "annual_trade_count", "value": 50.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "반포자이", "gu": "서초", "claim": "units", "value": 3410, "grade": "fact", "source": "public_record"}
+{"name": "반포자이", "gu": "서초", "claim": "built_year", "value": 2009, "grade": "fact", "source": "public_record"}
+{"name": "반포힐스테이트", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 43.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 3, "area_m2": 85.0}
+{"name": "반포힐스테이트", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 27.25, "jeonse_median_eok": 15.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 15, "area_m2": 85.0}
+{"name": "반포힐스테이트", "gu": "서초", "claim": "annual_trade_count", "value": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "반포힐스테이트", "gu": "서초", "claim": "units", "value": 397, "grade": "fact", "source": "public_record"}
+{"name": "반포힐스테이트", "gu": "서초", "claim": "built_year", "value": 2012, "grade": "fact", "source": "public_record"}
+{"name": "래미안신반포팰리스", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 42.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 84.5}
+{"name": "래미안신반포팰리스", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 41.0, "p75": 42.95, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 84.5}
+{"name": "래미안신반포팰리스", "gu": "서초", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 2.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 84.5}
+{"name": "래미안신반포팰리스", "gu": "서초", "claim": "position_in_52w_range_pct", "value": 99, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 84.5}
+{"name": "래미안신반포팰리스", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 27.8, "jeonse_median_eok": 15.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 33, "area_m2": 84.5}
+{"name": "래미안신반포팰리스", "gu": "서초", "claim": "annual_trade_count", "value": 15.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "래미안신반포팰리스", "gu": "서초", "claim": "units", "value": 843, "grade": "fact", "source": "public_record"}
+{"name": "래미안신반포팰리스", "gu": "서초", "claim": "built_year", "value": 2016, "grade": "fact", "source": "public_record"}
+{"name": "삼성서초가든스위트", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 40.95, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 2, "area_m2": 181.5}
+{"name": "삼성서초가든스위트", "gu": "서초", "claim": "annual_trade_count", "value": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "삼성서초가든스위트", "gu": "서초", "claim": "units", "value": 141, "grade": "fact", "source": "public_record"}
+{"name": "삼성서초가든스위트", "gu": "서초", "claim": "built_year", "value": 2000, "grade": "fact", "source": "public_record"}
+{"name": "디에이치반포라클라스", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 35.65, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 60.0}
+{"name": "디에이치반포라클라스", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 34.92, "p75": 36.12, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 60.0}
+{"name": "디에이치반포라클라스", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 21.45, "jeonse_median_eok": 14.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 60.0}
+{"name": "디에이치반포라클라스", "gu": "서초", "claim": "annual_trade_count", "value": 18.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "디에이치반포라클라스", "gu": "서초", "claim": "units", "value": 848, "grade": "fact", "source": "public_record"}
+{"name": "디에이치반포라클라스", "gu": "서초", "claim": "built_year", "value": 2021, "grade": "fact", "source": "public_record"}
+{"name": "래미안서초에스티지", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 35.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 3, "area_m2": 101.5}
+{"name": "래미안서초에스티지", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 19.0, "jeonse_median_eok": 16.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 3, "area_m2": 101.5}
+{"name": "래미안서초에스티지", "gu": "서초", "claim": "annual_trade_count", "value": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "래미안서초에스티지", "gu": "서초", "claim": "units", "value": 421, "grade": "fact", "source": "public_record"}
+{"name": "래미안서초에스티지", "gu": "서초", "claim": "built_year", "value": 2016, "grade": "fact", "source": "public_record"}
+{"name": "래미안서초에스티지S", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 35.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 85.0}
+{"name": "래미안서초에스티지S", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 34.4, "p75": 35.89, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 85.0}
+{"name": "래미안서초에스티지S", "gu": "서초", "claim": "recent3m_vs_prior9m_median_change_pct", "value": -5.5, "direction": "▼", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 85.0}
+{"name": "래미안서초에스티지S", "gu": "서초", "claim": "position_in_52w_range_pct", "value": 24, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 85.0}
+{"name": "래미안서초에스티지S", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 21.3, "jeonse_median_eok": 14.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 45, "area_m2": 85.0}
+{"name": "래미안서초에스티지S", "gu": "서초", "claim": "annual_trade_count", "value": 13.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "래미안서초에스티지S", "gu": "서초", "claim": "units", "value": 593, "grade": "fact", "source": "public_record"}
+{"name": "래미안서초에스티지S", "gu": "서초", "claim": "built_year", "value": 2018, "grade": "fact", "source": "public_record"}
+{"name": "롯데캐슬클래식", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 35.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 120.0}
+{"name": "롯데캐슬클래식", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 34.6, "p75": 36.17, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 120.0}
+{"name": "롯데캐슬클래식", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 21.15, "jeonse_median_eok": 14.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 13, "area_m2": 120.0}
+{"name": "롯데캐슬클래식", "gu": "서초", "claim": "annual_trade_count", "value": 23.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "롯데캐슬클래식", "gu": "서초", "claim": "units", "value": 990, "grade": "fact", "source": "public_record"}
+{"name": "롯데캐슬클래식", "gu": "서초", "claim": "built_year", "value": 2006, "grade": "fact", "source": "public_record"}
+{"name": "신반포자이", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 35.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 60.0}
+{"name": "신반포자이", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 35.0, "p75": 38.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 60.0}
+{"name": "신반포자이", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 22.0, "jeonse_median_eok": 13.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 14, "area_m2": 60.0}
+{"name": "신반포자이", "gu": "서초", "claim": "annual_trade_count", "value": 9.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "신반포자이", "gu": "서초", "claim": "units", "value": 607, "grade": "fact", "source": "public_record"}
+{"name": "신반포자이", "gu": "서초", "claim": "built_year", "value": 2018, "grade": "fact", "source": "public_record"}
+{"name": "동아", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 34.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 15, "area_m2": 85.0}
+{"name": "동아", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 34.2, "p75": 36.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 15, "area_m2": 85.0}
+{"name": "동아", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 24.3, "jeonse_median_eok": 10.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 63, "area_m2": 85.0}
+{"name": "동아", "gu": "서초", "claim": "annual_trade_count", "value": 22.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "동아", "gu": "서초", "claim": "units", "value": 991, "grade": "fact", "source": "public_record"}
+{"name": "동아", "gu": "서초", "claim": "built_year", "value": 2002, "grade": "fact", "source": "public_record"}
+{"name": "래미안신반포리오센트", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 34.35, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 2, "area_m2": 60.0}
+{"name": "래미안신반포리오센트", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 21.35, "jeonse_median_eok": 13.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 4, "area_m2": 60.0}
+{"name": "래미안신반포리오센트", "gu": "서초", "claim": "annual_trade_count", "value": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "래미안신반포리오센트", "gu": "서초", "claim": "units", "value": 475, "grade": "fact", "source": "public_record"}
+{"name": "래미안신반포리오센트", "gu": "서초", "claim": "built_year", "value": 2019, "grade": "fact", "source": "public_record"}
+{"name": "반포리체", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 34.15, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 60.0}
+{"name": "반포리체", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 33.45, "p75": 35.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 60.0}
+{"name": "반포리체", "gu": "서초", "claim": "recent3m_vs_prior9m_median_change_pct", "value": -0.6, "direction": "▼", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 60.0}
+{"name": "반포리체", "gu": "서초", "claim": "position_in_52w_range_pct", "value": 44, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 60.0}
+{"name": "반포리체", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 22.15, "jeonse_median_eok": 12.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 30, "area_m2": 60.0}
+{"name": "반포리체", "gu": "서초", "claim": "annual_trade_count", "value": 18.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "반포리체", "gu": "서초", "claim": "units", "value": 1119, "grade": "fact", "source": "public_record"}
+{"name": "반포리체", "gu": "서초", "claim": "built_year", "value": 2010, "grade": "fact", "source": "public_record"}
+{"name": "방배그랑자이", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 34.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 10, "area_m2": 85.0}
+{"name": "방배그랑자이", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 32.69, "p75": 34.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 10, "area_m2": 85.0}
+{"name": "방배그랑자이", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 20.0, "jeonse_median_eok": 14.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 31, "area_m2": 85.0}
+{"name": "방배그랑자이", "gu": "서초", "claim": "annual_trade_count", "value": 19.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "방배그랑자이", "gu": "서초", "claim": "units", "value": 758, "grade": "fact", "source": "public_record"}
+{"name": "방배그랑자이", "gu": "서초", "claim": "built_year", "value": 2021, "grade": "fact", "source": "public_record"}
+{"name": "서초래미안", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 33.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 111.5}
+{"name": "서초래미안", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 32.3, "p75": 33.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 111.5}
+{"name": "서초래미안", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 20.4, "jeonse_median_eok": 12.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 18, "area_m2": 111.5}
+{"name": "서초래미안", "gu": "서초", "claim": "annual_trade_count", "value": 14.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "서초래미안", "gu": "서초", "claim": "units", "value": 1129, "grade": "fact", "source": "public_record"}
+{"name": "서초래미안", "gu": "서초", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
+{"name": "한강", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 33.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 84.5}
+{"name": "한강", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 30.43, "p75": 34.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 84.5}
+{"name": "한강", "gu": "서초", "claim": "recent3m_vs_prior9m_median_change_pct", "value": -7.5, "direction": "▼", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 84.5}
+{"name": "한강", "gu": "서초", "claim": "position_in_52w_range_pct", "value": 54, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 84.5}
+{"name": "한강", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 24.34, "jeonse_median_eok": 8.66, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 39, "area_m2": 84.5}
+{"name": "한강", "gu": "서초", "claim": "annual_trade_count", "value": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "한강", "gu": "서초", "claim": "units", "value": 450, "grade": "fact", "source": "public_record"}
+{"name": "한강", "gu": "서초", "claim": "built_year", "value": 1989, "grade": "fact", "source": "public_record"}
+{"name": "서초그랑자이", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 32.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 10, "area_m2": 60.0}
+{"name": "서초그랑자이", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 31.52, "p75": 34.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 10, "area_m2": 60.0}
+{"name": "서초그랑자이", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 19.51, "jeonse_median_eok": 12.49, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 35, "area_m2": 60.0}
+{"name": "서초그랑자이", "gu": "서초", "claim": "annual_trade_count", "value": 31.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "서초그랑자이", "gu": "서초", "claim": "units", "value": 1446, "grade": "fact", "source": "public_record"}
+{"name": "서초그랑자이", "gu": "서초", "claim": "built_year", "value": 2021, "grade": "fact", "source": "public_record"}
+{"name": "삼풍", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 31.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 79.5}
+{"name": "삼풍", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 30.8, "p75": 32.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 79.5}
+{"name": "삼풍", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 22.8, "jeonse_median_eok": 8.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 125, "area_m2": 79.5}
+{"name": "삼풍", "gu": "서초", "claim": "annual_trade_count", "value": 21.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "삼풍", "gu": "서초", "claim": "units", "value": 2390, "grade": "fact", "source": "public_record"}
+{"name": "삼풍", "gu": "서초", "claim": "built_year", "value": 1988, "grade": "fact", "source": "public_record"}
+{"name": "강변", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 30.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 84.5}
+{"name": "강변", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 30.5, "p75": 31.65, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 84.5}
+{"name": "강변", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 22.4, "jeonse_median_eok": 8.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 15, "area_m2": 84.5}
+{"name": "강변", "gu": "서초", "claim": "annual_trade_count", "value": 9.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "강변", "gu": "서초", "claim": "units", "value": 360, "grade": "fact", "source": "public_record"}
+{"name": "강변", "gu": "서초", "claim": "built_year", "value": 1987, "grade": "fact", "source": "public_record"}
+{"name": "반포써밋", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 30.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 3, "area_m2": 60.0}
+{"name": "반포써밋", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 18.92, "jeonse_median_eok": 11.78, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 14, "area_m2": 60.0}
+{"name": "반포써밋", "gu": "서초", "claim": "annual_trade_count", "value": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "반포써밋", "gu": "서초", "claim": "units", "value": 764, "grade": "fact", "source": "public_record"}
+{"name": "반포써밋", "gu": "서초", "claim": "built_year", "value": 2018, "grade": "fact", "source": "public_record"}
+{"name": "래미안리더스원", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 30.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 21, "area_m2": 60.0}
+{"name": "래미안리더스원", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 30.1, "p75": 32.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 21, "area_m2": 60.0}
+{"name": "래미안리더스원", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 17.7, "jeonse_median_eok": 12.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 14, "area_m2": 60.0}
+{"name": "래미안리더스원", "gu": "서초", "claim": "annual_trade_count", "value": 34.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "래미안리더스원", "gu": "서초", "claim": "units", "value": 1317, "grade": "fact", "source": "public_record"}
+{"name": "래미안리더스원", "gu": "서초", "claim": "built_year", "value": 2020, "grade": "fact", "source": "public_record"}
+{"name": "래미안서초스위트", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 30.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 96.0}
+{"name": "래미안서초스위트", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 29.6, "p75": 32.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 96.0}
+{"name": "래미안서초스위트", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 17.0, "jeonse_median_eok": 13.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 14, "area_m2": 96.0}
+{"name": "래미안서초스위트", "gu": "서초", "claim": "annual_trade_count", "value": 9.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "래미안서초스위트", "gu": "서초", "claim": "units", "value": 392, "grade": "fact", "source": "public_record"}
+{"name": "래미안서초스위트", "gu": "서초", "claim": "built_year", "value": 2009, "grade": "fact", "source": "public_record"}
+{"name": "서초롯데캐슬프레지던트", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 30.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 2, "area_m2": 85.0}
+{"name": "서초롯데캐슬프레지던트", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 18.65, "jeonse_median_eok": 11.55, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 21, "area_m2": 85.0}
+{"name": "서초롯데캐슬프레지던트", "gu": "서초", "claim": "annual_trade_count", "value": 4.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "서초롯데캐슬프레지던트", "gu": "서초", "claim": "units", "value": 280, "grade": "fact", "source": "public_record"}
+{"name": "서초롯데캐슬프레지던트", "gu": "서초", "claim": "built_year", "value": 2014, "grade": "fact", "source": "public_record"}
+{"name": "반포푸르지오", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 30.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 85.0}
+{"name": "반포푸르지오", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 29.9, "p75": 30.95, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 85.0}
+{"name": "반포푸르지오", "gu": "서초", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 6.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 85.0}
+{"name": "반포푸르지오", "gu": "서초", "claim": "position_in_52w_range_pct", "value": 83, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 85.0}
+{"name": "반포푸르지오", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 19.1, "jeonse_median_eok": 11.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 23, "area_m2": 85.0}
+{"name": "반포푸르지오", "gu": "서초", "claim": "annual_trade_count", "value": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "반포푸르지오", "gu": "서초", "claim": "units", "value": 237, "grade": "fact", "source": "public_record"}
+{"name": "반포푸르지오", "gu": "서초", "claim": "built_year", "value": 2000, "grade": "fact", "source": "public_record"}
+{"name": "반포미도2차", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 30.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 71.5}
+{"name": "반포미도2차", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 29.0, "p75": 31.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 71.5}
+{"name": "반포미도2차", "gu": "서초", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 0.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 71.5}
+{"name": "반포미도2차", "gu": "서초", "claim": "position_in_52w_range_pct", "value": 47, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 71.5}
+{"name": "반포미도2차", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 23.17, "jeonse_median_eok": 6.83, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 39, "area_m2": 71.5}
+{"name": "반포미도2차", "gu": "서초", "claim": "annual_trade_count", "value": 12.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "반포미도2차", "gu": "서초", "claim": "units", "value": 435, "grade": "fact", "source": "public_record"}
+{"name": "반포미도2차", "gu": "서초", "claim": "built_year", "value": 1989, "grade": "fact", "source": "public_record"}
+{"name": "아크로비스타(주상복합)", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 29.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 4, "area_m2": 139.0}
+{"name": "아크로비스타(주상복합)", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 11.98, "jeonse_median_eok": 17.27, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 139.0}
+{"name": "아크로비스타(주상복합)", "gu": "서초", "claim": "annual_trade_count", "value": 17.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "아크로비스타(주상복합)", "gu": "서초", "claim": "units", "value": 757, "grade": "fact", "source": "public_record"}
+{"name": "아크로비스타(주상복합)", "gu": "서초", "claim": "built_year", "value": 2004, "grade": "fact", "source": "public_record"}
+{"name": "서초푸르지오써밋", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 29.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 3, "area_m2": 60.0}
+{"name": "서초푸르지오써밋", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 22.45, "jeonse_median_eok": 6.55, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 30, "area_m2": 60.0}
+{"name": "서초푸르지오써밋", "gu": "서초", "claim": "annual_trade_count", "value": 12.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "서초푸르지오써밋", "gu": "서초", "claim": "units", "value": 907, "grade": "fact", "source": "public_record"}
+{"name": "서초푸르지오써밋", "gu": "서초", "claim": "built_year", "value": 2017, "grade": "fact", "source": "public_record"}
+{"name": "한신로얄", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 29.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 81.0}
+{"name": "한신로얄", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 27.75, "p75": 30.93, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 81.0}
+{"name": "한신로얄", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 20.0, "jeonse_median_eok": 9.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 13, "area_m2": 81.0}
+{"name": "한신로얄", "gu": "서초", "claim": "annual_trade_count", "value": 7.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "한신로얄", "gu": "서초", "claim": "units", "value": 208, "grade": "fact", "source": "public_record"}
+{"name": "한신로얄", "gu": "서초", "claim": "built_year", "value": 1992, "grade": "fact", "source": "public_record"}
+{"name": "한신서래", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 29.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 64.5}
+{"name": "한신서래", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 27.7, "p75": 29.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 64.5}
+{"name": "한신서래", "gu": "서초", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 6.3, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 64.5}
+{"name": "한신서래", "gu": "서초", "claim": "position_in_52w_range_pct", "value": 43, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 64.5}
+{"name": "한신서래", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 22.9, "jeonse_median_eok": 6.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 23, "area_m2": 64.5}
+{"name": "한신서래", "gu": "서초", "claim": "annual_trade_count", "value": 12.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "한신서래", "gu": "서초", "claim": "units", "value": 414, "grade": "fact", "source": "public_record"}
+{"name": "한신서래", "gu": "서초", "claim": "built_year", "value": 1987, "grade": "fact", "source": "public_record"}
+{"name": "서초아트자이(주상복합)", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 28.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 2, "area_m2": 165.5}
+{"name": "서초아트자이(주상복합)", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 10.5, "jeonse_median_eok": 17.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 165.5}
+{"name": "서초아트자이(주상복합)", "gu": "서초", "claim": "annual_trade_count", "value": 3.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "서초아트자이(주상복합)", "gu": "서초", "claim": "units", "value": 164, "grade": "fact", "source": "public_record"}
+{"name": "서초아트자이(주상복합)", "gu": "서초", "claim": "built_year", "value": 2009, "grade": "fact", "source": "public_record"}
+{"name": "신반포청구", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 28.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 60.0}
+{"name": "신반포청구", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 27.1, "p75": 28.25, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 60.0}
+{"name": "신반포청구", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 19.6, "jeonse_median_eok": 8.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 60.0}
+{"name": "신반포청구", "gu": "서초", "claim": "annual_trade_count", "value": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "신반포청구", "gu": "서초", "claim": "units", "value": 347, "grade": "fact", "source": "public_record"}
+{"name": "신반포청구", "gu": "서초", "claim": "built_year", "value": 1998, "grade": "fact", "source": "public_record"}
+{"name": "현대동궁", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 28.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 70.5}
+{"name": "현대동궁", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 28.0, "p75": 29.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 70.5}
+{"name": "현대동궁", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 21.5, "jeonse_median_eok": 6.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 70.5}
+{"name": "현대동궁", "gu": "서초", "claim": "annual_trade_count", "value": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "현대동궁", "gu": "서초", "claim": "units", "value": 224, "grade": "fact", "source": "public_record"}
+{"name": "현대동궁", "gu": "서초", "claim": "built_year", "value": 1991, "grade": "fact", "source": "public_record"}
+{"name": "잠원현대훼밀리", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 27.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 3, "area_m2": 84.5}
+{"name": "잠원현대훼밀리", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 17.2, "jeonse_median_eok": 10.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 3, "area_m2": 84.5}
+{"name": "잠원현대훼밀리", "gu": "서초", "claim": "annual_trade_count", "value": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "잠원현대훼밀리", "gu": "서초", "claim": "units", "value": 113, "grade": "fact", "source": "public_record"}
+{"name": "잠원현대훼밀리", "gu": "서초", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
+{"name": "현대슈퍼빌(주상복합)", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 27.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 148.0}
+{"name": "현대슈퍼빌(주상복합)", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 26.5, "p75": 28.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 148.0}
+{"name": "현대슈퍼빌(주상복합)", "gu": "서초", "claim": "annual_trade_count", "value": 15.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "현대슈퍼빌(주상복합)", "gu": "서초", "claim": "units", "value": 645, "grade": "fact", "source": "public_record"}
+{"name": "현대슈퍼빌(주상복합)", "gu": "서초", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
+{"name": "서초교대e편한세상", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 26.65, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 4, "area_m2": 60.0}
+{"name": "서초교대e편한세상", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 20.92, "jeonse_median_eok": 5.73, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 19, "area_m2": 60.0}
+{"name": "서초교대e편한세상", "gu": "서초", "claim": "annual_trade_count", "value": 12.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "서초교대e편한세상", "gu": "서초", "claim": "units", "value": 435, "grade": "fact", "source": "public_record"}
+{"name": "서초교대e편한세상", "gu": "서초", "claim": "built_year", "value": 2010, "grade": "fact", "source": "public_record"}
+{"name": "롯데캐슬헤론(주상복합)", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 26.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 4, "area_m2": 169.0}
+{"name": "롯데캐슬헤론(주상복합)", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 13.08, "jeonse_median_eok": 13.12, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 169.0}
+{"name": "롯데캐슬헤론(주상복합)", "gu": "서초", "claim": "annual_trade_count", "value": 9.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "롯데캐슬헤론(주상복합)", "gu": "서초", "claim": "units", "value": 337, "grade": "fact", "source": "public_record"}
+{"name": "롯데캐슬헤론(주상복합)", "gu": "서초", "claim": "built_year", "value": 2006, "grade": "fact", "source": "public_record"}
+{"name": "유원서초", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 26.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 85.0}
+{"name": "유원서초", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 25.25, "p75": 26.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 85.0}
+{"name": "유원서초", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 17.1, "jeonse_median_eok": 8.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 49, "area_m2": 85.0}
+{"name": "유원서초", "gu": "서초", "claim": "annual_trade_count", "value": 11.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "유원서초", "gu": "서초", "claim": "units", "value": 590, "grade": "fact", "source": "public_record"}
+{"name": "유원서초", "gu": "서초", "claim": "built_year", "value": 1993, "grade": "fact", "source": "public_record"}
+{"name": "현대멤피스", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 25.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 4, "area_m2": 133.5}
+{"name": "현대멤피스", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 12.25, "jeonse_median_eok": 13.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 4, "area_m2": 133.5}
+{"name": "현대멤피스", "gu": "서초", "claim": "annual_trade_count", "value": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "현대멤피스", "gu": "서초", "claim": "units", "value": 206, "grade": "fact", "source": "public_record"}
+{"name": "현대멤피스", "gu": "서초", "claim": "built_year", "value": 2001, "grade": "fact", "source": "public_record"}
+{"name": "방배아트자이", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 25.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 60.0}
+{"name": "방배아트자이", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 23.93, "p75": 25.73, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 60.0}
+{"name": "방배아트자이", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 15.5, "jeonse_median_eok": 9.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 16, "area_m2": 60.0}
+{"name": "방배아트자이", "gu": "서초", "claim": "annual_trade_count", "value": 11.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "방배아트자이", "gu": "서초", "claim": "units", "value": 353, "grade": "fact", "source": "public_record"}
+{"name": "방배아트자이", "gu": "서초", "claim": "built_year", "value": 2018, "grade": "fact", "source": "public_record"}
+{"name": "방배우성", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 25.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 117.0}
+{"name": "방배우성", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 25.0, "p75": 26.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 117.0}
+{"name": "방배우성", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 16.5, "jeonse_median_eok": 8.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 117.0}
+{"name": "방배우성", "gu": "서초", "claim": "annual_trade_count", "value": 13.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "방배우성", "gu": "서초", "claim": "units", "value": 468, "grade": "fact", "source": "public_record"}
+{"name": "방배우성", "gu": "서초", "claim": "built_year", "value": 1991, "grade": "fact", "source": "public_record"}
+{"name": "서초삼성래미안", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 25.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 3, "area_m2": 85.0}
+{"name": "서초삼성래미안", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 15.01, "jeonse_median_eok": 9.99, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 85.0}
+{"name": "서초삼성래미안", "gu": "서초", "claim": "annual_trade_count", "value": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "서초삼성래미안", "gu": "서초", "claim": "units", "value": 299, "grade": "fact", "source": "public_record"}
+{"name": "서초삼성래미안", "gu": "서초", "claim": "built_year", "value": 2001, "grade": "fact", "source": "public_record"}
+{"name": "서초호반써밋", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 24.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 4, "area_m2": 118.0}
+{"name": "서초호반써밋", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 13.4, "jeonse_median_eok": 11.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 118.0}
+{"name": "서초호반써밋", "gu": "서초", "claim": "annual_trade_count", "value": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "서초호반써밋", "gu": "서초", "claim": "units", "value": 550, "grade": "fact", "source": "public_record"}
+{"name": "서초호반써밋", "gu": "서초", "claim": "built_year", "value": 2013, "grade": "fact", "source": "public_record"}
+{"name": "서초자이", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 24.65, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 3, "area_m2": 117.0}
+{"name": "서초자이", "gu": "서초", "claim": "annual_trade_count", "value": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "서초자이", "gu": "서초", "claim": "units", "value": 184, "grade": "fact", "source": "public_record"}
+{"name": "서초자이", "gu": "서초", "claim": "built_year", "value": 2006, "grade": "fact", "source": "public_record"}
+{"name": "쌍용예가클래식", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 24.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 3, "area_m2": 90.0}
+{"name": "쌍용예가클래식", "gu": "서초", "claim": "annual_trade_count", "value": 4.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "쌍용예가클래식", "gu": "서초", "claim": "units", "value": 216, "grade": "fact", "source": "public_record"}
+{"name": "쌍용예가클래식", "gu": "서초", "claim": "built_year", "value": 1978, "grade": "fact", "source": "public_record"}
+{"name": "방배래미안타워", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 22.65, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 4, "area_m2": 103.5}
+{"name": "방배래미안타워", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 12.95, "jeonse_median_eok": 9.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 103.5}
+{"name": "방배래미안타워", "gu": "서초", "claim": "annual_trade_count", "value": 7.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "방배래미안타워", "gu": "서초", "claim": "units", "value": 344, "grade": "fact", "source": "public_record"}
+{"name": "방배래미안타워", "gu": "서초", "claim": "built_year", "value": 2005, "grade": "fact", "source": "public_record"}
+{"name": "서초한빛삼성", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 22.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 4, "area_m2": 110.5}
+{"name": "서초한빛삼성", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 10.1, "jeonse_median_eok": 12.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 3, "area_m2": 110.5}
+{"name": "서초한빛삼성", "gu": "서초", "claim": "annual_trade_count", "value": 9.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "서초한빛삼성", "gu": "서초", "claim": "units", "value": 264, "grade": "fact", "source": "public_record"}
+{"name": "서초한빛삼성", "gu": "서초", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "신화", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 21.05, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 4, "area_m2": 57.5}
+{"name": "신화", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 14.45, "jeonse_median_eok": 6.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 57.5}
+{"name": "신화", "gu": "서초", "claim": "annual_trade_count", "value": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "신화", "gu": "서초", "claim": "units", "value": 166, "grade": "fact", "source": "public_record"}
+{"name": "신화", "gu": "서초", "claim": "built_year", "value": 1997, "grade": "fact", "source": "public_record"}
+{"name": "현대ESA2(주상복합)", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 20.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 136.0}
+{"name": "현대ESA2(주상복합)", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 20.1, "p75": 21.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 136.0}
+{"name": "현대ESA2(주상복합)", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 7.95, "jeonse_median_eok": 12.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 136.0}
+{"name": "현대ESA2(주상복합)", "gu": "서초", "claim": "annual_trade_count", "value": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "현대ESA2(주상복합)", "gu": "서초", "claim": "units", "value": 174, "grade": "fact", "source": "public_record"}
+{"name": "현대ESA2(주상복합)", "gu": "서초", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
+{"name": "동원베네스트", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 20.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 2, "area_m2": 85.0}
+{"name": "동원베네스트", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 11.2, "jeonse_median_eok": 8.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 85.0}
+{"name": "동원베네스트", "gu": "서초", "claim": "annual_trade_count", "value": 2.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "동원베네스트", "gu": "서초", "claim": "units", "value": 126, "grade": "fact", "source": "public_record"}
+{"name": "동원베네스트", "gu": "서초", "claim": "built_year", "value": 2002, "grade": "fact", "source": "public_record"}
+{"name": "대림", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 20.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 15, "area_m2": 131.0}
+{"name": "대림", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 18.45, "p75": 21.45, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 15, "area_m2": 131.0}
+{"name": "대림", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 10.15, "jeonse_median_eok": 9.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 18, "area_m2": 131.0}
+{"name": "대림", "gu": "서초", "claim": "annual_trade_count", "value": 15.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "대림", "gu": "서초", "claim": "units", "value": 412, "grade": "fact", "source": "public_record"}
+{"name": "대림", "gu": "서초", "claim": "built_year", "value": 1995, "grade": "fact", "source": "public_record"}
+{"name": "서초센트럴아이파크", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 20.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 23, "area_m2": 80.5}
+{"name": "서초센트럴아이파크", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 18.93, "p75": 21.35, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 23, "area_m2": 80.5}
+{"name": "서초센트럴아이파크", "gu": "서초", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 15.1, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 23, "area_m2": 80.5}
+{"name": "서초센트럴아이파크", "gu": "서초", "claim": "position_in_52w_range_pct", "value": 85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 23, "area_m2": 80.5}
+{"name": "서초센트럴아이파크", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 9.5, "jeonse_median_eok": 10.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 38, "area_m2": 80.5}
+{"name": "서초센트럴아이파크", "gu": "서초", "claim": "annual_trade_count", "value": 23.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "서초센트럴아이파크", "gu": "서초", "claim": "units", "value": 318, "grade": "fact", "source": "public_record"}
+{"name": "서초센트럴아이파크", "gu": "서초", "claim": "built_year", "value": 2020, "grade": "fact", "source": "public_record"}
+{"name": "서초포레스타3단지", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 20.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 115.0}
+{"name": "서초포레스타3단지", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 20.0, "p75": 21.35, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 115.0}
+{"name": "서초포레스타3단지", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 8.5, "jeonse_median_eok": 11.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 115.0}
+{"name": "서초포레스타3단지", "gu": "서초", "claim": "annual_trade_count", "value": 10.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "서초포레스타3단지", "gu": "서초", "claim": "units", "value": 482, "grade": "fact", "source": "public_record"}
+{"name": "서초포레스타3단지", "gu": "서초", "claim": "built_year", "value": 2014, "grade": "fact", "source": "public_record"}
+{"name": "힐스테이트서초젠트리스", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 19.95, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 85.0}
+{"name": "힐스테이트서초젠트리스", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 18.48, "p75": 20.11, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 85.0}
+{"name": "힐스테이트서초젠트리스", "gu": "서초", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 5.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 85.0}
+{"name": "힐스테이트서초젠트리스", "gu": "서초", "claim": "position_in_52w_range_pct", "value": 84, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 85.0}
+{"name": "힐스테이트서초젠트리스", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 9.95, "jeonse_median_eok": 10.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 4, "area_m2": 85.0}
+{"name": "힐스테이트서초젠트리스", "gu": "서초", "claim": "annual_trade_count", "value": 11.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "힐스테이트서초젠트리스", "gu": "서초", "claim": "units", "value": 256, "grade": "fact", "source": "public_record"}
+{"name": "힐스테이트서초젠트리스", "gu": "서초", "claim": "built_year", "value": 2014, "grade": "fact", "source": "public_record"}
+{"name": "서초네이처힐1단지", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 19.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 3, "area_m2": 114.5}
+{"name": "서초네이처힐1단지", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 13.1, "jeonse_median_eok": 6.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 114.5}
+{"name": "서초네이처힐1단지", "gu": "서초", "claim": "annual_trade_count", "value": 3.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "서초네이처힐1단지", "gu": "서초", "claim": "units", "value": 178, "grade": "fact", "source": "public_record"}
+{"name": "서초네이처힐1단지", "gu": "서초", "claim": "built_year", "value": 2012, "grade": "fact", "source": "public_record"}
+{"name": "서초포레스타5단지", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 19.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 84.5}
+{"name": "서초포레스타5단지", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 19.8, "p75": 19.95, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 84.5}
+{"name": "서초포레스타5단지", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 10.2, "jeonse_median_eok": 9.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 25, "area_m2": 84.5}
+{"name": "서초포레스타5단지", "gu": "서초", "claim": "annual_trade_count", "value": 11.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "서초포레스타5단지", "gu": "서초", "claim": "units", "value": 547, "grade": "fact", "source": "public_record"}
+{"name": "서초포레스타5단지", "gu": "서초", "claim": "built_year", "value": 2014, "grade": "fact", "source": "public_record"}
+{"name": "서초네이처힐3단지", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 19.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 85.0}
+{"name": "서초네이처힐3단지", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 19.25, "p75": 20.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 85.0}
+{"name": "서초네이처힐3단지", "gu": "서초", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 10.4, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 85.0}
+{"name": "서초네이처힐3단지", "gu": "서초", "claim": "position_in_52w_range_pct", "value": 77, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 85.0}
+{"name": "서초네이처힐3단지", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 14.24, "jeonse_median_eok": 5.36, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 46, "area_m2": 85.0}
+{"name": "서초네이처힐3단지", "gu": "서초", "claim": "annual_trade_count", "value": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "서초네이처힐3단지", "gu": "서초", "claim": "units", "value": 1251, "grade": "fact", "source": "public_record"}
+{"name": "서초네이처힐3단지", "gu": "서초", "claim": "built_year", "value": 2013, "grade": "fact", "source": "public_record"}
+{"name": "서초한신", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 19.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 85.0}
+{"name": "서초한신", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 18.5, "p75": 20.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 85.0}
+{"name": "서초한신", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 10.03, "jeonse_median_eok": 9.47, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 85.0}
+{"name": "서초한신", "gu": "서초", "claim": "annual_trade_count", "value": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "서초한신", "gu": "서초", "claim": "units", "value": 194, "grade": "fact", "source": "public_record"}
+{"name": "서초한신", "gu": "서초", "claim": "built_year", "value": 2001, "grade": "fact", "source": "public_record"}
+{"name": "서초더샵포레", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 19.27, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 114.5}
+{"name": "서초더샵포레", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 19.0, "p75": 19.57, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 114.5}
+{"name": "서초더샵포레", "gu": "서초", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 2.2, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 114.5}
+{"name": "서초더샵포레", "gu": "서초", "claim": "position_in_52w_range_pct", "value": 63, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 114.5}
+{"name": "서초더샵포레", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 8.27, "jeonse_median_eok": 11.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 14, "area_m2": 114.5}
+{"name": "서초더샵포레", "gu": "서초", "claim": "annual_trade_count", "value": 38.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "서초더샵포레", "gu": "서초", "claim": "units", "value": 1264, "grade": "fact", "source": "public_record"}
+{"name": "서초더샵포레", "gu": "서초", "claim": "built_year", "value": 2014, "grade": "fact", "source": "public_record"}
+{"name": "엠브이", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 18.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 14, "area_m2": 60.0}
+{"name": "엠브이", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 17.2, "p75": 19.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 14, "area_m2": 60.0}
+{"name": "엠브이", "gu": "서초", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 6.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 14, "area_m2": 60.0}
+{"name": "엠브이", "gu": "서초", "claim": "position_in_52w_range_pct", "value": 84, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 14, "area_m2": 60.0}
+{"name": "엠브이", "gu": "서초", "claim": "annual_trade_count", "value": 33.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "엠브이", "gu": "서초", "claim": "units", "value": 154, "grade": "fact", "source": "public_record"}
+{"name": "엠브이", "gu": "서초", "claim": "built_year", "value": 1994, "grade": "fact", "source": "public_record"}
+{"name": "방배브라운가", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 18.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 2, "area_m2": 85.0}
+{"name": "방배브라운가", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 10.2, "jeonse_median_eok": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 85.0}
+{"name": "방배브라운가", "gu": "서초", "claim": "annual_trade_count", "value": 3.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "방배브라운가", "gu": "서초", "claim": "units", "value": 161, "grade": "fact", "source": "public_record"}
+{"name": "방배브라운가", "gu": "서초", "claim": "built_year", "value": 2006, "grade": "fact", "source": "public_record"}
+{"name": "서초네이처힐4단지", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 17.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 85.0}
+{"name": "서초네이처힐4단지", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 17.62, "p75": 19.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 85.0}
+{"name": "서초네이처힐4단지", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 8.94, "jeonse_median_eok": 8.96, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 16, "area_m2": 85.0}
+{"name": "서초네이처힐4단지", "gu": "서초", "claim": "annual_trade_count", "value": 7.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "서초네이처힐4단지", "gu": "서초", "claim": "units", "value": 409, "grade": "fact", "source": "public_record"}
+{"name": "서초네이처힐4단지", "gu": "서초", "claim": "built_year", "value": 2011, "grade": "fact", "source": "public_record"}
+{"name": "서초포레스타2단지", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 17.8, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 84.5}
+{"name": "서초포레스타2단지", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 17.0, "p75": 17.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 84.5}
+{"name": "서초포레스타2단지", "gu": "서초", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 3.7, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 84.5}
+{"name": "서초포레스타2단지", "gu": "서초", "claim": "position_in_52w_range_pct", "value": 52, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 84.5}
+{"name": "서초포레스타2단지", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 9.05, "jeonse_median_eok": 8.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 14, "area_m2": 84.5}
+{"name": "서초포레스타2단지", "gu": "서초", "claim": "annual_trade_count", "value": 10.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "서초포레스타2단지", "gu": "서초", "claim": "units", "value": 1077, "grade": "fact", "source": "public_record"}
+{"name": "서초포레스타2단지", "gu": "서초", "claim": "built_year", "value": 2015, "grade": "fact", "source": "public_record"}
+{"name": "서초힐스", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 17.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 60.0}
+{"name": "서초힐스", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 16.55, "p75": 18.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 60.0}
+{"name": "서초힐스", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 10.79, "jeonse_median_eok": 6.91, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 46, "area_m2": 60.0}
+{"name": "서초힐스", "gu": "서초", "claim": "annual_trade_count", "value": 21.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "서초힐스", "gu": "서초", "claim": "units", "value": 1082, "grade": "fact", "source": "public_record"}
+{"name": "서초힐스", "gu": "서초", "claim": "built_year", "value": 2012, "grade": "fact", "source": "public_record"}
+{"name": "서초포레스타6단지", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 17.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 2, "area_m2": 60.0}
+{"name": "서초포레스타6단지", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 9.67, "jeonse_median_eok": 7.73, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 17, "area_m2": 60.0}
+{"name": "서초포레스타6단지", "gu": "서초", "claim": "annual_trade_count", "value": 2.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "서초포레스타6단지", "gu": "서초", "claim": "units", "value": 585, "grade": "fact", "source": "public_record"}
+{"name": "서초포레스타6단지", "gu": "서초", "claim": "built_year", "value": 2015, "grade": "fact", "source": "public_record"}
+{"name": "서초트라팰리스(주상복합)", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 17.38, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 2, "area_m2": 82.0}
+{"name": "서초트라팰리스(주상복합)", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 8.98, "jeonse_median_eok": 8.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 3, "area_m2": 82.0}
+{"name": "서초트라팰리스(주상복합)", "gu": "서초", "claim": "annual_trade_count", "value": 7.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "서초트라팰리스(주상복합)", "gu": "서초", "claim": "units", "value": 257, "grade": "fact", "source": "public_record"}
+{"name": "서초트라팰리스(주상복합)", "gu": "서초", "claim": "built_year", "value": 2005, "grade": "fact", "source": "public_record"}
+{"name": "서초현대", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 16.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 53.0}
+{"name": "서초현대", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 15.8, "p75": 16.9, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 53.0}
+{"name": "서초현대", "gu": "서초", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 6.6, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 53.0}
+{"name": "서초현대", "gu": "서초", "claim": "position_in_52w_range_pct", "value": 80, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 53.0}
+{"name": "서초현대", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 9.53, "jeonse_median_eok": 6.67, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 15, "area_m2": 53.0}
+{"name": "서초현대", "gu": "서초", "claim": "annual_trade_count", "value": 13.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "서초현대", "gu": "서초", "claim": "units", "value": 299, "grade": "fact", "source": "public_record"}
+{"name": "서초현대", "gu": "서초", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "코오롱", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 16.05, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 52.5}
+{"name": "코오롱", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 15.43, "p75": 16.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 52.5}
+{"name": "코오롱", "gu": "서초", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 3.6, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 52.5}
+{"name": "코오롱", "gu": "서초", "claim": "position_in_52w_range_pct", "value": 78, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 12, "area_m2": 52.5}
+{"name": "코오롱", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 10.96, "jeonse_median_eok": 5.09, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 50, "area_m2": 52.5}
+{"name": "코오롱", "gu": "서초", "claim": "annual_trade_count", "value": 12.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "코오롱", "gu": "서초", "claim": "units", "value": 300, "grade": "fact", "source": "public_record"}
+{"name": "코오롱", "gu": "서초", "claim": "built_year", "value": 1994, "grade": "fact", "source": "public_record"}
+{"name": "더샵반포리버파크", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 15.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 2, "area_m2": 50.0}
+{"name": "더샵반포리버파크", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 7.58, "jeonse_median_eok": 7.82, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 26, "area_m2": 50.0}
+{"name": "더샵반포리버파크", "gu": "서초", "claim": "annual_trade_count", "value": 2.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "더샵반포리버파크", "gu": "서초", "claim": "units", "value": 140, "grade": "fact", "source": "public_record"}
+{"name": "더샵반포리버파크", "gu": "서초", "claim": "built_year", "value": 2022, "grade": "fact", "source": "public_record"}
+{"name": "킴스빌리지", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 14.98, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 30.0}
+{"name": "킴스빌리지", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 11.1, "p75": 15.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 30.0}
+{"name": "킴스빌리지", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 10.98, "jeonse_median_eok": 4.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 11, "area_m2": 30.0}
+{"name": "킴스빌리지", "gu": "서초", "claim": "annual_trade_count", "value": 14.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "킴스빌리지", "gu": "서초", "claim": "units", "value": 160, "grade": "fact", "source": "public_record"}
+{"name": "킴스빌리지", "gu": "서초", "claim": "built_year", "value": 1996, "grade": "fact", "source": "public_record"}
+{"name": "호반써밋서초파크뷰", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 14.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 85.0}
+{"name": "호반써밋서초파크뷰", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 14.0, "p75": 15.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 85.0}
+{"name": "호반써밋서초파크뷰", "gu": "서초", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 8.7, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 85.0}
+{"name": "호반써밋서초파크뷰", "gu": "서초", "claim": "position_in_52w_range_pct", "value": 88, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 85.0}
+{"name": "호반써밋서초파크뷰", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 6.5, "jeonse_median_eok": 8.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 19, "area_m2": 85.0}
+{"name": "호반써밋서초파크뷰", "gu": "서초", "claim": "annual_trade_count", "value": 17.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "호반써밋서초파크뷰", "gu": "서초", "claim": "units", "value": 358, "grade": "fact", "source": "public_record"}
+{"name": "호반써밋서초파크뷰", "gu": "서초", "claim": "built_year", "value": 2013, "grade": "fact", "source": "public_record"}
+{"name": "삼호한숲", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 13.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 4, "area_m2": 60.0}
+{"name": "삼호한숲", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 7.15, "jeonse_median_eok": 6.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 3, "area_m2": 60.0}
+{"name": "삼호한숲", "gu": "서초", "claim": "annual_trade_count", "value": 7.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "삼호한숲", "gu": "서초", "claim": "units", "value": 116, "grade": "fact", "source": "public_record"}
+{"name": "삼호한숲", "gu": "서초", "claim": "built_year", "value": 1998, "grade": "fact", "source": "public_record"}
+{"name": "동고", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 13.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 77.0}
+{"name": "동고", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 13.0, "p75": 15.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 77.0}
+{"name": "동고", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 6.5, "jeonse_median_eok": 6.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 19, "area_m2": 77.0}
+{"name": "동고", "gu": "서초", "claim": "annual_trade_count", "value": 10.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "동고", "gu": "서초", "claim": "units", "value": 330, "grade": "fact", "source": "public_record"}
+{"name": "동고", "gu": "서초", "claim": "built_year", "value": 1995, "grade": "fact", "source": "public_record"}
+{"name": "호반써밋서초파크", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 13.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 52.0}
+{"name": "호반써밋서초파크", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 12.5, "p75": 14.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 9, "area_m2": 52.0}
+{"name": "호반써밋서초파크", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 6.6, "jeonse_median_eok": 6.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 13, "area_m2": 52.0}
+{"name": "호반써밋서초파크", "gu": "서초", "claim": "annual_trade_count", "value": 20.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "호반써밋서초파크", "gu": "서초", "claim": "units", "value": 424, "grade": "fact", "source": "public_record"}
+{"name": "호반써밋서초파크", "gu": "서초", "claim": "built_year", "value": 2013, "grade": "fact", "source": "public_record"}
+{"name": "서초쌍용플래티넘(주상복합)", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 9.65, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 4, "area_m2": 68.0}
+{"name": "서초쌍용플래티넘(주상복합)", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 3.81, "jeonse_median_eok": 5.84, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 68.0}
+{"name": "서초쌍용플래티넘(주상복합)", "gu": "서초", "claim": "annual_trade_count", "value": 7.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "서초쌍용플래티넘(주상복합)", "gu": "서초", "claim": "units", "value": 109, "grade": "fact", "source": "public_record"}
+{"name": "서초쌍용플래티넘(주상복합)", "gu": "서초", "claim": "built_year", "value": 2006, "grade": "fact", "source": "public_record"}
+{"name": "방배아크로타워(주상복합)", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 8.55, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 60.0}
+{"name": "방배아크로타워(주상복합)", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 8.4, "p75": 8.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 60.0}
+{"name": "방배아크로타워(주상복합)", "gu": "서초", "claim": "recent3m_vs_prior9m_median_change_pct", "value": -1.5, "direction": "▼", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 60.0}
+{"name": "방배아크로타워(주상복합)", "gu": "서초", "claim": "position_in_52w_range_pct", "value": 35, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 60.0}
+{"name": "방배아크로타워(주상복합)", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 2.8, "jeonse_median_eok": 5.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 3, "area_m2": 60.0}
+{"name": "방배아크로타워(주상복합)", "gu": "서초", "claim": "annual_trade_count", "value": 6.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "방배아크로타워(주상복합)", "gu": "서초", "claim": "units", "value": 116, "grade": "fact", "source": "public_record"}
+{"name": "방배아크로타워(주상복합)", "gu": "서초", "claim": "built_year", "value": 2007, "grade": "fact", "source": "public_record"}
+{"name": "방배마에스트로(주상복합)", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 7.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 3, "area_m2": 35.5}
+{"name": "방배마에스트로(주상복합)", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 2.67, "jeonse_median_eok": 4.93, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 35.5}
+{"name": "방배마에스트로(주상복합)", "gu": "서초", "claim": "annual_trade_count", "value": 4.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "방배마에스트로(주상복합)", "gu": "서초", "claim": "units", "value": 118, "grade": "fact", "source": "public_record"}
+{"name": "방배마에스트로(주상복합)", "gu": "서초", "claim": "built_year", "value": 2019, "grade": "fact", "source": "public_record"}
+{"name": "서초한신리빙타워(주상복합)", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 7.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 2, "area_m2": 48.0}
+{"name": "서초한신리빙타워(주상복합)", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 3.0, "jeonse_median_eok": 4.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 4, "area_m2": 48.0}
+{"name": "서초한신리빙타워(주상복합)", "gu": "서초", "claim": "annual_trade_count", "value": 2.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "서초한신리빙타워(주상복합)", "gu": "서초", "claim": "units", "value": 103, "grade": "fact", "source": "public_record"}
+{"name": "서초한신리빙타워(주상복합)", "gu": "서초", "claim": "built_year", "value": 1999, "grade": "fact", "source": "public_record"}
+{"name": "더샵서초(주상복합)", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 6.3, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 13, "area_m2": 33.0}
+{"name": "더샵서초(주상복합)", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 6.2, "p75": 6.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 13, "area_m2": 33.0}
+{"name": "더샵서초(주상복합)", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 1.58, "jeonse_median_eok": 4.72, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 33.0}
+{"name": "더샵서초(주상복합)", "gu": "서초", "claim": "annual_trade_count", "value": 15.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "더샵서초(주상복합)", "gu": "서초", "claim": "units", "value": 329, "grade": "fact", "source": "public_record"}
+{"name": "더샵서초(주상복합)", "gu": "서초", "claim": "built_year", "value": 2006, "grade": "fact", "source": "public_record"}
+{"name": "래미안서초유니빌(주상복합)", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 5.05, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 21, "area_m2": 45.5}
+{"name": "래미안서초유니빌(주상복합)", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 4.6, "p75": 5.2, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 21, "area_m2": 45.5}
+{"name": "래미안서초유니빌(주상복합)", "gu": "서초", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 2.0, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 21, "area_m2": 45.5}
+{"name": "래미안서초유니빌(주상복합)", "gu": "서초", "claim": "position_in_52w_range_pct", "value": 27, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 21, "area_m2": 45.5}
+{"name": "래미안서초유니빌(주상복합)", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 1.55, "jeonse_median_eok": 3.5, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 16, "area_m2": 45.5}
+{"name": "래미안서초유니빌(주상복합)", "gu": "서초", "claim": "annual_trade_count", "value": 37.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "래미안서초유니빌(주상복합)", "gu": "서초", "claim": "units", "value": 440, "grade": "fact", "source": "public_record"}
+{"name": "래미안서초유니빌(주상복합)", "gu": "서초", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
+{"name": "신영체르니", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 4.58, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 32.0}
+{"name": "신영체르니", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 4.58, "p75": 5.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 32.0}
+{"name": "신영체르니", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 1.46, "jeonse_median_eok": 3.12, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 6, "area_m2": 32.0}
+{"name": "신영체르니", "gu": "서초", "claim": "annual_trade_count", "value": 13.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "신영체르니", "gu": "서초", "claim": "units", "value": 175, "grade": "fact", "source": "public_record"}
+{"name": "신영체르니", "gu": "서초", "claim": "built_year", "value": 2002, "grade": "fact", "source": "public_record"}
+{"name": "서초이오빌(주상복합)", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 3.27, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 36.5}
+{"name": "서초이오빌(주상복합)", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 3.04, "p75": 3.44, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 8, "area_m2": 36.5}
+{"name": "서초이오빌(주상복합)", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 0.57, "jeonse_median_eok": 2.7, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 25, "area_m2": 36.5}
+{"name": "서초이오빌(주상복합)", "gu": "서초", "claim": "annual_trade_count", "value": 24.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "서초이오빌(주상복합)", "gu": "서초", "claim": "units", "value": 462, "grade": "fact", "source": "public_record"}
+{"name": "서초이오빌(주상복합)", "gu": "서초", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
+{"name": "서초대우아이빌(주상복합)", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 3.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 35.5}
+{"name": "서초대우아이빌(주상복합)", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 3.0, "p75": 3.1, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 35.5}
+{"name": "서초대우아이빌(주상복합)", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 0.35, "jeonse_median_eok": 2.75, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 4, "area_m2": 35.5}
+{"name": "서초대우아이빌(주상복합)", "gu": "서초", "claim": "annual_trade_count", "value": 11.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "서초대우아이빌(주상복합)", "gu": "서초", "claim": "units", "value": 215, "grade": "fact", "source": "public_record"}
+{"name": "서초대우아이빌(주상복합)", "gu": "서초", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
+{"name": "방배대우디오빌(주상복합)", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 2.85, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 27, "area_m2": 29.5}
+{"name": "방배대우디오빌(주상복합)", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 2.73, "p75": 2.99, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 27, "area_m2": 29.5}
+{"name": "방배대우디오빌(주상복합)", "gu": "서초", "claim": "recent3m_vs_prior9m_median_change_pct", "value": 1.8, "direction": "▲", "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 27, "area_m2": 29.5}
+{"name": "방배대우디오빌(주상복합)", "gu": "서초", "claim": "position_in_52w_range_pct", "value": 58, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 27, "area_m2": 29.5}
+{"name": "방배대우디오빌(주상복합)", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 0.25, "jeonse_median_eok": 2.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 7, "area_m2": 29.5}
+{"name": "방배대우디오빌(주상복합)", "gu": "서초", "claim": "annual_trade_count", "value": 29.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "방배대우디오빌(주상복합)", "gu": "서초", "claim": "units", "value": 412, "grade": "fact", "source": "public_record"}
+{"name": "방배대우디오빌(주상복합)", "gu": "서초", "claim": "built_year", "value": 2005, "grade": "fact", "source": "public_record"}
+{"name": "풍림아이원플러스(주상복합)", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 2.84, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 28.5}
+{"name": "풍림아이원플러스(주상복합)", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 2.8, "p75": 2.95, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 28.5}
+{"name": "풍림아이원플러스(주상복합)", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 0.44, "jeonse_median_eok": 2.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 3, "area_m2": 28.5}
+{"name": "풍림아이원플러스(주상복합)", "gu": "서초", "claim": "annual_trade_count", "value": 9.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "풍림아이원플러스(주상복합)", "gu": "서초", "claim": "units", "value": 200, "grade": "fact", "source": "public_record"}
+{"name": "풍림아이원플러스(주상복합)", "gu": "서초", "claim": "built_year", "value": 2004, "grade": "fact", "source": "public_record"}
+{"name": "한라비발디스튜디오193(도시형)", "gu": "서초", "claim": "recent_transaction_median_eok", "value": 2.55, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 20.0}
+{"name": "한라비발디스튜디오193(도시형)", "gu": "서초", "claim": "transaction_iqr_eok", "p25": 2.48, "p75": 2.6, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 5, "area_m2": 20.0}
+{"name": "한라비발디스튜디오193(도시형)", "gu": "서초", "claim": "sale_jeonse_gap_eok", "value": 0.15, "jeonse_median_eok": 2.4, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28", "n": 4, "area_m2": 20.0}
+{"name": "한라비발디스튜디오193(도시형)", "gu": "서초", "claim": "annual_trade_count", "value": 7.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "한라비발디스튜디오193(도시형)", "gu": "서초", "claim": "units", "value": 149, "grade": "fact", "source": "public_record"}
+{"name": "한라비발디스튜디오193(도시형)", "gu": "서초", "claim": "built_year", "value": 2013, "grade": "fact", "source": "public_record"}
+{"name": "반포르엘2차", "gu": "서초", "claim": "annual_trade_count", "value": 2.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "반포르엘2차", "gu": "서초", "claim": "units", "value": 280, "grade": "fact", "source": "public_record"}
+{"name": "반포르엘2차", "gu": "서초", "claim": "built_year", "value": 2022, "grade": "fact", "source": "public_record"}
+{"name": "방배롯데캐슬로제", "gu": "서초", "claim": "annual_trade_count", "value": 2.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "방배롯데캐슬로제", "gu": "서초", "claim": "units", "value": 130, "grade": "fact", "source": "public_record"}
+{"name": "방배롯데캐슬로제", "gu": "서초", "claim": "built_year", "value": 2009, "grade": "fact", "source": "public_record"}
+{"name": "방배아크로리버(주상복합)", "gu": "서초", "claim": "annual_trade_count", "value": 3.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "방배아크로리버(주상복합)", "gu": "서초", "claim": "units", "value": 222, "grade": "fact", "source": "public_record"}
+{"name": "방배아크로리버(주상복합)", "gu": "서초", "claim": "built_year", "value": 2004, "grade": "fact", "source": "public_record"}
+{"name": "방배자이", "gu": "서초", "claim": "annual_trade_count", "value": 1.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "방배자이", "gu": "서초", "claim": "units", "value": 136, "grade": "fact", "source": "public_record"}
+{"name": "방배자이", "gu": "서초", "claim": "built_year", "value": 2003, "grade": "fact", "source": "public_record"}
+{"name": "서초네이처힐2단지", "gu": "서초", "claim": "annual_trade_count", "value": 1.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "서초네이처힐2단지", "gu": "서초", "claim": "units", "value": 133, "grade": "fact", "source": "public_record"}
+{"name": "서초네이처힐2단지", "gu": "서초", "claim": "built_year", "value": 2012, "grade": "fact", "source": "public_record"}
+{"name": "서초네이처힐6단지", "gu": "서초", "claim": "annual_trade_count", "value": 2.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "서초네이처힐6단지", "gu": "서초", "claim": "units", "value": 382, "grade": "fact", "source": "public_record"}
+{"name": "서초네이처힐6단지", "gu": "서초", "claim": "built_year", "value": 2013, "grade": "fact", "source": "public_record"}
+{"name": "서초네이처힐7단지", "gu": "서초", "claim": "annual_trade_count", "value": 1.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "서초네이처힐7단지", "gu": "서초", "claim": "units", "value": 275, "grade": "fact", "source": "public_record"}
+{"name": "서초네이처힐7단지", "gu": "서초", "claim": "built_year", "value": 2011, "grade": "fact", "source": "public_record"}
+{"name": "서초포레스타7단지", "gu": "서초", "claim": "annual_trade_count", "value": 2.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "서초포레스타7단지", "gu": "서초", "claim": "units", "value": 310, "grade": "fact", "source": "public_record"}
+{"name": "서초포레스타7단지", "gu": "서초", "claim": "built_year", "value": 2013, "grade": "fact", "source": "public_record"}
+{"name": "신반포르엘", "gu": "서초", "claim": "annual_trade_count", "value": 3.0, "grade": "fact", "source": "MOLIT_RTMS_public", "asof": "2026-09-28"}
+{"name": "신반포르엘", "gu": "서초", "claim": "units", "value": 330, "grade": "fact", "source": "public_record"}
+{"name": "신반포르엘", "gu": "서초", "claim": "built_year", "value": 2023, "grade": "fact", "source": "public_record"}
