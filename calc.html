@@ -84,7 +84,7 @@ label{display:inline-block;margin:4px 10px 4px 0;font-size:13px}input{width:84px
 <nav class=top><a href="index.html">구 허브</a><a href="explorer.html">탐색기</a><a href="daily/latest.html">오늘의 변화</a><a href="macro.html">거시 지표</a><a href="methodology.html">방법론</a></nav>
 <div class=crumb><a href="index.html">서울</a> › <a href="macro.html">거시 지표</a> › 전달 계산기</div>
 <h1>전달 계산기</h1>
-<p class=meta>2026-10-03 · 결정론 산식(원리금균등·DSR 월 단위·정책 파라미터). 기준금리 결정이 대출금리로 얼마나 옮겨가는지는 여기서 가정하지 않는다 — "대출금리가 이만큼 움직이면 이 산수" 를 행으로 둔다.</p>
+<p class=meta>2026-10-04 · 결정론 산식(원리금균등·DSR 월 단위·정책 파라미터). 기준금리 결정이 대출금리로 얼마나 옮겨가는지는 여기서 가정하지 않는다 — "대출금리가 이만큼 움직이면 이 산수" 를 행으로 둔다.</p>
 <p class=meta>관측값(사실): 한국은행 기준금리 3.00%(2026-08-27) · 코픽스 신규취급액 3.18%(2026-09-15) · 국고채 3년 3.94%(2026-10-02)</p>
 <h2>입력 <span class=mut>(전부 [가정] — 은행별 실제 금리는 은행연합회 비교공시)</span></h2>
 <p><label>대출금(억) <input id=loan type=number step=0.1 value=3 min=0 max=100000></label><label>기간(년, 상한 30) <input id=years type=number max=30 value=30></label>
@@ -104,7 +104,7 @@ label{display:inline-block;margin:4px 10px 4px 0;font-size:13px}input{width:84px
 <p class=mut>배율 1.65 = 2026-09-07 발행 풀 중위(공시가를 찾은 면적과 발행 면적이 일치하는 단지), 1.49 = 같은 날 20억 이상 밴드 중위 — 실측값 그대로. 실거래 중위 행(10·15·20·30억)은 예시 가정. 단지별 배율은 탐색기의 '공시가 배율' 열. 재산세 1주택 특례(공정시장가액비율·9억 이하 특례세율)·종부세 12억 공제·공정시장가액비율 = 코드 기본값(정책 스냅샷 미확인 — 출발점일 뿐 정책 사실 아님) — 실제 고지서와 다를 수 있다.</p>
 <div class=foot>
 산식: 월 상환 = P·r/(1−(1+r)^−n). DSR 한도 = (연소득×40%/12)×[1−(1+r_m)^−n]/r_m, r_m = (대출금리+가산)/12. 전달 폭(기준금리→코픽스→대출금리)은 <a href="macro.html">거시 지표</a>의 전달시차 표와 월간결산의 과거 통계에서 다룬다.<br>
-이 페이지의 수치는 입력 가정·정책 파라미터·관측 지표(기준일 표기)로 계산한 산수이며 실거래 통계가 아니다. 본 계산은 공개 정책 기준(출처·확인일 명시)의 결정론 시뮬레이션 추정치입니다. 실제 대출 가능 금액·금리·승인 여부는 개인 신용도·소득 증빙·은행별 심사 기준에 따라 달라지므로 반드시 은행 등 금융기관에 직접 확인해야 합니다. 사실 오류·이의제기 접수 시 확인 후 수정·삭제합니다. 연락처: (운영자 연락처 — RE_EMAIL_TO 환경변수)<br>
+이 페이지의 수치는 입력 가정·정책 파라미터·관측 지표(기준일 표기)로 계산한 산수이며 실거래 통계가 아니다. 본 계산은 공개 정책 기준(출처·확인일 명시)의 결정론 시뮬레이션 추정치입니다. 실제 대출 가능 금액·금리·승인 여부는 개인 신용도·소득 증빙·은행별 심사 기준에 따라 달라지므로 반드시 은행 등 금융기관에 직접 확인해야 합니다. 사실 오류·이의제기 접수 시 확인 후 수정·삭제합니다. 연락처: hexisteme@gmail.com<br>
 <a href="methodology.html">방법론 전문</a> · <a href="macro.html">거시 지표</a> · <a href="https://hexisteme.github.io/seoul-re-snapshot/calc.html">https://hexisteme.github.io/seoul-re-snapshot/calc.html</a>
 </div>
 </div>
