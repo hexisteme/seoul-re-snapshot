@@ -180,7 +180,7 @@ const COLS=[
    fmt:r=>r.gu_jeonse_ratio_pct!=null?`${r.gu_jeonse_ratio_pct}%<span class=muted> 서울전체 R-ONE</span>`:`<span class=muted>—</span>`},
   {k:"jeonse_ratio_complex_pct",t:"전세가율(단지)",num:true,extra:true,
    fmt:r=>r.jeonse_ratio_complex_pct!=null?`${r.jeonse_ratio_complex_pct}%`:`<span class=muted>—</span>`},
-  {k:"gap_eok",t:"매매-전세 갭",num:true,extra:true,
+  {k:"gap_eok",t:"매매·전세 중위 차이",num:true,extra:true,
    fmt:r=>r.gap_eok!=null?`${r.gap_eok}억<br><span class=muted>전세${r.jeonse_recent_eok}억 n${r.jeonse_n}</span>`:`<span class=muted>—</span>`},
   {k:"trade_annual",t:"연거래수",num:true,extra:true,
    fmt:r=>r.trade_annual!=null?`${r.trade_annual}건/년`:`<span class=muted>—</span>`},
@@ -196,8 +196,6 @@ const COLS=[
    fmt:r=>r.park_1k!=null?`${r.park_1k}개`:`<span class=muted>—</span>`},
   {k:"dept_1500",t:"백화점(1.5km)",num:true,extra:true,
    fmt:r=>r.dept_1500!=null?`${r.dept_1500}개`:`<span class=muted>—</span>`},
-  {k:"maint_fee_won",t:"월관리비",num:true,extra:true,
-   fmt:r=>r.maint_fee_won!=null?`${Math.round(r.maint_fee_won/10000)}만원`:`<span class=muted>—</span>`},
   {k:"heating",t:"난방방식",num:false,extra:true,
    fmt:r=>r.heating?esc(r.heating):`<span class=muted>—</span>`},
   {k:"corridor_type",t:"복도유형",num:false,extra:true,
@@ -311,7 +309,7 @@ function init(){
     +`<br>• P25·중위·P75 = 동일평형 실거래 분위수(협상 레인지). 추세 = 최근3개월 중위 vs 직전9개월 중위(과거 비교 사실 — 전망 아님). 52주위치 = <b>최근 3개월 체결 중위</b>가 12개월(52주) 실거래 최저~최고 레인지에서 차지하는 위치(%) — 헤드라인 중위(12개월)와 기준점 다름(최근 거래 없으면 —). 표본 부족 구간은 —.`
     +`<br>• 자체 평가·점수·순위를 매기지 않습니다. 공개된 사실 수치만 제공합니다.`
     +`<br>• <b>가격대</b> = 매매 중위 기준 단순 구간화(사실)이며 대출 적격·추천을 의미하지 않습니다 — 대출 가능 여부·금리·한도는 소득 등 개별조건에 따라 다르므로 은행 등 금융기관에 직접 확인하십시오.`
-    +`<br>• <b>전세가율(단지)</b>·<b>매매-전세 갭</b> = 동일평형 전세 실거래(공공 RTMS) 매칭 사실. <b>전세가율(서울전체)</b>은 개별 단지가 아닌 한국부동산원 R-ONE 서울 전체 월간 평균(참고용 거시지표)입니다.`
+    +`<br>• <b>전세가율(단지)</b>·<b>매매·전세 중위 차이</b> = 동일평형 전세 실거래(공공 RTMS) 매칭 사실. <b>전세가율(서울전체)</b>은 개별 단지가 아닌 한국부동산원 R-ONE 서울 전체 월간 평균(참고용 거시지표)입니다.`
     +`<br>• <b>거래회전율</b> = 그 단지 12개월 전체 실거래 건수÷세대수×100(%) — 거주만족·매물희소 등 다양한 이유로 낮을 수 있어 '환금성 나쁨'의 단정적 지표가 아닙니다.`
     +`<br>• <b>공시가 배율</b> = 국토부 실거래 12개월 동일평형 중위÷같은 평형 공시가격(공시가를 찾은 면적과 발행 면적이 일치하는 단지만) — 보유세 산정 기준 대비 시세 배율의 사실이며 가치 판단이 아닙니다.`
     +`<br>• <b>평형 격차</b> = 같은 단지 59㎡대와 84㎡대(각 ±3.5㎡, 양쪽 n≥5)의 ㎡당 실거래 중위 비(59÷84−1, %). 같은 구에서 이름매칭이 겹치는 단지가 있거나(공공 프레임 대조) K-apt 면적대 세대수와 맞지 않거나 대조 자료가 없거나 84 총액 중위가 59 보다 낮으면 빈칸 — 국토부 실거래 원본에 동 정보가 없어 이름이 같은 단지의 거래는 가를 수 없습니다. 격차의 사실만 적고 원인은 적지 않습니다.`
