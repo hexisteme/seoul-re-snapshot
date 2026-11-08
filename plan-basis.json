@@ -1,0 +1,211 @@
+{
+ "asof": "2026-11-08",
+ "stale_days": 60,
+ "rules": [
+  {
+   "key": "ltv_general",
+   "label": "LTV(무주택 일반)",
+   "value": 0.4,
+   "unit": "ratio",
+   "applies_to": "서울 전역(규제지역) 무주택 일반 차주 주택담보대출",
+   "source": "10.15 주택시장 안정화 대책(관계부처 합동, 2025-10-15 발표)",
+   "effective": "2025-10-16",
+   "confirmed": "2026-11-08",
+   "source_url": "https://www.fsc.go.kr/no010101/85432",
+   "confirmed_by": "source",
+   "stale": false
+  },
+  {
+   "key": "ltv_first_time",
+   "label": "LTV(생애최초)",
+   "value": 0.7,
+   "unit": "ratio",
+   "applies_to": "규제지역 생애최초 주택구입자(6개월 내 전입 의무)",
+   "source": "6.27 가계부채 관리 강화 방안(금융위원회, 2025-06-27 발표)",
+   "effective": "2025-06-28",
+   "confirmed": "2026-11-08",
+   "source_url": "https://www.fsc.go.kr/no010101/84824",
+   "confirmed_by": "source",
+   "stale": false
+  },
+  {
+   "key": "abs_cap_le15",
+   "label": "주담대 절대한도(15억 이하)",
+   "value": 600000000,
+   "unit": "krw",
+   "applies_to": "수도권·규제지역 주택가격 15억 이하",
+   "source": "10.15 주택시장 안정화 대책(관계부처 합동, 2025-10-15 발표)",
+   "effective": "2025-10-16",
+   "confirmed": "2026-11-08",
+   "source_url": "https://www.fsc.go.kr/no010101/85432",
+   "confirmed_by": "source",
+   "stale": false
+  },
+  {
+   "key": "abs_cap_le25",
+   "label": "주담대 절대한도(15억 초과~25억)",
+   "value": 400000000,
+   "unit": "krw",
+   "applies_to": "수도권·규제지역 주택가격 15억 초과 25억 이하",
+   "source": "10.15 주택시장 안정화 대책(관계부처 합동, 2025-10-15 발표)",
+   "effective": "2025-10-16",
+   "confirmed": "2026-11-08",
+   "source_url": "https://www.fsc.go.kr/no010101/85432",
+   "confirmed_by": "source",
+   "stale": false
+  },
+  {
+   "key": "abs_cap_gt25",
+   "label": "주담대 절대한도(25억 초과)",
+   "value": 200000000,
+   "unit": "krw",
+   "applies_to": "수도권·규제지역 주택가격 25억 초과",
+   "source": "10.15 주택시장 안정화 대책(관계부처 합동, 2025-10-15 발표)",
+   "effective": "2025-10-16",
+   "confirmed": "2026-11-08",
+   "source_url": "https://www.fsc.go.kr/no010101/85432",
+   "confirmed_by": "source",
+   "stale": false
+  },
+  {
+   "key": "stress_addon_pp",
+   "label": "스트레스 DSR 가산금리",
+   "value": 3.0,
+   "unit": "pp",
+   "applies_to": "수도권·규제지역 주택담보대출 DSR 산정",
+   "source": "10.15 주택시장 안정화 대책(관계부처 합동, 2025-10-15 발표)",
+   "effective": "2025-10-16",
+   "confirmed": "2026-11-08",
+   "source_url": "https://www.fsc.go.kr/no010101/85432",
+   "confirmed_by": "source",
+   "stale": false
+  },
+  {
+   "key": "dsr_cap",
+   "label": "DSR 한도(은행권)",
+   "value": 0.4,
+   "unit": "ratio",
+   "applies_to": "은행권 차주단위 DSR(총대출 1억 초과)",
+   "source": "차주단위 DSR 3단계(금융위원회, 2022-07-01 시행)",
+   "effective": "2022-07-01",
+   "confirmed": "2026-11-08",
+   "source_url": null,
+   "confirmed_by": "watch",
+   "stale": false
+  },
+  {
+   "key": "term_cap_years",
+   "label": "주담대 만기 상한",
+   "value": 30,
+   "unit": "years",
+   "applies_to": "수도권·규제지역 주택담보대출(DSR 산정·실제 만기)",
+   "source": "6.27 가계부채 관리 강화 방안(금융위원회, 2025-06-27 발표)",
+   "effective": "2025-06-28",
+   "confirmed": "2026-11-08",
+   "source_url": "https://www.fsc.go.kr/no010101/84824",
+   "confirmed_by": "source",
+   "stale": false
+  }
+ ],
+ "abs_cap_tiers": [
+  {
+   "upper_krw": 1500000000,
+   "cap_krw": 600000000,
+   "key": "abs_cap_le15"
+  },
+  {
+   "upper_krw": 2500000000,
+   "cap_krw": 400000000,
+   "key": "abs_cap_le25"
+  },
+  {
+   "upper_krw": null,
+   "cap_krw": 200000000,
+   "key": "abs_cap_gt25"
+  }
+ ],
+ "mortgage_rate": {
+  "value_pct": 4.88,
+  "month": "2026-09",
+  "source": "한국은행 ECOS 121Y006/BECBLA0302 — 예금은행 신규취급액 기준 주택담보대출 가중평균금리(월)",
+  "stale": false
+ },
+ "tax": {
+  "acq_low_threshold_eok": 6,
+  "acq_high_threshold_eok": 9,
+  "acq_low_rate": 0.01,
+  "acq_high_rate": 0.03,
+  "acq_edu_ratio": 0.1,
+  "acq_farm_rate": 0.002,
+  "acq_farm_area": 85,
+  "acq_first_relief": 2000000,
+  "acq_relief_cap_eok": 12,
+  "source": "코드 기본값(미검증)",
+  "confirmed": "default"
+ },
+ "calc": {
+  "ltv_general": 0.4,
+  "ltv_first_time": 0.7,
+  "stress_pp": 3.0,
+  "dsr_cap": 0.4,
+  "term_years": 30,
+  "price_step_krw": 1000000,
+  "price_max_steps": 10000,
+  "rate_eps": 1e-09,
+  "area_m2": 84.0,
+  "assumed_rate_pct": 4.5,
+  "stress_bumps_pp": [
+   1.0,
+   2.0
+  ],
+  "income_drop_pct": 20
+ },
+ "programs": [
+  {
+   "key": "didimdol_first",
+   "label": "디딤돌(생애최초)",
+   "price_cap_krw": 500000000,
+   "income_cap_krw": 70000000,
+   "loan_cap_krw": 240000000,
+   "rate_low": 0.0285,
+   "rate_high": 0.0415,
+   "requires_newborn": false,
+   "rate_note": "금리 2.85~4.15%(2026-07 확인) — 우대금리 별도, 신혼·2자녀는 소득·가격캡 상이. 한도 3억→2.4억(6.27, 2025-06-28 시행, fsc.go.kr/no010101/84824)",
+   "source": "https://www.hf.go.kr/ko/sub01/sub01_02_01.do",
+   "confirmed": "2026-11-08"
+  },
+  {
+   "key": "newborn",
+   "label": "신생아 특례(디딤돌)",
+   "price_cap_krw": 900000000,
+   "income_cap_krw": 200000000,
+   "loan_cap_krw": 400000000,
+   "rate_low": 0.018,
+   "rate_high": 0.045,
+   "requires_newborn": true,
+   "rate_note": "특례금리 1.80~4.50%(2026-06-22 고시) — 소득구간별 차등. 한도 5억→4억(6.27, fsc.go.kr/no010101/84824)",
+   "source": "https://www.myhome.go.kr/hws/portal/cont/selectBabySpecialCaseStepStoneLoneView.do",
+   "confirmed": "2026-11-08"
+  },
+  {
+   "key": "bogeumjari",
+   "label": "보금자리론",
+   "price_cap_krw": 600000000,
+   "income_cap_krw": 70000000,
+   "loan_cap_krw": 360000000,
+   "rate_low": 0.035,
+   "rate_high": 0.047,
+   "requires_newborn": false,
+   "rate_note": "금리 2026-07 고시 미확인(참고범위) — 공사 홈페이지·은행 확인 필수. 신혼 8.5천·1자녀 9천·다자녀 1억 소득캡 별도. 2026-10-19부터 신혼은 부부 중 1인 연소득 7천만 이하로도 가능(fsc.go.kr/no010101/87939)",
+   "source": "https://www.hf.go.kr/ko/sub01/sub01_01_01.do",
+   "confirmed": "2026-11-08"
+  }
+ ],
+ "watch": {
+  "confirmed_through": "2026-11-08",
+  "last_scan": "2026-11-08",
+  "last_ok": true,
+  "source": "금융위원회 보도자료 · 국토교통부 정책뉴스(정책브리핑)",
+  "pending": []
+ }
+}
