@@ -1,5 +1,5 @@
 {
- "asof": "2026-11-09",
+ "asof": "2026-11-10",
  "stale_days": 60,
  "rules": [
   {
@@ -10,7 +10,7 @@
    "applies_to": "서울 전역(규제지역) 무주택 일반 차주 주택담보대출",
    "source": "10.15 주택시장 안정화 대책(관계부처 합동, 2025-10-15 발표)",
    "effective": "2025-10-16",
-   "confirmed": "2026-11-09",
+   "confirmed": "2026-11-10",
    "source_url": "https://www.fsc.go.kr/no010101/85432",
    "confirmed_by": "watch",
    "stale": false
@@ -23,7 +23,7 @@
    "applies_to": "규제지역 생애최초 주택구입자(6개월 내 전입 의무)",
    "source": "6.27 가계부채 관리 강화 방안(금융위원회, 2025-06-27 발표)",
    "effective": "2025-06-28",
-   "confirmed": "2026-11-09",
+   "confirmed": "2026-11-10",
    "source_url": "https://www.fsc.go.kr/no010101/84824",
    "confirmed_by": "watch",
    "stale": false
@@ -36,7 +36,7 @@
    "applies_to": "수도권·규제지역 주택가격 15억 이하",
    "source": "10.15 주택시장 안정화 대책(관계부처 합동, 2025-10-15 발표)",
    "effective": "2025-10-16",
-   "confirmed": "2026-11-09",
+   "confirmed": "2026-11-10",
    "source_url": "https://www.fsc.go.kr/no010101/85432",
    "confirmed_by": "watch",
    "stale": false
@@ -49,7 +49,7 @@
    "applies_to": "수도권·규제지역 주택가격 15억 초과 25억 이하",
    "source": "10.15 주택시장 안정화 대책(관계부처 합동, 2025-10-15 발표)",
    "effective": "2025-10-16",
-   "confirmed": "2026-11-09",
+   "confirmed": "2026-11-10",
    "source_url": "https://www.fsc.go.kr/no010101/85432",
    "confirmed_by": "watch",
    "stale": false
@@ -62,7 +62,7 @@
    "applies_to": "수도권·규제지역 주택가격 25억 초과",
    "source": "10.15 주택시장 안정화 대책(관계부처 합동, 2025-10-15 발표)",
    "effective": "2025-10-16",
-   "confirmed": "2026-11-09",
+   "confirmed": "2026-11-10",
    "source_url": "https://www.fsc.go.kr/no010101/85432",
    "confirmed_by": "watch",
    "stale": false
@@ -75,7 +75,7 @@
    "applies_to": "수도권·규제지역 주택담보대출 DSR 산정",
    "source": "10.15 주택시장 안정화 대책(관계부처 합동, 2025-10-15 발표)",
    "effective": "2025-10-16",
-   "confirmed": "2026-11-09",
+   "confirmed": "2026-11-10",
    "source_url": "https://www.fsc.go.kr/no010101/85432",
    "confirmed_by": "watch",
    "stale": false
@@ -88,7 +88,7 @@
    "applies_to": "은행권 차주단위 DSR(총대출 1억 초과)",
    "source": "차주단위 DSR 3단계(금융위원회, 2022-07-01 시행)",
    "effective": "2022-07-01",
-   "confirmed": "2026-11-09",
+   "confirmed": "2026-11-10",
    "source_url": null,
    "confirmed_by": "watch",
    "stale": false
@@ -101,7 +101,7 @@
    "applies_to": "수도권·규제지역 주택담보대출(DSR 산정·실제 만기)",
    "source": "6.27 가계부채 관리 강화 방안(금융위원회, 2025-06-27 발표)",
    "effective": "2025-06-28",
-   "confirmed": "2026-11-09",
+   "confirmed": "2026-11-10",
    "source_url": "https://www.fsc.go.kr/no010101/84824",
    "confirmed_by": "watch",
    "stale": false
@@ -172,7 +172,7 @@
    "requires_newborn": false,
    "rate_note": "금리 2.85~4.15%(2026-07 확인) — 우대금리 별도, 신혼·2자녀는 소득·가격캡 상이. 한도 3억→2.4억(6.27, 2025-06-28 시행, fsc.go.kr/no010101/84824)",
    "source": "https://www.hf.go.kr/ko/sub01/sub01_02_01.do",
-   "confirmed": "2026-11-09"
+   "confirmed": "2026-11-10"
   },
   {
    "key": "newborn",
@@ -185,7 +185,7 @@
    "requires_newborn": true,
    "rate_note": "특례금리 1.80~4.50%(2026-06-22 고시) — 소득구간별 차등. 한도 5억→4억(6.27, fsc.go.kr/no010101/84824)",
    "source": "https://www.myhome.go.kr/hws/portal/cont/selectBabySpecialCaseStepStoneLoneView.do",
-   "confirmed": "2026-11-09"
+   "confirmed": "2026-11-10"
   },
   {
    "key": "bogeumjari",
@@ -198,12 +198,12 @@
    "requires_newborn": false,
    "rate_note": "금리 2026-07 고시 미확인(참고범위) — 공사 홈페이지·은행 확인 필수. 신혼 8.5천·1자녀 9천·다자녀 1억 소득캡 별도. 2026-10-19부터 신혼은 부부 중 1인 연소득 7천만 이하로도 가능(fsc.go.kr/no010101/87939)",
    "source": "https://www.hf.go.kr/ko/sub01/sub01_01_01.do",
-   "confirmed": "2026-11-09"
+   "confirmed": "2026-11-10"
   }
  ],
  "watch": {
-  "confirmed_through": "2026-11-09",
-  "last_scan": "2026-11-09",
+  "confirmed_through": "2026-11-10",
+  "last_scan": "2026-11-10",
   "last_ok": true,
   "source": "금융위원회 보도자료 · 국토교통부 정책뉴스(정책브리핑)",
   "pending": []
