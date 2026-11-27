@@ -9,12 +9,16 @@ header{padding:14px 18px;border-bottom:1px solid var(--bd);position:sticky;top:0
 h1{font-size:18px;margin:0 0 4px}.disc{font-size:12px;color:var(--mut)}
 .wrap{display:grid;grid-template-columns:280px 1fr;min-height:calc(100vh - 64px)}
 .panel{padding:16px 18px;border-right:1px solid var(--bd);background:var(--bg)}
+.panel summary{padding:6px 0;font-weight:600;cursor:pointer}
 .panel h3{font-size:13px;text-transform:uppercase;letter-spacing:.04em;color:var(--mut);margin:18px 0 8px}
 .panel h3:first-child{margin-top:0}
 .chip{display:inline-block;padding:4px 10px;margin:3px 4px 3px 0;border:1px solid var(--bd);border-radius:14px;background:#fff;cursor:pointer;font-size:13px}
 .chip.on{background:var(--ac);color:#fff;border-color:var(--ac)}
 .results{padding:14px 18px;min-width:0}
 .row{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px;margin-bottom:8px}
+.conditions{font-size:13px;color:var(--mut);margin:0 0 4px}
+.conditions:empty{display:none}
+.detail-link{display:inline-block;min-height:28px;padding:3px 0;color:var(--ac);text-decoration:underline}
 input[type=search]{width:100%;padding:8px 10px;border:1px solid var(--bd);border-radius:8px;font-size:14px}
 input[type=number]{width:70px;padding:6px 8px;border:1px solid var(--bd);border-radius:6px}
 table{width:100%;border-collapse:collapse;font-size:13px}
@@ -112,10 +116,14 @@ tbody tr:hover{background:#f6faff}
   <div class=disc>표의 가격·거래 수치는 국토부 실거래 사실(F)이며 표본 n 을 동반합니다.</div>
 </header>
 <div class=wrap>
-  <aside class=panel id=filters></aside>
+  <details class=panel id=filter-panel open>
+    <summary>상세 조건·예산 설정</summary>
+    <div id=filters></div>
+  </details>
   <main class=results>
+    <p class=conditions id=active-conditions></p>
     <div class=row>
-      <div><b id=count></b> <span class=muted id=countsub></span></div>
+      <div role=status><b id=count></b> <span class=muted id=countsub></span></div>
       <div style="display:flex;gap:8px;align-items:center">
         <span class=muted style="font-size:12px">열 머리글 클릭 = 정렬</span>
         <button class=toggle-btn id=infraToggle onclick="const t=document.getElementById('tbl');t.classList.toggle('show-extra');this.classList.toggle('on');this.textContent=this.classList.contains('on')?'인프라 숨기기':'📍 인프라 보기'">📍 인프라 보기</button>
@@ -126,12 +134,15 @@ tbody tr:hover{background:#f6faff}
     <div class=foot id=foot></div>
   </main>
 </div>
+<script id="explorer-detail-links" type="application/json">[["강동","강동리버스트8단지",49.5,"134510","강동-강동리버스트8단지"],["강동","고덕그라시움",60.0,"113907","강동-고덕그라시움"],["강동","고덕롯데캐슬베네루체",85.0,"117309","강동-고덕롯데캐슬베네루체"],["강동","고덕아르테온",85.0,"119341","강동-고덕아르테온"],["강동","둔촌푸르지오",85.0,"27212","강동-둔촌푸르지오"],["강동","래미안솔베뉴",59.0,"113432","강동-래미안솔베뉴"],["강동","선사현대",59.5,"3118","강동-선사현대"],["강동","올림픽파크포레온",85.0,"155817","강동-올림픽파크포레온"],["강동","프라이어팰리스",85.0,"19578","강동-프라이어팰리스"],["강북","꿈의숲해링턴플레이스",84.5,"116048","강북-꿈의숲해링턴플레이스"],["강북","두산위브트레지움",85.0,"27413","강북-두산위브트레지움"],["강북","벽산라이브파크",85.0,"3099","강북-벽산라이브파크"],["강북","삼각산아이원",84.5,"8206","강북-삼각산아이원"],["강북","삼성래미안트리베라2차",84.5,"25972","강북-삼성래미안트리베라2차"],["강서","가양6단지",49.5,"1347","강서-가양6단지"],["강서","강서힐스테이트",129.0,"103305","강서-강서힐스테이트"],["강서","더트루엘마곡HQ",48.5,"172117","강서-더트루엘마곡HQ"],["강서","부영",80.0,"7","강서-부영"],["강서","우장산힐스테이트",85.0,"11337","강서-우장산힐스테이트"],["관악","관악산휴먼시아2단지",85.0,"8895","관악-관악산휴먼시아2단지"],["관악","관악푸르지오",59.5,"2988","관악-관악푸르지오"],["관악","두산",60.0,"3034","관악-두산"],["관악","벽산블루밍",60.0,"14233","관악-벽산블루밍"],["관악","보라매삼성",85.0,"48","관악-보라매삼성"],["관악","힐스테이트뉴포레",60.0,"148337","관악-힐스테이트뉴포레"],["구로","구일우성아파트",59.0,"A15205108","구로-구일우성아파트"],["구로","한마을",59.5,"106","구로-한마을"],["금천","금천롯데캐슬골드파크3차",60.0,"109956","금천-금천롯데캐슬골드파크3차"],["금천","금천현대",60.0,"164","금천-금천현대"],["금천","남서울힐스테이트",84.5,"104347","금천-남서울힐스테이트"],["금천","한신",89.5,"162","금천-한신"],["노원","건영3차",85.0,"229","노원-건영3차"],["노원","노원롯데캐슬시그니처",85.0,"133572","노원-노원롯데캐슬시그니처"],["노원","동신",72.0,"1087","노원-동신"],["노원","벽산",59.0,"184","노원-벽산"],["노원","비선",48.5,"1093","노원-비선"],["노원","상계주공10단지",59.0,"A13920804","노원-상계주공10단지"],["노원","상계주공16단지",59.0,"201","노원-상계주공16단지"],["노원","상계주공1단지",59.0,"A13983105","노원-상계주공1단지"],["노원","상계주공2단지",59.0,"A13983004","노원-상계주공2단지"],["노원","상계주공3단지",59.0,"A13971502","노원-상계주공3단지"],["노원","상계주공4단지",59.0,"A13920706","노원-상계주공4단지"],["노원","상계주공6단지",59.0,"A13920707","노원-상계주공6단지"],["노원","상계주공7단지",59.0,"921","노원-상계주공7단지"],["노원","상계주공9단지",61.0,"206","노원-상계주공9단지"],["노원","은빛1단지",60.0,"3249","노원-은빛1단지"],["노원","은빛2단지",60.0,"3250","노원-은빛2단지"],["노원","청구3차",85.0,"249","노원-청구3차"],["노원","청암2단지",50.0,"3366","노원-청암2단지"],["노원","학여울청구",85.0,"128","노원-학여울청구"],["노원","현대",85.0,"8198","노원-현대"],["도봉","동아청솔",60.0,"312","도봉-동아청솔"],["도봉","삼성래미안",85.0,"313","도봉-삼성래미안"],["도봉","서원",50.0,"1120","도봉-서원"],["동대문","래미안위브",85.0,"104202","동대문-래미안위브"],["동대문","래미안장안2차",81.0,"A13010005","동대문-래미안장안2차"],["동대문","래미안크레시티",85.0,"103797","동대문-래미안크레시티"],["동대문","한신",59.0,"1128","동대문-한신"],["동작","래미안상도3차",85.0,"9194","동작-래미안상도3차"],["동작","힐스테이트상도센트럴파크",84.5,"22491","동작-힐스테이트상도센트럴파크"],["서대문","DMC래미안e편한세상",85.0,"101160","서대문-DMC래미안e편한세상"],["서대문","DMC래미안클라시스",60.0,"3479","서대문-DMC래미안클라시스"],["서대문","DMC센트럴아이파크",85.0,"112802","서대문-DMC센트럴아이파크"],["서대문","천연뜨란채",56.0,"11567","서대문-천연뜨란채"],["서대문","홍제센트럴아이파크",85.0,"112357","서대문-홍제센트럴아이파크"],["서대문","홍제한양",60.0,"7961","서대문-홍제한양"],["성동","신동아",60.0,"332","성동-신동아"],["성북","길음뉴타운2단지푸르지오",85.0,"8082","성북-길음뉴타운2단지푸르지오"],["성북","꿈의숲아이파크",59.0,"122863","성북-꿈의숲아이파크"],["성북","꿈의숲푸르지오",59.0,"A13613009","성북-꿈의숲푸르지오"],["성북","동아에코빌",60.0,"3425","성북-동아에코빌"],["성북","두산",59.0,"1183","성북-두산"],["성북","래미안길음센터피스",60.0,"111330","성북-래미안길음센터피스"],["성북","롯데캐슬클라시아",60.0,"126062","성북-롯데캐슬클라시아"],["성북","월곡두산위브아파트",59.0,"A13613008","성북-월곡두산위브아파트"],["성북","정릉풍림아이원",84.0,"3426","성북-정릉풍림아이원"],["송파","거여5단지",59.5,"952","송파-거여5단지"],["송파","리센츠",85.0,"22746","송파-리센츠"],["송파","송파더센트레",52.0,"104122","송파-송파더센트레"],["송파","잠실엘스",85.0,"22627","송파-잠실엘스"],["송파","트리지움",85.0,"19127","송파-트리지움"],["송파","파크리오",85.0,"22675","송파-파크리오"],["송파","헬리오시티",85.0,"111515","송파-헬리오시티"],["양천","목동우성2차",85.0,"8742","양천-목동우성2차"],["양천","신트리1단지",50.0,"672","양천-신트리1단지"],["양천","학마을1단지",50.0,"3784","양천-학마을1단지"],["영등포","양평한신",59.0,"A15010502","영등포-양평한신"],["은평","DMCSK뷰아이파크포레",60.0,"134528","은평-DMCSK뷰아이파크포레"],["은평","DMC롯데캐슬더퍼스트",60.0,"118025","은평-DMC롯데캐슬더퍼스트"],["은평","녹번역e편한세상캐슬",60.0,"119275","은평-녹번역e편한세상캐슬"],["은평","래미안베라힐즈",85.0,"111575","은평-래미안베라힐즈"],["은평","백련산SK뷰아이파크",60.0,"116158","은평-백련산SK뷰아이파크"],["은평","백련산파크자이",60.0,"113021","은평-백련산파크자이"],["은평","백련산힐스테이트1차",84.5,"27501","은평-백련산힐스테이트1차"],["은평","북한산푸르지오",85.0,"107610","은평-북한산푸르지오"],["은평","북한산현대힐스테이트3차",60.0,"26191","은평-북한산현대힐스테이트3차"],["중구","남산타운",60.0,"3833","중구-남산타운"],["중랑","면목한신",44.5,"802","중랑-면목한신"],["중랑","사가정센트럴아이파크",85.0,"119588","중랑-사가정센트럴아이파크"],["중랑","성원",84.5,"801","중랑-성원"],["중랑","신내우디안1단지",84.5,"108142","중랑-신내우디안1단지"],["중랑","중앙하이츠",85.0,"822","중랑-중앙하이츠"]]</script>
 <script>
 const S={q:"",gu:new Set(),area:new Set(),decade:new Set(),ptype:new Set(),seg:new Set(),emin:null,emax:null,units_min:null,ppmin:null,ppmax:null,sort:"molit_recent_eok",dir:-1};
 const SEG_ORDER=["10억 미만","10~15억","15~20억","20억 이상"];   // = PRICE_SEGMENTS 라벨 순서(2026-09-07 4밴드)
+const detailLinks=new Map(JSON.parse(document.getElementById("explorer-detail-links").textContent)
+  .map(([gu,name,area,complexNo,slug])=>[JSON.stringify([gu,name,area,complexNo]),slug]));
 let DB=null;
 const COLS=[
-  {k:"name",t:"단지명",num:false},
+  {k:"name",t:"단지명",num:false,fmt:complexNameCell},
   {k:"gu",t:"구·생활권",num:false,get:r=>r.gu+(r.saeng?" · "+r.saeng:"")},
   {k:"area_m2",t:"전용㎡",num:true,get:r=>r.area_m2,fmt:r=>r.area_m2+"㎡ <span class=muted>("+r.pyeong+"평)</span>"},
   {k:"units",t:"세대수",num:true,fmt:r=>r.units.toLocaleString()},
@@ -198,6 +209,12 @@ const COLS=[
 const uniq=a=>[...new Set(a)];
 const esc=s=>(s==null?"":String(s)).replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));
 
+function complexNameCell(row){
+  const name=esc(row.name);
+  const slug=detailLinks.get(JSON.stringify([row.gu,row.name,row.area_m2,String(row.complex_no||"")]));
+  return slug?`${name}<br><a class="detail-link" href="./complex/${encodeURIComponent(slug)}.html">실거래 근거 보기</a>`:name;
+}
+
 // GA4 계측(2026-09-06 P0) — gtag 는 build_site.inject_ga4_tag 가 나중에 <head> 에 넣으므로(explorer.html
 // 자체를 report/blog 에서 직접 열면 미주입) 항상 존재 확인 후 호출. 쿼리 원문·개인정보는 절대 전송하지 않는다.
 function track(name,params){if(typeof gtag==='function')gtag('event',name,params);}
@@ -215,11 +232,9 @@ function applyPreset(){
   const qs=location.search.slice(1);
   if(qs) track('explorer_preset',{gu:gu||'',band:band||'',seg:S.seg.size?seg:'',has_search:!!q});
 }
-// 단지 개별 페이지 링크 클릭(2026-09-06 P0) — 표 자체엔 아직 그런 링크가 없을 수 있어(다른 워커 작업
-// 병행) tbody 위임으로 걸어둔다: 나중에 어떤 셀이 /complex/*.html 링크를 내더라도 자동으로 잡힌다.
-// 네이버 매물 링크(m.land.naver.com/complex/info/…)는 .html 로 끝나지 않아 이 셀렉터에 안 걸린다.
+// 정적 사이트에서 작성된 실거래 상세 링크의 클릭만 집계한다.
 document.getElementById("tbody").addEventListener("click",e=>{
-  const a=e.target.closest('a[href*="/complex/"][href$=".html"]');
+  const a=e.target.closest('a.detail-link');
   if(!a) return;
   const slug=decodeURIComponent(a.getAttribute("href").split("/").pop().replace(/\.html$/,""));
   track('complex_click',{slug});
@@ -237,14 +252,24 @@ function copyStateLink(btn){
   if(navigator.clipboard&&navigator.clipboard.writeText) navigator.clipboard.writeText(url).then(done).catch(()=>{});
 }
 
-fetch("./dataset.json").then(r=>r.json()).then(d=>{DB=d;applyPreset();init();render();});
+fetch("./dataset.json").then(r=>r.json()).then(d=>{
+  DB=d;
+  applyPreset();
+  if(matchMedia("(max-width:760px)").matches && (S.gu.size||S.area.size||S.seg.size||S.q)){
+    document.getElementById("filter-panel").open=false;
+  }
+  init();
+  render();
+});
 
 function init(){
   document.getElementById("disc").innerHTML="⚖ "+esc(DB.disclaimer)+" · 데이터 "+DB.data_asof+" · "+DB.license;
   const cx=DB.complexes, F=document.getElementById("filters");
   const mk=(title,key,vals)=>`<h3>${title}</h3>`+vals.map(v=>`<span class=chip data-k="${key}" data-v="${esc(v)}">${esc(v)}</span>`).join("");
   F.innerHTML=
-     `<h3>단지명 검색</h3><input type=search id=q placeholder="예: 목동, 래미안…">`
+     `<h3>공공 실거래 중위 (억 원)</h3><div>최소 <input type=number id=emin min=0 step=any aria-label="최소 실거래 중위 (억 원)"> ~ 최대 <input type=number id=emax min=0 step=any aria-label="최대 실거래 중위 (억 원)"></div>`
+    +`<p class=muted style="margin-top:4px;font-size:12px">입력 시 거래 없는 단지(—)는 제외됩니다.</p>`
+    +`<h3>단지명 검색</h3><input type=search id=q aria-label="단지명 검색" placeholder="예: 목동, 래미안…">`
     +mk("자치구","gu",uniq(cx.map(x=>x.gu)).sort())
     +mk("평형","area",["~59㎡","60-84㎡","85-114㎡","115㎡+"].filter(b=>cx.some(x=>x.area_band===b)))
     +mk("연식","decade",uniq(cx.map(x=>x.decade)).sort())
@@ -254,8 +279,6 @@ function init(){
     +`<h3>세대수 최소</h3><div>`
     +["200+","500+","1000+","2000+"].map(v=>`<span class=chip data-k="units_min" data-v="${v}">${v}</span>`).join("")
     +`</div>`
-    +`<h3>공공 실거래(억)</h3><div>최소 <input type=number id=emin min=0 step=1> ~ 최대 <input type=number id=emax min=0 step=1></div>`
-    +`<p class=muted style="margin-top:4px;font-size:12px">입력 시 거래 없는 단지(—)는 제외됩니다.</p>`
     +`<h3>평단가(만원/평)</h3><div>최소 <input type=number id=ppmin min=0 step=100> ~ 최대 <input type=number id=ppmax min=0 step=100></div>`
     +`<p class=muted style="margin-top:4px;font-size:12px">입력 시 실거래 없는 단지는 제외됩니다.</p>`;
   F.querySelectorAll(".chip[data-k='units_min']").forEach(c=>c.onclick=()=>{
@@ -330,8 +353,12 @@ function render(){
     if(typeof va==="number")return (va-vb)*S.dir;
     return String(va).localeCompare(String(vb),"ko")*S.dir;
   });
-  document.getElementById("count").textContent=cx.length.toLocaleString()+"개 매물";
-  document.getElementById("countsub").textContent="("+DB.count.toLocaleString()+"개 중) · 단지×평형 단위";
+  const conditions=[...S.gu,...S.area,...S.seg,...S.decade,...S.ptype];
+  if(S.emin!=null) conditions.push(`실거래 중위 ${S.emin}억 이상`);
+  if(S.emax!=null) conditions.push(`실거래 중위 ${S.emax}억 이하`);
+  document.getElementById("active-conditions").textContent=conditions.join(" · ");
+  document.getElementById("count").textContent="조건에 맞는 단지·평형 "+cx.length.toLocaleString()+"건";
+  document.getElementById("countsub").textContent="(전체 "+DB.count.toLocaleString()+"건)";
   document.querySelectorAll("[data-ar]").forEach(s=>s.textContent="");
   const ar=document.querySelector(`[data-ar="${S.sort}"]`); if(ar)ar.textContent=S.dir<0?"▼":"▲";
   document.getElementById("tbody").innerHTML=cx.slice(0,600).map(r=>"<tr>"+COLS.map(c=>
